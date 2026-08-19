@@ -1,236 +1,151 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1910730" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",20/08 02:00 AM | US (Paramount 012) Celtic vs. LASK ( :15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9BD76E21BA826730BAD1BC8E75346265
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910730&extension=ts&play_token=Rpa21I8smC
-#EXTINF:-1 tvg-id="1910705" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",20/08 02:00 AM | US (Paramount 037) LASK vs. Celtic ( :00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9BD76E21BA826730BAD1BC8E75346265
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910705&extension=ts&play_token=McV4ZPgnGz
-#EXTINF:-1 tvg-id="1910730" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",20/08 02:00 AM | US (Paramount 012) Celtic vs. LASK ( :15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 562B55E936007BAE06CF6287AFC2ACED
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910730&extension=ts&play_token=2vaCywiiEK
+#EXTVLCOPT:http-header=Authorization: Bearer 8658774B9C0D8311F26DFC5F8D24B0E6
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910730&extension=ts&play_token=6swbZy50H2
 #EXTINF:-1 tvg-id="1910705" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",20/08 02:00 AM | US (Paramount 037) LASK vs. Celtic ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 562B55E936007BAE06CF6287AFC2ACED
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910705&extension=ts&play_token=7hVBvixTjh
+#EXTVLCOPT:http-header=Authorization: Bearer 8658774B9C0D8311F26DFC5F8D24B0E6
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910705&extension=ts&play_token=lUBKkRbK3X
 #EXTINF:-1 tvg-id="1910730" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",20/08 02:00 AM | US (Paramount 012) Celtic vs. LASK ( :15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AD904BA7728F72293D9BF2F829EB40D1
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910730&extension=ts&play_token=8A97zVHtpY
+#EXTVLCOPT:http-header=Authorization: Bearer 9945379385C2D72F2786820C70A9F2AE
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910730&extension=ts&play_token=iSgpoUlTxY
 #EXTINF:-1 tvg-id="1910705" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",20/08 02:00 AM | US (Paramount 037) LASK vs. Celtic ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AD904BA7728F72293D9BF2F829EB40D1
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910705&extension=ts&play_token=4HdP4hNr9Q
-#EXTINF:-1 tvg-id="1939909" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/08 02:00 AM | Celtic vs. LASK all | 8K CA: SOCCER 47
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B27BBD701D16BB6804B1850229ED1489
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939909&extension=ts&play_token=DRKSpnMB4C
-#EXTINF:-1 tvg-id="1919045" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/08 02:00 AM | End Celtic vs. LASK all | 8K BR: SOCCER 39
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B27BBD701D16BB6804B1850229ED1489
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919045&extension=ts&play_token=z5aqZA1UKZ
-#EXTINF:-1 tvg-id="1918828" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/08 02:00 AM | Celtic vs. LASK all | 8K DE: SOCCER 49
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B27BBD701D16BB6804B1850229ED1489
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918828&extension=ts&play_token=Gcz6jvfPxC
-#EXTINF:-1 tvg-id="1881204" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",20/08 02:00 AM | Celtic LASK Play-offs (Hinspiel) | 8K DE: DAZN 32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B27BBD701D16BB6804B1850229ED1489
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1881204&extension=ts&play_token=jdNipusjJE
-#EXTINF:-1 tvg-id="1810035" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",20/08 02:00 AM | CELTIC LASK (SE) 8K SE: VIAPLAY 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B27BBD701D16BB6804B1850229ED1489
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1810035&extension=ts&play_token=1adA559hL2
-#EXTINF:-1 tvg-id="1863202" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",20/08 02:00 AM | CELTIC LASK (DK) 8K DK: VIAPLAY 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B27BBD701D16BB6804B1850229ED1489
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1863202&extension=ts&play_token=gHivEDtF5e
-#EXTINF:-1 tvg-id="2062284" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/08 02:00 AM | Celtic vs. LASK all | 8K CA: SOCCER 47
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9BD76E21BA826730BAD1BC8E75346265
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062284&extension=ts&play_token=YcFyXCdulM
-#EXTINF:-1 tvg-id="2066918" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/08 02:00 AM | End Celtic vs. LASK all | 8K BR: SOCCER 39
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9BD76E21BA826730BAD1BC8E75346265
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2066918&extension=ts&play_token=2ofOAImnHM
-#EXTINF:-1 tvg-id="2040493" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",20/08 02:00 AM | Celtic LASK Play-offs (Hinspiel) | 8K DE: DAZN 32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9BD76E21BA826730BAD1BC8E75346265
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2040493&extension=ts&play_token=1DrwiJFRIk
-#EXTINF:-1 tvg-id="2055003" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/08 02:00 AM | Celtic vs. LASK all | 8K DE: SOCCER 49
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9BD76E21BA826730BAD1BC8E75346265
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2055003&extension=ts&play_token=lvgbo9OrVw
+#EXTVLCOPT:http-header=Authorization: Bearer 9945379385C2D72F2786820C70A9F2AE
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910705&extension=ts&play_token=gWu4PuY8Zz
 #EXTINF:-1 tvg-id="2062284" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/08 02:00 AM | Celtic vs. LASK all | 8K CA: SOCCER 47
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 562B55E936007BAE06CF6287AFC2ACED
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062284&extension=ts&play_token=sGZRsMrVPX
+#EXTVLCOPT:http-header=Authorization: Bearer 8658774B9C0D8311F26DFC5F8D24B0E6
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062284&extension=ts&play_token=JRvFTc1MwM
 #EXTINF:-1 tvg-id="2040493" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",20/08 02:00 AM | Celtic LASK Play-offs (Hinspiel) | 8K DE: DAZN 32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 562B55E936007BAE06CF6287AFC2ACED
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040493&extension=ts&play_token=hvDKKkBJTW
+#EXTVLCOPT:http-header=Authorization: Bearer 8658774B9C0D8311F26DFC5F8D24B0E6
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040493&extension=ts&play_token=tTXAdIh8tW
 #EXTINF:-1 tvg-id="2055003" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/08 02:00 AM | Celtic vs. LASK all | 8K DE: SOCCER 49
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 562B55E936007BAE06CF6287AFC2ACED
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2055003&extension=ts&play_token=cWZV3paOHd
+#EXTVLCOPT:http-header=Authorization: Bearer 8658774B9C0D8311F26DFC5F8D24B0E6
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2055003&extension=ts&play_token=CuRRUChCWi
 #EXTINF:-1 tvg-id="2040493" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",20/08 02:00 AM | Celtic LASK Play-offs (Hinspiel) | 8K DE: DAZN 32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AD904BA7728F72293D9BF2F829EB40D1
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040493&extension=ts&play_token=1aoCqpVPAt
+#EXTVLCOPT:http-header=Authorization: Bearer 9945379385C2D72F2786820C70A9F2AE
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040493&extension=ts&play_token=wRqO4eS6JT
 #EXTINF:-1 tvg-id="2055003" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/08 02:00 AM | Celtic vs. LASK all | 8K DE: SOCCER 49
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AD904BA7728F72293D9BF2F829EB40D1
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2055003&extension=ts&play_token=yTp3PEC58A
+#EXTVLCOPT:http-header=Authorization: Bearer 9945379385C2D72F2786820C70A9F2AE
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2055003&extension=ts&play_token=ZgKFzu3JMe
 #EXTINF:-1 tvg-id="2016267" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",20/08 02:00 AM | CELTIC LASK (SE) 8K SE: VIAPLAY 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AD904BA7728F72293D9BF2F829EB40D1
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2016267&extension=ts&play_token=arkT8cGAfe
+#EXTVLCOPT:http-header=Authorization: Bearer 9945379385C2D72F2786820C70A9F2AE
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2016267&extension=ts&play_token=fosuEU1oTc
 #EXTINF:-1 tvg-id="2037353" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",20/08 02:00 AM | CELTIC LASK (DK) 8K DK: VIAPLAY 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AD904BA7728F72293D9BF2F829EB40D1
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2037353&extension=ts&play_token=N1poX2bbrD
-#EXTINF:-1 tvg-id="1910733" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",20/08 02:00 AM | US (Paramount 009) Slovan Bratislava vs. Celje ( :00)
+#EXTVLCOPT:http-header=Authorization: Bearer 9945379385C2D72F2786820C70A9F2AE
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2037353&extension=ts&play_token=y5jrnmeMei
+#EXTINF:-1 tvg-id="2040493" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",20/08 02:00 AM | Celtic LASK Play-offs (Hinspiel) | 8K DE: DAZN 32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9BD76E21BA826730BAD1BC8E75346265
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910733&extension=ts&play_token=Okwwdm6GIh
-#EXTINF:-1 tvg-id="1910703" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",20/08 02:00 AM | US (Paramount 039) Celje vs. Slovan Bratislava ( :00)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B7386B72FFDE4AD325D2F82510B4FCE2
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040493&extension=ts&play_token=juD8P8HGjO
+#EXTINF:-1 tvg-id="2055003" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/08 02:00 AM | Celtic vs. LASK all | 8K DE: SOCCER 49
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9BD76E21BA826730BAD1BC8E75346265
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910703&extension=ts&play_token=0kpNzUPnSI
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B7386B72FFDE4AD325D2F82510B4FCE2
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055003&extension=ts&play_token=LpBsmEOQip
+#EXTINF:-1 tvg-id="2016267" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",20/08 02:00 AM | CELTIC LASK (SE) 8K SE: VIAPLAY 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B7386B72FFDE4AD325D2F82510B4FCE2
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016267&extension=ts&play_token=TkKi2npxMc
+#EXTINF:-1 tvg-id="2037353" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",20/08 02:00 AM | CELTIC LASK (DK) 8K DK: VIAPLAY 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B7386B72FFDE4AD325D2F82510B4FCE2
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037353&extension=ts&play_token=9KwT4Sdp7C
 #EXTINF:-1 tvg-id="1910733" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",20/08 02:00 AM | US (Paramount 009) Slovan Bratislava vs. Celje ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 562B55E936007BAE06CF6287AFC2ACED
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910733&extension=ts&play_token=giVJmWtiSa
+#EXTVLCOPT:http-header=Authorization: Bearer 8658774B9C0D8311F26DFC5F8D24B0E6
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910733&extension=ts&play_token=M5oK6ma0dj
 #EXTINF:-1 tvg-id="1910703" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",20/08 02:00 AM | US (Paramount 039) Celje vs. Slovan Bratislava ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 562B55E936007BAE06CF6287AFC2ACED
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910703&extension=ts&play_token=UbPEshdCYP
+#EXTVLCOPT:http-header=Authorization: Bearer 8658774B9C0D8311F26DFC5F8D24B0E6
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910703&extension=ts&play_token=a9NKWAJJlP
 #EXTINF:-1 tvg-id="1910733" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",20/08 02:00 AM | US (Paramount 009) Slovan Bratislava vs. Celje ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AD904BA7728F72293D9BF2F829EB40D1
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910733&extension=ts&play_token=wAdLWzDCOl
+#EXTVLCOPT:http-header=Authorization: Bearer 9945379385C2D72F2786820C70A9F2AE
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910733&extension=ts&play_token=Qp27Uy3aNQ
 #EXTINF:-1 tvg-id="1910703" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",20/08 02:00 AM | US (Paramount 039) Celje vs. Slovan Bratislava ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AD904BA7728F72293D9BF2F829EB40D1
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910703&extension=ts&play_token=HSbfzYnAWA
-#EXTINF:-1 tvg-id="1939908" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/08 02:00 AM | Slovan Bratislava vs. Celje all | 8K CA: SOCCER 48
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B27BBD701D16BB6804B1850229ED1489
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939908&extension=ts&play_token=nG4Wr1dlzQ
-#EXTINF:-1 tvg-id="1919044" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/08 02:00 AM | End Slovan Bratislava vs. Celje all | 8K BR: SOCCER 40
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B27BBD701D16BB6804B1850229ED1489
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919044&extension=ts&play_token=1yHIE83a47
-#EXTINF:-1 tvg-id="1918813" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/08 02:00 AM | Slovan Bratislava vs. Celje all | 8K DE: SOCCER 64
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B27BBD701D16BB6804B1850229ED1489
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918813&extension=ts&play_token=ONmZKPAF8F
-#EXTINF:-1 tvg-id="1881203" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",20/08 02:00 AM | Bratislava Celje Play-offs (Hinspiel) | 8K DE: DAZN 33
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B27BBD701D16BB6804B1850229ED1489
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1881203&extension=ts&play_token=1t9FUFYwd7
-#EXTINF:-1 tvg-id="1810033" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",20/08 02:00 AM | SLOVAN BRATISLAVA CELJE (SE) 8K SE: VIAPLAY 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B27BBD701D16BB6804B1850229ED1489
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1810033&extension=ts&play_token=0OvhgKGIHg
-#EXTINF:-1 tvg-id="1863203" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",20/08 02:00 AM | SLOVAN BRATISLAVA CELJE (DK) 8K DK: VIAPLAY 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B27BBD701D16BB6804B1850229ED1489
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1863203&extension=ts&play_token=U4K6e2i2o2
-#EXTINF:-1 tvg-id="1008819" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",20/08 02:00 AM | CHAMPIONS LEAGUE SLOVAN BRATISLAVA CELJE (IS) 8K IS: VIAPLAY 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B27BBD701D16BB6804B1850229ED1489
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1008819&extension=ts&play_token=RV7yOLKihD
-#EXTINF:-1 tvg-id="2062283" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/08 02:00 AM | Slovan Bratislava vs. Celje all | 8K CA: SOCCER 48
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9BD76E21BA826730BAD1BC8E75346265
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062283&extension=ts&play_token=091k681Uwl
-#EXTINF:-1 tvg-id="2066917" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/08 02:00 AM | End Slovan Bratislava vs. Celje all | 8K BR: SOCCER 40
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9BD76E21BA826730BAD1BC8E75346265
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2066917&extension=ts&play_token=gLrejfxWYs
-#EXTINF:-1 tvg-id="2040492" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",20/08 02:00 AM | Bratislava Celje Play-offs (Hinspiel) | 8K DE: DAZN 33
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9BD76E21BA826730BAD1BC8E75346265
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2040492&extension=ts&play_token=mldqtkkKYW
-#EXTINF:-1 tvg-id="2054988" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/08 02:00 AM | Slovan Bratislava vs. Celje all | 8K DE: SOCCER 64
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9BD76E21BA826730BAD1BC8E75346265
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2054988&extension=ts&play_token=dKCXXuB8xx
+#EXTVLCOPT:http-header=Authorization: Bearer 9945379385C2D72F2786820C70A9F2AE
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910703&extension=ts&play_token=moWHWg3Qnt
 #EXTINF:-1 tvg-id="2062283" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/08 02:00 AM | Slovan Bratislava vs. Celje all | 8K CA: SOCCER 48
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 562B55E936007BAE06CF6287AFC2ACED
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062283&extension=ts&play_token=WoGIpx080q
+#EXTVLCOPT:http-header=Authorization: Bearer 8658774B9C0D8311F26DFC5F8D24B0E6
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062283&extension=ts&play_token=DQMe0yvhGO
 #EXTINF:-1 tvg-id="2040492" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",20/08 02:00 AM | Bratislava Celje Play-offs (Hinspiel) | 8K DE: DAZN 33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 562B55E936007BAE06CF6287AFC2ACED
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040492&extension=ts&play_token=TUaf2V9NtQ
+#EXTVLCOPT:http-header=Authorization: Bearer 8658774B9C0D8311F26DFC5F8D24B0E6
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040492&extension=ts&play_token=GctzsUbzmw
 #EXTINF:-1 tvg-id="2054988" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/08 02:00 AM | Slovan Bratislava vs. Celje all | 8K DE: SOCCER 64
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 562B55E936007BAE06CF6287AFC2ACED
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2054988&extension=ts&play_token=B1UAbk2n43
+#EXTVLCOPT:http-header=Authorization: Bearer 8658774B9C0D8311F26DFC5F8D24B0E6
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2054988&extension=ts&play_token=XxIvpDoUA7
 #EXTINF:-1 tvg-id="2040492" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",20/08 02:00 AM | Bratislava Celje Play-offs (Hinspiel) | 8K DE: DAZN 33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AD904BA7728F72293D9BF2F829EB40D1
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040492&extension=ts&play_token=H4VSgRhw00
+#EXTVLCOPT:http-header=Authorization: Bearer 9945379385C2D72F2786820C70A9F2AE
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040492&extension=ts&play_token=7CkEYRJ67E
 #EXTINF:-1 tvg-id="2054988" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/08 02:00 AM | Slovan Bratislava vs. Celje all | 8K DE: SOCCER 64
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AD904BA7728F72293D9BF2F829EB40D1
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2054988&extension=ts&play_token=UGFw41k570
+#EXTVLCOPT:http-header=Authorization: Bearer 9945379385C2D72F2786820C70A9F2AE
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2054988&extension=ts&play_token=A6xods8o1M
 #EXTINF:-1 tvg-id="2016265" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",20/08 02:00 AM | SLOVAN BRATISLAVA CELJE (SE) 8K SE: VIAPLAY 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AD904BA7728F72293D9BF2F829EB40D1
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2016265&extension=ts&play_token=sjinNFYAZO
+#EXTVLCOPT:http-header=Authorization: Bearer 9945379385C2D72F2786820C70A9F2AE
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2016265&extension=ts&play_token=mzj0N2xDyj
 #EXTINF:-1 tvg-id="2037354" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",20/08 02:00 AM | SLOVAN BRATISLAVA CELJE (DK) 8K DK: VIAPLAY 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AD904BA7728F72293D9BF2F829EB40D1
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2037354&extension=ts&play_token=fhCvOhxCpN
+#EXTVLCOPT:http-header=Authorization: Bearer 9945379385C2D72F2786820C70A9F2AE
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2037354&extension=ts&play_token=uXhuO5PUU0
+#EXTINF:-1 tvg-id="2040492" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",20/08 02:00 AM | Bratislava Celje Play-offs (Hinspiel) | 8K DE: DAZN 33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B7386B72FFDE4AD325D2F82510B4FCE2
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040492&extension=ts&play_token=jmuaXLKmCE
+#EXTINF:-1 tvg-id="2054988" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/08 02:00 AM | Slovan Bratislava vs. Celje all | 8K DE: SOCCER 64
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B7386B72FFDE4AD325D2F82510B4FCE2
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054988&extension=ts&play_token=iWtwx7ArIH
+#EXTINF:-1 tvg-id="2016265" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",20/08 02:00 AM | SLOVAN BRATISLAVA CELJE (SE) 8K SE: VIAPLAY 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B7386B72FFDE4AD325D2F82510B4FCE2
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016265&extension=ts&play_token=pwjph39IZ5
+#EXTINF:-1 tvg-id="2037354" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",20/08 02:00 AM | SLOVAN BRATISLAVA CELJE (DK) 8K DK: VIAPLAY 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B7386B72FFDE4AD325D2F82510B4FCE2
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037354&extension=ts&play_token=hXMm5ngPpu

@@ -1,31 +1,51 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1924707" group-title="Live UEFA Europa League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",20/08 10:00 PM | FC KAIRAT ALMATY VS. ANDERLECHT (UEFA EUROPA LEAGUE) (US) 8K US: ESPN+ 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 69C42E847808C6DB668AF0D5998C3DB8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1924707&extension=ts&play_token=oJ2zrUlkzg
+#EXTINF:-1 tvg-id="2058115" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",20/08 10:00 PM | FC KAIRAT ALMATY VS. ANDERLECHT (UEFA EUROPA LEAGUE) (US) 8K US: ESPN+ 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0EC071F0AC33AE01D7DDE841EF88901A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2058115&extension=ts&play_token=zKROw7QC3Y
+#EXTINF:-1 tvg-id="2058115" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",20/08 10:00 PM | FC KAIRAT ALMATY VS. ANDERLECHT (UEFA EUROPA LEAGUE) (US) 8K US: ESPN+ 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C914D7D01A4A15130AAE8375C3F0FE38
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2058115&extension=ts&play_token=zByAjTYZpQ
+#EXTINF:-1 tvg-id="2058115" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",20/08 10:00 PM | FC KAIRAT ALMATY VS. ANDERLECHT (UEFA EUROPA LEAGUE) (US) 8K US: ESPN+ 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 42DC591F9731DFA7625C25871E0C7972
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2058115&extension=ts&play_token=7ZyDzOpv2n
 #EXTINF:-1 tvg-id="1910703" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",21/08 01:00 AM | US (Paramount 039) AEK Athens vs. Levski Sofia ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E2250609C1D3005D80CE046CC364BF81
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910703&extension=ts&play_token=QXE7GjVI5i
+#EXTVLCOPT:http-header=Authorization: Bearer 0EC071F0AC33AE01D7DDE841EF88901A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910703&extension=ts&play_token=mhUx20osjj
 #EXTINF:-1 tvg-id="1910703" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",21/08 01:00 AM | US (Paramount 039) AEK Athens vs. Levski Sofia ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7EF3A4BEAC20EBCD2C9243F0DFCA4129
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910703&extension=ts&play_token=oW58N95HiS
+#EXTVLCOPT:http-header=Authorization: Bearer C914D7D01A4A15130AAE8375C3F0FE38
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910703&extension=ts&play_token=Ae5thuBj2Y
+#EXTINF:-1 tvg-id="1910703" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",21/08 01:00 AM | US (Paramount 039) AEK Athens vs. Levski Sofia ( :05)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 42DC591F9731DFA7625C25871E0C7972
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910703&extension=ts&play_token=ItkzKoFVps
 #EXTINF:-1 tvg-id="1884172" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",21/08 01:00 AM | Górnik Zabrze vs. AS Monaco sur Ligue 1+ UEFA Conference League | 8K FR: DAZN 35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 347318B45DF3D4C202AAA6635B7E5D03
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1884172&extension=ts&play_token=E3jqamEVMt
-#EXTINF:-1 tvg-id="1884172" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",21/08 01:00 AM | Górnik Zabrze vs. AS Monaco sur Ligue 1+ UEFA Conference League | 8K FR: DAZN 35
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C276B0E31B78171DD6D929EE02134F60
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1884172&extension=ts&play_token=eizoZBV9An
+#EXTVLCOPT:http-header=Authorization: Bearer 69C42E847808C6DB668AF0D5998C3DB8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1884172&extension=ts&play_token=rA0Y8hnoOH
 #EXTINF:-1 tvg-id="2042011" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",21/08 01:00 AM | Górnik Zabrze vs. AS Monaco sur Ligue 1+ UEFA Conference League | 8K FR: DAZN 35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E2250609C1D3005D80CE046CC364BF81
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2042011&extension=ts&play_token=kapjcd5HKN
+#EXTVLCOPT:http-header=Authorization: Bearer 0EC071F0AC33AE01D7DDE841EF88901A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2042011&extension=ts&play_token=k5t2jDpC9n
 #EXTINF:-1 tvg-id="2042011" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",21/08 01:00 AM | Górnik Zabrze vs. AS Monaco sur Ligue 1+ UEFA Conference League | 8K FR: DAZN 35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7EF3A4BEAC20EBCD2C9243F0DFCA4129
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2042011&extension=ts&play_token=yFEHDflugT
+#EXTVLCOPT:http-header=Authorization: Bearer C914D7D01A4A15130AAE8375C3F0FE38
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2042011&extension=ts&play_token=l5xOABLMFI

@@ -1,371 +1,371 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1312059" group-title="Live UEFA Conference League-Match" tvg-logo="https://go4.pw/EUROPE/uefaa.png",21/08 12:00 AM | UEFA 01 TROMSØ @ BRIGHTON – /
+#EXTINF:-1 tvg-id="1363054" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363054.png",21/08 12:00 AM | UEFA 01 Tromsø vs Brighton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8F089177C504C95D1695071315FDFBD3
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1312059
-#EXTINF:-1 tvg-id="1307003" group-title="Live UEFA Conference League-Match" tvg-logo="https://go4.pw/EUROPE/uefaa.png",21/08 12:00 AM | US UEFA 01 TROMSØ @ BRIGHTON – /
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6053EEECCA5BC2CF18BFF5C24CD9E40A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1363054&extension=ts&play_token=V3dLIeuFWO
+#EXTINF:-1 tvg-id="1363997" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363997.png",21/08 12:00 AM | UEFA 01 Tromsø vs Brighton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8F089177C504C95D1695071315FDFBD3
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1307003
-#EXTINF:-1 tvg-id="993059" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",21/08 12:00 AM | UEFA 01 Tromsø vs Brighton
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0BA14F6F6F19CA17F37C50B197529E4D
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=993059&extension=ts&play_token=enpWtilX4T
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6053EEECCA5BC2CF18BFF5C24CD9E40A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1363997&extension=ts&play_token=GGj8uSlRIx
 #EXTINF:-1 tvg-id="1363054" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363054.png",21/08 12:00 AM | UEFA 01 Tromsø vs Brighton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363054&extension=ts&play_token=EBY1xeHdq2
+#EXTVLCOPT:http-header=Authorization: Bearer 248813C8FEF182BAEF5C573149C4B1AA
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363054&extension=ts&play_token=YPr8A2fHaj
 #EXTINF:-1 tvg-id="1363997" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363997.png",21/08 12:00 AM | UEFA 01 Tromsø vs Brighton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363997&extension=ts&play_token=U4a5GD8xpU
+#EXTVLCOPT:http-header=Authorization: Bearer 248813C8FEF182BAEF5C573149C4B1AA
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363997&extension=ts&play_token=Q0kl1boof5
 #EXTINF:-1 tvg-id="1363054" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363054.png",21/08 12:00 AM | UEFA 01 Tromsø vs Brighton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CCAC6578C87522A3EFC7D87B9EAD466C
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363054&extension=ts&play_token=s2Alob4YUn
+#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363054&extension=ts&play_token=GmUPsq8dlt
 #EXTINF:-1 tvg-id="1363997" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363997.png",21/08 12:00 AM | UEFA 01 Tromsø vs Brighton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CCAC6578C87522A3EFC7D87B9EAD466C
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363997&extension=ts&play_token=SnecM5KQ1f
-#EXTINF:-1 tvg-id="1025280" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",21/08 12:00 AM | UEFA 01 Tromsø vs Brighton
+#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363997&extension=ts&play_token=YmTZtep3NZ
+#EXTINF:-1 tvg-id="1363054" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363054.png",21/08 12:00 AM | UEFA 01 Tromsø vs Brighton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0BA14F6F6F19CA17F37C50B197529E4D
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1025280&extension=ts&play_token=ySN9cQ1iXh
-#EXTINF:-1 tvg-id="1128629" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",21/08 12:00 AM | LIVE TROMSØ BRIGHTON (NO) 8K NO: VGTV 3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D62A9B9D68ED756F847714B7350C03FD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1363054&extension=ts&play_token=nBcOgNFlGJ
+#EXTINF:-1 tvg-id="1363997" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363997.png",21/08 12:00 AM | UEFA 01 Tromsø vs Brighton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0BA14F6F6F19CA17F37C50B197529E4D
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1128629&extension=ts&play_token=mJTrP980Yv
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D62A9B9D68ED756F847714B7350C03FD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1363997&extension=ts&play_token=onBihzIN0Z
 #EXTINF:-1 tvg-id="1675568" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",21/08 12:00 AM | LIVE TROMSØ BRIGHTON (NO) 8K NO: VGTV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1675568&extension=ts&play_token=vtiOs1oUDH
+#EXTVLCOPT:http-header=Authorization: Bearer 248813C8FEF182BAEF5C573149C4B1AA
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1675568&extension=ts&play_token=ETw30rBNYx
 #EXTINF:-1 tvg-id="1675568" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",21/08 12:00 AM | LIVE TROMSØ BRIGHTON (NO) 8K NO: VGTV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CCAC6578C87522A3EFC7D87B9EAD466C
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1675568&extension=ts&play_token=Lwh1k9Ud8r
+#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1675568&extension=ts&play_token=55eDpZwDAS
+#EXTINF:-1 tvg-id="1675568" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",21/08 12:00 AM | LIVE TROMSØ BRIGHTON (NO) 8K NO: VGTV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D62A9B9D68ED756F847714B7350C03FD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1675568&extension=ts&play_token=kpzTA11WMq
+#EXTINF:-1 tvg-id="1349314" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 12:00 AM | UEFA 01 Tromsø vs Brighton
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6053EEECCA5BC2CF18BFF5C24CD9E40A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1349314&extension=ts&play_token=UVa8UF6yNc
+#EXTINF:-1 tvg-id="1363945" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 12:00 AM | UEFA 01 Tromsø vs Brighton
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6053EEECCA5BC2CF18BFF5C24CD9E40A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1363945&extension=ts&play_token=6fCTPAttZD
 #EXTINF:-1 tvg-id="1349314" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 12:00 AM | UEFA 01 Tromsø vs Brighton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1349314&extension=ts&play_token=WKwaAuNnIj
+#EXTVLCOPT:http-header=Authorization: Bearer 248813C8FEF182BAEF5C573149C4B1AA
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1349314&extension=ts&play_token=d4PwO4rTh7
 #EXTINF:-1 tvg-id="1363945" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 12:00 AM | UEFA 01 Tromsø vs Brighton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363945&extension=ts&play_token=lNSH62Mqm1
+#EXTVLCOPT:http-header=Authorization: Bearer 248813C8FEF182BAEF5C573149C4B1AA
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363945&extension=ts&play_token=GxRY2e08qO
 #EXTINF:-1 tvg-id="1349314" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 12:00 AM | UEFA 01 Tromsø vs Brighton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CCAC6578C87522A3EFC7D87B9EAD466C
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1349314&extension=ts&play_token=APB8ar5ip2
+#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1349314&extension=ts&play_token=7e8xUrGxbS
 #EXTINF:-1 tvg-id="1363945" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 12:00 AM | UEFA 01 Tromsø vs Brighton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CCAC6578C87522A3EFC7D87B9EAD466C
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363945&extension=ts&play_token=v6eOh0bx8u
-#EXTINF:-1 tvg-id="234304" group-title="Live UEFA Conference League-Match" tvg-logo="https://go4.pw/USA/ES+.png",21/08 12:45 AM | US ESPN PLUS 28 SOCCER – PAOK FC @ SK BRANN – /
+#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363945&extension=ts&play_token=CHqIz699gQ
+#EXTINF:-1 tvg-id="1949884" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",21/08 12:45 AM | US (ESPN+ 028) Soccer: Paok FC vs. SK Brann ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8F089177C504C95D1695071315FDFBD3
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/234304
-#EXTINF:-1 tvg-id="1601691" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",21/08 12:45 AM | US (ESPN+ 028) Soccer: Paok FC vs. SK Brann ( :00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0BA14F6F6F19CA17F37C50B197529E4D
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1601691&extension=ts&play_token=HdBHwcWge7
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6053EEECCA5BC2CF18BFF5C24CD9E40A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1949884&extension=ts&play_token=8Q5qK54nkK
 #EXTINF:-1 tvg-id="1949884" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",21/08 12:45 AM | US (ESPN+ 028) Soccer: Paok FC vs. SK Brann ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949884&extension=ts&play_token=bAGDQONCNC
+#EXTVLCOPT:http-header=Authorization: Bearer 248813C8FEF182BAEF5C573149C4B1AA
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949884&extension=ts&play_token=M3i2gZba4u
 #EXTINF:-1 tvg-id="1949884" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",21/08 12:45 AM | US (ESPN+ 028) Soccer: Paok FC vs. SK Brann ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CCAC6578C87522A3EFC7D87B9EAD466C
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1949884&extension=ts&play_token=Mlec0MgI91
+#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1949884&extension=ts&play_token=5n4T9swIFT
+#EXTINF:-1 tvg-id="1910706" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",21/08 01:00 AM | US (Paramount 036) AEK Athens vs. Levski Sofia ( :10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6053EEECCA5BC2CF18BFF5C24CD9E40A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910706&extension=ts&play_token=viGQIy5kxk
 #EXTINF:-1 tvg-id="1910706" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",21/08 01:00 AM | US (Paramount 036) AEK Athens vs. Levski Sofia ( :10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910706&extension=ts&play_token=SLcL3xVxPX
+#EXTVLCOPT:http-header=Authorization: Bearer 248813C8FEF182BAEF5C573149C4B1AA
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910706&extension=ts&play_token=zHOj4NzRo0
 #EXTINF:-1 tvg-id="1910706" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",21/08 01:00 AM | US (Paramount 036) AEK Athens vs. Levski Sofia ( :10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CCAC6578C87522A3EFC7D87B9EAD466C
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910706&extension=ts&play_token=7KNrpNrERl
-#EXTINF:-1 tvg-id="1884192" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",21/08 01:00 AM | Górnik Zabrze vs. AS Monaco sur Ligue 1+ UEFA Conference League | 8K FR: DAZN 15
+#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910706&extension=ts&play_token=NBvS1salJz
+#EXTINF:-1 tvg-id="1363055" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363055.png",21/08 01:30 AM | UEFA 02 Gent vs Hibernian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0BA14F6F6F19CA17F37C50B197529E4D
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1884192&extension=ts&play_token=KaOqaqL23X
-#EXTINF:-1 tvg-id="2042031" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",21/08 01:00 AM | Górnik Zabrze vs. AS Monaco sur Ligue 1+ UEFA Conference League | 8K FR: DAZN 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2042031&extension=ts&play_token=8TUSUwdxjq
-#EXTINF:-1 tvg-id="1312058" group-title="Live UEFA Conference League-Match" tvg-logo="https://go4.pw/EUROPE/uefaa.png",21/08 01:30 AM | UEFA 02 GENT @ HIBERNIAN – /
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8F089177C504C95D1695071315FDFBD3
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1312058
-#EXTINF:-1 tvg-id="1307002" group-title="Live UEFA Conference League-Match" tvg-logo="https://go4.pw/EUROPE/uefaa.png",21/08 01:30 AM | US UEFA 02 GENT @ HIBERNIAN – /
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8F089177C504C95D1695071315FDFBD3
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1307002
-#EXTINF:-1 tvg-id="993058" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",21/08 01:30 AM | UEFA 02 Gent vs Hibernian
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0BA14F6F6F19CA17F37C50B197529E4D
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=993058&extension=ts&play_token=2CMS772Xht
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6053EEECCA5BC2CF18BFF5C24CD9E40A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1363055&extension=ts&play_token=xlIsebwXtL
 #EXTINF:-1 tvg-id="1363055" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363055.png",21/08 01:30 AM | UEFA 02 Gent vs Hibernian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363055&extension=ts&play_token=j7lXMvP5RD
+#EXTVLCOPT:http-header=Authorization: Bearer 248813C8FEF182BAEF5C573149C4B1AA
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363055&extension=ts&play_token=rGRaScrRFY
 #EXTINF:-1 tvg-id="1363055" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363055.png",21/08 01:30 AM | UEFA 02 Gent vs Hibernian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CCAC6578C87522A3EFC7D87B9EAD466C
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363055&extension=ts&play_token=r0u2XLUg1G
-#EXTINF:-1 tvg-id="1025279" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",21/08 01:30 AM | UEFA 02 Gent vs Hibernian
+#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363055&extension=ts&play_token=g4JkTYCxCV
+#EXTINF:-1 tvg-id="1363055" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363055.png",21/08 01:30 AM | UEFA 02 Gent vs Hibernian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0BA14F6F6F19CA17F37C50B197529E4D
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1025279&extension=ts&play_token=gD2YTIsTEP
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D62A9B9D68ED756F847714B7350C03FD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1363055&extension=ts&play_token=hS0CFO9U7Z
+#EXTINF:-1 tvg-id="1349313" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 01:30 AM | UEFA 02 Gent vs Hibernian
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6053EEECCA5BC2CF18BFF5C24CD9E40A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1349313&extension=ts&play_token=qnWpcARCsF
+#EXTINF:-1 tvg-id="1363944" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 01:30 AM | UEFA 02 Gent vs Hibernian
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6053EEECCA5BC2CF18BFF5C24CD9E40A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1363944&extension=ts&play_token=m0kZxv8tdW
 #EXTINF:-1 tvg-id="1349313" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 01:30 AM | UEFA 02 Gent vs Hibernian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1349313&extension=ts&play_token=wQLn9uLirT
+#EXTVLCOPT:http-header=Authorization: Bearer 248813C8FEF182BAEF5C573149C4B1AA
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1349313&extension=ts&play_token=ip7Hl9XHWb
 #EXTINF:-1 tvg-id="1363944" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 01:30 AM | UEFA 02 Gent vs Hibernian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363944&extension=ts&play_token=Em06CLVcF8
+#EXTVLCOPT:http-header=Authorization: Bearer 248813C8FEF182BAEF5C573149C4B1AA
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363944&extension=ts&play_token=pnZA3TgCPh
 #EXTINF:-1 tvg-id="1349313" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 01:30 AM | UEFA 02 Gent vs Hibernian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CCAC6578C87522A3EFC7D87B9EAD466C
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1349313&extension=ts&play_token=V0JUewRl0b
+#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1349313&extension=ts&play_token=bTN0FFFJi8
 #EXTINF:-1 tvg-id="1363944" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 01:30 AM | UEFA 02 Gent vs Hibernian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CCAC6578C87522A3EFC7D87B9EAD466C
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363944&extension=ts&play_token=lYBDx77KiA
-#EXTINF:-1 tvg-id="1312057" group-title="Live UEFA Conference League-Match" tvg-logo="https://go4.pw/EUROPE/uefaa.png",21/08 01:30 AM | UEFA 03 MOTHERWELL @ FREIBURG – /
+#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363944&extension=ts&play_token=qusE6db5zS
+#EXTINF:-1 tvg-id="1949879" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",21/08 01:30 AM | US (ESPN+ 033) Soccer: Motherwell vs. Freiburg ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8F089177C504C95D1695071315FDFBD3
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1312057
-#EXTINF:-1 tvg-id="1307001" group-title="Live UEFA Conference League-Match" tvg-logo="https://go4.pw/EUROPE/uefaa.png",21/08 01:30 AM | US UEFA 03 MOTHERWELL @ FREIBURG – /
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8F089177C504C95D1695071315FDFBD3
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1307001
-#EXTINF:-1 tvg-id="234309" group-title="Live UEFA Conference League-Match" tvg-logo="https://go4.pw/USA/ES+.png",21/08 01:30 AM | US ESPN PLUS 33 SOCCER – MOTHERWELL @ FREIBURG – /
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8F089177C504C95D1695071315FDFBD3
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/234309
-#EXTINF:-1 tvg-id="1601686" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",21/08 01:30 AM | US (ESPN+ 033) Soccer: Motherwell vs. Freiburg ( :00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0BA14F6F6F19CA17F37C50B197529E4D
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1601686&extension=ts&play_token=4ddVW6qJfz
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6053EEECCA5BC2CF18BFF5C24CD9E40A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1949879&extension=ts&play_token=dj5EMBtga7
 #EXTINF:-1 tvg-id="1949879" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",21/08 01:30 AM | US (ESPN+ 033) Soccer: Motherwell vs. Freiburg ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949879&extension=ts&play_token=IhRayw1LBi
+#EXTVLCOPT:http-header=Authorization: Bearer 248813C8FEF182BAEF5C573149C4B1AA
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949879&extension=ts&play_token=JbuymnvHWq
 #EXTINF:-1 tvg-id="1949879" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",21/08 01:30 AM | US (ESPN+ 033) Soccer: Motherwell vs. Freiburg ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CCAC6578C87522A3EFC7D87B9EAD466C
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1949879&extension=ts&play_token=5T9q9VjHPQ
-#EXTINF:-1 tvg-id="993057" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",21/08 01:30 AM | UEFA 03 Motherwell vs Freiburg
+#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1949879&extension=ts&play_token=CiAqCZtnLz
+#EXTINF:-1 tvg-id="1363056" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363056.png",21/08 01:30 AM | UEFA 03 Motherwell vs Freiburg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0BA14F6F6F19CA17F37C50B197529E4D
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=993057&extension=ts&play_token=FuZghT7TC8
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6053EEECCA5BC2CF18BFF5C24CD9E40A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1363056&extension=ts&play_token=Jnea3YMKIB
 #EXTINF:-1 tvg-id="1363056" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363056.png",21/08 01:30 AM | UEFA 03 Motherwell vs Freiburg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363056&extension=ts&play_token=ufTgAaMgux
+#EXTVLCOPT:http-header=Authorization: Bearer 248813C8FEF182BAEF5C573149C4B1AA
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363056&extension=ts&play_token=yRaF1GtlK0
 #EXTINF:-1 tvg-id="1363056" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363056.png",21/08 01:30 AM | UEFA 03 Motherwell vs Freiburg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CCAC6578C87522A3EFC7D87B9EAD466C
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363056&extension=ts&play_token=SwFMwmByqF
-#EXTINF:-1 tvg-id="1025278" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",21/08 01:30 AM | UEFA 03 Motherwell vs Freiburg
+#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363056&extension=ts&play_token=uKhyt8gVoX
+#EXTINF:-1 tvg-id="1363056" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363056.png",21/08 01:30 AM | UEFA 03 Motherwell vs Freiburg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0BA14F6F6F19CA17F37C50B197529E4D
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1025278&extension=ts&play_token=qSD1pcdpMJ
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D62A9B9D68ED756F847714B7350C03FD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1363056&extension=ts&play_token=rTCrYQ0U6o
+#EXTINF:-1 tvg-id="1349312" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 01:30 AM | UEFA 03 Motherwell vs Freiburg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6053EEECCA5BC2CF18BFF5C24CD9E40A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1349312&extension=ts&play_token=QtSeoovD4y
+#EXTINF:-1 tvg-id="1363943" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 01:30 AM | UEFA 03 Motherwell vs Freiburg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6053EEECCA5BC2CF18BFF5C24CD9E40A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1363943&extension=ts&play_token=5QXxJUj1bo
 #EXTINF:-1 tvg-id="1349312" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 01:30 AM | UEFA 03 Motherwell vs Freiburg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1349312&extension=ts&play_token=BFHgd9bTBQ
+#EXTVLCOPT:http-header=Authorization: Bearer 248813C8FEF182BAEF5C573149C4B1AA
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1349312&extension=ts&play_token=kD1quYYqZx
 #EXTINF:-1 tvg-id="1363943" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 01:30 AM | UEFA 03 Motherwell vs Freiburg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363943&extension=ts&play_token=v1dIQnC1Jr
+#EXTVLCOPT:http-header=Authorization: Bearer 248813C8FEF182BAEF5C573149C4B1AA
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363943&extension=ts&play_token=SgrW38sC4P
 #EXTINF:-1 tvg-id="1349312" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 01:30 AM | UEFA 03 Motherwell vs Freiburg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CCAC6578C87522A3EFC7D87B9EAD466C
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1349312&extension=ts&play_token=OOJOXPVmNr
+#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1349312&extension=ts&play_token=eWjCEle7HZ
 #EXTINF:-1 tvg-id="1363943" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 01:30 AM | UEFA 03 Motherwell vs Freiburg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CCAC6578C87522A3EFC7D87B9EAD466C
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363943&extension=ts&play_token=YyfU2iq1vt
-#EXTINF:-1 tvg-id="234310" group-title="Live UEFA Conference League-Match" tvg-logo="https://go4.pw/USA/ES+.png",21/08 01:45 AM | US ESPN PLUS 34 SOCCER – HEARTS @ SK RAPID WIEN – /
+#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363943&extension=ts&play_token=Uslvvljqcu
+#EXTINF:-1 tvg-id="1949878" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",21/08 01:45 AM | US (ESPN+ 034) Soccer: Hearts vs. SK Rapid Wien ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8F089177C504C95D1695071315FDFBD3
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/234310
-#EXTINF:-1 tvg-id="1601685" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",21/08 01:45 AM | US (ESPN+ 034) Soccer: Hearts vs. SK Rapid Wien ( :00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0BA14F6F6F19CA17F37C50B197529E4D
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1601685&extension=ts&play_token=6LQcikv97B
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6053EEECCA5BC2CF18BFF5C24CD9E40A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1949878&extension=ts&play_token=Ex4tB7h460
 #EXTINF:-1 tvg-id="1949878" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",21/08 01:45 AM | US (ESPN+ 034) Soccer: Hearts vs. SK Rapid Wien ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949878&extension=ts&play_token=o8u7ZfgjUt
+#EXTVLCOPT:http-header=Authorization: Bearer 248813C8FEF182BAEF5C573149C4B1AA
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949878&extension=ts&play_token=f8kuMsndI7
 #EXTINF:-1 tvg-id="1949878" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",21/08 01:45 AM | US (ESPN+ 034) Soccer: Hearts vs. SK Rapid Wien ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CCAC6578C87522A3EFC7D87B9EAD466C
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1949878&extension=ts&play_token=95s5CHImNR
-#EXTINF:-1 tvg-id="993055" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",21/08 01:45 AM | UEFA 05 hearts vs rapid wien
+#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1949878&extension=ts&play_token=LV3RfwZeDO
+#EXTINF:-1 tvg-id="1363993" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363993.png",21/08 01:45 AM | UEFA 05 hearts vs rapid wien
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0BA14F6F6F19CA17F37C50B197529E4D
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=993055&extension=ts&play_token=jHiH6uHgRK
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6053EEECCA5BC2CF18BFF5C24CD9E40A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1363993&extension=ts&play_token=nFpuzRg3Tw
+#EXTINF:-1 tvg-id="1363058" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363058.png",21/08 01:45 AM | UEFA 05 hearts vs rapid wien
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6053EEECCA5BC2CF18BFF5C24CD9E40A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1363058&extension=ts&play_token=gkN52PX9M2
 #EXTINF:-1 tvg-id="1363993" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363993.png",21/08 01:45 AM | UEFA 05 hearts vs rapid wien
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363993&extension=ts&play_token=Dgrad6ksP2
+#EXTVLCOPT:http-header=Authorization: Bearer 248813C8FEF182BAEF5C573149C4B1AA
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363993&extension=ts&play_token=HjZOi02mTU
 #EXTINF:-1 tvg-id="1363058" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363058.png",21/08 01:45 AM | UEFA 05 hearts vs rapid wien
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363058&extension=ts&play_token=EHxTBGGp0V
+#EXTVLCOPT:http-header=Authorization: Bearer 248813C8FEF182BAEF5C573149C4B1AA
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363058&extension=ts&play_token=b66uAUJ0fb
 #EXTINF:-1 tvg-id="1363993" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363993.png",21/08 01:45 AM | UEFA 05 hearts vs rapid wien
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CCAC6578C87522A3EFC7D87B9EAD466C
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363993&extension=ts&play_token=BHhoatNrfr
+#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363993&extension=ts&play_token=kVHU8JbRBC
 #EXTINF:-1 tvg-id="1363058" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363058.png",21/08 01:45 AM | UEFA 05 hearts vs rapid wien
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CCAC6578C87522A3EFC7D87B9EAD466C
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363058&extension=ts&play_token=DU0rGvz6a4
-#EXTINF:-1 tvg-id="1025276" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",21/08 01:45 AM | UEFA 05 hearts vs rapid wien
+#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363058&extension=ts&play_token=N53olGIbI9
+#EXTINF:-1 tvg-id="1363993" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363993.png",21/08 01:45 AM | UEFA 05 hearts vs rapid wien
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0BA14F6F6F19CA17F37C50B197529E4D
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1025276&extension=ts&play_token=F1T1bDshNE
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D62A9B9D68ED756F847714B7350C03FD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1363993&extension=ts&play_token=vFG5ewvoBR
+#EXTINF:-1 tvg-id="1363058" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363058.png",21/08 01:45 AM | UEFA 05 hearts vs rapid wien
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D62A9B9D68ED756F847714B7350C03FD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1363058&extension=ts&play_token=2ZX7LFbpVL
+#EXTINF:-1 tvg-id="1349310" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 01:45 AM | UEFA 05 hearts vs rapid wien
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6053EEECCA5BC2CF18BFF5C24CD9E40A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1349310&extension=ts&play_token=G7yWgyQB42
+#EXTINF:-1 tvg-id="1363941" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 01:45 AM | UEFA 05 hearts vs rapid wien
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6053EEECCA5BC2CF18BFF5C24CD9E40A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1363941&extension=ts&play_token=Pkc66CQfOk
 #EXTINF:-1 tvg-id="1349310" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 01:45 AM | UEFA 05 hearts vs rapid wien
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1349310&extension=ts&play_token=Q1pNYtRAla
+#EXTVLCOPT:http-header=Authorization: Bearer 248813C8FEF182BAEF5C573149C4B1AA
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1349310&extension=ts&play_token=DfpiMRMvMU
 #EXTINF:-1 tvg-id="1363941" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 01:45 AM | UEFA 05 hearts vs rapid wien
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363941&extension=ts&play_token=1iPhI6O9Fa
+#EXTVLCOPT:http-header=Authorization: Bearer 248813C8FEF182BAEF5C573149C4B1AA
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363941&extension=ts&play_token=c62ENv6H1j
 #EXTINF:-1 tvg-id="1349310" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 01:45 AM | UEFA 05 hearts vs rapid wien
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CCAC6578C87522A3EFC7D87B9EAD466C
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1349310&extension=ts&play_token=da0zV4danM
+#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1349310&extension=ts&play_token=t5eftZ9OEt
 #EXTINF:-1 tvg-id="1363941" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 01:45 AM | UEFA 05 hearts vs rapid wien
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CCAC6578C87522A3EFC7D87B9EAD466C
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363941&extension=ts&play_token=ezLvsSUwZ6
-#EXTINF:-1 tvg-id="1312056" group-title="Live UEFA Conference League-Match" tvg-logo="https://go4.pw/EUROPE/uefaa.png",21/08 02:00 AM | UEFA 04 SHAMROCK ROVERS @ KUPS – /
+#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363941&extension=ts&play_token=0OifoSGkd5
+#EXTINF:-1 tvg-id="1363057" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363057.png",21/08 02:00 AM | UEFA 04 Shamrock Rovers v KuPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8F089177C504C95D1695071315FDFBD3
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1312056
-#EXTINF:-1 tvg-id="1307000" group-title="Live UEFA Conference League-Match" tvg-logo="https://go4.pw/EUROPE/uefaa.png",21/08 02:00 AM | US UEFA 04 SHAMROCK ROVERS @ KUPS – /
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8F089177C504C95D1695071315FDFBD3
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1307000
-#EXTINF:-1 tvg-id="993056" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",21/08 02:00 AM | UEFA 04 Shamrock Rovers v KuPS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0BA14F6F6F19CA17F37C50B197529E4D
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=993056&extension=ts&play_token=iYf1SeRZSP
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6053EEECCA5BC2CF18BFF5C24CD9E40A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1363057&extension=ts&play_token=mrukCJFQwm
 #EXTINF:-1 tvg-id="1363057" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363057.png",21/08 02:00 AM | UEFA 04 Shamrock Rovers v KuPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363057&extension=ts&play_token=RXOKuR2YC2
+#EXTVLCOPT:http-header=Authorization: Bearer 248813C8FEF182BAEF5C573149C4B1AA
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363057&extension=ts&play_token=5UbdsBoi59
 #EXTINF:-1 tvg-id="1363057" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363057.png",21/08 02:00 AM | UEFA 04 Shamrock Rovers v KuPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CCAC6578C87522A3EFC7D87B9EAD466C
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363057&extension=ts&play_token=VdJ2tT7rpq
-#EXTINF:-1 tvg-id="1025277" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",21/08 02:00 AM | UEFA 04 Shamrock Rovers v KuPS
+#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363057&extension=ts&play_token=oiELkCWrIv
+#EXTINF:-1 tvg-id="1363057" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363057.png",21/08 02:00 AM | UEFA 04 Shamrock Rovers v KuPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0BA14F6F6F19CA17F37C50B197529E4D
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1025277&extension=ts&play_token=tKRpAwLhHk
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D62A9B9D68ED756F847714B7350C03FD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1363057&extension=ts&play_token=zaS71CsrHJ
+#EXTINF:-1 tvg-id="1349311" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 02:00 AM | UEFA 04 Shamrock Rovers v KuPS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6053EEECCA5BC2CF18BFF5C24CD9E40A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1349311&extension=ts&play_token=CR3I3bDvLj
+#EXTINF:-1 tvg-id="1363942" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 02:00 AM | UEFA 04 Shamrock Rovers v KuPS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6053EEECCA5BC2CF18BFF5C24CD9E40A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1363942&extension=ts&play_token=o07yGCj2Po
 #EXTINF:-1 tvg-id="1349311" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 02:00 AM | UEFA 04 Shamrock Rovers v KuPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1349311&extension=ts&play_token=vpBdJ2nbVY
+#EXTVLCOPT:http-header=Authorization: Bearer 248813C8FEF182BAEF5C573149C4B1AA
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1349311&extension=ts&play_token=QLp8gf2cNE
 #EXTINF:-1 tvg-id="1363942" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 02:00 AM | UEFA 04 Shamrock Rovers v KuPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FDAAA748FB3BCD1D169370846B14E409
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363942&extension=ts&play_token=t4NaViJ1wC
+#EXTVLCOPT:http-header=Authorization: Bearer 248813C8FEF182BAEF5C573149C4B1AA
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363942&extension=ts&play_token=XMCiW8QG4p
 #EXTINF:-1 tvg-id="1349311" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 02:00 AM | UEFA 04 Shamrock Rovers v KuPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CCAC6578C87522A3EFC7D87B9EAD466C
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1349311&extension=ts&play_token=3Svrdier9I
+#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1349311&extension=ts&play_token=C517oM0gz1
 #EXTINF:-1 tvg-id="1363942" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",21/08 02:00 AM | UEFA 04 Shamrock Rovers v KuPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CCAC6578C87522A3EFC7D87B9EAD466C
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363942&extension=ts&play_token=gDTXUWTPe8
-#EXTINF:-1 tvg-id="1535741" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14455.png?ver=90267",22/08 01:45 AM | (Fanatiz 019) Olympique Marseille vs Strasbourg ( :00)
+#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363942&extension=ts&play_token=bCsxiwM5rU
+#EXTINF:-1 tvg-id="1910171" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/fanatiz-premium.png",22/08 01:45 AM | (Fanatiz 019) Olympique Marseille vs Strasbourg ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0BA14F6F6F19CA17F37C50B197529E4D
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1535741&extension=ts&play_token=ZTo2J8rtuZ
-#EXTINF:-1 tvg-id="1022237" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="https://go4.pw/57.png",22/08 01:45 AM | FR OLYMPIQUE MARSEILLE VS STRASBOURG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8F089177C504C95D1695071315FDFBD3
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1022237
-#EXTINF:-1 tvg-id="1018321" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="https://go4.pw/57.png",22/08 01:45 AM | AR OLYMPIQUE MARSEILLE VS STRASBOURG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8F089177C504C95D1695071315FDFBD3
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1018321
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6053EEECCA5BC2CF18BFF5C24CD9E40A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910171&extension=ts&play_token=ErOwum9XW2

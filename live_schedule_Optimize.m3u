@@ -1,911 +1,1091 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="437219" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?7255",20/08 10:00 PM | Kairat Almaty vs Anderlecht (US: ESPN USA HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=437219&extension=ts&play_token=ND6RiWvN5N
+#EXTINF:-1 tvg-id="325020" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?ver=35784",20/08 10:00 PM | Kairat Almaty vs Anderlecht (US: ESPN HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=325020&extension=ts&play_token=gvviEhWzkq
+#EXTINF:-1 tvg-id="437219" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?7255",20/08 10:00 PM | Kairat Almaty vs Anderlecht (US: ESPN USA HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=437219&extension=ts&play_token=kADxWDPMyo
+#EXTINF:-1 tvg-id="325020" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?ver=35784",20/08 10:00 PM | Kairat Almaty vs Anderlecht (US: ESPN HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=325020&extension=ts&play_token=81MxXoo5qu
+#EXTINF:-1 tvg-id="45579" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/USA/45579.png",20/08 10:00 PM | Kairat Almaty vs Anderlecht (US| ESPN HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=45579&extension=ts&play_token=Srarne99PG
+#EXTINF:-1 tvg-id="45579" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/USA/45579.png",20/08 10:00 PM | Kairat Almaty vs Anderlecht (US| ESPN HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=45579&extension=ts&play_token=NVQH1w7qZT
+#EXTINF:-1 tvg-id="441418" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/QAZSPORT.png",20/08 10:00 PM | Kairat Almaty vs Anderlecht (KZ: QAZSPORT HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=441418&extension=ts&play_token=eytege7o7g
+#EXTINF:-1 tvg-id="1562585" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14555.png?55327",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL: POLSAT SPORT 1 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562585&extension=ts&play_token=hq21n9Q8sn
+#EXTINF:-1 tvg-id="345675" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9883.jpg?90082",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL VIP: POLSAT SPORT 1 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=345675&extension=ts&play_token=BihdJtZWbg
+#EXTINF:-1 tvg-id="1991965" group-title="Live UEFA Europa League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14555.png?42275",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL: POLSAT SPORT 1 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1991965&extension=ts&play_token=mGF3foxq5H
+#EXTINF:-1 tvg-id="1991964" group-title="Live UEFA Europa League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14555.png?42275",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL: POLSAT SPORT 1 ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1991964&extension=ts&play_token=zGDtQSJYaw
 #EXTINF:-1 tvg-id="345675" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9883.jpg?90082",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL VIP: POLSAT SPORT 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=345675&extension=ts&play_token=C6ra4YTIvm
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=345675&extension=ts&play_token=UoG0YNDa19
 #EXTINF:-1 tvg-id="1991965" group-title="Live UEFA Europa League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14555.png?42275",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL: POLSAT SPORT 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1991965&extension=ts&play_token=fbyLy8wbV0
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1991965&extension=ts&play_token=LgSYsxPwPD
 #EXTINF:-1 tvg-id="1991964" group-title="Live UEFA Europa League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14555.png?42275",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL: POLSAT SPORT 1 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1991964&extension=ts&play_token=muuegzb4Sj
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1991964&extension=ts&play_token=bK8rO7KfKh
 #EXTINF:-1 tvg-id="1530206" group-title="Live UEFA Europa League" tvg-logo="http://103.176.90.92/images/1530206.png",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL-VIP| POLSAT SPORT 1 RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1530206&extension=ts&play_token=lGvxlGgxns
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1530206&extension=ts&play_token=uf2WOl8Ta8
 #EXTINF:-1 tvg-id="880471" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT1.png",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL| POLSAT SPORT 1 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=880471&extension=ts&play_token=UMLyQEY6uM
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=880471&extension=ts&play_token=HqNz6m95On
 #EXTINF:-1 tvg-id="880331" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT1.png",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL| POLSAT SPORT 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=880331&extension=ts&play_token=IDWNUupO1w
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=880331&extension=ts&play_token=FF0SGjSt00
 #EXTINF:-1 tvg-id="1530206" group-title="Live UEFA Europa League" tvg-logo="http://103.176.90.92/images/1530206.png",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL-VIP| POLSAT SPORT 1 RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1530206&extension=ts&play_token=II0zOQowab
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1530206&extension=ts&play_token=HDAS400HQ1
 #EXTINF:-1 tvg-id="880471" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT1.png",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL| POLSAT SPORT 1 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880471&extension=ts&play_token=IsW7a974wk
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880471&extension=ts&play_token=171NNzQKL9
 #EXTINF:-1 tvg-id="880331" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT1.png",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL| POLSAT SPORT 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880331&extension=ts&play_token=zJiwhOziTp
-#EXTINF:-1 tvg-id="1917614" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917614.png",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL| POLSAT SPORT 1)
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880331&extension=ts&play_token=mrVI5GwjE9
+#EXTINF:-1 tvg-id="1562582" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14558.png?81683",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL: POLSAT SPORT PREMIUM 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917614&extension=ts&play_token=CajFvTRJ52
-#EXTINF:-1 tvg-id="1530206" group-title="Live UEFA Europa League" tvg-logo="http://103.176.90.92/images/1530206.png",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL-VIP| POLSAT SPORT 1 RAW)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562582&extension=ts&play_token=mkB3xwdOaG
+#EXTINF:-1 tvg-id="337611" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9895.jpg?37064",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL VIP: POLSAT SPORT PREMIUM 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1530206&extension=ts&play_token=4yogYv1P9g
-#EXTINF:-1 tvg-id="880471" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT1.png",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL| POLSAT SPORT 1 FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=337611&extension=ts&play_token=NRJ1utPMPq
+#EXTINF:-1 tvg-id="1991959" group-title="Live UEFA Europa League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14558.png?13255",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL: POLSAT SPORT PREMIUM 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=880471&extension=ts&play_token=ZZaGaM5WVs
-#EXTINF:-1 tvg-id="880331" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT1.png",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL| POLSAT SPORT 1 HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1991959&extension=ts&play_token=c7NdrzMeTq
+#EXTINF:-1 tvg-id="1991958" group-title="Live UEFA Europa League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14558.png?13255",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL: POLSAT SPORT PREMIUM 1 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=880331&extension=ts&play_token=rrQMZzBkHX
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1991958&extension=ts&play_token=3MPsaBrFAM
 #EXTINF:-1 tvg-id="337611" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9895.jpg?37064",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL VIP: POLSAT SPORT PREMIUM 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=337611&extension=ts&play_token=LSAUVRAJyW
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=337611&extension=ts&play_token=SCVy2PG2p1
 #EXTINF:-1 tvg-id="1991959" group-title="Live UEFA Europa League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14558.png?13255",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL: POLSAT SPORT PREMIUM 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1991959&extension=ts&play_token=CPnBUSF5Xl
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1991959&extension=ts&play_token=LR6nmQBiPh
 #EXTINF:-1 tvg-id="1991958" group-title="Live UEFA Europa League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14558.png?13255",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL: POLSAT SPORT PREMIUM 1 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1991958&extension=ts&play_token=djXkbAZgRl
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1991958&extension=ts&play_token=E1t0HDsPM3
 #EXTINF:-1 tvg-id="1530210" group-title="Live UEFA Europa League" tvg-logo="http://103.176.90.92/images/1530210.png",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL-VIP| POLSAT SPORT PREMIUM 1 RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1530210&extension=ts&play_token=FFsIQ2IoDs
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1530210&extension=ts&play_token=xpdyHBmPa7
 #EXTINF:-1 tvg-id="880467" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM1.png",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL| POLSAT SPORT PREMIUM 1 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=880467&extension=ts&play_token=7INwDRLhyg
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=880467&extension=ts&play_token=KDbN4wLQVR
 #EXTINF:-1 tvg-id="880327" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM1.png",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL| POLSAT SPORT PREMIUM 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=880327&extension=ts&play_token=LGhJMJrrBf
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=880327&extension=ts&play_token=F8LfgyDtmo
 #EXTINF:-1 tvg-id="1530210" group-title="Live UEFA Europa League" tvg-logo="http://103.176.90.92/images/1530210.png",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL-VIP| POLSAT SPORT PREMIUM 1 RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1530210&extension=ts&play_token=tjdAmppxs7
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1530210&extension=ts&play_token=mtFpMhXzck
 #EXTINF:-1 tvg-id="880467" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM1.png",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL| POLSAT SPORT PREMIUM 1 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880467&extension=ts&play_token=zPwzVeErr3
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880467&extension=ts&play_token=kev8THtW92
 #EXTINF:-1 tvg-id="880327" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM1.png",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL| POLSAT SPORT PREMIUM 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880327&extension=ts&play_token=W86GOrusJS
-#EXTINF:-1 tvg-id="1917611" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917611.png",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL| POLSAT SPORT PREMIUM 1)
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880327&extension=ts&play_token=jHD1izPvol
+#EXTINF:-1 tvg-id="1562544" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?73180",21/08 12:00 AM | Lech Poznan vs Thun (PL: TVP SPORT ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917611&extension=ts&play_token=lMA7tBjIlS
-#EXTINF:-1 tvg-id="1530210" group-title="Live UEFA Europa League" tvg-logo="http://103.176.90.92/images/1530210.png",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL-VIP| POLSAT SPORT PREMIUM 1 RAW)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562544&extension=ts&play_token=CjPFgc35Qu
+#EXTINF:-1 tvg-id="345650" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?6133",21/08 12:00 AM | Lech Poznan vs Thun (PL VIP: TVP SPORT ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1530210&extension=ts&play_token=sWTghvQOFD
-#EXTINF:-1 tvg-id="880467" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM1.png",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL| POLSAT SPORT PREMIUM 1 FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=345650&extension=ts&play_token=8wWoMKX6Ha
+#EXTINF:-1 tvg-id="1991945" group-title="Live UEFA Europa League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?60658",21/08 12:00 AM | Lech Poznan vs Thun (PL: TVP SPORT ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=880467&extension=ts&play_token=VGLWgvfhTo
-#EXTINF:-1 tvg-id="880327" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM1.png",20/08 11:00 PM | Jagiellonia vs Iberia 1999 (PL| POLSAT SPORT PREMIUM 1 HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1991945&extension=ts&play_token=dsTBnnNgyo
+#EXTINF:-1 tvg-id="1991944" group-title="Live UEFA Europa League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?60658",21/08 12:00 AM | Lech Poznan vs Thun (PL: TVP SPORT ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=880327&extension=ts&play_token=eQ3w6hXj2P
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1991944&extension=ts&play_token=H3X2jtYQFf
 #EXTINF:-1 tvg-id="345650" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?6133",21/08 12:00 AM | Lech Poznan vs Thun (PL VIP: TVP SPORT ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=345650&extension=ts&play_token=hotFnwtjhX
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=345650&extension=ts&play_token=cwV8ufCNTa
 #EXTINF:-1 tvg-id="1991945" group-title="Live UEFA Europa League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?60658",21/08 12:00 AM | Lech Poznan vs Thun (PL: TVP SPORT ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1991945&extension=ts&play_token=SOUZZFhVjp
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1991945&extension=ts&play_token=G9SpFY3a8S
 #EXTINF:-1 tvg-id="1991944" group-title="Live UEFA Europa League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?60658",21/08 12:00 AM | Lech Poznan vs Thun (PL: TVP SPORT ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1991944&extension=ts&play_token=JdVBx1dzkx
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1991944&extension=ts&play_token=IMD1mzhzd2
 #EXTINF:-1 tvg-id="1530245" group-title="Live UEFA Europa League" tvg-logo="http://103.176.90.92/images/1530245.png",21/08 12:00 AM | Lech Poznan vs Thun (PL-VIP| TVP SPORT RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1530245&extension=ts&play_token=KrYS0p6Puw
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1530245&extension=ts&play_token=oYfGZsPSTC
 #EXTINF:-1 tvg-id="880502" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/TVPSPORT.png",21/08 12:00 AM | Lech Poznan vs Thun (PL| TVP SPORT FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=880502&extension=ts&play_token=S1JrEbs333
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=880502&extension=ts&play_token=h6JjqlR4kc
 #EXTINF:-1 tvg-id="880362" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/TVPSPORT.png",21/08 12:00 AM | Lech Poznan vs Thun (PL| TVP SPORT HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=880362&extension=ts&play_token=RXvqSPUHyS
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=880362&extension=ts&play_token=y30nChvns8
 #EXTINF:-1 tvg-id="1530245" group-title="Live UEFA Europa League" tvg-logo="http://103.176.90.92/images/1530245.png",21/08 12:00 AM | Lech Poznan vs Thun (PL-VIP| TVP SPORT RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1530245&extension=ts&play_token=LBcV6SxKQN
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1530245&extension=ts&play_token=2mvcGVL2DJ
 #EXTINF:-1 tvg-id="880502" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/TVPSPORT.png",21/08 12:00 AM | Lech Poznan vs Thun (PL| TVP SPORT FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880502&extension=ts&play_token=i6hxuRNgVh
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880502&extension=ts&play_token=JebhPeEnkD
 #EXTINF:-1 tvg-id="880362" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/TVPSPORT.png",21/08 12:00 AM | Lech Poznan vs Thun (PL| TVP SPORT HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880362&extension=ts&play_token=mtrajdTYYi
-#EXTINF:-1 tvg-id="1917583" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917583.png",21/08 12:00 AM | Lech Poznan vs Thun (PL|  TVP SPORT)
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880362&extension=ts&play_token=vPylrvbig4
+#EXTINF:-1 tvg-id="1107297" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14149.png?70311",21/08 12:00 AM | Egnatia vs Lillestrøm (AL-VIP: RTSH 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917583&extension=ts&play_token=KKgZzWSMYp
-#EXTINF:-1 tvg-id="1530245" group-title="Live UEFA Europa League" tvg-logo="http://103.176.90.92/images/1530245.png",21/08 12:00 AM | Lech Poznan vs Thun (PL-VIP| TVP SPORT RAW)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1107297&extension=ts&play_token=jkYIPDOahb
+#EXTINF:-1 tvg-id="294507" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3158.png?98260",21/08 12:00 AM | Egnatia vs Lillestrøm (AL: RTSH 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1530245&extension=ts&play_token=6sH7TW4MmX
-#EXTINF:-1 tvg-id="880502" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/TVPSPORT.png",21/08 12:00 AM | Lech Poznan vs Thun (PL| TVP SPORT FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=294507&extension=ts&play_token=l32PGHjzoZ
+#EXTINF:-1 tvg-id="294515" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3147.jpeg?ver=40716",21/08 12:00 AM | Egnatia vs Lillestrøm (AL: RTSH SPORT HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=880502&extension=ts&play_token=gXkBMS1jAk
-#EXTINF:-1 tvg-id="880362" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/TVPSPORT.png",21/08 12:00 AM | Lech Poznan vs Thun (PL| TVP SPORT HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=294515&extension=ts&play_token=7R3ORCH3fo
+#EXTINF:-1 tvg-id="2619" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3987.png?35228",21/08 12:00 AM | Besiktas vs Kauno Zalgiris (RS: Arena Sport 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=880362&extension=ts&play_token=ogzpDOOeLl
-#EXTINF:-1 tvg-id="1861862" group-title="Live UEFA Europa League" tvg-logo="http://picons.cmshulk.com/picons/arenasport1.png",21/08 12:00 AM | Besiktas vs Kauno Zalgiris (RS| ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2619&extension=ts&play_token=QKtp3QX1WQ
+#EXTINF:-1 tvg-id="1523226" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/logos/1913006.png",21/08 12:00 AM | Besiktas vs Kauno Zalgiris (AT: SPORTDIGITAL FUSSBALL ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1861862&extension=ts&play_token=6qdlkbLq4R
-#EXTINF:-1 tvg-id="110913" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT1.png",21/08 12:00 AM | Besiktas vs Kauno Zalgiris (RS| ARENA SPORT 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=110913&extension=ts&play_token=0Itf45pv6D
-#EXTINF:-1 tvg-id="110914" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT1.png",21/08 12:00 AM | Besiktas vs Kauno Zalgiris (RS| ARENA SPORT 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=110914&extension=ts&play_token=dflDxwzgHk
-#EXTINF:-1 tvg-id="161931" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT1.png",21/08 12:00 AM | Besiktas vs Kauno Zalgiris (RS| ARENA SPORT 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=161931&extension=ts&play_token=zux12r0x4f
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1523226&extension=ts&play_token=MCKfBPjgIc
 #EXTINF:-1 tvg-id="1523226" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/logos/1913006.png",21/08 12:00 AM | Besiktas vs Kauno Zalgiris (AT: SPORTDIGITAL FUSSBALL ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1523226&extension=ts&play_token=FxghBoA9FO
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1523226&extension=ts&play_token=cIV9Ak5eut
 #EXTINF:-1 tvg-id="411539" group-title="Live UEFA Europa League" tvg-logo="http://103.176.90.92/images/411539.png",21/08 12:00 AM | Besiktas vs Kauno Zalgiris (DE| SPORTDIGITAL FUSSBALL FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=411539&extension=ts&play_token=mc1HZwSOWZ
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=411539&extension=ts&play_token=Af1LHITMEF
 #EXTINF:-1 tvg-id="411534" group-title="Live UEFA Europa League" tvg-logo="http://103.176.90.92/images/411534.png",21/08 12:00 AM | Besiktas vs Kauno Zalgiris (DE| SPORTDIGITAL FUSSBALL FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=411534&extension=ts&play_token=0CKjoapS0Q
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=411534&extension=ts&play_token=d6eVW2o0zE
 #EXTINF:-1 tvg-id="1913006" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/logos/1913006.png",21/08 12:00 AM | Besiktas vs Kauno Zalgiris (AT| SPORTDIGITAL FUSSBALL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1913006&extension=ts&play_token=AFcPJu3h37
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1913006&extension=ts&play_token=j7RMyqgg9j
 #EXTINF:-1 tvg-id="411539" group-title="Live UEFA Europa League" tvg-logo="http://103.176.90.92/images/411539.png",21/08 12:00 AM | Besiktas vs Kauno Zalgiris (DE| SPORTDIGITAL FUSSBALL FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=411539&extension=ts&play_token=cUv4hVjIRD
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=411539&extension=ts&play_token=5Xe6DGYQ4n
 #EXTINF:-1 tvg-id="411534" group-title="Live UEFA Europa League" tvg-logo="http://103.176.90.92/images/411534.png",21/08 12:00 AM | Besiktas vs Kauno Zalgiris (DE| SPORTDIGITAL FUSSBALL FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=411534&extension=ts&play_token=qPbj1CY2Q6
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=411534&extension=ts&play_token=XRfiedOSOb
 #EXTINF:-1 tvg-id="1913006" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/logos/1913006.png",21/08 12:00 AM | Besiktas vs Kauno Zalgiris (AT| SPORTDIGITAL FUSSBALL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1913006&extension=ts&play_token=894HCwnWUj
-#EXTINF:-1 tvg-id="411539" group-title="Live UEFA Europa League" tvg-logo="http://103.176.90.92/images/411539.png",21/08 12:00 AM | Besiktas vs Kauno Zalgiris (DE| SPORTDIGITAL FUSSBALL FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1913006&extension=ts&play_token=0oYJXcsoYn
+#EXTINF:-1 tvg-id="1842027" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14909.png?85632",21/08 12:00 AM | Trabzonspor vs Ferencváros (SPO: ON SPORT PLUS 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=411539&extension=ts&play_token=lkhZt1Vclb
-#EXTINF:-1 tvg-id="411534" group-title="Live UEFA Europa League" tvg-logo="http://103.176.90.92/images/411534.png",21/08 12:00 AM | Besiktas vs Kauno Zalgiris (DE| SPORTDIGITAL FUSSBALL FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1842027&extension=ts&play_token=SuW1bDrA8a
+#EXTINF:-1 tvg-id="1842028" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14909.png?85632",21/08 12:00 AM | Trabzonspor vs Ferencváros (SPO: ON SPORT PLUS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=411534&extension=ts&play_token=BjYPuGUFuz
-#EXTINF:-1 tvg-id="1913006" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/logos/1913006.png",21/08 12:00 AM | Besiktas vs Kauno Zalgiris (AT| SPORTDIGITAL FUSSBALL HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1842028&extension=ts&play_token=FKzrMxWeOy
+#EXTINF:-1 tvg-id="4186" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3792.jpg?23837",21/08 12:00 AM | Trabzonspor vs Ferencváros (SPO: ON SPORT 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1913006&extension=ts&play_token=sWMnuNq3ar
-#EXTINF:-1 tvg-id="1861859" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/arenasport4.png",21/08 12:00 AM | Nordsjælland vs St Gallen (RS| ARENA SPORT 4 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=4186&extension=ts&play_token=FcXZH5EPvm
+#EXTINF:-1 tvg-id="819644" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3792.jpg?23837",21/08 12:00 AM | Trabzonspor vs Ferencváros (SPO: ON SPORT RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1861859&extension=ts&play_token=121r0wrHTt
-#EXTINF:-1 tvg-id="110907" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT4.png",21/08 12:00 AM | Nordsjælland vs St Gallen (RS| ARENA SPORT 4 HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=819644&extension=ts&play_token=glXBfuRq8A
+#EXTINF:-1 tvg-id="2613" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3985.png?21959",21/08 12:00 AM | Nordsjælland vs St Gallen (RS: Arena Sport 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=110907&extension=ts&play_token=0H5MS1lON6
-#EXTINF:-1 tvg-id="110908" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT4.png",21/08 12:00 AM | Nordsjælland vs St Gallen (RS| ARENA SPORT 4)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2613&extension=ts&play_token=A4Rm6l3QgV
+#EXTINF:-1 tvg-id="1562940" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9706.png?70804",21/08 12:00 AM | Midtjylland vs Rijeka (HR: MAX SPORT 2 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=110908&extension=ts&play_token=ADqHbFabXR
-#EXTINF:-1 tvg-id="161934" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT4.png",21/08 12:00 AM | Nordsjælland vs St Gallen (RS| ARENA SPORT 4 FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562940&extension=ts&play_token=ijYClMwfwM
+#EXTINF:-1 tvg-id="1460655" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9706.png?13434",21/08 12:00 AM | Midtjylland vs Rijeka (HR: MAXSPORT 2 ⱽᴵᴾ ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=161934&extension=ts&play_token=GXkZJs30PU
-#EXTINF:-1 tvg-id="1917280" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/logos/1917280.png",21/08 12:00 AM | Midtjylland vs Rijeka (HR| MAX SPORT 2)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1460655&extension=ts&play_token=shu6oBYvyX
+#EXTINF:-1 tvg-id="536378" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9706.png?13434",21/08 12:00 AM | Midtjylland vs Rijeka (HR: MAX SPORT 2 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917280&extension=ts&play_token=P3oMdyZvom
-#EXTINF:-1 tvg-id="1862025" group-title="Live UEFA Conference League" tvg-logo="https://picons.cmshulk.com/picons/maxsport2.png",21/08 12:00 AM | Midtjylland vs Rijeka (HR| MAXSPORT 2 ⱽᴵᴾ ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1862025&extension=ts&play_token=LRVkdDXndM
-#EXTINF:-1 tvg-id="967053" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/MAXSPORT2.png",21/08 12:00 AM | Midtjylland vs Rijeka (HR| MAX SPORT 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=967053&extension=ts&play_token=2Vh197M4CY
-#EXTINF:-1 tvg-id="1107494" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/MAXSPORT2.png",21/08 12:00 AM | Midtjylland vs Rijeka (HR| MAX SPORT 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1107494&extension=ts&play_token=IiwQsYbdMo
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=536378&extension=ts&play_token=VeiiF8Fcru
 #EXTINF:-1 tvg-id="1032476" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png",21/08 12:00 AM | Cincinnati Open -QF(1) (UK| NOW HK NOW SPORTS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1032476&extension=ts&play_token=SDd8sKDJgV
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1032476&extension=ts&play_token=tYBfmqGXRI
 #EXTINF:-1 tvg-id="1032476" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png",21/08 12:00 AM | Cincinnati Open -QF(1) (UK| NOW HK NOW SPORTS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1032476&extension=ts&play_token=RQbn4tWk8r
-#EXTINF:-1 tvg-id="1032476" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png",21/08 12:00 AM | Cincinnati Open -QF(1) (UK| NOW HK NOW SPORTS 4)
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1032476&extension=ts&play_token=pNwbOlF0Th
+#EXTINF:-1 tvg-id="791012" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11096.jpg?28750",21/08 12:00 AM | Cincinnati Open -QF(1) (HK: NOW SPORTS 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1032476&extension=ts&play_token=HqVKuwVCH7
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=791012&extension=ts&play_token=jq4C7Bjn4Y
 #EXTINF:-1 tvg-id="554946" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/554946.png",21/08 12:00 AM | Cincinnati Open -QF(1) (HK| NOW SPORTS 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=554946&extension=ts&play_token=rLvkJmtDEt
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=554946&extension=ts&play_token=qUToCbdhEP
 #EXTINF:-1 tvg-id="1032474" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png",21/08 02:00 AM | Cincinnati Open -QF (1) (UK| NOW HK NOW SPORTS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1032474&extension=ts&play_token=dM0tVYNkqW
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1032474&extension=ts&play_token=iSo9FygcBB
 #EXTINF:-1 tvg-id="1032474" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png",21/08 02:00 AM | Cincinnati Open -QF (1) (UK| NOW HK NOW SPORTS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1032474&extension=ts&play_token=xOwOEDTI2F
-#EXTINF:-1 tvg-id="1032474" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png",21/08 02:00 AM | Cincinnati Open -QF (1) (UK| NOW HK NOW SPORTS 6)
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1032474&extension=ts&play_token=f2DIgdgzKG
+#EXTINF:-1 tvg-id="791010" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10657.jpg?87394",21/08 02:00 AM | Cincinnati Open -QF (1) (HK: NOW SPORTS 6 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1032474&extension=ts&play_token=SD8mRtmNbs
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=791010&extension=ts&play_token=KE82DKQ6gB
 #EXTINF:-1 tvg-id="554944" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/554944.png",21/08 02:00 AM | Cincinnati Open -QF (1) (HK| NOW SPORTS 6 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=554944&extension=ts&play_token=GaRCXz40o2
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=554944&extension=ts&play_token=6RIxPwRE8K
 #EXTINF:-1 tvg-id="238270" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS7.png",21/08 12:00 AM |  (UK| BEIN SPORTS 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=238270&extension=ts&play_token=BrOj7dDjwI
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=238270&extension=ts&play_token=qldGV0BRKJ
 #EXTINF:-1 tvg-id="238270" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS7.png",21/08 12:00 AM |  (UK| BEIN SPORTS 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=238270&extension=ts&play_token=g5uyCulJaW
-#EXTINF:-1 tvg-id="238270" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS7.png",21/08 12:00 AM |  (UK| BEIN SPORTS 7 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=238270&extension=ts&play_token=0h34J9n25X
+#EXTINF:-1 tvg-id="325027" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/537.png?72164",21/08 12:00 AM |  (US: BEIN SPORTS 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=238270&extension=ts&play_token=KAGSfMrAz2
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=325027&extension=ts&play_token=vEvDmEhlbP
 #EXTINF:-1 tvg-id="325027" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/537.png?72164",21/08 12:00 AM |  (US: BEIN SPORTS 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=325027&extension=ts&play_token=Hye0TtiryI
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=325027&extension=ts&play_token=Mnye3mtuPM
 #EXTINF:-1 tvg-id="83957" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/USA/83957.png",21/08 12:00 AM |  (US| BEIN SPORTS 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=83957&extension=ts&play_token=91uihsMyvo
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=83957&extension=ts&play_token=kNXjD9GoLg
 #EXTINF:-1 tvg-id="83957" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/USA/83957.png",21/08 12:00 AM |  (US| BEIN SPORTS 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=83957&extension=ts&play_token=GjKimzCmyt
-#EXTINF:-1 tvg-id="83957" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/USA/83957.png",21/08 12:00 AM |  (US| BEIN SPORTS 7 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=83957&extension=ts&play_token=tAmNWT4lVf
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=83957&extension=ts&play_token=m9XvufrJ7k
 #EXTINF:-1 tvg-id="1294758" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/bein/1294758.png",21/08 12:00 AM |  (AR|  BEIN  SPORTS 7 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1294758&extension=ts&play_token=k0t4h61saK
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1294758&extension=ts&play_token=Up8rXCkWJZ
 #EXTINF:-1 tvg-id="1330427" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/bein/1330427.png",21/08 12:00 AM |  (AR| BEIN SPORTS 7 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1330427&extension=ts&play_token=EjV2aRbMVm
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1330427&extension=ts&play_token=YdY10PB5zg
 #EXTINF:-1 tvg-id="1330443" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/bein/1330443.png",21/08 12:00 AM |  (AR| BEIN SPORTS 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1330443&extension=ts&play_token=Nlf3t66Hby
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1330443&extension=ts&play_token=ab4PAkBDzv
 #EXTINF:-1 tvg-id="1836262" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/bein/1836262.png",21/08 12:00 AM |  (BEIN SPORTS FHD 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1836262&extension=ts&play_token=eGgkamPnUv
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1836262&extension=ts&play_token=YJORo4OXAf
 #EXTINF:-1 tvg-id="1660421" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/bein/1660421.png",21/08 12:00 AM |  (BEIN SPORTS 7 4k)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1660421&extension=ts&play_token=yW0fXfgcmP
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1660421&extension=ts&play_token=zdGRRx7Sd8
 #EXTINF:-1 tvg-id="1294758" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/bein/1294758.png",21/08 12:00 AM |  (AR|  BEIN  SPORTS 7 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1294758&extension=ts&play_token=1Qe5UQELrm
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1294758&extension=ts&play_token=doJNVumQeS
 #EXTINF:-1 tvg-id="1330427" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/bein/1330427.png",21/08 12:00 AM |  (AR| BEIN SPORTS 7 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1330427&extension=ts&play_token=z9OuBseFzT
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1330427&extension=ts&play_token=nheDYNLg8D
 #EXTINF:-1 tvg-id="1330443" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/bein/1330443.png",21/08 12:00 AM |  (AR| BEIN SPORTS 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1330443&extension=ts&play_token=2i0cdpCE5a
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1330443&extension=ts&play_token=P6tdDMY7RI
 #EXTINF:-1 tvg-id="1836262" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/bein/1836262.png",21/08 12:00 AM |  (BEIN SPORTS FHD 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1836262&extension=ts&play_token=brvvkpiT1A
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1836262&extension=ts&play_token=U6ug4upjCF
 #EXTINF:-1 tvg-id="1660421" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/bein/1660421.png",21/08 12:00 AM |  (BEIN SPORTS 7 4k)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1660421&extension=ts&play_token=wNW27n40Md
-#EXTINF:-1 tvg-id="1917200" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/arabic/1917200.png",21/08 12:00 AM |  (AR| BEIN SPORT 7 4K)
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1660421&extension=ts&play_token=ZMUwaX0nu4
+#EXTINF:-1 tvg-id="544425" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",21/08 12:00 AM |  (8K: beIN SP⚽RTS 7 ᴴᴰ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917200&extension=ts&play_token=6yjHcNgwEl
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=544425&extension=ts&play_token=NxZslMRJHW
+#EXTINF:-1 tvg-id="544485" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",21/08 12:00 AM |  (8K: beIN SP⚽RTS 7 ʰᵉᵛᶜ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=544485&extension=ts&play_token=0IaJK6xuq7
+#EXTINF:-1 tvg-id="544448" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",21/08 12:00 AM |  (8K: beIN SP⚽RTS 7 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=544448&extension=ts&play_token=jPm5UFw3S2
+#EXTINF:-1 tvg-id="706545" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",21/08 12:00 AM |  (SS: beIN SP⚽RTS 7 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=706545&extension=ts&play_token=EhhrwfoS4D
+#EXTINF:-1 tvg-id="706532" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",21/08 12:00 AM |  (SS: beIN SP⚽RTS 7 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=706532&extension=ts&play_token=KWWY6tLfle
+#EXTINF:-1 tvg-id="1353002" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",21/08 12:00 AM |  (BE: beIN SP⚽RTS 7 ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1353002&extension=ts&play_token=OEnbqMiRh1
+#EXTINF:-1 tvg-id="1352978" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",21/08 12:00 AM |  (BE: beIN SP⚽RTS 7 ʰᵉᵛᶜ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1352978&extension=ts&play_token=2oPqNAV7PN
+#EXTINF:-1 tvg-id="1352964" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",21/08 12:00 AM |  (BE: beIN SP⚽RTS 7 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1352964&extension=ts&play_token=w4a0ZZugxa
+#EXTINF:-1 tvg-id="544829" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",21/08 12:00 AM |  (◉: beIN Sp⚽rts 7 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=544829&extension=ts&play_token=Vp7NpYBww5
+#EXTINF:-1 tvg-id="544815" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",21/08 12:00 AM |  (◉: beIN Sp⚽rts 7 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=544815&extension=ts&play_token=wmWTOJZvxL
+#EXTINF:-1 tvg-id="544799" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",21/08 12:00 AM |  (◉: beIN Sp⚽rts 7 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=544799&extension=ts&play_token=vrLBXtv5tg
+#EXTINF:-1 tvg-id="985148" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",21/08 12:00 AM |  (ᵁᴴᴰ: beIN Sp⚽rts 7 ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=985148&extension=ts&play_token=ukMqHoaNDM
+#EXTINF:-1 tvg-id="985112" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",21/08 12:00 AM |  (ᵁᴴᴰ: beIN Sp⚽rts 7 ʰᵉᵛᶜ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=985112&extension=ts&play_token=tgQxqkEVWe
+#EXTINF:-1 tvg-id="985094" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",21/08 12:00 AM |  (ᵁᴴᴰ: beIN Sp⚽rts 7 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=985094&extension=ts&play_token=7of7wFbDSE
+#EXTINF:-1 tvg-id="1201193" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",21/08 12:00 AM |  (NM: beIN SP⚽RTS 7 ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1201193&extension=ts&play_token=k7M5AHxBGo
+#EXTINF:-1 tvg-id="1201153" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",21/08 12:00 AM |  (NM: beIN SP⚽RTS 7 ʰᵉᵛᶜ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1201153&extension=ts&play_token=CfD9dSLOTz
+#EXTINF:-1 tvg-id="1201135" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",21/08 12:00 AM |  (NM: beIN SP⚽RTS 7 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1201135&extension=ts&play_token=B0ZUgGfBVo
+#EXTINF:-1 tvg-id="1120425" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",21/08 12:00 AM |  (SA: beIN SP⚽RTS 7 ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1120425&extension=ts&play_token=9mvTXWaHXS
+#EXTINF:-1 tvg-id="1120405" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",21/08 12:00 AM |  (SA: beIN SP⚽RTS 7 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1120405&extension=ts&play_token=4NdOAbvT0N
+#EXTINF:-1 tvg-id="1562704" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?37284",21/08 02:00 AM | : Cincinnati Open (NL: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562704&extension=ts&play_token=hl9iR8hT6v
+#EXTINF:-1 tvg-id="1980747" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",21/08 02:00 AM | : Cincinnati Open (ZG: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1980747&extension=ts&play_token=63BCzpqkU1
+#EXTINF:-1 tvg-id="2011551" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",21/08 02:00 AM | : Cincinnati Open (OD: ZIGGO SPORT 4 ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2011551&extension=ts&play_token=6gJH2fPO7w
+#EXTINF:-1 tvg-id="2011260" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",21/08 02:00 AM | : Cincinnati Open (OD: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2011260&extension=ts&play_token=W1hL4SlodD
+#EXTINF:-1 tvg-id="1537608" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",21/08 02:00 AM | : Cincinnati Open (NL: ZIGGO SPORT 4 ᴿᴬᵂ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1537608&extension=ts&play_token=524w1Pufjm
 #EXTINF:-1 tvg-id="1980747" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",21/08 02:00 AM | : Cincinnati Open (ZG: ZIGGO SPORT 4 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1980747&extension=ts&play_token=BC8DsGRZXZ
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1980747&extension=ts&play_token=sri1iYRbKE
 #EXTINF:-1 tvg-id="2011551" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",21/08 02:00 AM | : Cincinnati Open (OD: ZIGGO SPORT 4 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2011551&extension=ts&play_token=VOSZTL5YTG
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2011551&extension=ts&play_token=XDQBYJ3k0p
 #EXTINF:-1 tvg-id="2011260" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",21/08 02:00 AM | : Cincinnati Open (OD: ZIGGO SPORT 4 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2011260&extension=ts&play_token=qxC1hzIWgL
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2011260&extension=ts&play_token=yvWuOY143S
 #EXTINF:-1 tvg-id="1537608" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",21/08 02:00 AM | : Cincinnati Open (NL: ZIGGO SPORT 4 ᴿᴬᵂ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1537608&extension=ts&play_token=Cmk8pcFUiA
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1537608&extension=ts&play_token=HP1rUWtYaz
 #EXTINF:-1 tvg-id="1283307" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",21/08 02:00 AM | : Cincinnati Open (NL| ZIGGO SPORT 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1283307&extension=ts&play_token=oQzPszijpE
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1283307&extension=ts&play_token=0XuLuqtVJi
 #EXTINF:-1 tvg-id="1761572" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",21/08 02:00 AM | : Cincinnati Open (NL| ZIGGO SPORT 4 UHD 8K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1761572&extension=ts&play_token=FZQbn6xVbJ
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1761572&extension=ts&play_token=Xt7Y99YycY
 #EXTINF:-1 tvg-id="1282760" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",21/08 02:00 AM | : Cincinnati Open (NL| ZIGGO SPORT 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1282760&extension=ts&play_token=XY4lNH4hrC
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1282760&extension=ts&play_token=RJ9ijgHCTR
 #EXTINF:-1 tvg-id="1282745" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",21/08 02:00 AM | : Cincinnati Open (NL| ZIGGO SPORT 4 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1282745&extension=ts&play_token=MbXN5ewhCP
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1282745&extension=ts&play_token=DDOMzjYWua
 #EXTINF:-1 tvg-id="1921307" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",21/08 02:00 AM | : Cincinnati Open (NL| ZIGGO SPORT 4 ᴿᴬᵂ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1921307&extension=ts&play_token=lLJRMMjbph
-#EXTINF:-1 tvg-id="1283307" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",21/08 02:00 AM | : Cincinnati Open (NL| ZIGGO SPORT 4 4K)
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1921307&extension=ts&play_token=AcZAWjCoLm
+#EXTINF:-1 tvg-id="405360" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3980.png?87305",21/08 12:45 AM | PAOK Thessaloniki vs Brann (RS: Arena Sport 6 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1283307&extension=ts&play_token=vLV2ounR6V
-#EXTINF:-1 tvg-id="1761572" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",21/08 02:00 AM | : Cincinnati Open (NL| ZIGGO SPORT 4 UHD 8K)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=405360&extension=ts&play_token=SIwAHLVvs5
+#EXTINF:-1 tvg-id="842765" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6545.png?72925",21/08 01:00 AM | OFI Crete vs CSKA Sofia (GR: COSMOTE SPORT 1 ᴴᴰ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1761572&extension=ts&play_token=C9Dz7K1l7L
-#EXTINF:-1 tvg-id="1282760" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",21/08 02:00 AM | : Cincinnati Open (NL| ZIGGO SPORT 4 HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842765&extension=ts&play_token=iYgGs7DGV0
+#EXTINF:-1 tvg-id="842747" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6545.png?53661",21/08 01:00 AM | OFI Crete vs CSKA Sofia (GR: COSMOTE SPORT 1 ᵁᴴᴰ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1282760&extension=ts&play_token=VNjBQwLGvF
-#EXTINF:-1 tvg-id="1282745" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",21/08 02:00 AM | : Cincinnati Open (NL| ZIGGO SPORT 4 FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842747&extension=ts&play_token=OZ8C8cEoPX
+#EXTINF:-1 tvg-id="770489" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport1.png",21/08 01:00 AM | OFI Crete vs CSKA Sofia (GR VIP: COSMOTE SPORT 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1282745&extension=ts&play_token=81PNdyRBcL
-#EXTINF:-1 tvg-id="1921307" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",21/08 02:00 AM | : Cincinnati Open (NL| ZIGGO SPORT 4 ᴿᴬᵂ ◉)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=770489&extension=ts&play_token=zuNBQMMwbS
+#EXTINF:-1 tvg-id="770488" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport1.png",21/08 01:00 AM | OFI Crete vs CSKA Sofia (GR VIP: COSMOTE SPORT 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1921307&extension=ts&play_token=GkgXkcLOIW
-#EXTINF:-1 tvg-id="1917558" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1917558.png",21/08 02:00 AM | : Cincinnati Open (NL| ZIGGO SPORT 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917558&extension=ts&play_token=vFvUgB7Jye
-#EXTINF:-1 tvg-id="1861857" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/arenasport6.png",21/08 12:45 AM | PAOK Thessaloniki vs Brann (RS| ARENA SPORT 6 ⱽᴵᴾ ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1861857&extension=ts&play_token=itX6M4eKOu
-#EXTINF:-1 tvg-id="161936" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT6.png",21/08 12:45 AM | PAOK Thessaloniki vs Brann (RS| ARENA SPORT 6 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=161936&extension=ts&play_token=ZzHeFfMreh
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=770488&extension=ts&play_token=6aYvtyala8
 #EXTINF:-1 tvg-id="842765" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6545.png?72925",21/08 01:00 AM | OFI Crete vs CSKA Sofia (GR: COSMOTE SPORT 1 ᴴᴰ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=842765&extension=ts&play_token=mvOmmLU1EL
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=842765&extension=ts&play_token=KBn4PrhZcf
 #EXTINF:-1 tvg-id="842747" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6545.png?53661",21/08 01:00 AM | OFI Crete vs CSKA Sofia (GR: COSMOTE SPORT 1 ᵁᴴᴰ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=842747&extension=ts&play_token=iUCdLIvnBt
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=842747&extension=ts&play_token=lmLDQG4Gzt
 #EXTINF:-1 tvg-id="770489" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport1.png",21/08 01:00 AM | OFI Crete vs CSKA Sofia (GR VIP: COSMOTE SPORT 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=770489&extension=ts&play_token=IOe4RClwOe
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=770489&extension=ts&play_token=cttJHh3tT1
 #EXTINF:-1 tvg-id="770488" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport1.png",21/08 01:00 AM | OFI Crete vs CSKA Sofia (GR VIP: COSMOTE SPORT 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=770488&extension=ts&play_token=FjJ1IYSsKQ
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=770488&extension=ts&play_token=VSYT51jtsc
 #EXTINF:-1 tvg-id="1432209" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/COSMOTESPORT1.png",21/08 01:00 AM | OFI Crete vs CSKA Sofia (GR| COSMOTE SPORT 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1432209&extension=ts&play_token=ei0wVO2cAG
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1432209&extension=ts&play_token=BTFCeA1DzU
 #EXTINF:-1 tvg-id="307824" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/COSMOTESPORT1.png",21/08 01:00 AM | OFI Crete vs CSKA Sofia (GR| COSMOTE SPORT 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=307824&extension=ts&play_token=Daa1Xe6iZD
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=307824&extension=ts&play_token=gJmh9T6KC0
 #EXTINF:-1 tvg-id="307824" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/COSMOTESPORT1.png",21/08 01:00 AM | OFI Crete vs CSKA Sofia (GR| COSMOTE SPORT 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=307824&extension=ts&play_token=Qa1D7nKSzS
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=307824&extension=ts&play_token=Hp2tnOkFnA
 #EXTINF:-1 tvg-id="1432209" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/COSMOTESPORT1.png",21/08 01:00 AM | OFI Crete vs CSKA Sofia (GR| COSMOTE SPORT 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1432209&extension=ts&play_token=Q4sWILkiPm
-#EXTINF:-1 tvg-id="1917351" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/logos/1917351.png",21/08 01:00 AM | OFI Crete vs CSKA Sofia (GR| COSMOTE SPORTS 1 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1432209&extension=ts&play_token=C8qa6DiQ5x
+#EXTINF:-1 tvg-id="1562865" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6545.png?38981",21/08 01:00 AM | OFI Crete vs CSKA Sofia (GR: COSMOTE SPORTS 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917351&extension=ts&play_token=SL1SrEowCi
-#EXTINF:-1 tvg-id="228704" group-title="Live UEFA Europa League" tvg-logo="http://picons.cmshulk.com/picons/228704.png",21/08 01:00 AM | Red Star Belgrade vs Viktoria Plzen (RS| RTS 2 HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562865&extension=ts&play_token=pij20aMOp8
+#EXTINF:-1 tvg-id="441540" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/diemasport2hd.png",21/08 01:00 AM | OFI Crete vs CSKA Sofia (BG: DIEMA SPORT 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=228704&extension=ts&play_token=kgqeVE0dD6
-#EXTINF:-1 tvg-id="161993" group-title="Live UEFA Europa League" tvg-logo="http://picons.cmshulk.com/picons/161993.png",21/08 01:00 AM | Red Star Belgrade vs Viktoria Plzen (RS| RTS 2 FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=441540&extension=ts&play_token=N1ThfDB3zo
+#EXTINF:-1 tvg-id="1819071" group-title="Live UEFA Europa League" tvg-logo="http://picons.cmshulk.com/picons/1621810.png",21/08 01:00 AM | Red Star Belgrade vs Viktoria Plzen (CZ: NOVA SPORT 5 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=161993&extension=ts&play_token=nwUrV60qzM
-#EXTINF:-1 tvg-id="110777" group-title="Live UEFA Europa League" tvg-logo="http://picons.cmshulk.com/picons/110777.png",21/08 01:00 AM | Red Star Belgrade vs Viktoria Plzen (RS| RTS 2)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1819071&extension=ts&play_token=r9hu3ukrIr
+#EXTINF:-1 tvg-id="2484" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9995.png?72676",21/08 01:00 AM | Red Star Belgrade vs Viktoria Plzen (RS: Rts 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=110777&extension=ts&play_token=2lYXAvDyIZ
-#EXTINF:-1 tvg-id="1861933" group-title="Live UEFA Europa League" tvg-logo="http://picons.cmshulk.com/picons/rts2.png",21/08 01:00 AM | Red Star Belgrade vs Viktoria Plzen (RS| RTS 2 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2484&extension=ts&play_token=ZoqW4RXTCy
+#EXTINF:-1 tvg-id="460830" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",21/08 01:00 AM | Sint-Truiden vs Omonia Nicosia (CY: CYTAVISION SPORTS 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1861933&extension=ts&play_token=9wGEnu1fKb
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=460830&extension=ts&play_token=DgNbTc6h0l
 #EXTINF:-1 tvg-id="460830" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",21/08 01:00 AM | Sint-Truiden vs Omonia Nicosia (CY: CYTAVISION SPORTS 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=460830&extension=ts&play_token=RBDxA3vrOc
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=460830&extension=ts&play_token=m3FFln4o2f
+#EXTINF:-1 tvg-id="2084649" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",21/08 01:00 AM | Sint-Truiden vs Omonia Nicosia (CY: CYTAVISION SPORT 1 ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2084649&extension=ts&play_token=mNR4r0cScq
+#EXTINF:-1 tvg-id="842684" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",21/08 01:00 AM | Sint-Truiden vs Omonia Nicosia (CY: CYTAVISION SPORT 1 ᴿᴬᵂ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842684&extension=ts&play_token=e6fGbEJcXr
 #EXTINF:-1 tvg-id="2084649" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",21/08 01:00 AM | Sint-Truiden vs Omonia Nicosia (CY: CYTAVISION SPORT 1 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2084649&extension=ts&play_token=6Qy0lqdXG7
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2084649&extension=ts&play_token=zijlG5qN8L
 #EXTINF:-1 tvg-id="842684" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",21/08 01:00 AM | Sint-Truiden vs Omonia Nicosia (CY: CYTAVISION SPORT 1 ᴿᴬᵂ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=842684&extension=ts&play_token=kpDVBwUVJs
-#EXTINF:-1 tvg-id="1861854" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/arenasport9hd.png",21/08 01:00 AM | Twente vs Qarabagh (RS| ARENA SPORT 9 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=842684&extension=ts&play_token=wqvnUogw8G
+#EXTINF:-1 tvg-id="619642" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2319.png?32670",21/08 01:00 AM | Twente vs Qarabagh (AZ: CBC SPORT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1861854&extension=ts&play_token=TKCdM7W4VL
-#EXTINF:-1 tvg-id="1837693" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT9.png",21/08 01:00 AM | Twente vs Qarabagh (RS| ARENA SPORT 9 HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=619642&extension=ts&play_token=QUpxmWJ6uq
+#EXTINF:-1 tvg-id="1551" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8260.png?ver=9471",21/08 01:00 AM | Twente vs Qarabagh (NL: ESPN 1 ᴿᴬᵂ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1837693&extension=ts&play_token=DaenLYd3WD
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1551&extension=ts&play_token=ovT9zm5XfK
 #EXTINF:-1 tvg-id="1551" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8260.png?ver=9471",21/08 01:00 AM | Twente vs Qarabagh (NL: ESPN 1 ᴿᴬᵂ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1551&extension=ts&play_token=0jkt9dI6Ru
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1551&extension=ts&play_token=ZULdiLDbwp
 #EXTINF:-1 tvg-id="1634105" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png",21/08 01:00 AM | Twente vs Qarabagh (NL| ESPN 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1634105&extension=ts&play_token=PPqi9VwOtT
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1634105&extension=ts&play_token=4Et7gd1m71
 #EXTINF:-1 tvg-id="1634106" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png",21/08 01:00 AM | Twente vs Qarabagh (NL| ESPN 1 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1634106&extension=ts&play_token=SGvmkKukpA
-#EXTINF:-1 tvg-id="1634105" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png",21/08 01:00 AM | Twente vs Qarabagh (NL| ESPN 1 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1634106&extension=ts&play_token=MlhXxdeCeg
+#EXTINF:-1 tvg-id="1562584" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14556.png?67330",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL: POLSAT SPORT 2 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1634105&extension=ts&play_token=zTXk5FRIB6
-#EXTINF:-1 tvg-id="1634106" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png",21/08 01:00 AM | Twente vs Qarabagh (NL| ESPN 1 FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562584&extension=ts&play_token=hg5EEyX9PO
+#EXTINF:-1 tvg-id="345676" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9888.jpg?41423",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL VIP: POLSAT SPORT 2 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1634106&extension=ts&play_token=tyFd5EhGkb
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=345676&extension=ts&play_token=NXj1cvPiXB
+#EXTINF:-1 tvg-id="1991963" group-title="Live UEFA Conference League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14556.png?7024",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL: POLSAT SPORT 2 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1991963&extension=ts&play_token=E6AyaQRTft
+#EXTINF:-1 tvg-id="1991962" group-title="Live UEFA Conference League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14556.png?7024",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL: POLSAT SPORT 2 ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1991962&extension=ts&play_token=dmuWGZqqZ8
 #EXTINF:-1 tvg-id="345676" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9888.jpg?41423",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL VIP: POLSAT SPORT 2 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=345676&extension=ts&play_token=u556IgiNoP
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=345676&extension=ts&play_token=NhTN2Hck1G
 #EXTINF:-1 tvg-id="1991963" group-title="Live UEFA Conference League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14556.png?7024",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL: POLSAT SPORT 2 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1991963&extension=ts&play_token=UV9PtQaF8t
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1991963&extension=ts&play_token=6mu4sNZWwG
 #EXTINF:-1 tvg-id="1991962" group-title="Live UEFA Conference League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14556.png?7024",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL: POLSAT SPORT 2 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1991962&extension=ts&play_token=l7SpGE7TGI
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1991962&extension=ts&play_token=JMWtVOCmL0
 #EXTINF:-1 tvg-id="1530207" group-title="Live UEFA Conference League" tvg-logo="http://103.176.90.92/images/1530207.png",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL-VIP| POLSAT SPORT 2 RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1530207&extension=ts&play_token=LsXcb8UCXJ
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1530207&extension=ts&play_token=oWXCbHS0Wv
 #EXTINF:-1 tvg-id="880470" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT2.png",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL| POLSAT SPORT 2 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=880470&extension=ts&play_token=HsM71Bzfck
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=880470&extension=ts&play_token=lSDV0X6F7Z
 #EXTINF:-1 tvg-id="880330" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT2.png",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL| POLSAT SPORT 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=880330&extension=ts&play_token=cP38glpWs2
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=880330&extension=ts&play_token=9dRO2ubH9N
 #EXTINF:-1 tvg-id="1530207" group-title="Live UEFA Conference League" tvg-logo="http://103.176.90.92/images/1530207.png",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL-VIP| POLSAT SPORT 2 RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1530207&extension=ts&play_token=qAm2mkGudh
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1530207&extension=ts&play_token=GhLGmLsVpc
 #EXTINF:-1 tvg-id="880470" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT2.png",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL| POLSAT SPORT 2 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880470&extension=ts&play_token=RrsV3fFJ4u
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880470&extension=ts&play_token=B3PUEkSShf
 #EXTINF:-1 tvg-id="880330" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT2.png",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL| POLSAT SPORT 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880330&extension=ts&play_token=0RpCPGOYcc
-#EXTINF:-1 tvg-id="1917613" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917613.png",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL| POLSAT SPORT 2)
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880330&extension=ts&play_token=dVfSRzjbKk
+#EXTINF:-1 tvg-id="1562581" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14559.png?70198",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL: POLSAT SPORT PREMIUM 2 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917613&extension=ts&play_token=x2bPZduAlz
-#EXTINF:-1 tvg-id="1530207" group-title="Live UEFA Conference League" tvg-logo="http://103.176.90.92/images/1530207.png",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL-VIP| POLSAT SPORT 2 RAW)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562581&extension=ts&play_token=oMO6Mw55HP
+#EXTINF:-1 tvg-id="337612" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9868.jpg?71994",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL VIP: POLSAT SPORT PREMIUM 2 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1530207&extension=ts&play_token=GRliPo5cQk
-#EXTINF:-1 tvg-id="880470" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT2.png",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL| POLSAT SPORT 2 FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=337612&extension=ts&play_token=GCGp5JjL0O
+#EXTINF:-1 tvg-id="1991957" group-title="Live UEFA Conference League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14559.png?71272",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL: POLSAT SPORT PREMIUM 2 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=880470&extension=ts&play_token=ZxyirrJSJ7
-#EXTINF:-1 tvg-id="880330" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT2.png",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL| POLSAT SPORT 2 HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1991957&extension=ts&play_token=GBgI3KRmtr
+#EXTINF:-1 tvg-id="1991956" group-title="Live UEFA Conference League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14559.png?71272",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL: POLSAT SPORT PREMIUM 2 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=880330&extension=ts&play_token=jzSP59bzJQ
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1991956&extension=ts&play_token=m37InuVeCx
 #EXTINF:-1 tvg-id="337612" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9868.jpg?71994",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL VIP: POLSAT SPORT PREMIUM 2 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=337612&extension=ts&play_token=H2S3ASWGFb
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=337612&extension=ts&play_token=lXBOpul9jz
 #EXTINF:-1 tvg-id="1991957" group-title="Live UEFA Conference League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14559.png?71272",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL: POLSAT SPORT PREMIUM 2 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1991957&extension=ts&play_token=4NLakuqgQg
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1991957&extension=ts&play_token=e8GpeeqEWq
 #EXTINF:-1 tvg-id="1991956" group-title="Live UEFA Conference League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14559.png?71272",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL: POLSAT SPORT PREMIUM 2 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1991956&extension=ts&play_token=Q1dqknD9wR
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1991956&extension=ts&play_token=4eqSGlVRjC
 #EXTINF:-1 tvg-id="1530211" group-title="Live UEFA Conference League" tvg-logo="http://103.176.90.92/images/1530211.png",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL-VIP| POLSAT SPORT PREMIUM 2 RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1530211&extension=ts&play_token=lqwy1DP5lE
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1530211&extension=ts&play_token=B6Sqstxj6h
 #EXTINF:-1 tvg-id="880466" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM2.png",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL| POLSAT SPORT PREMIUM 2 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=880466&extension=ts&play_token=zs5DkkvUif
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=880466&extension=ts&play_token=tfcU9z5LGP
 #EXTINF:-1 tvg-id="880326" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM2.png",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL| POLSAT SPORT PREMIUM 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=880326&extension=ts&play_token=hCYAbmRreV
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=880326&extension=ts&play_token=AOBckJ4z5J
 #EXTINF:-1 tvg-id="1530211" group-title="Live UEFA Conference League" tvg-logo="http://103.176.90.92/images/1530211.png",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL-VIP| POLSAT SPORT PREMIUM 2 RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1530211&extension=ts&play_token=jSw1rZjl9K
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1530211&extension=ts&play_token=zeVG4PDwzj
 #EXTINF:-1 tvg-id="880466" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM2.png",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL| POLSAT SPORT PREMIUM 2 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880466&extension=ts&play_token=M2HmrtSR96
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880466&extension=ts&play_token=6cYsMUW9LL
 #EXTINF:-1 tvg-id="880326" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM2.png",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL| POLSAT SPORT PREMIUM 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880326&extension=ts&play_token=CbfgR902hg
-#EXTINF:-1 tvg-id="1917610" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917610.png",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL| POLSAT SPORT PREMIUM 2)
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880326&extension=ts&play_token=kzizrJrDqJ
+#EXTINF:-1 tvg-id="1954563" group-title="Live International Friendly" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15028.png?1854",21/08 01:00 AM | Real Madrid Castilla vs Zamora (TV: REAL MADRID TV ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917610&extension=ts&play_token=RiuDo1lOVc
-#EXTINF:-1 tvg-id="1530211" group-title="Live UEFA Conference League" tvg-logo="http://103.176.90.92/images/1530211.png",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL-VIP| POLSAT SPORT PREMIUM 2 RAW)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1954563&extension=ts&play_token=gc8uBAvtqI
+#EXTINF:-1 tvg-id="1340217" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13781.png?ver=99080",21/08 01:00 AM | Real Madrid Castilla vs Zamora (ES: REAL MADRID TV ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1530211&extension=ts&play_token=NaMAihRCOf
-#EXTINF:-1 tvg-id="880466" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM2.png",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL| POLSAT SPORT PREMIUM 2 FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1340217&extension=ts&play_token=D3NxaCeJhb
+#EXTINF:-1 tvg-id="840271" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11366.jpg?73286",21/08 01:00 AM | Real Madrid Castilla vs Zamora (ES: REAL MADRID TV ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=880466&extension=ts&play_token=fuJs5d763Z
-#EXTINF:-1 tvg-id="880326" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM2.png",21/08 01:00 AM | Górnik Zabrze vs Monaco (PL| POLSAT SPORT PREMIUM 2 HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=840271&extension=ts&play_token=oHePJg6KcO
+#EXTINF:-1 tvg-id="840229" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11366.jpg?11661",21/08 01:00 AM | Real Madrid Castilla vs Zamora (ES: REAL MADRID TV ᵁᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=880326&extension=ts&play_token=KTqZoWxw98
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=840229&extension=ts&play_token=qqhkkVT5df
+#EXTINF:-1 tvg-id="1672163" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14456.jpg?ver=20107",21/08 01:00 AM | Real Madrid Castilla vs Zamora (VIX: REAL MADRID TV ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1672163&extension=ts&play_token=xVX68Uk3WV
+#EXTINF:-1 tvg-id="2095838" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/LATINO/REAL-MADRID.png",21/08 01:00 AM | Real Madrid Castilla vs Zamora (VIP: REAL MADRID TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2095838&extension=ts&play_token=mPQKSbRgMQ
+#EXTINF:-1 tvg-id="2095837" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/LATINO/REAL-MADRID.png",21/08 01:00 AM | Real Madrid Castilla vs Zamora (VIP: REAL MADRID TV HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2095837&extension=ts&play_token=rUoWZ6urZg
+#EXTINF:-1 tvg-id="1541375" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13715.png?ver=71621",21/08 01:00 AM | Real Madrid Castilla vs Zamora (VD: REAL MADRID TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1541375&extension=ts&play_token=JDnfIUkDgi
 #EXTINF:-1 tvg-id="1954563" group-title="Live International Friendly" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15028.png?1854",21/08 01:00 AM | Real Madrid Castilla vs Zamora (TV: REAL MADRID TV ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1954563&extension=ts&play_token=L27bSrie6U
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1954563&extension=ts&play_token=kC8SPELnux
 #EXTINF:-1 tvg-id="1340217" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13781.png?ver=99080",21/08 01:00 AM | Real Madrid Castilla vs Zamora (ES: REAL MADRID TV ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1340217&extension=ts&play_token=hxU1Fh5ceq
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1340217&extension=ts&play_token=Lf47lhx0Qh
 #EXTINF:-1 tvg-id="840271" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11366.jpg?73286",21/08 01:00 AM | Real Madrid Castilla vs Zamora (ES: REAL MADRID TV ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=840271&extension=ts&play_token=UklxiLsHin
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=840271&extension=ts&play_token=2OnXDQFmO9
 #EXTINF:-1 tvg-id="840229" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11366.jpg?11661",21/08 01:00 AM | Real Madrid Castilla vs Zamora (ES: REAL MADRID TV ᵁᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=840229&extension=ts&play_token=rGo5TVVPCh
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=840229&extension=ts&play_token=zYpPla5yxw
 #EXTINF:-1 tvg-id="1672163" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14456.jpg?ver=20107",21/08 01:00 AM | Real Madrid Castilla vs Zamora (VIX: REAL MADRID TV ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1672163&extension=ts&play_token=Mi80OcOTJS
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1672163&extension=ts&play_token=sTz92EzFYM
 #EXTINF:-1 tvg-id="2095838" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/LATINO/REAL-MADRID.png",21/08 01:00 AM | Real Madrid Castilla vs Zamora (VIP: REAL MADRID TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2095838&extension=ts&play_token=onRqJvW6Yx
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2095838&extension=ts&play_token=ecPrcfMwVg
 #EXTINF:-1 tvg-id="2095837" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/LATINO/REAL-MADRID.png",21/08 01:00 AM | Real Madrid Castilla vs Zamora (VIP: REAL MADRID TV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2095837&extension=ts&play_token=hmVIRiUOFp
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2095837&extension=ts&play_token=vFbz2NkbPv
 #EXTINF:-1 tvg-id="1796581" group-title="Live International Friendly" tvg-logo="http://103.176.90.92/images/1796581.png",21/08 01:00 AM | Real Madrid Castilla vs Zamora (ES| REAL MADRID TV FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1796581&extension=ts&play_token=RaQI2DuJIa
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1796581&extension=ts&play_token=xx3LUxa1ez
 #EXTINF:-1 tvg-id="1796581" group-title="Live International Friendly" tvg-logo="http://103.176.90.92/images/1796581.png",21/08 01:00 AM | Real Madrid Castilla vs Zamora (ES| REAL MADRID TV FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1796581&extension=ts&play_token=MmGRhKo54y
-#EXTINF:-1 tvg-id="1796581" group-title="Live International Friendly" tvg-logo="http://103.176.90.92/images/1796581.png",21/08 01:00 AM | Real Madrid Castilla vs Zamora (ES| REAL MADRID TV FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1796581&extension=ts&play_token=vTppLFOokq
+#EXTINF:-1 tvg-id="2617" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3989.png?28579",21/08 01:15 AM | Sion vs Ajax (RS: Arena Sport 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1796581&extension=ts&play_token=JfVkvY5YWu
-#EXTINF:-1 tvg-id="1861861" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/arenasport2.png",21/08 01:15 AM | Sion vs Ajax (RS| ARENA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2617&extension=ts&play_token=JuqmNC7qgE
+#EXTINF:-1 tvg-id="437219" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?7255",21/08 01:30 AM | Motherwell vs Freiburg (US: ESPN USA HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1861861&extension=ts&play_token=bskoD7JDbo
-#EXTINF:-1 tvg-id="110911" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT2.png",21/08 01:15 AM | Sion vs Ajax (RS| ARENA SPORT 2 HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=437219&extension=ts&play_token=ND6RiWvN5N
+#EXTINF:-1 tvg-id="325020" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?ver=35784",21/08 01:30 AM | Motherwell vs Freiburg (US: ESPN HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=110911&extension=ts&play_token=oPzUdniHbf
-#EXTINF:-1 tvg-id="110912" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT2.png",21/08 01:15 AM | Sion vs Ajax (RS| ARENA SPORT 2)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=325020&extension=ts&play_token=gvviEhWzkq
+#EXTINF:-1 tvg-id="437219" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?7255",21/08 01:30 AM | Motherwell vs Freiburg (US: ESPN USA HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=110912&extension=ts&play_token=2D5Z92iOMJ
-#EXTINF:-1 tvg-id="161932" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT2.png",21/08 01:15 AM | Sion vs Ajax (RS| ARENA SPORT 2 HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=437219&extension=ts&play_token=kADxWDPMyo
+#EXTINF:-1 tvg-id="325020" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?ver=35784",21/08 01:30 AM | Motherwell vs Freiburg (US: ESPN HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=161932&extension=ts&play_token=YG5ek2m5wz
-#EXTINF:-1 tvg-id="1861860" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/arenasport3.png",21/08 01:45 AM | Hearts vs Rapid Vienna (RS| ARENA SPORT 3 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=325020&extension=ts&play_token=81MxXoo5qu
+#EXTINF:-1 tvg-id="45579" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/USA/45579.png",21/08 01:30 AM | Motherwell vs Freiburg (US| ESPN HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1861860&extension=ts&play_token=9yR8aI4Q5E
-#EXTINF:-1 tvg-id="110909" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT3.png",21/08 01:45 AM | Hearts vs Rapid Vienna (RS| ARENA SPORT 3 HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=45579&extension=ts&play_token=Srarne99PG
+#EXTINF:-1 tvg-id="45579" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/USA/45579.png",21/08 01:30 AM | Motherwell vs Freiburg (US| ESPN HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=110909&extension=ts&play_token=znfjigfcuM
-#EXTINF:-1 tvg-id="110910" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT3.png",21/08 01:45 AM | Hearts vs Rapid Vienna (RS| ARENA SPORT 3)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=45579&extension=ts&play_token=NVQH1w7qZT
+#EXTINF:-1 tvg-id="2615" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3984.png?25654",21/08 01:45 AM | Hearts vs Rapid Vienna (RS: Arena Sport 3 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=110910&extension=ts&play_token=aaFOFz1o2V
-#EXTINF:-1 tvg-id="161933" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT3.png",21/08 01:45 AM | Hearts vs Rapid Vienna (RS| ARENA SPORT 3 FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2615&extension=ts&play_token=5VcVrv3Ann
+#EXTINF:-1 tvg-id="1523291" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/logos/1913071.png",21/08 01:45 AM | Hearts vs Rapid Vienna (AT: ORF 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=161933&extension=ts&play_token=txbafqQVpR
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1523291&extension=ts&play_token=HiC8V2y1DZ
+#EXTINF:-1 tvg-id="539288" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6523.jpg?74305",21/08 01:45 AM | Hearts vs Rapid Vienna (AT: ORF 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=539288&extension=ts&play_token=EUTknscnt8
+#EXTINF:-1 tvg-id="409256" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6517.jpg?34659",21/08 01:45 AM | Hearts vs Rapid Vienna (AT: ORF 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=409256&extension=ts&play_token=DTYuToixFB
 #EXTINF:-1 tvg-id="1523291" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/logos/1913071.png",21/08 01:45 AM | Hearts vs Rapid Vienna (AT: ORF 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1523291&extension=ts&play_token=pK3LjF7ZXx
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1523291&extension=ts&play_token=bJZP0CYXDb
 #EXTINF:-1 tvg-id="539288" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6523.jpg?74305",21/08 01:45 AM | Hearts vs Rapid Vienna (AT: ORF 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=539288&extension=ts&play_token=7DVkztUwx6
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=539288&extension=ts&play_token=6Zbb8FxGOL
 #EXTINF:-1 tvg-id="409256" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6517.jpg?34659",21/08 01:45 AM | Hearts vs Rapid Vienna (AT: ORF 1 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=409256&extension=ts&play_token=fmht74FE4H
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=409256&extension=ts&play_token=MqwmAak0nq
 #EXTINF:-1 tvg-id="1913071" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/logos/1913071.png",21/08 01:45 AM | Hearts vs Rapid Vienna (AT| ORF 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 299A61A14EA145A380C1B264B5414EFD
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1913071&extension=ts&play_token=njKt2Wr6FQ
+#EXTVLCOPT:http-header=Authorization: Bearer 1F2E9268455893E56AFCC6A7FBCA1519
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1913071&extension=ts&play_token=iA87Nqo384
 #EXTINF:-1 tvg-id="1913071" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/logos/1913071.png",21/08 01:45 AM | Hearts vs Rapid Vienna (AT| ORF 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F4614C89EC0B970935B9267F9420B935
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1913071&extension=ts&play_token=OUOU42f0f1
-#EXTINF:-1 tvg-id="1913071" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/logos/1913071.png",21/08 01:45 AM | Hearts vs Rapid Vienna (AT| ORF 1 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer A478A736B65A9B52B93B6A7CFDCD46EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1913071&extension=ts&play_token=iiocq4drTs
+#EXTINF:-1 tvg-id="405361" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3992.png?42941",21/08 01:45 AM | Rangers vs Jablonec (RS: Arena Sport 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1913071&extension=ts&play_token=X8tRsCilwJ
-#EXTINF:-1 tvg-id="1861856" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/arenasport7.png",21/08 01:45 AM | Rangers vs Jablonec (RS| ARENA SPORT 7 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=405361&extension=ts&play_token=UsQKJx7QtR
+#EXTINF:-1 tvg-id="460829" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",21/08 02:00 AM | Dinamo City vs Pafos FC (CY: CYTAVISION SPORTS 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1861856&extension=ts&play_token=5EutheSUox
-#EXTINF:-1 tvg-id="71907" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT7.png",21/08 01:45 AM | Rangers vs Jablonec (RS| ARENA SPORT 7 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8FEC05F6AA537A4EE33F9BF7220542BD
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=71907&extension=ts&play_token=Ah4FkVQ5re
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=460829&extension=ts&play_token=YwfF4iPYRP
 #EXTINF:-1 tvg-id="460829" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",21/08 02:00 AM | Dinamo City vs Pafos FC (CY: CYTAVISION SPORTS 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=460829&extension=ts&play_token=14nVcsVpNJ
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=460829&extension=ts&play_token=Gtn126q0Jg
+#EXTINF:-1 tvg-id="2084648" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",21/08 02:00 AM | Dinamo City vs Pafos FC (CY: CYTAVISION SPORT 2 ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2084648&extension=ts&play_token=jmeIW0CoJZ
+#EXTINF:-1 tvg-id="842683" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",21/08 02:00 AM | Dinamo City vs Pafos FC (CY: CYTAVISION SPORT 2 ᴿᴬᵂ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842683&extension=ts&play_token=J9Jift2c1l
 #EXTINF:-1 tvg-id="2084648" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",21/08 02:00 AM | Dinamo City vs Pafos FC (CY: CYTAVISION SPORT 2 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2084648&extension=ts&play_token=UrVd95rEQ4
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2084648&extension=ts&play_token=j8HGubGuVZ
 #EXTINF:-1 tvg-id="842683" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",21/08 02:00 AM | Dinamo City vs Pafos FC (CY: CYTAVISION SPORT 2 ᴿᴬᵂ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0455DF01FF30E31D3661A35859E995C4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=842683&extension=ts&play_token=WvwFGqXcRY
+#EXTVLCOPT:http-header=Authorization: Bearer 66A54BE281178A643BD5FE8A45DCAB3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=842683&extension=ts&play_token=IcjqONvAd5
+#EXTINF:-1 tvg-id="1107130" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13852.png?ver=77207",21/08 02:00 AM | Dinamo City vs Pafos FC (AL-VIP: SUPER SPORT 1 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2078E16BBD1025ED0022B639C672A560
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1107130&extension=ts&play_token=zIPgY64cXy

@@ -254,6 +254,16 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=294507&exten
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 0BEA80D899ED28EDE43330F7666F2FD7
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=294515&extension=ts&play_token=9RlL8cehgq
+#EXTINF:-1 tvg-id="1862071" group-title="Live UEFA Europa League" tvg-logo="https://picons.cmshulk.com/picons/arenasport1.png",21/08 12:00 AM | Besiktas vs Kauno Zalgiris (BA| ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C129E40D6FA4596E133FD618937CBC7
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1862071&extension=ts&play_token=FIxu5MeWBd
+#EXTINF:-1 tvg-id="908230" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT1.png",21/08 12:00 AM | Besiktas vs Kauno Zalgiris (BA| ARENA SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C129E40D6FA4596E133FD618937CBC7
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=908230&extension=ts&play_token=xCxfO97XkS
 #EXTINF:-1 tvg-id="2619" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3987.png?35228",21/08 12:00 AM | Besiktas vs Kauno Zalgiris (RS: Arena Sport 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
@@ -349,6 +359,16 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=4186&extensi
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 0BEA80D899ED28EDE43330F7666F2FD7
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=819644&extension=ts&play_token=FOGua02gp1
+#EXTINF:-1 tvg-id="1862068" group-title="Live UEFA Conference League" tvg-logo="https://picons.cmshulk.com/picons/arenasport4.png",21/08 12:00 AM | Nordsjælland vs St Gallen (BA| ARENA SPORT 4 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C129E40D6FA4596E133FD618937CBC7
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1862068&extension=ts&play_token=SEbyBOD6o6
+#EXTINF:-1 tvg-id="1311319" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT4.png",21/08 12:00 AM | Nordsjælland vs St Gallen (BA| ARENA SPORT 4 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C129E40D6FA4596E133FD618937CBC7
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1311319&extension=ts&play_token=hBgLTmpOrG
 #EXTINF:-1 tvg-id="2613" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3985.png?21959",21/08 12:00 AM | Nordsjælland vs St Gallen (RS: Arena Sport 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
@@ -724,6 +744,11 @@ http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1921307&
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 3C129E40D6FA4596E133FD618937CBC7
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917558&extension=ts&play_token=h23De6LFst
+#EXTINF:-1 tvg-id="1862067" group-title="Live UEFA Conference League" tvg-logo="https://picons.cmshulk.com/picons/arenasport5.png",21/08 12:45 AM | PAOK Thessaloniki vs Brann (BA| ARENA SPORT 5 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C129E40D6FA4596E133FD618937CBC7
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1862067&extension=ts&play_token=rZ5T3WBFON
 #EXTINF:-1 tvg-id="405360" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3980.png?87305",21/08 12:45 AM | PAOK Thessaloniki vs Brann (RS: Arena Sport 6 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
@@ -1074,6 +1099,16 @@ http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1796581&ext
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 3C129E40D6FA4596E133FD618937CBC7
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1796581&extension=ts&play_token=fuBVfkgakw
+#EXTINF:-1 tvg-id="1862070" group-title="Live UEFA Conference League" tvg-logo="https://picons.cmshulk.com/picons/arenasport2.png",21/08 01:15 AM | Sion vs Ajax (BA| ARENA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C129E40D6FA4596E133FD618937CBC7
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1862070&extension=ts&play_token=HATzDKs93f
+#EXTINF:-1 tvg-id="1311321" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT2.png",21/08 01:15 AM | Sion vs Ajax (BA| ARENA SPORT 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C129E40D6FA4596E133FD618937CBC7
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1311321&extension=ts&play_token=8FxojLVVYQ
 #EXTINF:-1 tvg-id="2617" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3989.png?28579",21/08 01:15 AM | Sion vs Ajax (RS: Arena Sport 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
@@ -1179,6 +1214,11 @@ http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1913071&ext
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 3C129E40D6FA4596E133FD618937CBC7
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1913071&extension=ts&play_token=EgyIwZAIfa
+#EXTINF:-1 tvg-id="1862066" group-title="Live UEFA Conference League" tvg-logo="https://picons.cmshulk.com/picons/arenasport6.png",21/08 01:45 AM | Rangers vs Jablonec (BA| ARENA SPORT 6 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C129E40D6FA4596E133FD618937CBC7
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1862066&extension=ts&play_token=nsSjTjRzbz
 #EXTINF:-1 tvg-id="405361" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3992.png?42941",21/08 01:45 AM | Rangers vs Jablonec (RS: Arena Sport 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
@@ -1194,6 +1234,16 @@ http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1861856&
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 3C129E40D6FA4596E133FD618937CBC7
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=71907&extension=ts&play_token=Z7RtKdHiNe
+#EXTINF:-1 tvg-id="1862071" group-title="Live UEFA Conference League" tvg-logo="https://picons.cmshulk.com/picons/arenasport1.png",21/08 02:00 AM | Sporting Braga vs Austria Vienna (BA| ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C129E40D6FA4596E133FD618937CBC7
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1862071&extension=ts&play_token=FIxu5MeWBd
+#EXTINF:-1 tvg-id="908230" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT1.png",21/08 02:00 AM | Sporting Braga vs Austria Vienna (BA| ARENA SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C129E40D6FA4596E133FD618937CBC7
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=908230&extension=ts&play_token=xCxfO97XkS
 #EXTINF:-1 tvg-id="460829" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",21/08 02:00 AM | Dinamo City vs Pafos FC (CY: CYTAVISION SPORTS 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT

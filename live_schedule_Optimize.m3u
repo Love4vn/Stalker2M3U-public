@@ -1,34 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1862067" group-title="Live UEFA Conference League" tvg-logo="https://picons.cmshulk.com/picons/arenasport5.png",21/08 12:45 AM | PAOK Thessaloniki vs Brann (BA| ARENA SPORT 5 ⱽᴵᴾ ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1862067&extension=ts&play_token=tLOBdK8BLW
-#EXTINF:-1 tvg-id="1862067" group-title="Live UEFA Conference League" tvg-logo="https://picons.cmshulk.com/picons/arenasport5.png",21/08 12:45 AM | PAOK Thessaloniki vs Brann (BA| ARENA SPORT 5 ⱽᴵᴾ ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D62A9B9D68ED756F847714B7350C03FD
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1862067&extension=ts&play_token=CxE0VvFrDp
-#EXTINF:-1 tvg-id="1861857" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/arenasport6.png",21/08 12:45 AM | PAOK Thessaloniki vs Brann (RS| ARENA SPORT 6 ⱽᴵᴾ ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1861857&extension=ts&play_token=enDpbKv2gy
-#EXTINF:-1 tvg-id="161936" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT6.png",21/08 12:45 AM | PAOK Thessaloniki vs Brann (RS| ARENA SPORT 6 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C90891D974F4289AB11D0A94DC1A9FEA
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=161936&extension=ts&play_token=a49J3Q3jLB
-#EXTINF:-1 tvg-id="1861857" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/arenasport6.png",21/08 12:45 AM | PAOK Thessaloniki vs Brann (RS| ARENA SPORT 6 ⱽᴵᴾ ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D62A9B9D68ED756F847714B7350C03FD
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1861857&extension=ts&play_token=4OsikHd4uC
-#EXTINF:-1 tvg-id="161936" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT6.png",21/08 12:45 AM | PAOK Thessaloniki vs Brann (RS| ARENA SPORT 6 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D62A9B9D68ED756F847714B7350C03FD
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=161936&extension=ts&play_token=MgFX6031sl
 #EXTINF:-1 tvg-id="1432209" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/COSMOTESPORT1.png",21/08 01:00 AM | OFI Crete vs CSKA Sofia (GR| COSMOTE SPORT 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT

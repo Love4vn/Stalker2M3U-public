@@ -1,264 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="234334" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/USA/ES+.png",23/08 02:30 AM | US ESPN PLUS 58 SOCCER – ESPANYOL @ REAL MADRID – /
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5EAB19B898F176163F2760FF90201030
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/234334
-#EXTINF:-1 tvg-id="234335" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/USA/ES+.png",23/08 02:30 AM | US ESPN PLUS 59 SOCCER – ESPANYOL @ REAL MADRID (ESP) – /
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5EAB19B898F176163F2760FF90201030
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/234335
-#EXTINF:-1 tvg-id="1119216" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/CANADA/tsn.png",23/08 02:30 AM | CA TSN+ 29 – ESPANYOL @ REAL MADRID – /
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5EAB19B898F176163F2760FF90201030
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1119216
-#EXTINF:-1 tvg-id="1924705" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",23/08 02:30 AM | LIVE EN ESPAÑOL-RCD ESPANYOL VS. REAL MADRID (JORNADA 2) (US) 8K US: ESPN+ 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BBE366D49C5149536A55DAAB631FBB91
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1924705&extension=ts&play_token=2CphWHmtIS
-#EXTINF:-1 tvg-id="1601661" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",23/08 02:30 AM | US (ESPN+ 058) Soccer: Espanyol vs. Real Madrid ( :05)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BBE366D49C5149536A55DAAB631FBB91
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1601661&extension=ts&play_token=5ySahi9U7K
-#EXTINF:-1 tvg-id="1601660" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",23/08 02:30 AM | US (ESPN+ 059) Soccer: Espanyol vs. Real Madrid (ESP) ( :10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BBE366D49C5149536A55DAAB631FBB91
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1601660&extension=ts&play_token=qZ7qNUetXi
-#EXTINF:-1 tvg-id="2058113" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",23/08 02:30 AM | LIVE EN ESPAÑOL-RCD ESPANYOL VS. REAL MADRID (JORNADA 2) (US) 8K US: ESPN+ 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5C76C5D1E72EFE4895755062561101EB
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2058113&extension=ts&play_token=CPx02BSVqM
-#EXTINF:-1 tvg-id="1949854" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",23/08 02:30 AM | US (ESPN+ 058) Soccer: Espanyol vs. Real Madrid ( :05)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5C76C5D1E72EFE4895755062561101EB
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949854&extension=ts&play_token=TIZYOFDLFk
-#EXTINF:-1 tvg-id="1949853" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",23/08 02:30 AM | US (ESPN+ 059) Soccer: Espanyol vs. Real Madrid (ESP) ( :10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5C76C5D1E72EFE4895755062561101EB
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949853&extension=ts&play_token=Ij4UEfxHJb
-#EXTINF:-1 tvg-id="2058113" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",23/08 02:30 AM | LIVE EN ESPAÑOL-RCD ESPANYOL VS. REAL MADRID (JORNADA 2) (US) 8K US: ESPN+ 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 02EE5C31F59E59270DE966F52D89CD7E
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2058113&extension=ts&play_token=MdgRYWEWNN
-#EXTINF:-1 tvg-id="1949854" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",23/08 02:30 AM | US (ESPN+ 058) Soccer: Espanyol vs. Real Madrid ( :05)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 02EE5C31F59E59270DE966F52D89CD7E
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1949854&extension=ts&play_token=QBP0qam2fU
-#EXTINF:-1 tvg-id="1949853" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",23/08 02:30 AM | US (ESPN+ 059) Soccer: Espanyol vs. Real Madrid (ESP) ( :10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 02EE5C31F59E59270DE966F52D89CD7E
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1949853&extension=ts&play_token=MoqWEnjayI
-#EXTINF:-1 tvg-id="1909863" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",23/08 02:30 AM | CA (TSN+ 007) : Espanyol vs. Real Madrid ( :05)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5C76C5D1E72EFE4895755062561101EB
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909863&extension=ts&play_token=NveRTRWe1Y
-#EXTINF:-1 tvg-id="1909770" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",23/08 02:30 AM | CA (TSN+ 100) : Real Sociedad vs. Espanyol ( :00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5C76C5D1E72EFE4895755062561101EB
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909770&extension=ts&play_token=mHD7eVmPps
-#EXTINF:-1 tvg-id="1100774" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",23/08 02:30 AM | EN ESPANYOL VS REAL MADRID
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5EAB19B898F176163F2760FF90201030
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100774
-#EXTINF:-1 tvg-id="1939873" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",23/08 02:30 AM | Live Espanyol vs. Real Madrid all 8K CA: SOCCER 83
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BBE366D49C5149536A55DAAB631FBB91
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939873&extension=ts&play_token=KSvgXC3oXm
-#EXTINF:-1 tvg-id="2063948" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",23/08 02:30 AM | Live Espanyol vs. Real Madrid all 8K FR: SOCCER 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BBE366D49C5149536A55DAAB631FBB91
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2063948&extension=ts&play_token=m0oDmV3cVS
-#EXTINF:-1 tvg-id="1988057" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",23/08 02:30 AM | Live Espanyol vs. Real Madrid all 8K ES: SOCCER 69
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BBE366D49C5149536A55DAAB631FBB91
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988057&extension=ts&play_token=ZjKdBuu1aK
-#EXTINF:-1 tvg-id="1881057" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",23/08 02:30 AM | Live RCD Espanyol Real Madrid | 8K ES: DAZN 79
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BBE366D49C5149536A55DAAB631FBB91
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1881057&extension=ts&play_token=ffk4l51x4w
-#EXTINF:-1 tvg-id="1919071" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",23/08 02:30 AM | Live Espanyol vs. Real Madrid all 8K BR: SOCCER 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BBE366D49C5149536A55DAAB631FBB91
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919071&extension=ts&play_token=esUCXmXMbH
-#EXTINF:-1 tvg-id="1918784" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",23/08 02:30 AM | Live Espanyol vs. Real Madrid all 8K DE: SOCCER 93
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BBE366D49C5149536A55DAAB631FBB91
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1918784&extension=ts&play_token=MXbcRJMU11
-#EXTINF:-1 tvg-id="1881207" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",23/08 02:30 AM | Live Espanyol Real Madrid | 8K DE: DAZN 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BBE366D49C5149536A55DAAB631FBB91
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1881207&extension=ts&play_token=s8MkUX45V3
-#EXTINF:-1 tvg-id="1825962" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",23/08 02:30 AM | LIVE ESPANYOL REAL MADRID (SE) 8K SE: PLAY+ 41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BBE366D49C5149536A55DAAB631FBB91
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1825962&extension=ts&play_token=11HHO3yQEg
-#EXTINF:-1 tvg-id="1098706" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",23/08 02:30 AM | LIVE ESPANYOL REAL MADRID (SE) 8K SE: DISNEY+ 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BBE366D49C5149536A55DAAB631FBB91
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1098706&extension=ts&play_token=9Td0DT9TR8
-#EXTINF:-1 tvg-id="942816" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",23/08 02:30 AM | LIVE ESPANYOL – REAL MADRID (NO) 8K NO: TV2 PLAY 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BBE366D49C5149536A55DAAB631FBB91
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=942816&extension=ts&play_token=iUxiioUD7i
-#EXTINF:-1 tvg-id="2113100" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 02:30 AM | Live Espanyol vs. Real Madrid all 8K FR: SOCCER 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5C76C5D1E72EFE4895755062561101EB
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113100&extension=ts&play_token=kY0JMVUZHY
-#EXTINF:-1 tvg-id="2062248" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 02:30 AM | Live Espanyol vs. Real Madrid all 8K CA: SOCCER 83
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5C76C5D1E72EFE4895755062561101EB
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062248&extension=ts&play_token=cRm1Luw4nx
-#EXTINF:-1 tvg-id="2040496" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 02:30 AM | Live Espanyol Real Madrid | 8K DE: DAZN 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5C76C5D1E72EFE4895755062561101EB
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040496&extension=ts&play_token=hSNUzUS48K
-#EXTINF:-1 tvg-id="2054959" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 02:30 AM | Live Espanyol vs. Real Madrid all 8K DE: SOCCER 93
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5C76C5D1E72EFE4895755062561101EB
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2054959&extension=ts&play_token=7KRyBnP9wl
-#EXTINF:-1 tvg-id="2072484" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 02:30 AM | Live Espanyol vs. Real Madrid all 8K ES: SOCCER 69
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5C76C5D1E72EFE4895755062561101EB
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072484&extension=ts&play_token=toiIEnwQ7t
-#EXTINF:-1 tvg-id="2040652" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 02:30 AM | Live RCD Espanyol Real Madrid | 8K ES: DAZN 79
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5C76C5D1E72EFE4895755062561101EB
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040652&extension=ts&play_token=KN3t8r6yvp
-#EXTINF:-1 tvg-id="1605764" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",23/08 02:30 AM | LIVE ESPANYOL – REAL MADRID (NO) 8K NO: TV2 PLAY 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5C76C5D1E72EFE4895755062561101EB
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1605764&extension=ts&play_token=r0wapIYCRu
-#EXTINF:-1 tvg-id="2072484" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 02:30 AM | Live Espanyol vs. Real Madrid all 8K ES: SOCCER 69
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 02EE5C31F59E59270DE966F52D89CD7E
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2072484&extension=ts&play_token=fU5iUqyg4G
-#EXTINF:-1 tvg-id="2040652" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 02:30 AM | Live RCD Espanyol Real Madrid | 8K ES: DAZN 79
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 02EE5C31F59E59270DE966F52D89CD7E
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040652&extension=ts&play_token=yAVwKsTeDh
-#EXTINF:-1 tvg-id="2040496" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 02:30 AM | Live Espanyol Real Madrid | 8K DE: DAZN 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 02EE5C31F59E59270DE966F52D89CD7E
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040496&extension=ts&play_token=Uh6A3wldb7
-#EXTINF:-1 tvg-id="2054959" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 02:30 AM | Live Espanyol vs. Real Madrid all 8K DE: SOCCER 93
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 02EE5C31F59E59270DE966F52D89CD7E
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2054959&extension=ts&play_token=Y9NWte4Cnq
-#EXTINF:-1 tvg-id="2021207" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",23/08 02:30 AM | LIVE ESPANYOL REAL MADRID (SE) 8K SE: PLAY+ 41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 02EE5C31F59E59270DE966F52D89CD7E
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2021207&extension=ts&play_token=CGaQBjNBQG
-#EXTINF:-1 tvg-id="1688635" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",23/08 02:30 AM | LIVE ESPANYOL REAL MADRID (SE) 8K SE: DISNEY+ 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 02EE5C31F59E59270DE966F52D89CD7E
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1688635&extension=ts&play_token=CW6QThgLcE
-#EXTINF:-1 tvg-id="1605764" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",23/08 02:30 AM | LIVE ESPANYOL – REAL MADRID (NO) 8K NO: TV2 PLAY 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 02EE5C31F59E59270DE966F52D89CD7E
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1605764&extension=ts&play_token=VGDPPiNDsE
-#EXTINF:-1 tvg-id="1610990" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",23/08 02:30 AM | Espanyol vs. Real Madrid @ :TSN+ 67
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BBE366D49C5149536A55DAAB631FBB91
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610990&extension=ts&play_token=6SjfxgorIG
-#EXTINF:-1 tvg-id="1840554" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391",23/08 02:30 AM | Fútbol: RCD Espanyol vs Real Madrid @ :MAX ES 31
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BBE366D49C5149536A55DAAB631FBB91
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1840554&extension=ts&play_token=f682dsaPk6
-#EXTINF:-1 tvg-id="1704112" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",23/08 02:30 AM | Espanyol vs Real Madrid @ :TeliaPlay SE 40
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BBE366D49C5149536A55DAAB631FBB91
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1704112&extension=ts&play_token=pz77MV5LUB
-#EXTINF:-1 tvg-id="1702953" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",23/08 02:30 AM | Espanyol vs Real Madrid @ :Viaplay NO 49
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BBE366D49C5149536A55DAAB631FBB91
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1702953&extension=ts&play_token=PszA1TPJLd
-#EXTINF:-1 tvg-id="2026517" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MAX-MAX.png",23/08 02:30 AM | Fútbol: RCD Espanyol vs Real Madrid @ :MAX ES 31
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5C76C5D1E72EFE4895755062561101EB
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2026517&extension=ts&play_token=CtBI3gBXF6
-#EXTINF:-1 tvg-id="1996067" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",23/08 02:30 AM | Espanyol vs Real Madrid @ :Viaplay NO 49
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5C76C5D1E72EFE4895755062561101EB
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1996067&extension=ts&play_token=sexUzLmKh1
-#EXTINF:-1 tvg-id="2026517" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MAX-MAX.png",23/08 02:30 AM | Fútbol: RCD Espanyol vs Real Madrid @ :MAX ES 31
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 02EE5C31F59E59270DE966F52D89CD7E
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2026517&extension=ts&play_token=0cxwq39HFQ
-#EXTINF:-1 tvg-id="1991500" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",23/08 02:30 AM | Espanyol vs Real Madrid @ :TeliaPlay SE 40
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 02EE5C31F59E59270DE966F52D89CD7E
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1991500&extension=ts&play_token=4cwLjINxm0
-#EXTINF:-1 tvg-id="1996067" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",23/08 02:30 AM | Espanyol vs Real Madrid @ :Viaplay NO 49
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 02EE5C31F59E59270DE966F52D89CD7E
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1996067&extension=ts&play_token=ToG3jOJO1X
-#EXTINF:-1 tvg-id="1100776" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",23/08 02:30 AM | FR ESPANYOL VS REAL MADRID
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5EAB19B898F176163F2760FF90201030
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100776
-#EXTINF:-1 tvg-id="1100777" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",23/08 02:30 AM | AR ESPANYOL VS REAL MADRID
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5EAB19B898F176163F2760FF90201030
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100777
-#EXTINF:-1 tvg-id="1100780" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",23/08 02:30 AM | ES ESPANYOL VS REAL MADRID
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5EAB19B898F176163F2760FF90201030
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100780
-#EXTINF:-1 tvg-id="1015834" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",23/08 02:30 AM | ALB ESPANYOL VS REAL MADRID
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5EAB19B898F176163F2760FF90201030
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1015834
 #EXTINF:-1 tvg-id="1535929" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",23/08 08:00 PM | AU (STAN 33) Studio Coverage: Manchester City v Bournemouth Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
@@ -464,3 +204,23 @@ http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910724&ext
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 02EE5C31F59E59270DE966F52D89CD7E
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910724&extension=ts&play_token=G2OPOOrqyZ
+#EXTINF:-1 tvg-id="1910722" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",24/08 01:45 AM | US (Paramount 020) Atalanta vs. Sassuolo ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5C76C5D1E72EFE4895755062561101EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910722&extension=ts&play_token=AkY3fiTqRD
+#EXTINF:-1 tvg-id="1910722" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",24/08 01:45 AM | US (Paramount 020) Atalanta vs. Sassuolo ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 02EE5C31F59E59270DE966F52D89CD7E
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910722&extension=ts&play_token=WTtZgIisnh
+#EXTINF:-1 tvg-id="1910721" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",24/08 01:45 AM | US (Paramount 021) Torino vs. Milan ( :05)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5C76C5D1E72EFE4895755062561101EB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910721&extension=ts&play_token=zHvlV6OwKe
+#EXTINF:-1 tvg-id="1910721" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",24/08 01:45 AM | US (Paramount 021) Torino vs. Milan ( :05)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 02EE5C31F59E59270DE966F52D89CD7E
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910721&extension=ts&play_token=uY1ph2ibZK

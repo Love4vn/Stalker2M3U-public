@@ -1,579 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1831711" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644",22/08 11:30 PM | US (Peacock 008) Brentford v. Spurs ( :00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1831711&extension=ts&play_token=4uKr7tcPz8
-#EXTINF:-1 tvg-id="1535945" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 11:30 PM | AU (STAN 17) Studio Coverage: Brentford v Tottenham Hotspur Matchweek 1 2026/2027 ( :29)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535945&extension=ts&play_token=LUUWXOhDae
-#EXTINF:-1 tvg-id="1910869" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png",22/08 11:30 PM | US (Peacock 008) Brentford v. Spurs ( :00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910869&extension=ts&play_token=cRMaEursye
-#EXTINF:-1 tvg-id="1909959" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",22/08 11:30 PM | AU (STAN 17) Studio Coverage: Brentford v Tottenham Hotspur Matchweek 1 2026/2027 ( :29)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909959&extension=ts&play_token=VTVbAas8Mn
-#EXTINF:-1 tvg-id="1910869" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png",22/08 11:30 PM | US (Peacock 008) Brentford v. Spurs ( :00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910869&extension=ts&play_token=1o3JB2SYaR
-#EXTINF:-1 tvg-id="1909959" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",22/08 11:30 PM | AU (STAN 17) Studio Coverage: Brentford v Tottenham Hotspur Matchweek 1 2026/2027 ( :29)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1909959&extension=ts&play_token=sLKqqfClJL
-#EXTINF:-1 tvg-id="1966340" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 11:30 PM | AU (STAN 17) Studio Coverage: Brentford v Tottenham Hotspur Matchweek 1 2026/2027 ( :29)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966340&extension=ts&play_token=FLGwQV9t16
-#EXTINF:-1 tvg-id="1454418" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",22/08 11:30 PM | 05: Brentford vs Tottenham Hotspur
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454418&extension=ts&play_token=sAFixdGp6l
-#EXTINF:-1 tvg-id="1454417" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",22/08 11:30 PM | 05: Brentford vs Tottenham Hotspur
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454417&extension=ts&play_token=J7ZY065J8L
-#EXTINF:-1 tvg-id="1454416" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",22/08 11:30 PM | 05: Brentford vs Tottenham Hotspur
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454416&extension=ts&play_token=BNgmxet6yx
-#EXTINF:-1 tvg-id="1918809" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 11:30 PM | Live Brentford vs. Spurs all 8K DE: SOCCER 68
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918809&extension=ts&play_token=aML6rYWypz
-#EXTINF:-1 tvg-id="918725" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 11:30 PM | LIVE BRENTFORD TOTTENHAM (NL) 8K NL: VIAPLAY 26
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=918725&extension=ts&play_token=FlLKdk6cZn
-#EXTINF:-1 tvg-id="1988113" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 11:30 PM | Brentford vs. Spurs all | 8K ES: SOCCER 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988113&extension=ts&play_token=gHUbwplhdQ
-#EXTINF:-1 tvg-id="1881115" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",22/08 11:30 PM | Live Brentford Tottenham | 8K ES: DAZN 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881115&extension=ts&play_token=OKpNjv2P9q
-#EXTINF:-1 tvg-id="924155" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391",22/08 11:30 PM | LIVE BRENTFORD TOTTENHAM HOTSPUR 2026/27 JORNADA 1 (ES) 8K ES: MAX 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=924155&extension=ts&play_token=H9Jecs6Mnh
-#EXTINF:-1 tvg-id="1810012" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 11:30 PM | LIVE PL-STUDION: BRENTFORD TOTTENHAM (SE) 8K SE: VIAPLAY 35
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1810012&extension=ts&play_token=fKAczjWEX8
-#EXTINF:-1 tvg-id="1825975" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",22/08 11:30 PM | LIVE BRENTFORD TOTTENHAM (SE) 8K SE: PLAY+ 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1825975&extension=ts&play_token=hxqUJUg12E
-#EXTINF:-1 tvg-id="1863188" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 11:30 PM | LIVE BRENTFORD TOTTENHAM (DK) 8K DK: VIAPLAY 39
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863188&extension=ts&play_token=aNzdeBe2Bz
-#EXTINF:-1 tvg-id="1242747" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 11:30 PM | LIVE BRENTFORD TOTTENHAM (NO) 8K NO: VIAPLAY 42
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1242747&extension=ts&play_token=isutdGhx8s
-#EXTINF:-1 tvg-id="1863296" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 11:30 PM | LIVE VALIOLIIGA BRENTFORD TOTTENHAM (FI) 8K FI: VIAPLAY 36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863296&extension=ts&play_token=Ic2UxNwrdi
-#EXTINF:-1 tvg-id="1939932" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 11:30 PM | Live Brentford vs. Spurs all 8K CA: SOCCER 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939932&extension=ts&play_token=0BhFAlT58U
-#EXTINF:-1 tvg-id="1940088" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 11:30 PM | Live Brentford vs. Spurs all 8K US: SOCCER 69
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940088&extension=ts&play_token=mUXfb066Oj
-#EXTINF:-1 tvg-id="1984090" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",22/08 11:30 PM | LIVE BRENTFORD VS. TOTTENHAM HOTSPUR -02 (BR) 8K BR: DISNEY+ 36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1984090&extension=ts&play_token=QB4Q8hGmTu
-#EXTINF:-1 tvg-id="2062061" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 11:30 PM | Live Brentford vs. Spurs all 8K US: SOCCER 69
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062061&extension=ts&play_token=qgdpu7UOCW
-#EXTINF:-1 tvg-id="2062307" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 11:30 PM | Live Brentford vs. Spurs all 8K CA: SOCCER 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062307&extension=ts&play_token=6rFXd1uVVH
-#EXTINF:-1 tvg-id="2054984" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 11:30 PM | Live Brentford vs. Spurs all 8K DE: SOCCER 68
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2054984&extension=ts&play_token=ZzwJIUVqua
-#EXTINF:-1 tvg-id="2072540" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 11:30 PM | Brentford vs. Spurs all | 8K ES: SOCCER 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072540&extension=ts&play_token=qWYM81hpN0
-#EXTINF:-1 tvg-id="2040710" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",22/08 11:30 PM | Live Brentford Tottenham | 8K ES: DAZN 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040710&extension=ts&play_token=lihRUXHT90
-#EXTINF:-1 tvg-id="2046283" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png",22/08 11:30 PM | LIVE BRENTFORD TOTTENHAM HOTSPUR 2026/27 JORNADA 1 (ES) 8K ES: MAX 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2046283&extension=ts&play_token=QI98xYnbkV
-#EXTINF:-1 tvg-id="1735536" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 11:30 PM | LIVE BRENTFORD TOTTENHAM (NO) 8K NO: VIAPLAY 42
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735536&extension=ts&play_token=F6WQBXA9yF
-#EXTINF:-1 tvg-id="1592470" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",22/08 11:30 PM | LIVE BRENTFORD TOTTENHAM (NL) 8K NL: VIAPLAY 26
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1592470&extension=ts&play_token=7srqAbFVKR
-#EXTINF:-1 tvg-id="2072540" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 11:30 PM | Brentford vs. Spurs all | 8K ES: SOCCER 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2072540&extension=ts&play_token=gp2nJW04tF
-#EXTINF:-1 tvg-id="2040710" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",22/08 11:30 PM | Live Brentford Tottenham | 8K ES: DAZN 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040710&extension=ts&play_token=ystY12BRwD
-#EXTINF:-1 tvg-id="2046283" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png",22/08 11:30 PM | LIVE BRENTFORD TOTTENHAM HOTSPUR 2026/27 JORNADA 1 (ES) 8K ES: MAX 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2046283&extension=ts&play_token=T16alra6Ew
-#EXTINF:-1 tvg-id="2054984" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 11:30 PM | Live Brentford vs. Spurs all 8K DE: SOCCER 68
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2054984&extension=ts&play_token=ynTjSqMAIE
-#EXTINF:-1 tvg-id="2021220" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",22/08 11:30 PM | LIVE BRENTFORD TOTTENHAM (SE) 8K SE: PLAY+ 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2021220&extension=ts&play_token=6nwp7nFsNT
-#EXTINF:-1 tvg-id="2037339" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 11:30 PM | LIVE BRENTFORD TOTTENHAM (DK) 8K DK: VIAPLAY 39
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2037339&extension=ts&play_token=cvjvkyWjcf
-#EXTINF:-1 tvg-id="1735536" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 11:30 PM | LIVE BRENTFORD TOTTENHAM (NO) 8K NO: VIAPLAY 42
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1735536&extension=ts&play_token=T5jfOTWpUx
-#EXTINF:-1 tvg-id="2037444" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 11:30 PM | LIVE VALIOLIIGA BRENTFORD TOTTENHAM (FI) 8K FI: VIAPLAY 36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2037444&extension=ts&play_token=dpfzzEREAV
-#EXTINF:-1 tvg-id="2062061" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 11:30 PM | Live Brentford vs. Spurs all 8K US: SOCCER 69
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2062061&extension=ts&play_token=OV9MZBuvOE
-#EXTINF:-1 tvg-id="1592470" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",22/08 11:30 PM | LIVE BRENTFORD TOTTENHAM (NL) 8K NL: VIAPLAY 26
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592470&extension=ts&play_token=EYoiWbrnD7
-#EXTINF:-1 tvg-id="2054984" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 11:30 PM | Live Brentford vs. Spurs all 8K DE: SOCCER 68
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054984&extension=ts&play_token=TYNIG8iFSt
-#EXTINF:-1 tvg-id="2072540" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 11:30 PM | Brentford vs. Spurs all | 8K ES: SOCCER 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072540&extension=ts&play_token=js8o0XlUIO
-#EXTINF:-1 tvg-id="2040710" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",22/08 11:30 PM | Live Brentford Tottenham | 8K ES: DAZN 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040710&extension=ts&play_token=v0eXQoBDJ1
-#EXTINF:-1 tvg-id="2046283" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png",22/08 11:30 PM | LIVE BRENTFORD TOTTENHAM HOTSPUR 2026/27 JORNADA 1 (ES) 8K ES: MAX 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046283&extension=ts&play_token=H3OEfkMun8
-#EXTINF:-1 tvg-id="2021220" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",22/08 11:30 PM | LIVE BRENTFORD TOTTENHAM (SE) 8K SE: PLAY+ 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021220&extension=ts&play_token=vUq3DwQGLJ
-#EXTINF:-1 tvg-id="2037339" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 11:30 PM | LIVE BRENTFORD TOTTENHAM (DK) 8K DK: VIAPLAY 39
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037339&extension=ts&play_token=KK1QZiVx4p
-#EXTINF:-1 tvg-id="1735536" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 11:30 PM | LIVE BRENTFORD TOTTENHAM (NO) 8K NO: VIAPLAY 42
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735536&extension=ts&play_token=M2UjyMWIHf
-#EXTINF:-1 tvg-id="2037444" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 11:30 PM | LIVE VALIOLIIGA BRENTFORD TOTTENHAM (FI) 8K FI: VIAPLAY 36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037444&extension=ts&play_token=I0PFWum0wE
-#EXTINF:-1 tvg-id="1703209" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 11:30 PM | Brentford vs Tottenham @ :Viaplay NL 23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1703209&extension=ts&play_token=b4OMLmOWVf
-#EXTINF:-1 tvg-id="1840560" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391",22/08 11:30 PM | Fútbol: Brentford vs Tottenham Hotspur @ :MAX ES 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1840560&extension=ts&play_token=CBKJxAkqIs
-#EXTINF:-1 tvg-id="1702587" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 11:30 PM | PL studion Brentford vs Tottenham @ :Viaplay SE 32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1702587&extension=ts&play_token=XVsrf4KEgh
-#EXTINF:-1 tvg-id="1704124" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",22/08 11:30 PM | Brentford vs Tottenham @ :TeliaPlay SE 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1704124&extension=ts&play_token=UzgVJq6bNE
-#EXTINF:-1 tvg-id="1703039" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 11:30 PM | Brentford vs Tottenham @ :Viaplay DK 35
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1703039&extension=ts&play_token=frXDVxJ7Ic
-#EXTINF:-1 tvg-id="1702964" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 11:30 PM | Brentford vs Tottenham @ :Viaplay NO 38
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1702964&extension=ts&play_token=8VuUkng450
-#EXTINF:-1 tvg-id="1704234" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",22/08 11:30 PM | Brentford vs Tottenham @ :Telia FI 19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1704234&extension=ts&play_token=g8L2ZvCc8d
-#EXTINF:-1 tvg-id="1703104" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 11:30 PM | Brentford vs Tottenham @ :Viaplay FI 32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1703104&extension=ts&play_token=jnmaTMcSth
-#EXTINF:-1 tvg-id="2026523" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MAX-MAX.png",22/08 11:30 PM | Fútbol: Brentford vs Tottenham Hotspur @ :MAX ES 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2026523&extension=ts&play_token=W8Pd1RhRxr
-#EXTINF:-1 tvg-id="1996078" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 11:30 PM | Brentford vs Tottenham @ :Viaplay NO 38
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1996078&extension=ts&play_token=VQUmDxqwPM
-#EXTINF:-1 tvg-id="2025548" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 11:30 PM | Brentford vs Tottenham @ :Viaplay NL 23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2025548&extension=ts&play_token=mZ7QWEUsaq
-#EXTINF:-1 tvg-id="2026523" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MAX-MAX.png",22/08 11:30 PM | Fútbol: Brentford vs Tottenham Hotspur @ :MAX ES 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2026523&extension=ts&play_token=duMzFND1Zj
-#EXTINF:-1 tvg-id="1991512" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",22/08 11:30 PM | Brentford vs Tottenham @ :TeliaPlay SE 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1991512&extension=ts&play_token=pgTPapcDya
-#EXTINF:-1 tvg-id="1990169" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",22/08 11:30 PM | PL studion Brentford vs Tottenham @ :Viaplay SE 32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1990169&extension=ts&play_token=POZyHBqudQ
-#EXTINF:-1 tvg-id="1996261" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",22/08 11:30 PM | Brentford vs Tottenham @ :Viaplay DK 35
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1996261&extension=ts&play_token=roOsDJXs7u
-#EXTINF:-1 tvg-id="1996078" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 11:30 PM | Brentford vs Tottenham @ :Viaplay NO 38
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1996078&extension=ts&play_token=am24W3n36J
-#EXTINF:-1 tvg-id="1992085" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 11:30 PM | Brentford vs Tottenham @ :Viaplay FI 32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1992085&extension=ts&play_token=IQRaBwCbFF
-#EXTINF:-1 tvg-id="1992249" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",22/08 11:30 PM | Brentford vs Tottenham @ :Telia FI 19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1992249&extension=ts&play_token=z77GBLIkH9
-#EXTINF:-1 tvg-id="2025548" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 11:30 PM | Brentford vs Tottenham @ :Viaplay NL 23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2025548&extension=ts&play_token=y98wlbeHEW
-#EXTINF:-1 tvg-id="2026523" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MAX-MAX.png",22/08 11:30 PM | Fútbol: Brentford vs Tottenham Hotspur @ :MAX ES 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2026523&extension=ts&play_token=YJkdKOTFgp
-#EXTINF:-1 tvg-id="1991512" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",22/08 11:30 PM | Brentford vs Tottenham @ :TeliaPlay SE 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1991512&extension=ts&play_token=zUC8Vm9rcr
-#EXTINF:-1 tvg-id="1990169" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",22/08 11:30 PM | PL studion Brentford vs Tottenham @ :Viaplay SE 32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990169&extension=ts&play_token=c9nxwVyLmN
-#EXTINF:-1 tvg-id="1996261" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",22/08 11:30 PM | Brentford vs Tottenham @ :Viaplay DK 35
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996261&extension=ts&play_token=GSahEvbOaG
-#EXTINF:-1 tvg-id="1996078" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 11:30 PM | Brentford vs Tottenham @ :Viaplay NO 38
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996078&extension=ts&play_token=NQIJIvLKOW
-#EXTINF:-1 tvg-id="1992085" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 11:30 PM | Brentford vs Tottenham @ :Viaplay FI 32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992085&extension=ts&play_token=ynsd9kqq9H
-#EXTINF:-1 tvg-id="1992249" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",22/08 11:30 PM | Brentford vs Tottenham @ :Telia FI 19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992249&extension=ts&play_token=a4HcaJl4kN
-#EXTINF:-1 tvg-id="1910734" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",22/08 11:30 PM | US (Paramount 008) Inter vs. Monza ( :00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910734&extension=ts&play_token=foSQkNTPuh
-#EXTINF:-1 tvg-id="1910734" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",22/08 11:30 PM | US (Paramount 008) Inter vs. Monza ( :00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910734&extension=ts&play_token=0GikWUeYVp
-#EXTINF:-1 tvg-id="2063923" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 11:30 PM | Live Inter vs. Monza all 8K FR: SOCCER 36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2063923&extension=ts&play_token=AGuM4bJPEt
-#EXTINF:-1 tvg-id="1918812" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 11:30 PM | Live Inter vs. Monza all 8K DE: SOCCER 65
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918812&extension=ts&play_token=wTbHolWCNl
-#EXTINF:-1 tvg-id="1881221" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",22/08 11:30 PM | Live Inter Monza Serie A 8K DE: DAZN 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881221&extension=ts&play_token=P1yRhsnLVU
-#EXTINF:-1 tvg-id="1881194" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",22/08 11:30 PM | Live Inter Monza (italienischer Kommentar) Serie A 8K DE: DAZN 42
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881194&extension=ts&play_token=MPiY7Fw3HQ
-#EXTINF:-1 tvg-id="1988112" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 11:30 PM | Inter vs. Monza all | 8K ES: SOCCER 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988112&extension=ts&play_token=lqFqttCEqy
-#EXTINF:-1 tvg-id="1881099" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",22/08 11:30 PM | Live Inter Monza Serie A 8K ES: DAZN 37
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881099&extension=ts&play_token=JHE84UN9zK
-#EXTINF:-1 tvg-id="1716093" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",22/08 11:30 PM | LIVE INTER MILAN MONZA (IS) 8K IS: SIMINN 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1716093&extension=ts&play_token=OQ2FuyASXd
-#EXTINF:-1 tvg-id="1939895" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 11:30 PM | Live Inter vs. Monza all 8K CA: SOCCER 61
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939895&extension=ts&play_token=Ud6i3khJkE
-#EXTINF:-1 tvg-id="1940094" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 11:30 PM | End Inter vs. Monza all | 8K US: SOCCER 63
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940094&extension=ts&play_token=KDSc9IuSo4
-#EXTINF:-1 tvg-id="1501730" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581",22/08 11:30 PM | Serie A: Inter vs Monza @ :Paramount+ 08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1501730&extension=ts&play_token=uIcV4wUUPo
-#EXTINF:-1 tvg-id="2113075" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 11:30 PM | Live Inter vs. Monza all 8K FR: SOCCER 36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113075&extension=ts&play_token=OchoJn1O1m
-#EXTINF:-1 tvg-id="2062067" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 11:30 PM | End Inter vs. Monza all | 8K US: SOCCER 63
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062067&extension=ts&play_token=GIjCJna5gS
-#EXTINF:-1 tvg-id="2106791" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",22/08 11:30 PM | Serie A: Inter vs Monza @ :Paramount+ 08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2106791&extension=ts&play_token=3lhIwBHv78
-#EXTINF:-1 tvg-id="2062270" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 11:30 PM | Live Inter vs. Monza all 8K CA: SOCCER 61
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062270&extension=ts&play_token=aOXPpo1gEF
-#EXTINF:-1 tvg-id="2040510" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",22/08 11:30 PM | Live Inter Monza Serie A 8K DE: DAZN 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040510&extension=ts&play_token=HpPhlRELbo
-#EXTINF:-1 tvg-id="2040483" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",22/08 11:30 PM | Live Inter Monza (italienischer Kommentar) Serie A 8K DE: DAZN 42
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040483&extension=ts&play_token=DAA80mjcYu
-#EXTINF:-1 tvg-id="2054987" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 11:30 PM | Live Inter vs. Monza all 8K DE: SOCCER 65
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2054987&extension=ts&play_token=AK7c67hEMm
-#EXTINF:-1 tvg-id="2072539" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 11:30 PM | Inter vs. Monza all | 8K ES: SOCCER 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072539&extension=ts&play_token=PmkV6KWTLi
-#EXTINF:-1 tvg-id="2040694" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",22/08 11:30 PM | Live Inter Monza Serie A 8K ES: DAZN 37
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040694&extension=ts&play_token=8JVdMrQi6b
-#EXTINF:-1 tvg-id="2072539" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 11:30 PM | Inter vs. Monza all | 8K ES: SOCCER 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2072539&extension=ts&play_token=BNVM2U7Z4x
-#EXTINF:-1 tvg-id="2040694" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",22/08 11:30 PM | Live Inter Monza Serie A 8K ES: DAZN 37
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040694&extension=ts&play_token=XqCrj4vbUN
-#EXTINF:-1 tvg-id="2040510" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",22/08 11:30 PM | Live Inter Monza Serie A 8K DE: DAZN 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040510&extension=ts&play_token=wySSQ5lzXQ
-#EXTINF:-1 tvg-id="2040483" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",22/08 11:30 PM | Live Inter Monza (italienischer Kommentar) Serie A 8K DE: DAZN 42
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040483&extension=ts&play_token=QHBSWdqHGJ
-#EXTINF:-1 tvg-id="2054987" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 11:30 PM | Live Inter vs. Monza all 8K DE: SOCCER 65
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2054987&extension=ts&play_token=oMhpiJzOPv
-#EXTINF:-1 tvg-id="2062067" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 11:30 PM | End Inter vs. Monza all | 8K US: SOCCER 63
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2062067&extension=ts&play_token=RMrWxsP3k1
-#EXTINF:-1 tvg-id="2106791" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",22/08 11:30 PM | Serie A: Inter vs Monza @ :Paramount+ 08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2106791&extension=ts&play_token=e2ZVEs4qhj
-#EXTINF:-1 tvg-id="2040510" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",22/08 11:30 PM | Live Inter Monza Serie A 8K DE: DAZN 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040510&extension=ts&play_token=8msL1g2cOl
-#EXTINF:-1 tvg-id="2040483" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",22/08 11:30 PM | Live Inter Monza (italienischer Kommentar) Serie A 8K DE: DAZN 42
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040483&extension=ts&play_token=yC5GR8jkTz
-#EXTINF:-1 tvg-id="2054987" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 11:30 PM | Live Inter vs. Monza all 8K DE: SOCCER 65
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054987&extension=ts&play_token=3BZy32Rt8j
-#EXTINF:-1 tvg-id="2113075" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 11:30 PM | Live Inter vs. Monza all 8K FR: SOCCER 36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113075&extension=ts&play_token=BLaDRomuK1
-#EXTINF:-1 tvg-id="2072539" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 11:30 PM | Inter vs. Monza all | 8K ES: SOCCER 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072539&extension=ts&play_token=iqOKZxVlmD
-#EXTINF:-1 tvg-id="2040694" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",22/08 11:30 PM | Live Inter Monza Serie A 8K ES: DAZN 37
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040694&extension=ts&play_token=MN6ctkipu9
-#EXTINF:-1 tvg-id="2123717" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13832.png?ver=61261",22/08 11:30 PM | Serie A: Inter-Monza @ :00 :Tv2Play DK 05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2123717&extension=ts&play_token=NTRRjkkmIb
-#EXTINF:-1 tvg-id="1704235" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",22/08 11:30 PM | Serie A: Inter vs Monza @ :Telia FI 18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1704235&extension=ts&play_token=Mth60cThDt
-#EXTINF:-1 tvg-id="2134472" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png",22/08 11:30 PM | Serie A: Inter-Monza @ :00 :Tv2Play DK 05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2134472&extension=ts&play_token=td74cvY8ps
-#EXTINF:-1 tvg-id="1992250" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",22/08 11:30 PM | Serie A: Inter vs Monza @ :Telia FI 18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1992250&extension=ts&play_token=D9c4m21Zuk
-#EXTINF:-1 tvg-id="2134472" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png",22/08 11:30 PM | Serie A: Inter-Monza @ :00 :Tv2Play DK 05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2134472&extension=ts&play_token=gXGq9M8Cmc
-#EXTINF:-1 tvg-id="1992250" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",22/08 11:30 PM | Serie A: Inter vs Monza @ :Telia FI 18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992250&extension=ts&play_token=KSChi0rUB5
 #EXTINF:-1 tvg-id="1896464" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391",23/08 01:45 AM | GENOA NAPOLI 8K : MAX 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
@@ -1314,3 +739,123 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454426&exte
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454425&extension=ts&play_token=cNKWUrW5OW
+#EXTINF:-1 tvg-id="1535925" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",23/08 10:30 PM | AU (STAN 37) Studio Coverage: Newcastle United v Liverpool Matchweek 1 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535925&extension=ts&play_token=uHOy4Lo7UV
+#EXTINF:-1 tvg-id="1535924" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",23/08 10:30 PM | AU (STAN 38) • Newcastle United v Liverpool Matchweek 1 2026/2027 ( :39)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535924&extension=ts&play_token=zKmUS2KpGZ
+#EXTINF:-1 tvg-id="1909939" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 10:30 PM | AU (STAN 37) Studio Coverage: Newcastle United v Liverpool Matchweek 1 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909939&extension=ts&play_token=Fb5v3hRw77
+#EXTINF:-1 tvg-id="1909938" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 10:30 PM | AU (STAN 38) • Newcastle United v Liverpool Matchweek 1 2026/2027 ( :39)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909938&extension=ts&play_token=SDT8h74rVt
+#EXTINF:-1 tvg-id="1909939" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 10:30 PM | AU (STAN 37) Studio Coverage: Newcastle United v Liverpool Matchweek 1 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1909939&extension=ts&play_token=suVK325Vpw
+#EXTINF:-1 tvg-id="1909938" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 10:30 PM | AU (STAN 38) • Newcastle United v Liverpool Matchweek 1 2026/2027 ( :39)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1909938&extension=ts&play_token=I8EWGZi0aP
+#EXTINF:-1 tvg-id="1966320" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",23/08 10:30 PM | AU (STAN 37) Studio Coverage: Newcastle United v Liverpool Matchweek 1 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966320&extension=ts&play_token=mUtBOmLZYk
+#EXTINF:-1 tvg-id="1966319" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",23/08 10:30 PM | AU (STAN 38) • Newcastle United v Liverpool Matchweek 1 2026/2027 ( :39)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966319&extension=ts&play_token=CrykWRVOck
+#EXTINF:-1 tvg-id="1454424" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",23/08 10:30 PM | 03: Newcastle United vs Liverpool
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454424&extension=ts&play_token=FRMRe1guQs
+#EXTINF:-1 tvg-id="1454423" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",23/08 10:30 PM | 03: Newcastle United vs Liverpool
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454423&extension=ts&play_token=Tgo2CVWqs3
+#EXTINF:-1 tvg-id="1454422" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",23/08 10:30 PM | 03: Newcastle United vs Liverpool
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454422&extension=ts&play_token=7v4vWFkjpO
+#EXTINF:-1 tvg-id="1535925" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",23/08 10:30 PM | AU (STAN 37) Studio Coverage: Newcastle United v Liverpool Matchweek 1 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535925&extension=ts&play_token=uHOy4Lo7UV
+#EXTINF:-1 tvg-id="1535924" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",23/08 10:30 PM | AU (STAN 38) • Newcastle United v Liverpool Matchweek 1 2026/2027 ( :39)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535924&extension=ts&play_token=zKmUS2KpGZ
+#EXTINF:-1 tvg-id="1909939" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 10:30 PM | AU (STAN 37) Studio Coverage: Newcastle United v Liverpool Matchweek 1 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909939&extension=ts&play_token=Fb5v3hRw77
+#EXTINF:-1 tvg-id="1909938" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 10:30 PM | AU (STAN 38) • Newcastle United v Liverpool Matchweek 1 2026/2027 ( :39)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909938&extension=ts&play_token=SDT8h74rVt
+#EXTINF:-1 tvg-id="1909939" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 10:30 PM | AU (STAN 37) Studio Coverage: Newcastle United v Liverpool Matchweek 1 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1909939&extension=ts&play_token=suVK325Vpw
+#EXTINF:-1 tvg-id="1909938" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 10:30 PM | AU (STAN 38) • Newcastle United v Liverpool Matchweek 1 2026/2027 ( :39)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1909938&extension=ts&play_token=I8EWGZi0aP
+#EXTINF:-1 tvg-id="1966320" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",23/08 10:30 PM | AU (STAN 37) Studio Coverage: Newcastle United v Liverpool Matchweek 1 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966320&extension=ts&play_token=mUtBOmLZYk
+#EXTINF:-1 tvg-id="1966319" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",23/08 10:30 PM | AU (STAN 38) • Newcastle United v Liverpool Matchweek 1 2026/2027 ( :39)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966319&extension=ts&play_token=CrykWRVOck
+#EXTINF:-1 tvg-id="1454424" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",23/08 10:30 PM | 03: Newcastle United vs Liverpool
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454424&extension=ts&play_token=FRMRe1guQs
+#EXTINF:-1 tvg-id="1454423" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",23/08 10:30 PM | 03: Newcastle United vs Liverpool
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454423&extension=ts&play_token=Tgo2CVWqs3
+#EXTINF:-1 tvg-id="1454422" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",23/08 10:30 PM | 03: Newcastle United vs Liverpool
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454422&extension=ts&play_token=7v4vWFkjpO
+#EXTINF:-1 tvg-id="1910724" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",23/08 11:30 PM | US (Paramount 018) Frosinone vs. Juventus ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910724&extension=ts&play_token=VtI7dRqHTo
+#EXTINF:-1 tvg-id="1910724" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",23/08 11:30 PM | US (Paramount 018) Frosinone vs. Juventus ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910724&extension=ts&play_token=FZcoBOL2ul

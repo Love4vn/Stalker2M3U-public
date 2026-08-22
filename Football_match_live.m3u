@@ -1,861 +1,856 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1896464" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391",23/08 01:45 AM | GENOA NAPOLI 8K : MAX 22
+#EXTINF:-1 tvg-id="1896464" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391",23/08 01:45 AM | LIVE GENOA NAPOLI 8K : MAX 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1896464&extension=ts&play_token=jTRdkK5jBu
-#EXTINF:-1 tvg-id="1899952" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",23/08 01:45 AM | Genoa vs. Napoli Lega Serie A | 8K GB: DAZN 50
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1896464&extension=ts&play_token=vnQQ6cgi08
+#EXTINF:-1 tvg-id="2047084" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png",23/08 01:45 AM | LIVE GENOA NAPOLI 8K : MAX 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1899952&extension=ts&play_token=2kRTIh1GAx
-#EXTINF:-1 tvg-id="2048879" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 01:45 AM | Genoa vs. Napoli Lega Serie A | 8K GB: DAZN 50
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2048879&extension=ts&play_token=ZMXe4JUdc3
-#EXTINF:-1 tvg-id="2047084" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png",23/08 01:45 AM | GENOA NAPOLI 8K : MAX 22
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2047084&extension=ts&play_token=M5nZlrsoFV
+#EXTINF:-1 tvg-id="2047084" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png",23/08 01:45 AM | LIVE GENOA NAPOLI 8K : MAX 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2047084&extension=ts&play_token=8Sek3hSv53
-#EXTINF:-1 tvg-id="2048879" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 01:45 AM | Genoa vs. Napoli Lega Serie A | 8K GB: DAZN 50
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2047084&extension=ts&play_token=c1qmLctVuh
+#EXTINF:-1 tvg-id="2047084" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png",23/08 01:45 AM | LIVE GENOA NAPOLI 8K : MAX 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2048879&extension=ts&play_token=fwoWwBy16Q
-#EXTINF:-1 tvg-id="2047084" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png",23/08 01:45 AM | GENOA NAPOLI 8K : MAX 22
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2047084&extension=ts&play_token=chrT9LD3WN
+#EXTINF:-1 tvg-id="1910731" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",23/08 01:45 AM | US (Paramount 011) Genoa vs. Napoli ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2047084&extension=ts&play_token=07ln2hPc26
-#EXTINF:-1 tvg-id="2048879" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 01:45 AM | Genoa vs. Napoli Lega Serie A | 8K GB: DAZN 50
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2048879&extension=ts&play_token=TF1JjBi72i
-#EXTINF:-1 tvg-id="2047084" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png",23/08 01:45 AM | GENOA NAPOLI 8K : MAX 22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2047084&extension=ts&play_token=V1NE8xv84k
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910731&extension=ts&play_token=w7uJl7Hjwr
 #EXTINF:-1 tvg-id="1910731" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",23/08 01:45 AM | US (Paramount 011) Genoa vs. Napoli ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910731&extension=ts&play_token=aHSHk4QyRM
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910731&extension=ts&play_token=sEVz4R5ZR8
 #EXTINF:-1 tvg-id="1910731" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",23/08 01:45 AM | US (Paramount 011) Genoa vs. Napoli ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910731&extension=ts&play_token=lmGV6Jhanc
-#EXTINF:-1 tvg-id="2063931" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",23/08 01:45 AM | Genoa vs. Napoli all | 8K FR: SOCCER 28
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910731&extension=ts&play_token=Il6LWl5LqS
+#EXTINF:-1 tvg-id="2063931" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",23/08 01:45 AM | Live Genoa vs. Napoli all 8K FR: SOCCER 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2063931&extension=ts&play_token=xad8ymhyXw
-#EXTINF:-1 tvg-id="1918788" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",23/08 01:45 AM | Genoa vs. Napoli all | 8K DE: SOCCER 89
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2063931&extension=ts&play_token=Ei0wW1OdW7
+#EXTINF:-1 tvg-id="1918788" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",23/08 01:45 AM | Live Genoa vs. Napoli all 8K DE: SOCCER 89
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918788&extension=ts&play_token=QljYWWGIpg
-#EXTINF:-1 tvg-id="1988055" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",23/08 01:45 AM | Genoa vs. Napoli all | 8K ES: SOCCER 71
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918788&extension=ts&play_token=bZ1CODDoI2
+#EXTINF:-1 tvg-id="1988055" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",23/08 01:45 AM | End Genoa vs. Napoli all | 8K ES: SOCCER 71
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988055&extension=ts&play_token=49PsMKLWSg
-#EXTINF:-1 tvg-id="1881060" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",23/08 01:45 AM | Genoa Napoli Serie A | 8K ES: DAZN 76
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988055&extension=ts&play_token=FRihmIusQ5
+#EXTINF:-1 tvg-id="1881105" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",23/08 01:45 AM | Live Genoa Napoli Serie A 8K ES: DAZN 31
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881060&extension=ts&play_token=oKYMO0yteC
-#EXTINF:-1 tvg-id="1825968" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",23/08 01:45 AM | GENOA NAPOLI (SE) 8K SE: PLAY+ 35
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881105&extension=ts&play_token=jG3i1eNCaO
+#EXTINF:-1 tvg-id="1825968" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",23/08 01:45 AM | LIVE GENOA NAPOLI (SE) 8K SE: PLAY+ 35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1825968&extension=ts&play_token=sybzXdv7w2
-#EXTINF:-1 tvg-id="1005961" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14003.jpg?5075",23/08 01:45 AM | GENOA NAPOLI (SE) 8K SE: TV4 PLAY 5
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1825968&extension=ts&play_token=RhcYCjxlw7
+#EXTINF:-1 tvg-id="1005961" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14003.jpg?5075",23/08 01:45 AM | LIVE GENOA NAPOLI (SE) 8K SE: TV4 PLAY 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1005961&extension=ts&play_token=qxXtYQHVxG
-#EXTINF:-1 tvg-id="1027268" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13832.png?ver=61261",23/08 01:45 AM | GENOA-NAPOLI (DK) 8K DK: PLAY TV2 8
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1005961&extension=ts&play_token=1wkHlV9v2Q
+#EXTINF:-1 tvg-id="1027268" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13832.png?ver=61261",23/08 01:45 AM | LIVE GENOA-NAPOLI (DK) 8K DK: PLAY TV2 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1027268&extension=ts&play_token=4PTTn4HMTq
-#EXTINF:-1 tvg-id="1128613" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",23/08 01:45 AM | GENOA NAPOLI (NO) 8K NO: VGTV 19
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1027268&extension=ts&play_token=whRvzIGt4B
+#EXTINF:-1 tvg-id="1128613" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",23/08 01:45 AM | LIVE GENOA NAPOLI (NO) 8K NO: VGTV 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1128613&extension=ts&play_token=VsOVcSdtMP
-#EXTINF:-1 tvg-id="1665536" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14665.png?ver=4488",23/08 01:45 AM | GENOA NAPOLI (FI) 8K FI: MTV 4
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1128613&extension=ts&play_token=vop9Ohi8NJ
+#EXTINF:-1 tvg-id="1665536" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14665.png?ver=4488",23/08 01:45 AM | LIVE GENOA NAPOLI (FI) 8K FI: MTV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1665536&extension=ts&play_token=EAgKFz8WNT
-#EXTINF:-1 tvg-id="1716085" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",23/08 01:45 AM | GENOA NAPOLI (IS) 8K IS: SIMINN 33
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1665536&extension=ts&play_token=8uY0cw5h2z
+#EXTINF:-1 tvg-id="1716085" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",23/08 01:45 AM | LIVE GENOA NAPOLI (IS) 8K IS: SIMINN 33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1716085&extension=ts&play_token=WBriMTzn6t
-#EXTINF:-1 tvg-id="1939876" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",23/08 01:45 AM | Genoa vs. Napoli all | 8K CA: SOCCER 80
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1716085&extension=ts&play_token=xObyVBFVJz
+#EXTINF:-1 tvg-id="1939876" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",23/08 01:45 AM | Live Genoa vs. Napoli all 8K CA: SOCCER 80
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939876&extension=ts&play_token=qAULAdv5gy
-#EXTINF:-1 tvg-id="1940066" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",23/08 01:45 AM | Genoa vs. Napoli all | 8K US: SOCCER 91
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939876&extension=ts&play_token=xdFD1PiWHz
+#EXTINF:-1 tvg-id="1940066" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",23/08 01:45 AM | End Genoa vs. Napoli all | 8K US: SOCCER 91
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940066&extension=ts&play_token=SE3yOimzRb
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940066&extension=ts&play_token=18yYDC2X5F
 #EXTINF:-1 tvg-id="1501727" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581",23/08 01:45 AM | Serie A: Genoa vs Napoli @ :Paramount+ 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1501727&extension=ts&play_token=hC8iYsRkVq
-#EXTINF:-1 tvg-id="1984065" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",23/08 01:45 AM | GENOA VS. NAPOLI -02 (BR) 8K BR: DISNEY+ 61
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1501727&extension=ts&play_token=oYowVoQ7o6
+#EXTINF:-1 tvg-id="1984065" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",23/08 01:45 AM | LIVE GENOA VS. NAPOLI -02 (BR) 8K BR: DISNEY+ 61
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1984065&extension=ts&play_token=l93z9G2VX3
-#EXTINF:-1 tvg-id="2113083" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | Genoa vs. Napoli all | 8K FR: SOCCER 28
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1984065&extension=ts&play_token=4jk8Shz9ip
+#EXTINF:-1 tvg-id="2113083" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | Live Genoa vs. Napoli all 8K FR: SOCCER 28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2113083&extension=ts&play_token=WgoqdRQ13t
+#EXTINF:-1 tvg-id="2062039" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | End Genoa vs. Napoli all | 8K US: SOCCER 91
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062039&extension=ts&play_token=vS54gIFe3D
+#EXTINF:-1 tvg-id="2106788" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",23/08 01:45 AM | Serie A: Genoa vs Napoli @ :Paramount+ 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2106788&extension=ts&play_token=Ia427SXiii
+#EXTINF:-1 tvg-id="2062251" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | Live Genoa vs. Napoli all 8K CA: SOCCER 80
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062251&extension=ts&play_token=9CLQKTN0Hv
+#EXTINF:-1 tvg-id="2072482" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | End Genoa vs. Napoli all | 8K ES: SOCCER 71
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2072482&extension=ts&play_token=T8DA83L7D9
+#EXTINF:-1 tvg-id="2040700" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 01:45 AM | Live Genoa Napoli Serie A 8K ES: DAZN 31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2040700&extension=ts&play_token=hn5S2uNLiN
+#EXTINF:-1 tvg-id="2070573" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",23/08 01:45 AM | LIVE GENOA VS. NAPOLI -02 (BR) 8K BR: DISNEY+ 61
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2070573&extension=ts&play_token=LtvvtMAr5n
+#EXTINF:-1 tvg-id="2054963" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | Live Genoa vs. Napoli all 8K DE: SOCCER 89
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2054963&extension=ts&play_token=07hxEues6b
+#EXTINF:-1 tvg-id="2113083" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | Live Genoa vs. Napoli all 8K FR: SOCCER 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113083&extension=ts&play_token=tODzTRk1RV
-#EXTINF:-1 tvg-id="2062039" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | Genoa vs. Napoli all | 8K US: SOCCER 91
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113083&extension=ts&play_token=dNKmEVtkiP
+#EXTINF:-1 tvg-id="2062039" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | End Genoa vs. Napoli all | 8K US: SOCCER 91
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062039&extension=ts&play_token=Ie6WszVou6
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062039&extension=ts&play_token=tAyqJEwTul
 #EXTINF:-1 tvg-id="2106788" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",23/08 01:45 AM | Serie A: Genoa vs Napoli @ :Paramount+ 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2106788&extension=ts&play_token=uLi587jvIF
-#EXTINF:-1 tvg-id="2062251" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | Genoa vs. Napoli all | 8K CA: SOCCER 80
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2106788&extension=ts&play_token=IhqiROfwa9
+#EXTINF:-1 tvg-id="2062251" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | Live Genoa vs. Napoli all 8K CA: SOCCER 80
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062251&extension=ts&play_token=wCO8cg1bNi
-#EXTINF:-1 tvg-id="2054963" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | Genoa vs. Napoli all | 8K DE: SOCCER 89
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062251&extension=ts&play_token=2BFoYUh5SB
+#EXTINF:-1 tvg-id="2054963" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | Live Genoa vs. Napoli all 8K DE: SOCCER 89
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2054963&extension=ts&play_token=7Q0iqBs80X
-#EXTINF:-1 tvg-id="2072482" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | Genoa vs. Napoli all | 8K ES: SOCCER 71
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2054963&extension=ts&play_token=TCLUWgn7Tk
+#EXTINF:-1 tvg-id="2072482" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | End Genoa vs. Napoli all | 8K ES: SOCCER 71
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072482&extension=ts&play_token=EufvxabjOo
-#EXTINF:-1 tvg-id="2040655" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 01:45 AM | Genoa Napoli Serie A | 8K ES: DAZN 76
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072482&extension=ts&play_token=ct0mO84sFS
+#EXTINF:-1 tvg-id="2040700" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 01:45 AM | Live Genoa Napoli Serie A 8K ES: DAZN 31
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040655&extension=ts&play_token=iEbOUmgZU9
-#EXTINF:-1 tvg-id="1675552" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",23/08 01:45 AM | GENOA NAPOLI (NO) 8K NO: VGTV 19
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040700&extension=ts&play_token=QImraZoJmp
+#EXTINF:-1 tvg-id="1675552" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",23/08 01:45 AM | LIVE GENOA NAPOLI (NO) 8K NO: VGTV 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1675552&extension=ts&play_token=vZwglLOPaE
-#EXTINF:-1 tvg-id="2072482" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | Genoa vs. Napoli all | 8K ES: SOCCER 71
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1675552&extension=ts&play_token=S6nongPViO
+#EXTINF:-1 tvg-id="2072482" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | End Genoa vs. Napoli all | 8K ES: SOCCER 71
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2072482&extension=ts&play_token=AJtTDvsgzu
-#EXTINF:-1 tvg-id="2040655" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 01:45 AM | Genoa Napoli Serie A | 8K ES: DAZN 76
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2072482&extension=ts&play_token=RvwY7dNbcu
+#EXTINF:-1 tvg-id="2040700" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 01:45 AM | Live Genoa Napoli Serie A 8K ES: DAZN 31
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040655&extension=ts&play_token=2GTxPidNjj
-#EXTINF:-1 tvg-id="2054963" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | Genoa vs. Napoli all | 8K DE: SOCCER 89
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040700&extension=ts&play_token=eWdMq1DNrh
+#EXTINF:-1 tvg-id="2054963" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | Live Genoa vs. Napoli all 8K DE: SOCCER 89
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2054963&extension=ts&play_token=Di8wim7jPE
-#EXTINF:-1 tvg-id="1634721" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/4PPV.png",23/08 01:45 AM | GENOA NAPOLI (SE) 8K SE: TV4 PLAY 5
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2054963&extension=ts&play_token=IvdhRp6k6a
+#EXTINF:-1 tvg-id="1634721" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/4PPV.png",23/08 01:45 AM | LIVE GENOA NAPOLI (SE) 8K SE: TV4 PLAY 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1634721&extension=ts&play_token=4iJl3HQO4O
-#EXTINF:-1 tvg-id="2021213" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",23/08 01:45 AM | GENOA NAPOLI (SE) 8K SE: PLAY+ 35
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1634721&extension=ts&play_token=h7czorzBqn
+#EXTINF:-1 tvg-id="2021213" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",23/08 01:45 AM | LIVE GENOA NAPOLI (SE) 8K SE: PLAY+ 35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2021213&extension=ts&play_token=a7Dsz62DiG
-#EXTINF:-1 tvg-id="1639611" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/PLAYTV2.png",23/08 01:45 AM | GENOA-NAPOLI (DK) 8K DK: PLAY TV2 8
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2021213&extension=ts&play_token=hSvJrpaQ40
+#EXTINF:-1 tvg-id="1639611" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/PLAYTV2.png",23/08 01:45 AM | LIVE GENOA-NAPOLI (DK) 8K DK: PLAY TV2 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1639611&extension=ts&play_token=PVeHfU0fUF
-#EXTINF:-1 tvg-id="1675552" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",23/08 01:45 AM | GENOA NAPOLI (NO) 8K NO: VGTV 19
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1639611&extension=ts&play_token=08Wkb01NZl
+#EXTINF:-1 tvg-id="1675552" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",23/08 01:45 AM | LIVE GENOA NAPOLI (NO) 8K NO: VGTV 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1675552&extension=ts&play_token=5zDla85MtH
-#EXTINF:-1 tvg-id="1963190" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MTV.png",23/08 01:45 AM | GENOA NAPOLI (FI) 8K FI: MTV 4
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1675552&extension=ts&play_token=1ZRN3RGWqc
+#EXTINF:-1 tvg-id="1963190" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MTV.png",23/08 01:45 AM | LIVE GENOA NAPOLI (FI) 8K FI: MTV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1963190&extension=ts&play_token=nqSXQq7bVX
-#EXTINF:-1 tvg-id="2062039" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | Genoa vs. Napoli all | 8K US: SOCCER 91
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1963190&extension=ts&play_token=TURlUbqvlm
+#EXTINF:-1 tvg-id="2062039" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | End Genoa vs. Napoli all | 8K US: SOCCER 91
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2062039&extension=ts&play_token=JUrKs84fTl
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2062039&extension=ts&play_token=pS7d4wkrBe
 #EXTINF:-1 tvg-id="2106788" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",23/08 01:45 AM | Serie A: Genoa vs Napoli @ :Paramount+ 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2106788&extension=ts&play_token=pteDYilC5O
-#EXTINF:-1 tvg-id="2054963" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | Genoa vs. Napoli all | 8K DE: SOCCER 89
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054963&extension=ts&play_token=Ht4zxQOK1d
-#EXTINF:-1 tvg-id="2113083" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | Genoa vs. Napoli all | 8K FR: SOCCER 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113083&extension=ts&play_token=X0kQeMocDf
-#EXTINF:-1 tvg-id="2072482" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 01:45 AM | Genoa vs. Napoli all | 8K ES: SOCCER 71
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072482&extension=ts&play_token=rPvQLzU8oo
-#EXTINF:-1 tvg-id="2040655" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 01:45 AM | Genoa Napoli Serie A | 8K ES: DAZN 76
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040655&extension=ts&play_token=VQo1WWbjKt
-#EXTINF:-1 tvg-id="1634721" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/4PPV.png",23/08 01:45 AM | GENOA NAPOLI (SE) 8K SE: TV4 PLAY 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1634721&extension=ts&play_token=NEFLdvgjH2
-#EXTINF:-1 tvg-id="2021213" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",23/08 01:45 AM | GENOA NAPOLI (SE) 8K SE: PLAY+ 35
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021213&extension=ts&play_token=ATrJdDMNpH
-#EXTINF:-1 tvg-id="1639611" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/PLAYTV2.png",23/08 01:45 AM | GENOA-NAPOLI (DK) 8K DK: PLAY TV2 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1639611&extension=ts&play_token=WZeEmwpcwL
-#EXTINF:-1 tvg-id="1675552" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",23/08 01:45 AM | GENOA NAPOLI (NO) 8K NO: VGTV 19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1675552&extension=ts&play_token=MMYh4VoRqv
-#EXTINF:-1 tvg-id="1963190" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MTV.png",23/08 01:45 AM | GENOA NAPOLI (FI) 8K FI: MTV 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1963190&extension=ts&play_token=VswERGIPZF
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2106788&extension=ts&play_token=xC0QtNJwXt
 #EXTINF:-1 tvg-id="1704118" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",23/08 01:45 AM | Genoa vs Napoli @ :TeliaPlay SE 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1704118&extension=ts&play_token=e2QLX6p2tS
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1704118&extension=ts&play_token=T3cOC2Y74e
 #EXTINF:-1 tvg-id="1704024" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14003.jpg?5075",23/08 01:45 AM | Genoa Napoli @ :Tv4 Play SE 07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1704024&extension=ts&play_token=Lu59v5m9GS
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1704024&extension=ts&play_token=lzNhAer3G7
 #EXTINF:-1 tvg-id="2123714" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13832.png?ver=61261",23/08 01:45 AM | Serie A: Genoa-Napoli @ :00 :Tv2Play DK 08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2123714&extension=ts&play_token=WhHdK2dsbX
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2123714&extension=ts&play_token=GLJOn89dVU
 #EXTINF:-1 tvg-id="2123538" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",23/08 01:45 AM | Genoa Napoli @ :VG 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2123538&extension=ts&play_token=Ry2bUuAXUy
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2123538&extension=ts&play_token=5f8VNQmleR
 #EXTINF:-1 tvg-id="1704230" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",23/08 01:45 AM | Serie A: Genoa vs Napoli @ :Telia FI 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1704230&extension=ts&play_token=RP7DqWvtKa
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1704230&extension=ts&play_token=o7HKzzUp7I
 #EXTINF:-1 tvg-id="1704296" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14665.png?ver=4488",23/08 01:45 AM | Genoa Napoli @ :MTV FI 08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1704296&extension=ts&play_token=PI5PtW7esq
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1704296&extension=ts&play_token=vVKoFkcFgL
 #EXTINF:-1 tvg-id="2134499" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png",23/08 01:45 AM | Genoa Napoli @ :VG 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2134499&extension=ts&play_token=fYmqrnXFnA
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2134499&extension=ts&play_token=z935XnNI07
 #EXTINF:-1 tvg-id="1990110" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/4PPV.png",23/08 01:45 AM | Genoa Napoli @ :Tv4 Play SE 07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1990110&extension=ts&play_token=7EBRzKLFRV
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1990110&extension=ts&play_token=L1dEFo5WZC
 #EXTINF:-1 tvg-id="1991506" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",23/08 01:45 AM | Genoa vs Napoli @ :TeliaPlay SE 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1991506&extension=ts&play_token=GfWcEp1DPw
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1991506&extension=ts&play_token=SWY5eSqmSL
 #EXTINF:-1 tvg-id="2134468" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png",23/08 01:45 AM | Serie A: Genoa-Napoli @ :00 :Tv2Play DK 08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2134468&extension=ts&play_token=dAwwlhTxVR
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2134468&extension=ts&play_token=lK3c2d4CQR
 #EXTINF:-1 tvg-id="2134499" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png",23/08 01:45 AM | Genoa Napoli @ :VG 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2134499&extension=ts&play_token=nbfNKoPScs
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2134499&extension=ts&play_token=tS257ju7rk
 #EXTINF:-1 tvg-id="1992159" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MTVKatsomo.png",23/08 01:45 AM | Genoa Napoli @ :MTV FI 08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1992159&extension=ts&play_token=z1RA96txge
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1992159&extension=ts&play_token=aN6l7bkM7K
 #EXTINF:-1 tvg-id="1992245" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",23/08 01:45 AM | Serie A: Genoa vs Napoli @ :Telia FI 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1992245&extension=ts&play_token=1uAe2J8Nrm
-#EXTINF:-1 tvg-id="1990110" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/4PPV.png",23/08 01:45 AM | Genoa Napoli @ :Tv4 Play SE 07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990110&extension=ts&play_token=g0KN2rThhr
-#EXTINF:-1 tvg-id="1991506" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",23/08 01:45 AM | Genoa vs Napoli @ :TeliaPlay SE 34
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1991506&extension=ts&play_token=4L32oXbybz
-#EXTINF:-1 tvg-id="2134468" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png",23/08 01:45 AM | Serie A: Genoa-Napoli @ :00 :Tv2Play DK 08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2134468&extension=ts&play_token=SUD0VpYN1J
-#EXTINF:-1 tvg-id="2134499" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png",23/08 01:45 AM | Genoa Napoli @ :VG 01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2134499&extension=ts&play_token=JCKVuVilRh
-#EXTINF:-1 tvg-id="1992159" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MTVKatsomo.png",23/08 01:45 AM | Genoa Napoli @ :MTV FI 08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992159&extension=ts&play_token=wSTTSlLEBX
-#EXTINF:-1 tvg-id="1992245" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",23/08 01:45 AM | Serie A: Genoa vs Napoli @ :Telia FI 23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992245&extension=ts&play_token=lqRl4dZSnY
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1992245&extension=ts&play_token=WLrfJuRAGs
 #EXTINF:-1 tvg-id="1924705" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",23/08 02:30 AM | EN ESPAÑOL-RCD ESPANYOL VS. REAL MADRID (JORNADA 2) (US) 8K US: ESPN+ 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1924705&extension=ts&play_token=Me7r5FwoDA
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1924705&extension=ts&play_token=TeNKVhcR0j
 #EXTINF:-1 tvg-id="1601661" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",23/08 02:30 AM | US (ESPN+ 058) Soccer: Espanyol vs. Real Madrid ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1601661&extension=ts&play_token=yDpurTjeDa
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1601661&extension=ts&play_token=blR8sxXL57
 #EXTINF:-1 tvg-id="1601660" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",23/08 02:30 AM | US (ESPN+ 059) Soccer: Espanyol vs. Real Madrid (ESP) ( :10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1601660&extension=ts&play_token=mI88SSExEl
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1601660&extension=ts&play_token=CUFRkuMbBP
+#EXTINF:-1 tvg-id="2058113" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",23/08 02:30 AM | EN ESPAÑOL-RCD ESPANYOL VS. REAL MADRID (JORNADA 2) (US) 8K US: ESPN+ 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2058113&extension=ts&play_token=2YprVjf2LP
+#EXTINF:-1 tvg-id="1949854" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",23/08 02:30 AM | US (ESPN+ 058) Soccer: Espanyol vs. Real Madrid ( :05)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1949854&extension=ts&play_token=VMXr1rhbrO
+#EXTINF:-1 tvg-id="1949853" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",23/08 02:30 AM | US (ESPN+ 059) Soccer: Espanyol vs. Real Madrid (ESP) ( :10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1949853&extension=ts&play_token=u3xGkKO5vH
 #EXTINF:-1 tvg-id="2058113" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",23/08 02:30 AM | EN ESPAÑOL-RCD ESPANYOL VS. REAL MADRID (JORNADA 2) (US) 8K US: ESPN+ 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2058113&extension=ts&play_token=ZjXqD7L2Hj
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2058113&extension=ts&play_token=Mbh3aCk439
 #EXTINF:-1 tvg-id="1949854" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",23/08 02:30 AM | US (ESPN+ 058) Soccer: Espanyol vs. Real Madrid ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949854&extension=ts&play_token=jLh7oioxvp
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949854&extension=ts&play_token=ofeG62N1wP
 #EXTINF:-1 tvg-id="1949853" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",23/08 02:30 AM | US (ESPN+ 059) Soccer: Espanyol vs. Real Madrid (ESP) ( :10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949853&extension=ts&play_token=Hjpv55iulZ
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949853&extension=ts&play_token=EDV5mWy1mV
 #EXTINF:-1 tvg-id="2058113" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",23/08 02:30 AM | EN ESPAÑOL-RCD ESPANYOL VS. REAL MADRID (JORNADA 2) (US) 8K US: ESPN+ 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2058113&extension=ts&play_token=5JGz04Ohsb
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2058113&extension=ts&play_token=Xo1iBh76Ob
 #EXTINF:-1 tvg-id="1949854" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",23/08 02:30 AM | US (ESPN+ 058) Soccer: Espanyol vs. Real Madrid ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1949854&extension=ts&play_token=DSAC1ueYDj
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1949854&extension=ts&play_token=aqPIyE8Ijg
 #EXTINF:-1 tvg-id="1949853" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",23/08 02:30 AM | US (ESPN+ 059) Soccer: Espanyol vs. Real Madrid (ESP) ( :10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1949853&extension=ts&play_token=wRfnHjipzL
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1949853&extension=ts&play_token=FxflEj7w8a
+#EXTINF:-1 tvg-id="1909841" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",23/08 02:30 AM | CA (TSN+ 029) : Espanyol vs. Real Madrid ( :05)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1909841&extension=ts&play_token=MaaKLwsFbG
 #EXTINF:-1 tvg-id="1909841" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",23/08 02:30 AM | CA (TSN+ 029) : Espanyol vs. Real Madrid ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909841&extension=ts&play_token=Usl6aibuSq
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909841&extension=ts&play_token=RhubaPh7tt
 #EXTINF:-1 tvg-id="2063948" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",23/08 02:30 AM | Espanyol vs. Real Madrid all | 8K FR: SOCCER 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2063948&extension=ts&play_token=c7EBH80YYx
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2063948&extension=ts&play_token=MUXd4u4AZR
 #EXTINF:-1 tvg-id="1884143" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",23/08 02:30 AM | Espanyol Barcelone vs. Real Madrid | 8K FR: DAZN 64
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1884143&extension=ts&play_token=sv2GpA6WB3
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1884143&extension=ts&play_token=R2JZJSiUbc
 #EXTINF:-1 tvg-id="1918784" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",23/08 02:30 AM | Espanyol vs. Real Madrid all | 8K DE: SOCCER 93
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918784&extension=ts&play_token=UvD4WIqyAf
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918784&extension=ts&play_token=WTSDbEyIhP
 #EXTINF:-1 tvg-id="1881171" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",23/08 02:30 AM | Espanyol Real Madrid | 8K DE: DAZN 65
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881171&extension=ts&play_token=OsKkvmSCEh
-#EXTINF:-1 tvg-id="1988057" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",23/08 02:30 AM | Espanyol vs. Real Madrid all | 8K ES: SOCCER 69
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881171&extension=ts&play_token=gNaX0tpcS1
+#EXTINF:-1 tvg-id="1988057" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",23/08 02:30 AM | End Espanyol vs. Real Madrid all | 8K ES: SOCCER 69
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988057&extension=ts&play_token=QfqVY2Ltiq
-#EXTINF:-1 tvg-id="1881063" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",23/08 02:30 AM | RCD Espanyol Real Madrid | 8K ES: DAZN 73
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988057&extension=ts&play_token=Ynz5e4gHZh
+#EXTINF:-1 tvg-id="1881057" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",23/08 02:30 AM | Live RCD Espanyol Real Madrid | 8K ES: DAZN 79
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881063&extension=ts&play_token=0ydB8lsxP5
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881057&extension=ts&play_token=psxgLkE3ZV
 #EXTINF:-1 tvg-id="1893003" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",23/08 02:30 AM | Espanyol Real Madrid Primera División | 8K CH: DAZN 65
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1893003&extension=ts&play_token=Ai41Hyohm7
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1893003&extension=ts&play_token=tFUxAvxXlH
 #EXTINF:-1 tvg-id="1825962" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",23/08 02:30 AM | ESPANYOL REAL MADRID (SE) 8K SE: PLAY+ 41
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1825962&extension=ts&play_token=rMHUjNc9E2
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1825962&extension=ts&play_token=Zh5c1ovxsg
 #EXTINF:-1 tvg-id="1098706" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",23/08 02:30 AM | ESPANYOL REAL MADRID (SE) 8K SE: DISNEY+ 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1098706&extension=ts&play_token=rC5EGAW6dF
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1098706&extension=ts&play_token=7cHgYOaArJ
 #EXTINF:-1 tvg-id="942816" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",23/08 02:30 AM | ESPANYOL – REAL MADRID (NO) 8K NO: TV2 PLAY 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=942816&extension=ts&play_token=Z530i04HKR
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=942816&extension=ts&play_token=ExZNQxXBbX
 #EXTINF:-1 tvg-id="1939873" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",23/08 02:30 AM | Espanyol vs. Real Madrid all | 8K CA: SOCCER 83
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939873&extension=ts&play_token=wH0MdlmqJU
-#EXTINF:-1 tvg-id="1919071" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",23/08 02:30 AM | Espanyol vs. Real Madrid all | 8K BR: SOCCER 13
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939873&extension=ts&play_token=qJIXYHfVRo
+#EXTINF:-1 tvg-id="1919071" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",23/08 02:30 AM | End Espanyol vs. Real Madrid all | 8K BR: SOCCER 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919071&extension=ts&play_token=tvS7AvDUy5
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919071&extension=ts&play_token=NPhqLVmH4E
+#EXTINF:-1 tvg-id="2113100" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 02:30 AM | Espanyol vs. Real Madrid all | 8K FR: SOCCER 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2113100&extension=ts&play_token=Xc23WuNSUa
+#EXTINF:-1 tvg-id="2041982" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 02:30 AM | Espanyol Barcelone vs. Real Madrid | 8K FR: DAZN 64
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2041982&extension=ts&play_token=pCUU3oOGeF
+#EXTINF:-1 tvg-id="2062248" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 02:30 AM | Espanyol vs. Real Madrid all | 8K CA: SOCCER 83
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062248&extension=ts&play_token=xcqUo9Ldzs
+#EXTINF:-1 tvg-id="2072484" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 02:30 AM | End Espanyol vs. Real Madrid all | 8K ES: SOCCER 69
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2072484&extension=ts&play_token=rZxuZmUdaT
+#EXTINF:-1 tvg-id="2040652" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 02:30 AM | Live RCD Espanyol Real Madrid | 8K ES: DAZN 79
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2040652&extension=ts&play_token=2fmgSdlqyT
+#EXTINF:-1 tvg-id="2066944" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 02:30 AM | End Espanyol vs. Real Madrid all | 8K BR: SOCCER 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2066944&extension=ts&play_token=FxcJbo8v7t
+#EXTINF:-1 tvg-id="2040460" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 02:30 AM | Espanyol Real Madrid | 8K DE: DAZN 65
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2040460&extension=ts&play_token=jeBpu6oCR6
+#EXTINF:-1 tvg-id="2054959" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 02:30 AM | Espanyol vs. Real Madrid all | 8K DE: SOCCER 93
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2054959&extension=ts&play_token=dgSZJir6El
+#EXTINF:-1 tvg-id="2046740" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 02:30 AM | Espanyol Real Madrid Primera División | 8K CH: DAZN 65
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2046740&extension=ts&play_token=PmybcciV1a
 #EXTINF:-1 tvg-id="2113100" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 02:30 AM | Espanyol vs. Real Madrid all | 8K FR: SOCCER 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113100&extension=ts&play_token=CUt87wNujx
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113100&extension=ts&play_token=wfgvCzVr4F
 #EXTINF:-1 tvg-id="2041982" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 02:30 AM | Espanyol Barcelone vs. Real Madrid | 8K FR: DAZN 64
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2041982&extension=ts&play_token=jvqMSxR6mi
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2041982&extension=ts&play_token=4QhV4vwS22
 #EXTINF:-1 tvg-id="2062248" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 02:30 AM | Espanyol vs. Real Madrid all | 8K CA: SOCCER 83
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062248&extension=ts&play_token=Dg9bY2rUuk
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062248&extension=ts&play_token=iw3rZPWJv6
 #EXTINF:-1 tvg-id="2040460" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 02:30 AM | Espanyol Real Madrid | 8K DE: DAZN 65
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040460&extension=ts&play_token=QADifqiMLe
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040460&extension=ts&play_token=ozypkBddiV
 #EXTINF:-1 tvg-id="2054959" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 02:30 AM | Espanyol vs. Real Madrid all | 8K DE: SOCCER 93
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2054959&extension=ts&play_token=8oCeX7fntq
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2054959&extension=ts&play_token=9thlWLDpKE
 #EXTINF:-1 tvg-id="2046740" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 02:30 AM | Espanyol Real Madrid Primera División | 8K CH: DAZN 65
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2046740&extension=ts&play_token=h534GGp6WY
-#EXTINF:-1 tvg-id="2072484" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 02:30 AM | Espanyol vs. Real Madrid all | 8K ES: SOCCER 69
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2046740&extension=ts&play_token=9uhKg7odWe
+#EXTINF:-1 tvg-id="2072484" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 02:30 AM | End Espanyol vs. Real Madrid all | 8K ES: SOCCER 69
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072484&extension=ts&play_token=ND7T5H7Zgh
-#EXTINF:-1 tvg-id="2040658" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 02:30 AM | RCD Espanyol Real Madrid | 8K ES: DAZN 73
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072484&extension=ts&play_token=BCsOlRuKtX
+#EXTINF:-1 tvg-id="2040652" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 02:30 AM | Live RCD Espanyol Real Madrid | 8K ES: DAZN 79
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040658&extension=ts&play_token=yQbtuUNjQ1
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040652&extension=ts&play_token=gS6XkXfrpJ
 #EXTINF:-1 tvg-id="1605764" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",23/08 02:30 AM | ESPANYOL – REAL MADRID (NO) 8K NO: TV2 PLAY 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1605764&extension=ts&play_token=XGmeXvih12
-#EXTINF:-1 tvg-id="2072484" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 02:30 AM | Espanyol vs. Real Madrid all | 8K ES: SOCCER 69
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1605764&extension=ts&play_token=XfIoQcjLgd
+#EXTINF:-1 tvg-id="2072484" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 02:30 AM | End Espanyol vs. Real Madrid all | 8K ES: SOCCER 69
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2072484&extension=ts&play_token=wskHcJnuT5
-#EXTINF:-1 tvg-id="2040658" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 02:30 AM | RCD Espanyol Real Madrid | 8K ES: DAZN 73
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2072484&extension=ts&play_token=UakRzF7yEc
+#EXTINF:-1 tvg-id="2040652" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 02:30 AM | Live RCD Espanyol Real Madrid | 8K ES: DAZN 79
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040658&extension=ts&play_token=B3rdge58TW
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040652&extension=ts&play_token=oNkZnvMgTj
 #EXTINF:-1 tvg-id="2040460" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 02:30 AM | Espanyol Real Madrid | 8K DE: DAZN 65
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040460&extension=ts&play_token=3ku4Fq4cns
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040460&extension=ts&play_token=aTe0NQw6UL
 #EXTINF:-1 tvg-id="2054959" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 02:30 AM | Espanyol vs. Real Madrid all | 8K DE: SOCCER 93
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2054959&extension=ts&play_token=FqJzOICZgZ
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2054959&extension=ts&play_token=DsDLJ2L7aq
 #EXTINF:-1 tvg-id="2046740" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 02:30 AM | Espanyol Real Madrid Primera División | 8K CH: DAZN 65
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2046740&extension=ts&play_token=ibnwmjf1im
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2046740&extension=ts&play_token=vdIF5HU9zK
 #EXTINF:-1 tvg-id="2021207" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",23/08 02:30 AM | ESPANYOL REAL MADRID (SE) 8K SE: PLAY+ 41
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2021207&extension=ts&play_token=HR91mXj64E
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2021207&extension=ts&play_token=x9I0LybRbG
 #EXTINF:-1 tvg-id="1688635" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",23/08 02:30 AM | ESPANYOL REAL MADRID (SE) 8K SE: DISNEY+ 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1688635&extension=ts&play_token=h29h9U98zk
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1688635&extension=ts&play_token=SZpEX7rxLP
 #EXTINF:-1 tvg-id="1605764" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",23/08 02:30 AM | ESPANYOL – REAL MADRID (NO) 8K NO: TV2 PLAY 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1605764&extension=ts&play_token=S94MwbDIQ1
-#EXTINF:-1 tvg-id="2040460" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 02:30 AM | Espanyol Real Madrid | 8K DE: DAZN 65
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040460&extension=ts&play_token=GDNPGcXN8l
-#EXTINF:-1 tvg-id="2054959" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 02:30 AM | Espanyol vs. Real Madrid all | 8K DE: SOCCER 93
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054959&extension=ts&play_token=gukVlJSKFF
-#EXTINF:-1 tvg-id="2046740" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 02:30 AM | Espanyol Real Madrid Primera División | 8K CH: DAZN 65
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046740&extension=ts&play_token=vNHJ6ohwqi
-#EXTINF:-1 tvg-id="2113100" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 02:30 AM | Espanyol vs. Real Madrid all | 8K FR: SOCCER 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113100&extension=ts&play_token=2Ri9D1gogV
-#EXTINF:-1 tvg-id="2041982" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 02:30 AM | Espanyol Barcelone vs. Real Madrid | 8K FR: DAZN 64
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2041982&extension=ts&play_token=HWBtr2X6By
-#EXTINF:-1 tvg-id="2072484" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/08 02:30 AM | Espanyol vs. Real Madrid all | 8K ES: SOCCER 69
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072484&extension=ts&play_token=Q7RSECEBUK
-#EXTINF:-1 tvg-id="2040658" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",23/08 02:30 AM | RCD Espanyol Real Madrid | 8K ES: DAZN 73
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040658&extension=ts&play_token=Yjxh0U0Z4L
-#EXTINF:-1 tvg-id="2021207" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",23/08 02:30 AM | ESPANYOL REAL MADRID (SE) 8K SE: PLAY+ 41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021207&extension=ts&play_token=5qbdlI9lpV
-#EXTINF:-1 tvg-id="1688635" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",23/08 02:30 AM | ESPANYOL REAL MADRID (SE) 8K SE: DISNEY+ 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1688635&extension=ts&play_token=sLwlIH6ZFW
-#EXTINF:-1 tvg-id="1605764" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",23/08 02:30 AM | ESPANYOL – REAL MADRID (NO) 8K NO: TV2 PLAY 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1605764&extension=ts&play_token=DEDLzzb9Ul
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1605764&extension=ts&play_token=FFotzv1bgs
 #EXTINF:-1 tvg-id="1840554" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391",23/08 02:30 AM | Fútbol: RCD Espanyol vs Real Madrid @ :MAX ES 31
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1840554&extension=ts&play_token=TMi7Ga4BcJ
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1840554&extension=ts&play_token=80iiLyzaSN
 #EXTINF:-1 tvg-id="1704112" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",23/08 02:30 AM | Espanyol vs Real Madrid @ :TeliaPlay SE 40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1704112&extension=ts&play_token=foCPEMByAz
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1704112&extension=ts&play_token=X0gG7tKjkL
 #EXTINF:-1 tvg-id="1702953" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",23/08 02:30 AM | Espanyol vs Real Madrid @ :Viaplay NO 49
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1702953&extension=ts&play_token=HKTCAWIenm
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1702953&extension=ts&play_token=lJP2r9mS0y
 #EXTINF:-1 tvg-id="1610990" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",23/08 02:30 AM | Espanyol vs. Real Madrid @ :TSN+ 67
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610990&extension=ts&play_token=2xE2nwgzAI
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610990&extension=ts&play_token=PwH1xOCJ5J
+#EXTINF:-1 tvg-id="2026517" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MAX-MAX.png",23/08 02:30 AM | Fútbol: RCD Espanyol vs Real Madrid @ :MAX ES 31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2026517&extension=ts&play_token=1osEaYMMSL
 #EXTINF:-1 tvg-id="2026517" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MAX-MAX.png",23/08 02:30 AM | Fútbol: RCD Espanyol vs Real Madrid @ :MAX ES 31
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2026517&extension=ts&play_token=gt1jeQfpwQ
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2026517&extension=ts&play_token=RAC358w1uF
 #EXTINF:-1 tvg-id="1996067" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",23/08 02:30 AM | Espanyol vs Real Madrid @ :Viaplay NO 49
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1996067&extension=ts&play_token=WQNP9KAqXJ
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1996067&extension=ts&play_token=k5nDAWDlfp
 #EXTINF:-1 tvg-id="2026517" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MAX-MAX.png",23/08 02:30 AM | Fútbol: RCD Espanyol vs Real Madrid @ :MAX ES 31
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2026517&extension=ts&play_token=7vMZpfC6dV
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2026517&extension=ts&play_token=0jKWfYp6G0
 #EXTINF:-1 tvg-id="1991500" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",23/08 02:30 AM | Espanyol vs Real Madrid @ :TeliaPlay SE 40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1991500&extension=ts&play_token=k8gjXgLUQl
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1991500&extension=ts&play_token=GGPfL6XTHm
 #EXTINF:-1 tvg-id="1996067" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",23/08 02:30 AM | Espanyol vs Real Madrid @ :Viaplay NO 49
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1996067&extension=ts&play_token=rf5a5jEApi
-#EXTINF:-1 tvg-id="2026517" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MAX-MAX.png",23/08 02:30 AM | Fútbol: RCD Espanyol vs Real Madrid @ :MAX ES 31
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2026517&extension=ts&play_token=q4DOnwsL6I
-#EXTINF:-1 tvg-id="1991500" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",23/08 02:30 AM | Espanyol vs Real Madrid @ :TeliaPlay SE 40
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1991500&extension=ts&play_token=UAwUTgP2Q9
-#EXTINF:-1 tvg-id="1996067" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",23/08 02:30 AM | Espanyol vs Real Madrid @ :Viaplay NO 49
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0DFDDA2E9C8D5E08EE265DC33B8B3420
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996067&extension=ts&play_token=ZDalVVXtoP
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1996067&extension=ts&play_token=ocxLzuW18j
 #EXTINF:-1 tvg-id="1535929" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",23/08 08:00 PM | AU (STAN 33) Studio Coverage: Manchester City v Bournemouth Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535929&extension=ts&play_token=HyaR805pmC
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535929&extension=ts&play_token=IxXYqTIpuc
+#EXTINF:-1 tvg-id="1909943" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 08:00 PM | AU (STAN 33) Studio Coverage: Manchester City v Bournemouth Matchweek 1 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1909943&extension=ts&play_token=6JGGNFEAq4
 #EXTINF:-1 tvg-id="1909943" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 08:00 PM | AU (STAN 33) Studio Coverage: Manchester City v Bournemouth Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909943&extension=ts&play_token=05QTM3wY8m
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909943&extension=ts&play_token=YjRUXqstQI
 #EXTINF:-1 tvg-id="1909943" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 08:00 PM | AU (STAN 33) Studio Coverage: Manchester City v Bournemouth Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1909943&extension=ts&play_token=0nP9cWE9qR
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1909943&extension=ts&play_token=0CjICBUHUT
 #EXTINF:-1 tvg-id="1966324" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",23/08 08:00 PM | AU (STAN 33) Studio Coverage: Manchester City v Bournemouth Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966324&extension=ts&play_token=wAwM8TIKEQ
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966324&extension=ts&play_token=wWZZr5wFSc
 #EXTINF:-1 tvg-id="1454430" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",23/08 08:00 PM | 01: Manchester City vs AFC Bournemouth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454430&extension=ts&play_token=wdbIv8TNmL
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454430&extension=ts&play_token=zWrugwi0yH
 #EXTINF:-1 tvg-id="1454429" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",23/08 08:00 PM | 01: Manchester City vs AFC Bournemouth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454429&extension=ts&play_token=Nr6Ro84awN
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454429&extension=ts&play_token=gh1EXhnyLb
 #EXTINF:-1 tvg-id="1454428" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",23/08 08:00 PM | 01: Manchester City vs AFC Bournemouth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454428&extension=ts&play_token=jDMiYWlkL5
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454428&extension=ts&play_token=L6dRsIbqgO
 #EXTINF:-1 tvg-id="1831701" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644",23/08 08:00 PM | US (Peacock 018) Brighton v. Aston Villa ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1831701&extension=ts&play_token=ElLXMizMWu
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1831701&extension=ts&play_token=Dj83Y10uOv
 #EXTINF:-1 tvg-id="1535928" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",23/08 08:00 PM | AU (STAN 34) Brighton & Hove Albion v Aston Villa Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535928&extension=ts&play_token=mmLzAMx2YW
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535928&extension=ts&play_token=QsmlbOL0sB
+#EXTINF:-1 tvg-id="1910859" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png",23/08 08:00 PM | US (Peacock 018) Brighton v. Aston Villa ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910859&extension=ts&play_token=XcmCBQayPy
+#EXTINF:-1 tvg-id="1909942" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 08:00 PM | AU (STAN 34) Brighton & Hove Albion v Aston Villa Matchweek 1 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1909942&extension=ts&play_token=PeqBRfWdHr
 #EXTINF:-1 tvg-id="1910859" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png",23/08 08:00 PM | US (Peacock 018) Brighton v. Aston Villa ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910859&extension=ts&play_token=EN7mD3jxn1
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910859&extension=ts&play_token=EvWkAfkKG6
 #EXTINF:-1 tvg-id="1909942" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 08:00 PM | AU (STAN 34) Brighton & Hove Albion v Aston Villa Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909942&extension=ts&play_token=QcrsiLVFpB
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909942&extension=ts&play_token=M0c6Rsflro
 #EXTINF:-1 tvg-id="1910859" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png",23/08 08:00 PM | US (Peacock 018) Brighton v. Aston Villa ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910859&extension=ts&play_token=iVrLhRAKpJ
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910859&extension=ts&play_token=L2W1IvSToy
 #EXTINF:-1 tvg-id="1909942" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 08:00 PM | AU (STAN 34) Brighton & Hove Albion v Aston Villa Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1909942&extension=ts&play_token=h53Lf3zVzi
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1909942&extension=ts&play_token=mYTUNjZIgh
 #EXTINF:-1 tvg-id="1966323" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",23/08 08:00 PM | AU (STAN 34) Brighton & Hove Albion v Aston Villa Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966323&extension=ts&play_token=cjEY431QHg
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966323&extension=ts&play_token=a26Elzx3TB
 #EXTINF:-1 tvg-id="1454427" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",23/08 08:00 PM | 02: Brighton & Hove Albion vs Aston Villa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454427&extension=ts&play_token=c9Ttn7tzyh
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454427&extension=ts&play_token=Ey2DWWZeL2
 #EXTINF:-1 tvg-id="1454426" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",23/08 08:00 PM | 02: Brighton & Hove Albion vs Aston Villa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454426&extension=ts&play_token=Vj8n7yGfga
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454426&extension=ts&play_token=hs9Fg9iDO3
 #EXTINF:-1 tvg-id="1454425" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",23/08 08:00 PM | 02: Brighton & Hove Albion vs Aston Villa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454425&extension=ts&play_token=cNKWUrW5OW
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454425&extension=ts&play_token=lHwbdbHw4i
 #EXTINF:-1 tvg-id="1535925" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",23/08 10:30 PM | AU (STAN 37) Studio Coverage: Newcastle United v Liverpool Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535925&extension=ts&play_token=uHOy4Lo7UV
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535925&extension=ts&play_token=67VDefQUqd
 #EXTINF:-1 tvg-id="1535924" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",23/08 10:30 PM | AU (STAN 38) • Newcastle United v Liverpool Matchweek 1 2026/2027 ( :39)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535924&extension=ts&play_token=zKmUS2KpGZ
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535924&extension=ts&play_token=YpwVZ5pp6n
+#EXTINF:-1 tvg-id="1909939" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 10:30 PM | AU (STAN 37) Studio Coverage: Newcastle United v Liverpool Matchweek 1 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1909939&extension=ts&play_token=19FgIoGodF
+#EXTINF:-1 tvg-id="1909938" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 10:30 PM | AU (STAN 38) • Newcastle United v Liverpool Matchweek 1 2026/2027 ( :39)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1909938&extension=ts&play_token=Cr2ujYNOFT
 #EXTINF:-1 tvg-id="1909939" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 10:30 PM | AU (STAN 37) Studio Coverage: Newcastle United v Liverpool Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909939&extension=ts&play_token=Fb5v3hRw77
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909939&extension=ts&play_token=5G2BAM42xI
 #EXTINF:-1 tvg-id="1909938" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 10:30 PM | AU (STAN 38) • Newcastle United v Liverpool Matchweek 1 2026/2027 ( :39)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909938&extension=ts&play_token=SDT8h74rVt
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909938&extension=ts&play_token=HKzsnlVs9U
 #EXTINF:-1 tvg-id="1909939" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 10:30 PM | AU (STAN 37) Studio Coverage: Newcastle United v Liverpool Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1909939&extension=ts&play_token=suVK325Vpw
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1909939&extension=ts&play_token=mxNVgyueyd
 #EXTINF:-1 tvg-id="1909938" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 10:30 PM | AU (STAN 38) • Newcastle United v Liverpool Matchweek 1 2026/2027 ( :39)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1909938&extension=ts&play_token=I8EWGZi0aP
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1909938&extension=ts&play_token=b2pIa2AKIz
 #EXTINF:-1 tvg-id="1966320" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",23/08 10:30 PM | AU (STAN 37) Studio Coverage: Newcastle United v Liverpool Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966320&extension=ts&play_token=mUtBOmLZYk
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966320&extension=ts&play_token=OTDtRxvY5f
 #EXTINF:-1 tvg-id="1966319" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",23/08 10:30 PM | AU (STAN 38) • Newcastle United v Liverpool Matchweek 1 2026/2027 ( :39)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966319&extension=ts&play_token=CrykWRVOck
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966319&extension=ts&play_token=J7c74i66fQ
 #EXTINF:-1 tvg-id="1454424" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",23/08 10:30 PM | 03: Newcastle United vs Liverpool
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454424&extension=ts&play_token=FRMRe1guQs
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454424&extension=ts&play_token=WBHHNqO3iN
 #EXTINF:-1 tvg-id="1454423" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",23/08 10:30 PM | 03: Newcastle United vs Liverpool
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454423&extension=ts&play_token=Tgo2CVWqs3
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454423&extension=ts&play_token=TCtyx3kXzb
 #EXTINF:-1 tvg-id="1454422" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",23/08 10:30 PM | 03: Newcastle United vs Liverpool
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454422&extension=ts&play_token=7v4vWFkjpO
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454422&extension=ts&play_token=weziyIjFYi
 #EXTINF:-1 tvg-id="1535925" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",23/08 10:30 PM | AU (STAN 37) Studio Coverage: Newcastle United v Liverpool Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535925&extension=ts&play_token=uHOy4Lo7UV
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535925&extension=ts&play_token=67VDefQUqd
 #EXTINF:-1 tvg-id="1535924" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",23/08 10:30 PM | AU (STAN 38) • Newcastle United v Liverpool Matchweek 1 2026/2027 ( :39)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535924&extension=ts&play_token=zKmUS2KpGZ
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535924&extension=ts&play_token=YpwVZ5pp6n
+#EXTINF:-1 tvg-id="1909939" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 10:30 PM | AU (STAN 37) Studio Coverage: Newcastle United v Liverpool Matchweek 1 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1909939&extension=ts&play_token=19FgIoGodF
+#EXTINF:-1 tvg-id="1909938" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 10:30 PM | AU (STAN 38) • Newcastle United v Liverpool Matchweek 1 2026/2027 ( :39)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1909938&extension=ts&play_token=Cr2ujYNOFT
 #EXTINF:-1 tvg-id="1909939" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 10:30 PM | AU (STAN 37) Studio Coverage: Newcastle United v Liverpool Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909939&extension=ts&play_token=Fb5v3hRw77
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909939&extension=ts&play_token=5G2BAM42xI
 #EXTINF:-1 tvg-id="1909938" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 10:30 PM | AU (STAN 38) • Newcastle United v Liverpool Matchweek 1 2026/2027 ( :39)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909938&extension=ts&play_token=SDT8h74rVt
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909938&extension=ts&play_token=HKzsnlVs9U
 #EXTINF:-1 tvg-id="1909939" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 10:30 PM | AU (STAN 37) Studio Coverage: Newcastle United v Liverpool Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1909939&extension=ts&play_token=suVK325Vpw
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1909939&extension=ts&play_token=mxNVgyueyd
 #EXTINF:-1 tvg-id="1909938" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",23/08 10:30 PM | AU (STAN 38) • Newcastle United v Liverpool Matchweek 1 2026/2027 ( :39)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1909938&extension=ts&play_token=I8EWGZi0aP
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1909938&extension=ts&play_token=b2pIa2AKIz
 #EXTINF:-1 tvg-id="1966320" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",23/08 10:30 PM | AU (STAN 37) Studio Coverage: Newcastle United v Liverpool Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966320&extension=ts&play_token=mUtBOmLZYk
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966320&extension=ts&play_token=OTDtRxvY5f
 #EXTINF:-1 tvg-id="1966319" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",23/08 10:30 PM | AU (STAN 38) • Newcastle United v Liverpool Matchweek 1 2026/2027 ( :39)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966319&extension=ts&play_token=CrykWRVOck
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966319&extension=ts&play_token=J7c74i66fQ
 #EXTINF:-1 tvg-id="1454424" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",23/08 10:30 PM | 03: Newcastle United vs Liverpool
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454424&extension=ts&play_token=FRMRe1guQs
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454424&extension=ts&play_token=WBHHNqO3iN
 #EXTINF:-1 tvg-id="1454423" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",23/08 10:30 PM | 03: Newcastle United vs Liverpool
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454423&extension=ts&play_token=Tgo2CVWqs3
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454423&extension=ts&play_token=TCtyx3kXzb
 #EXTINF:-1 tvg-id="1454422" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",23/08 10:30 PM | 03: Newcastle United vs Liverpool
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72B1E18E4701F53138911FF4D4A4AB8C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454422&extension=ts&play_token=7v4vWFkjpO
+#EXTVLCOPT:http-header=Authorization: Bearer DD5BB2E885355ED945BD67457336F649
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454422&extension=ts&play_token=weziyIjFYi
+#EXTINF:-1 tvg-id="1910724" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",23/08 11:30 PM | US (Paramount 018) Frosinone vs. Juventus ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7E2D048435E2200290D8E48FC96E78A
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910724&extension=ts&play_token=b5jNhzZtky
 #EXTINF:-1 tvg-id="1910724" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",23/08 11:30 PM | US (Paramount 018) Frosinone vs. Juventus ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33AC456BD06DD225CF9C31795D764D6A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910724&extension=ts&play_token=VtI7dRqHTo
+#EXTVLCOPT:http-header=Authorization: Bearer 4E6D249A6C5D53F6BF0CF1E48461B3CB
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910724&extension=ts&play_token=TUWPsSuEHe
 #EXTINF:-1 tvg-id="1910724" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",23/08 11:30 PM | US (Paramount 018) Frosinone vs. Juventus ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF5AE884E690D770A34FD6A03C2CFD2A
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910724&extension=ts&play_token=FZcoBOL2ul
+#EXTVLCOPT:http-header=Authorization: Bearer 3DFB25B6268006C35A8E597FF4F2CF0A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910724&extension=ts&play_token=TJxQu18QYv

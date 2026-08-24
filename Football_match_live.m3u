@@ -1,466 +1,541 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1899955" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",24/08 11:30 PM | Bologna vs. Lazio Lega Serie A | 8K GB: DAZN 47
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1899955&extension=ts&play_token=mGr3kshONx
 #EXTINF:-1 tvg-id="2048882" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",24/08 11:30 PM | Bologna vs. Lazio Lega Serie A | 8K GB: DAZN 47
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2048882&extension=ts&play_token=JO8bVXOYkU
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2048882&extension=ts&play_token=4VaoaYaKjs
 #EXTINF:-1 tvg-id="2048882" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",24/08 11:30 PM | Bologna vs. Lazio Lega Serie A | 8K GB: DAZN 47
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 951FDBE55B721A6C69B17558304D926F
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2048882&extension=ts&play_token=BIz9op0uMP
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2048882&extension=ts&play_token=ltDCtiYo00
 #EXTINF:-1 tvg-id="2048882" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",24/08 11:30 PM | Bologna vs. Lazio Lega Serie A | 8K GB: DAZN 47
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2048882&extension=ts&play_token=pnBjFcXgKl
-#EXTINF:-1 tvg-id="2048882" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",24/08 11:30 PM | Bologna vs. Lazio Lega Serie A | 8K GB: DAZN 47
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 510E86519E77B4FF72979E7416545554
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2048882&extension=ts&play_token=DczAhk5ppw
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2048882&extension=ts&play_token=Qy8ojzVESL
 #EXTINF:-1 tvg-id="1910736" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",24/08 11:30 PM | US (Paramount 006) Bologna vs. Lazio ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910736&extension=ts&play_token=yTdQz3Z8NU
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910736&extension=ts&play_token=gJtcF8R6Dg
 #EXTINF:-1 tvg-id="1910736" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",24/08 11:30 PM | US (Paramount 006) Bologna vs. Lazio ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 951FDBE55B721A6C69B17558304D926F
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910736&extension=ts&play_token=lIxkPNPZtt
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910736&extension=ts&play_token=ohRo6GqAMt
 #EXTINF:-1 tvg-id="1910736" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",24/08 11:30 PM | US (Paramount 006) Bologna vs. Lazio ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910736&extension=ts&play_token=YTrwhNiILA
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910736&extension=ts&play_token=prakhp3lXx
+#EXTINF:-1 tvg-id="2063876" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",24/08 11:30 PM | Bologna vs. Lazio all | 8K FR: SOCCER 83
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2063876&extension=ts&play_token=G23Y8CCQrN
+#EXTINF:-1 tvg-id="1918705" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",24/08 11:30 PM | Bologna vs. Lazio all | 8K DE: SOCCER 172
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918705&extension=ts&play_token=Ztr4olrCPw
+#EXTINF:-1 tvg-id="1881170" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",24/08 11:30 PM | Bologna Lazio (italienischer Kommentar) Serie A | 8K DE: DAZN 66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881170&extension=ts&play_token=xNtBlC8ZRg
+#EXTINF:-1 tvg-id="1881168" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",24/08 11:30 PM | Bologna Lazio Serie A | 8K DE: DAZN 68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881168&extension=ts&play_token=RaU9lrClwW
+#EXTINF:-1 tvg-id="1988038" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",24/08 11:30 PM | Bologna vs. Lazio all | 8K ES: SOCCER 88
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988038&extension=ts&play_token=OV3OOuyDHY
+#EXTINF:-1 tvg-id="1881059" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",24/08 11:30 PM | Bologna Lazio Serie A | 8K ES: DAZN 77
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881059&extension=ts&play_token=kFSlLcX6WQ
+#EXTINF:-1 tvg-id="1939856" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",24/08 11:30 PM | End Bologna vs. Lazio all | 8K CA: SOCCER 100
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939856&extension=ts&play_token=PLIlp3gYkC
 #EXTINF:-1 tvg-id="2113028" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",24/08 11:30 PM | Bologna vs. Lazio all | 8K FR: SOCCER 83
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2113028&extension=ts&play_token=lw4iEUmioi
-#EXTINF:-1 tvg-id="2062231" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",24/08 11:30 PM | Bologna vs. Lazio all | 8K CA: SOCCER 100
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2113028&extension=ts&play_token=LUIjZG1ESb
+#EXTINF:-1 tvg-id="2062231" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",24/08 11:30 PM | End Bologna vs. Lazio all | 8K CA: SOCCER 100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062231&extension=ts&play_token=LMEqmRY2Of
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062231&extension=ts&play_token=NqZ6i9NV8A
 #EXTINF:-1 tvg-id="2072465" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",24/08 11:30 PM | Bologna vs. Lazio all | 8K ES: SOCCER 88
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2072465&extension=ts&play_token=Fosf3dinTQ
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2072465&extension=ts&play_token=SgmKXe2cTw
 #EXTINF:-1 tvg-id="2040654" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",24/08 11:30 PM | Bologna Lazio Serie A | 8K ES: DAZN 77
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2040654&extension=ts&play_token=00u5W6TesL
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2040654&extension=ts&play_token=EKOpBxyHhv
 #EXTINF:-1 tvg-id="2040459" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",24/08 11:30 PM | Bologna Lazio (italienischer Kommentar) Serie A | 8K DE: DAZN 66
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2040459&extension=ts&play_token=C8RXCNhyfz
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2040459&extension=ts&play_token=FeC9xUK1xg
 #EXTINF:-1 tvg-id="2040457" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",24/08 11:30 PM | Bologna Lazio Serie A | 8K DE: DAZN 68
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2040457&extension=ts&play_token=c0NvkbE6ey
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2040457&extension=ts&play_token=hRnfFPRiWD
 #EXTINF:-1 tvg-id="2054880" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",24/08 11:30 PM | Bologna vs. Lazio all | 8K DE: SOCCER 172
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2054880&extension=ts&play_token=lel0ZLnAxD
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2054880&extension=ts&play_token=u5KjtVHIDo
 #EXTINF:-1 tvg-id="2113028" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",24/08 11:30 PM | Bologna vs. Lazio all | 8K FR: SOCCER 83
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 951FDBE55B721A6C69B17558304D926F
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113028&extension=ts&play_token=DMKRK1z03y
-#EXTINF:-1 tvg-id="2062231" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",24/08 11:30 PM | Bologna vs. Lazio all | 8K CA: SOCCER 100
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113028&extension=ts&play_token=7XirYbn9r5
+#EXTINF:-1 tvg-id="2062231" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",24/08 11:30 PM | End Bologna vs. Lazio all | 8K CA: SOCCER 100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 951FDBE55B721A6C69B17558304D926F
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062231&extension=ts&play_token=3r0DTxvb3k
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062231&extension=ts&play_token=BVSDmzOuuj
 #EXTINF:-1 tvg-id="2040459" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",24/08 11:30 PM | Bologna Lazio (italienischer Kommentar) Serie A | 8K DE: DAZN 66
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 951FDBE55B721A6C69B17558304D926F
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040459&extension=ts&play_token=6fNsDwoVWS
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040459&extension=ts&play_token=J6r0cNZ07I
 #EXTINF:-1 tvg-id="2040457" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",24/08 11:30 PM | Bologna Lazio Serie A | 8K DE: DAZN 68
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 951FDBE55B721A6C69B17558304D926F
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040457&extension=ts&play_token=rVYZvarafD
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040457&extension=ts&play_token=obRT07kCka
 #EXTINF:-1 tvg-id="2054880" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",24/08 11:30 PM | Bologna vs. Lazio all | 8K DE: SOCCER 172
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 951FDBE55B721A6C69B17558304D926F
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2054880&extension=ts&play_token=mlILhR4IJo
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2054880&extension=ts&play_token=C5Jmfh7ujr
 #EXTINF:-1 tvg-id="2072465" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",24/08 11:30 PM | Bologna vs. Lazio all | 8K ES: SOCCER 88
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 951FDBE55B721A6C69B17558304D926F
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072465&extension=ts&play_token=XRPaT1zXhv
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072465&extension=ts&play_token=7NsUiMOEfR
 #EXTINF:-1 tvg-id="2040654" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",24/08 11:30 PM | Bologna Lazio Serie A | 8K ES: DAZN 77
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 951FDBE55B721A6C69B17558304D926F
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040654&extension=ts&play_token=pAFIacxz2W
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040654&extension=ts&play_token=6jrOxazZpU
 #EXTINF:-1 tvg-id="2072465" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",24/08 11:30 PM | Bologna vs. Lazio all | 8K ES: SOCCER 88
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2072465&extension=ts&play_token=ah0l7QT6hW
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2072465&extension=ts&play_token=9NiPkwaTBF
 #EXTINF:-1 tvg-id="2040654" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",24/08 11:30 PM | Bologna Lazio Serie A | 8K ES: DAZN 77
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040654&extension=ts&play_token=mtBafDxIYb
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040654&extension=ts&play_token=1EM8cKKMY3
 #EXTINF:-1 tvg-id="2040459" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",24/08 11:30 PM | Bologna Lazio (italienischer Kommentar) Serie A | 8K DE: DAZN 66
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040459&extension=ts&play_token=qZnEe9dMIS
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040459&extension=ts&play_token=XNJcIDqEPk
 #EXTINF:-1 tvg-id="2040457" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",24/08 11:30 PM | Bologna Lazio Serie A | 8K DE: DAZN 68
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040457&extension=ts&play_token=mUtLPmQCbi
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040457&extension=ts&play_token=zF7VMVkNP2
 #EXTINF:-1 tvg-id="2054880" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",24/08 11:30 PM | Bologna vs. Lazio all | 8K DE: SOCCER 172
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2054880&extension=ts&play_token=CmPoIToOEY
-#EXTINF:-1 tvg-id="2040459" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",24/08 11:30 PM | Bologna Lazio (italienischer Kommentar) Serie A | 8K DE: DAZN 66
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2054880&extension=ts&play_token=YgYs8QOc6j
+#EXTINF:-1 tvg-id="1899951" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",25/08 01:45 AM | Roma vs. Fiorentina Lega Serie A | 8K GB: DAZN 51
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 510E86519E77B4FF72979E7416545554
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040459&extension=ts&play_token=7EXjsUTDzI
-#EXTINF:-1 tvg-id="2040457" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",24/08 11:30 PM | Bologna Lazio Serie A | 8K DE: DAZN 68
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 510E86519E77B4FF72979E7416545554
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040457&extension=ts&play_token=HQvouQSEeG
-#EXTINF:-1 tvg-id="2054880" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",24/08 11:30 PM | Bologna vs. Lazio all | 8K DE: SOCCER 172
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 510E86519E77B4FF72979E7416545554
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054880&extension=ts&play_token=4lpFzYvJLv
-#EXTINF:-1 tvg-id="2113028" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",24/08 11:30 PM | Bologna vs. Lazio all | 8K FR: SOCCER 83
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 510E86519E77B4FF72979E7416545554
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113028&extension=ts&play_token=hYDh1hSwC4
-#EXTINF:-1 tvg-id="2072465" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",24/08 11:30 PM | Bologna vs. Lazio all | 8K ES: SOCCER 88
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 510E86519E77B4FF72979E7416545554
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072465&extension=ts&play_token=9ShWYTMdvn
-#EXTINF:-1 tvg-id="2040654" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",24/08 11:30 PM | Bologna Lazio Serie A | 8K ES: DAZN 77
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 510E86519E77B4FF72979E7416545554
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040654&extension=ts&play_token=SsItvapBnh
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1899951&extension=ts&play_token=beCoKVD5Hy
 #EXTINF:-1 tvg-id="2048878" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",25/08 01:45 AM | Roma vs. Fiorentina Lega Serie A | 8K GB: DAZN 51
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2048878&extension=ts&play_token=pe0g8SZMdm
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2048878&extension=ts&play_token=F26BIJPdv4
 #EXTINF:-1 tvg-id="2048878" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",25/08 01:45 AM | Roma vs. Fiorentina Lega Serie A | 8K GB: DAZN 51
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 951FDBE55B721A6C69B17558304D926F
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2048878&extension=ts&play_token=DOuq8jMobm
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2048878&extension=ts&play_token=jJB7yc1H5O
 #EXTINF:-1 tvg-id="2048878" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",25/08 01:45 AM | Roma vs. Fiorentina Lega Serie A | 8K GB: DAZN 51
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2048878&extension=ts&play_token=LBnCBrzaAq
-#EXTINF:-1 tvg-id="2048878" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",25/08 01:45 AM | Roma vs. Fiorentina Lega Serie A | 8K GB: DAZN 51
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 510E86519E77B4FF72979E7416545554
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2048878&extension=ts&play_token=IO79f46LLO
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2048878&extension=ts&play_token=7xZNfqh559
 #EXTINF:-1 tvg-id="1910735" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",25/08 01:45 AM | US (Paramount 007) Roma vs. Fiorentina ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910735&extension=ts&play_token=uGZkhqW730
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910735&extension=ts&play_token=L44mm8yqVW
 #EXTINF:-1 tvg-id="1910735" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",25/08 01:45 AM | US (Paramount 007) Roma vs. Fiorentina ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 951FDBE55B721A6C69B17558304D926F
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910735&extension=ts&play_token=ax2r0BFsJh
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910735&extension=ts&play_token=FosIatcSfD
 #EXTINF:-1 tvg-id="1910735" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",25/08 01:45 AM | US (Paramount 007) Roma vs. Fiorentina ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910735&extension=ts&play_token=GEAqsIMDJN
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910735&extension=ts&play_token=R1HivJpr8d
+#EXTINF:-1 tvg-id="2063833" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",25/08 01:45 AM | Roma vs. Fiorentina all | 8K FR: SOCCER 126
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2063833&extension=ts&play_token=xyRYFKRfxW
+#EXTINF:-1 tvg-id="1918701" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",25/08 01:45 AM | Roma vs. Fiorentina all | 8K DE: SOCCER 176
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918701&extension=ts&play_token=Wzt4Cq0oEU
+#EXTINF:-1 tvg-id="1988039" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",25/08 01:45 AM | Roma vs. Fiorentina all | 8K ES: SOCCER 87
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988039&extension=ts&play_token=nTI7nkTnNj
+#EXTINF:-1 tvg-id="1881054" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",25/08 01:45 AM | AS Roma Fiorentina Serie A | 8K ES: DAZN 82
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881054&extension=ts&play_token=uc1Enpb3Qz
+#EXTINF:-1 tvg-id="1939859" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",25/08 01:45 AM | End Roma vs. Fiorentina all | 8K CA: SOCCER 97
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939859&extension=ts&play_token=HPuQENcWqz
+#EXTINF:-1 tvg-id="1919027" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",25/08 01:45 AM | Roma vs. Fiorentina all | 8K BR: SOCCER 57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919027&extension=ts&play_token=BMjnzUCB5e
+#EXTINF:-1 tvg-id="1983992" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",25/08 01:45 AM | AO VIVO: ROMA X FIORENTINA SERIE A (CAZÉTV) -02 (BR) 8K BR: DISNEY+ 133
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1983992&extension=ts&play_token=Pco4o5pRK6
 #EXTINF:-1 tvg-id="2112985" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 01:45 AM | Roma vs. Fiorentina all | 8K FR: SOCCER 126
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2112985&extension=ts&play_token=VV6zQoWrac
-#EXTINF:-1 tvg-id="2062234" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 01:45 AM | Roma vs. Fiorentina all | 8K CA: SOCCER 97
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2112985&extension=ts&play_token=Gc2CBdjJA6
+#EXTINF:-1 tvg-id="2062234" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 01:45 AM | End Roma vs. Fiorentina all | 8K CA: SOCCER 97
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062234&extension=ts&play_token=F4aH8PNjiR
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062234&extension=ts&play_token=ez9EvsUQe5
 #EXTINF:-1 tvg-id="2072466" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 01:45 AM | Roma vs. Fiorentina all | 8K ES: SOCCER 87
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2072466&extension=ts&play_token=PGOI1pEGRN
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2072466&extension=ts&play_token=PRI3me9TgP
 #EXTINF:-1 tvg-id="2040649" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",25/08 01:45 AM | AS Roma Fiorentina Serie A | 8K ES: DAZN 82
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2040649&extension=ts&play_token=B6P82zd14B
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2040649&extension=ts&play_token=svqSPRvfpy
 #EXTINF:-1 tvg-id="2066900" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 01:45 AM | Roma vs. Fiorentina all | 8K BR: SOCCER 57
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2066900&extension=ts&play_token=GXy11zJoe5
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2066900&extension=ts&play_token=h41zGTh0bb
 #EXTINF:-1 tvg-id="2070500" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",25/08 01:45 AM | AO VIVO: ROMA X FIORENTINA SERIE A (CAZÉTV) -02 (BR) 8K BR: DISNEY+ 133
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2070500&extension=ts&play_token=b0xL9XKmNO
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2070500&extension=ts&play_token=TXSnJGIc2y
 #EXTINF:-1 tvg-id="2054876" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 01:45 AM | Roma vs. Fiorentina all | 8K DE: SOCCER 176
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2054876&extension=ts&play_token=rEpjd5kQ7h
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2054876&extension=ts&play_token=SNtUMS5bPY
 #EXTINF:-1 tvg-id="2112985" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 01:45 AM | Roma vs. Fiorentina all | 8K FR: SOCCER 126
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 951FDBE55B721A6C69B17558304D926F
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2112985&extension=ts&play_token=lQHlaYrccE
-#EXTINF:-1 tvg-id="2062234" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 01:45 AM | Roma vs. Fiorentina all | 8K CA: SOCCER 97
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2112985&extension=ts&play_token=DsNiLOuV8u
+#EXTINF:-1 tvg-id="2062234" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 01:45 AM | End Roma vs. Fiorentina all | 8K CA: SOCCER 97
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 951FDBE55B721A6C69B17558304D926F
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062234&extension=ts&play_token=x4zZ9FbAvM
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062234&extension=ts&play_token=13rQRtC3nb
 #EXTINF:-1 tvg-id="2054876" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 01:45 AM | Roma vs. Fiorentina all | 8K DE: SOCCER 176
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 951FDBE55B721A6C69B17558304D926F
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2054876&extension=ts&play_token=5ZnMO8MMNZ
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2054876&extension=ts&play_token=TNqOaLFCSF
 #EXTINF:-1 tvg-id="2072466" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 01:45 AM | Roma vs. Fiorentina all | 8K ES: SOCCER 87
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 951FDBE55B721A6C69B17558304D926F
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072466&extension=ts&play_token=PUHPqxUlPg
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072466&extension=ts&play_token=fqc9B5x8Zh
 #EXTINF:-1 tvg-id="2040649" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",25/08 01:45 AM | AS Roma Fiorentina Serie A | 8K ES: DAZN 82
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 951FDBE55B721A6C69B17558304D926F
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040649&extension=ts&play_token=srGXQeU49s
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040649&extension=ts&play_token=1oPzxujMJe
 #EXTINF:-1 tvg-id="2072466" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 01:45 AM | Roma vs. Fiorentina all | 8K ES: SOCCER 87
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2072466&extension=ts&play_token=oGwmTOVzv8
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2072466&extension=ts&play_token=2rLmjGeG90
 #EXTINF:-1 tvg-id="2040649" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",25/08 01:45 AM | AS Roma Fiorentina Serie A | 8K ES: DAZN 82
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040649&extension=ts&play_token=85KH6l83I4
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040649&extension=ts&play_token=BYVJ5JeRG8
 #EXTINF:-1 tvg-id="2054876" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 01:45 AM | Roma vs. Fiorentina all | 8K DE: SOCCER 176
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2054876&extension=ts&play_token=lwH4kOHKHP
-#EXTINF:-1 tvg-id="2054876" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 01:45 AM | Roma vs. Fiorentina all | 8K DE: SOCCER 176
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2054876&extension=ts&play_token=kssmWmIID8
+#EXTINF:-1 tvg-id="1535944" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",25/08 02:00 AM | AU (STAN 18) Studio Coverage: Fulham v Chelsea Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 510E86519E77B4FF72979E7416545554
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054876&extension=ts&play_token=8tN36ZGLVY
-#EXTINF:-1 tvg-id="2112985" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 01:45 AM | Roma vs. Fiorentina all | 8K FR: SOCCER 126
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 510E86519E77B4FF72979E7416545554
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2112985&extension=ts&play_token=Y8IvhM3mRx
-#EXTINF:-1 tvg-id="2072466" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 01:45 AM | Roma vs. Fiorentina all | 8K ES: SOCCER 87
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 510E86519E77B4FF72979E7416545554
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072466&extension=ts&play_token=tAvd0iiolM
-#EXTINF:-1 tvg-id="2040649" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",25/08 01:45 AM | AS Roma Fiorentina Serie A | 8K ES: DAZN 82
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 510E86519E77B4FF72979E7416545554
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040649&extension=ts&play_token=SyGhkNSUik
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535944&extension=ts&play_token=DfxqmieNdN
 #EXTINF:-1 tvg-id="1909958" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",25/08 02:00 AM | AU (STAN 18) Studio Coverage: Fulham v Chelsea Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1909958&extension=ts&play_token=gOwy0INfWs
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1909958&extension=ts&play_token=ZHRQ3gSCQg
 #EXTINF:-1 tvg-id="1909958" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",25/08 02:00 AM | AU (STAN 18) Studio Coverage: Fulham v Chelsea Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 951FDBE55B721A6C69B17558304D926F
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909958&extension=ts&play_token=EEvXrBBigQ
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909958&extension=ts&play_token=FPpufqDXuY
 #EXTINF:-1 tvg-id="1909958" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",25/08 02:00 AM | AU (STAN 18) Studio Coverage: Fulham v Chelsea Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1909958&extension=ts&play_token=hc7TLouqA2
-#EXTINF:-1 tvg-id="2062235" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 02:00 AM | Fulham vs. Chelsea all | 8K CA: SOCCER 96
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1909958&extension=ts&play_token=u4BblVVPzp
+#EXTINF:-1 tvg-id="1966339" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",25/08 02:00 AM | AU (STAN 18) Studio Coverage: Fulham v Chelsea Matchweek 1 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966339&extension=ts&play_token=hocoJw9cOk
+#EXTINF:-1 tvg-id="1454430" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",25/08 02:00 AM | 01: Fulham vs Chelsea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454430&extension=ts&play_token=8hbcubtsMe
+#EXTINF:-1 tvg-id="1454429" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",25/08 02:00 AM | 01: Fulham vs Chelsea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454429&extension=ts&play_token=Bjmks0ak1y
+#EXTINF:-1 tvg-id="1454428" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",25/08 02:00 AM | 01: Fulham vs Chelsea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454428&extension=ts&play_token=WTadxp2v1E
+#EXTINF:-1 tvg-id="1162737" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13849.jpg?ver=68167",25/08 02:00 AM | FC FULHAM FC CHELSEA (DE) 8K DE: RTL+ 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1162737&extension=ts&play_token=nWQO4nSnxC
+#EXTINF:-1 tvg-id="1918696" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",25/08 02:00 AM | Fulham vs. Chelsea all | 8K DE: SOCCER 181
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918696&extension=ts&play_token=5XpKY6XDLG
+#EXTINF:-1 tvg-id="1930937" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",25/08 02:00 AM | Fulham vs. Chelsea all | 8K NL: SOCCER 62
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1930937&extension=ts&play_token=BbuW217Fyw
+#EXTINF:-1 tvg-id="918723" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",25/08 02:00 AM | FULHAM CHELSEA (NL) 8K NL: VIAPLAY 28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=918723&extension=ts&play_token=ObGpmQudvn
+#EXTINF:-1 tvg-id="1988037" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",25/08 02:00 AM | Fulham vs. Chelsea all | 8K ES: SOCCER 89
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988037&extension=ts&play_token=4ZC8s4gaHw
+#EXTINF:-1 tvg-id="1881052" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",25/08 02:00 AM | Fulham Chelsea | 8K ES: DAZN 84
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881052&extension=ts&play_token=AFRoSsbpf2
+#EXTINF:-1 tvg-id="1810008" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",25/08 02:00 AM | FULHAM CHELSEA (SE) 8K SE: VIAPLAY 39
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1810008&extension=ts&play_token=jqZVbm3X5s
+#EXTINF:-1 tvg-id="1825919" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",25/08 02:00 AM | FULHAM CHELSEA (SE) 8K SE: PLAY+ 84
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1825919&extension=ts&play_token=McjqUWRHgx
+#EXTINF:-1 tvg-id="1863186" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",25/08 02:00 AM | FULHAM CHELSEA (DK) 8K DK: VIAPLAY 41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863186&extension=ts&play_token=3vyrBse8SS
+#EXTINF:-1 tvg-id="1242748" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",25/08 02:00 AM | FULHAM CHELSEA (NO) 8K NO: VIAPLAY 41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1242748&extension=ts&play_token=AoC9BZ7IrQ
+#EXTINF:-1 tvg-id="1863292" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",25/08 02:00 AM | VALIOLIIGA FULHAM CHELSEA (FI) 8K FI: VIAPLAY 40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863292&extension=ts&play_token=2SJwskFktl
+#EXTINF:-1 tvg-id="1939860" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",25/08 02:00 AM | End Fulham vs. Chelsea all | 8K CA: SOCCER 96
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939860&extension=ts&play_token=pNiIFrWDjW
+#EXTINF:-1 tvg-id="1983987" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",25/08 02:00 AM | FULHAM VS. CHELSEA -02 (BR) 8K BR: DISNEY+ 138
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6D59495F45245D7195A8D446BCCFBF82
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1983987&extension=ts&play_token=fx2LwVkGGk
+#EXTINF:-1 tvg-id="2062235" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 02:00 AM | End Fulham vs. Chelsea all | 8K CA: SOCCER 96
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062235&extension=ts&play_token=M1J7TIDtfM
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062235&extension=ts&play_token=3yBdA7AIsy
 #EXTINF:-1 tvg-id="1592472" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",25/08 02:00 AM | FULHAM CHELSEA (NL) 8K NL: VIAPLAY 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1592472&extension=ts&play_token=Yw3tvAVfr2
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1592472&extension=ts&play_token=5snmQixg1x
 #EXTINF:-1 tvg-id="2058486" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 02:00 AM | Fulham vs. Chelsea all | 8K NL: SOCCER 62
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2058486&extension=ts&play_token=wE4wu9f5ji
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2058486&extension=ts&play_token=b9kHUCAfUq
 #EXTINF:-1 tvg-id="2072464" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 02:00 AM | Fulham vs. Chelsea all | 8K ES: SOCCER 89
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2072464&extension=ts&play_token=TgXu0Kz5PS
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2072464&extension=ts&play_token=fi0Vda764M
 #EXTINF:-1 tvg-id="2040647" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",25/08 02:00 AM | Fulham Chelsea | 8K ES: DAZN 84
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2040647&extension=ts&play_token=w9nfShkQVG
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2040647&extension=ts&play_token=kCQSi4y3px
 #EXTINF:-1 tvg-id="2070495" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",25/08 02:00 AM | FULHAM VS. CHELSEA -02 (BR) 8K BR: DISNEY+ 138
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2070495&extension=ts&play_token=AXK1QS79B4
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2070495&extension=ts&play_token=FnWhTa8A9W
+#EXTINF:-1 tvg-id="2054871" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 02:00 AM | Fulham vs. Chelsea all | 8K DE: SOCCER 181
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2054871&extension=ts&play_token=FZ6z8qLJv2
 #EXTINF:-1 tvg-id="1689688" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://103.176.90.92/images/1689688.png",25/08 02:00 AM | FC FULHAM FC CHELSEA (DE) 8K DE: RTL+ 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9DAA15363163139BC0497E99A938C865
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1689688&extension=ts&play_token=U6L8d9esBx
-#EXTINF:-1 tvg-id="2062235" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 02:00 AM | Fulham vs. Chelsea all | 8K CA: SOCCER 96
+#EXTVLCOPT:http-header=Authorization: Bearer A0A82D75E02FF92FA52581892F912742
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1689688&extension=ts&play_token=lBsJxcwm3v
+#EXTINF:-1 tvg-id="2062235" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 02:00 AM | End Fulham vs. Chelsea all | 8K CA: SOCCER 96
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 951FDBE55B721A6C69B17558304D926F
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062235&extension=ts&play_token=c0iz3Ebr8g
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062235&extension=ts&play_token=u9yRIeOhGH
+#EXTINF:-1 tvg-id="2054871" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 02:00 AM | Fulham vs. Chelsea all | 8K DE: SOCCER 181
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2054871&extension=ts&play_token=hKEsVYnyk7
 #EXTINF:-1 tvg-id="1689688" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://103.176.90.92/images/1689688.png",25/08 02:00 AM | FC FULHAM FC CHELSEA (DE) 8K DE: RTL+ 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 951FDBE55B721A6C69B17558304D926F
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1689688&extension=ts&play_token=rXukBUecDh
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1689688&extension=ts&play_token=Emq5YCocWH
 #EXTINF:-1 tvg-id="2072464" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 02:00 AM | Fulham vs. Chelsea all | 8K ES: SOCCER 89
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 951FDBE55B721A6C69B17558304D926F
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072464&extension=ts&play_token=Nqejch7Y31
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072464&extension=ts&play_token=vfyTvWq2DE
 #EXTINF:-1 tvg-id="2040647" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",25/08 02:00 AM | Fulham Chelsea | 8K ES: DAZN 84
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 951FDBE55B721A6C69B17558304D926F
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040647&extension=ts&play_token=6hGVwqKo2l
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040647&extension=ts&play_token=omjTVm4qZ5
 #EXTINF:-1 tvg-id="1735537" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",25/08 02:00 AM | FULHAM CHELSEA (NO) 8K NO: VIAPLAY 41
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 951FDBE55B721A6C69B17558304D926F
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735537&extension=ts&play_token=gNbSXqUGEx
+#EXTVLCOPT:http-header=Authorization: Bearer 9D997FDCC6ABFEE3B9DFBD705DFA4E31
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735537&extension=ts&play_token=5jbUE5BpZN
 #EXTINF:-1 tvg-id="1592472" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",25/08 02:00 AM | FULHAM CHELSEA (NL) 8K NL: VIAPLAY 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1592472&extension=ts&play_token=FY5TbTmcZL
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1592472&extension=ts&play_token=jMecdwvUmD
 #EXTINF:-1 tvg-id="2058486" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 02:00 AM | Fulham vs. Chelsea all | 8K NL: SOCCER 62
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2058486&extension=ts&play_token=DVoVmN9kS7
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2058486&extension=ts&play_token=YUPmioTR5a
 #EXTINF:-1 tvg-id="2072464" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 02:00 AM | Fulham vs. Chelsea all | 8K ES: SOCCER 89
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2072464&extension=ts&play_token=tC054QGfvA
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2072464&extension=ts&play_token=P86mx0ZbrS
 #EXTINF:-1 tvg-id="2040647" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",25/08 02:00 AM | Fulham Chelsea | 8K ES: DAZN 84
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040647&extension=ts&play_token=WKXiJYERMl
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040647&extension=ts&play_token=zypt3Y3LWy
+#EXTINF:-1 tvg-id="2054871" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 02:00 AM | Fulham vs. Chelsea all | 8K DE: SOCCER 181
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2054871&extension=ts&play_token=wjF6ecXY22
 #EXTINF:-1 tvg-id="1689688" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://103.176.90.92/images/1689688.png",25/08 02:00 AM | FC FULHAM FC CHELSEA (DE) 8K DE: RTL+ 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1689688&extension=ts&play_token=fg4hfArBr1
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1689688&extension=ts&play_token=Ml84WHgpJq
 #EXTINF:-1 tvg-id="2021164" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",25/08 02:00 AM | FULHAM CHELSEA (SE) 8K SE: PLAY+ 84
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2021164&extension=ts&play_token=KN8jkTAJdg
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2021164&extension=ts&play_token=Sht4he8Z5K
 #EXTINF:-1 tvg-id="2016240" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",25/08 02:00 AM | FULHAM CHELSEA (SE) 8K SE: VIAPLAY 39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2016240&extension=ts&play_token=E85Aa1YcVX
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2016240&extension=ts&play_token=indX0tmA25
 #EXTINF:-1 tvg-id="2037337" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",25/08 02:00 AM | FULHAM CHELSEA (DK) 8K DK: VIAPLAY 41
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2037337&extension=ts&play_token=cojeiainAZ
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2037337&extension=ts&play_token=cbeL8vx22Y
 #EXTINF:-1 tvg-id="1735537" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",25/08 02:00 AM | FULHAM CHELSEA (NO) 8K NO: VIAPLAY 41
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1735537&extension=ts&play_token=u1CI1VPdig
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1735537&extension=ts&play_token=RfrwORekmu
 #EXTINF:-1 tvg-id="2037440" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",25/08 02:00 AM | VALIOLIIGA FULHAM CHELSEA (FI) 8K FI: VIAPLAY 40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E0FE15203B36FC42574B7A48DA1A77B
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2037440&extension=ts&play_token=P5EQ11PACo
-#EXTINF:-1 tvg-id="1592472" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",25/08 02:00 AM | FULHAM CHELSEA (NL) 8K NL: VIAPLAY 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 510E86519E77B4FF72979E7416545554
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592472&extension=ts&play_token=EmEk7d6ddi
-#EXTINF:-1 tvg-id="2058486" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 02:00 AM | Fulham vs. Chelsea all | 8K NL: SOCCER 62
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 510E86519E77B4FF72979E7416545554
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058486&extension=ts&play_token=JsD4DMR8cr
-#EXTINF:-1 tvg-id="1689688" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://103.176.90.92/images/1689688.png",25/08 02:00 AM | FC FULHAM FC CHELSEA (DE) 8K DE: RTL+ 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 510E86519E77B4FF72979E7416545554
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1689688&extension=ts&play_token=v8hpvvsHQ5
-#EXTINF:-1 tvg-id="2072464" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",25/08 02:00 AM | Fulham vs. Chelsea all | 8K ES: SOCCER 89
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 510E86519E77B4FF72979E7416545554
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072464&extension=ts&play_token=m9KPIYxtka
-#EXTINF:-1 tvg-id="2040647" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",25/08 02:00 AM | Fulham Chelsea | 8K ES: DAZN 84
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 510E86519E77B4FF72979E7416545554
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040647&extension=ts&play_token=L9h5kTPtbf
-#EXTINF:-1 tvg-id="2021164" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",25/08 02:00 AM | FULHAM CHELSEA (SE) 8K SE: PLAY+ 84
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 510E86519E77B4FF72979E7416545554
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021164&extension=ts&play_token=yLeWUkY0le
-#EXTINF:-1 tvg-id="2016240" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",25/08 02:00 AM | FULHAM CHELSEA (SE) 8K SE: VIAPLAY 39
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 510E86519E77B4FF72979E7416545554
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016240&extension=ts&play_token=fLMssr0IS6
-#EXTINF:-1 tvg-id="2037337" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",25/08 02:00 AM | FULHAM CHELSEA (DK) 8K DK: VIAPLAY 41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 510E86519E77B4FF72979E7416545554
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037337&extension=ts&play_token=bHzGNLKhgs
-#EXTINF:-1 tvg-id="1735537" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",25/08 02:00 AM | FULHAM CHELSEA (NO) 8K NO: VIAPLAY 41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 510E86519E77B4FF72979E7416545554
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735537&extension=ts&play_token=xoaKWwJQ4K
-#EXTINF:-1 tvg-id="2037440" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",25/08 02:00 AM | VALIOLIIGA FULHAM CHELSEA (FI) 8K FI: VIAPLAY 40
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 510E86519E77B4FF72979E7416545554
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037440&extension=ts&play_token=2qhVhdnzT4
+#EXTVLCOPT:http-header=Authorization: Bearer EC205D58FF6C94F64D0704EC91F0370B
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2037440&extension=ts&play_token=qkPCJF8f7F

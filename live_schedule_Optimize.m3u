@@ -814,6 +814,11 @@ http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1921635&
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 492C1D3F3511FCFD61C0DD460B5C5AFB
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917561&extension=ts&play_token=fFjkxINv5A
+#EXTINF:-1 tvg-id="1917743" group-title="Live UEFA Champions League" tvg-logo="http://51.158.145.100/picons/logos/PPV/LALIGA.png",26/08 02:00 AM | Bodø/Glimt vs NEC Nijmegen (ES| M.LALIGA DE CAMPEONES 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 492C1D3F3511FCFD61C0DD460B5C5AFB
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917743&extension=ts&play_token=Qy8nhZJVSQ
 #EXTINF:-1 tvg-id="238265" group-title="Live UEFA Champions League" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png",26/08 02:00 AM | LASK Linz vs Celtic (UK| BEIN SPORTS 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
@@ -1329,6 +1334,11 @@ http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1921308&
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 492C1D3F3511FCFD61C0DD460B5C5AFB
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917559&extension=ts&play_token=iHW1vsFpQt
+#EXTINF:-1 tvg-id="1917744" group-title="Live UEFA Champions League" tvg-logo="http://51.158.145.100/picons/logos/PPV/LALIGA.png",26/08 02:00 AM | LASK Linz vs Celtic (ES| M.LALIGA DE CAMPEONES HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 492C1D3F3511FCFD61C0DD460B5C5AFB
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917744&extension=ts&play_token=ijGjcFVLDr
 #EXTINF:-1 tvg-id="1905858" group-title="Live FA, League Cup" tvg-logo="http://51.158.145.100/picons/logos/UK/1905858.png",26/08 02:00 AM | Nottingham Forest vs Leeds United (UK-NOWTV| SKY SPORTS FOOTBALL FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT

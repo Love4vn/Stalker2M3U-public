@@ -1039,3 +1039,63 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992104&ext
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 0EB4B130DCFCBEA451B045CEB6AC9226
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2026352&extension=ts&play_token=gTvW0gX06v
+#EXTINF:-1 tvg-id="993055" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0ECACEC7883595AFBEA93554A3B5C1E4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=993055&extension=ts&play_token=bIgqChQGVT
+#EXTINF:-1 tvg-id="1363993" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363993.png",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9C6F5AE39F3A07A5377D77FEF8909A5C
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363993&extension=ts&play_token=e02iwEWMKn
+#EXTINF:-1 tvg-id="1363058" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363058.png",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9C6F5AE39F3A07A5377D77FEF8909A5C
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363058&extension=ts&play_token=c0UjgnbWOQ
+#EXTINF:-1 tvg-id="1363993" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363993.png",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 85913616DC8CFA0A9620B0843B5A2938
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363993&extension=ts&play_token=FwKy9YHuyQ
+#EXTINF:-1 tvg-id="1363058" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363058.png",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 85913616DC8CFA0A9620B0843B5A2938
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363058&extension=ts&play_token=U6tVCkCNxy
+#EXTINF:-1 tvg-id="1363993" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363993.png",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0EB4B130DCFCBEA451B045CEB6AC9226
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1363993&extension=ts&play_token=XKHYl3vUlF
+#EXTINF:-1 tvg-id="1363058" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363058.png",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0EB4B130DCFCBEA451B045CEB6AC9226
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1363058&extension=ts&play_token=dNP3iMovvP
+#EXTINF:-1 tvg-id="1025276" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0ECACEC7883595AFBEA93554A3B5C1E4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1025276&extension=ts&play_token=phGnxKfTC8
+#EXTINF:-1 tvg-id="1349310" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9C6F5AE39F3A07A5377D77FEF8909A5C
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1349310&extension=ts&play_token=0tNQAZkuVD
+#EXTINF:-1 tvg-id="1363941" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9C6F5AE39F3A07A5377D77FEF8909A5C
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363941&extension=ts&play_token=PsuClD4usM
+#EXTINF:-1 tvg-id="1349310" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 85913616DC8CFA0A9620B0843B5A2938
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1349310&extension=ts&play_token=SDyqLMwkat
+#EXTINF:-1 tvg-id="1363941" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 85913616DC8CFA0A9620B0843B5A2938
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363941&extension=ts&play_token=5LsECwQTPI

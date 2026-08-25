@@ -1,486 +1,531 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1032878" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12351.png?44740",26/08 01:45 AM | SOUTHAMPTON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1032878&extension=ts&play_token=73JO8g7mgj
+#EXTINF:-1 tvg-id="1032878" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12351.png?44740",26/08 01:45 AM | SOUTHAMPTON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1032878&extension=ts&play_token=PbBtXlUYXE
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1032878&extension=ts&play_token=FtRtfyy61G
 #EXTINF:-1 tvg-id="1505600" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EPLSOUTHAMPTON.png",26/08 01:45 AM | SOUTHAMPTON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C1F90A98A023ACB07A10E21F8457E5EE
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1505600&extension=ts&play_token=ZSvxNdau1l
+#EXTVLCOPT:http-header=Authorization: Bearer B6D0697826632DC6CB67E87CBBA66369
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1505600&extension=ts&play_token=J7rst0GNtl
 #EXTINF:-1 tvg-id="1505600" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EPLSOUTHAMPTON.png",26/08 01:45 AM | SOUTHAMPTON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D98750B4A00C4A44ACA37F0383E17F6E
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1505600&extension=ts&play_token=HzdPKlQce7
-#EXTINF:-1 tvg-id="1505600" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EPLSOUTHAMPTON.png",26/08 01:45 AM | SOUTHAMPTON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1505600&extension=ts&play_token=WoqmHaMktb
+#EXTVLCOPT:http-header=Authorization: Bearer E77D6824248678933FC26DEC4FE25AA2
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1505600&extension=ts&play_token=kd5mD32nHy
 #EXTINF:-1 tvg-id="1910734" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",26/08 01:45 AM | US (Paramount 008) Southampton vs. West Ham United ( :15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C1F90A98A023ACB07A10E21F8457E5EE
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910734&extension=ts&play_token=YdXQVlU2jb
+#EXTVLCOPT:http-header=Authorization: Bearer B6D0697826632DC6CB67E87CBBA66369
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910734&extension=ts&play_token=onaiWh09XN
 #EXTINF:-1 tvg-id="1910734" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",26/08 01:45 AM | US (Paramount 008) Southampton vs. West Ham United ( :15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D98750B4A00C4A44ACA37F0383E17F6E
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910734&extension=ts&play_token=dm43lOzxUQ
-#EXTINF:-1 tvg-id="1910734" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",26/08 01:45 AM | US (Paramount 008) Southampton vs. West Ham United ( :15)
+#EXTVLCOPT:http-header=Authorization: Bearer E77D6824248678933FC26DEC4FE25AA2
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910734&extension=ts&play_token=JGvb4Gf1vh
+#EXTINF:-1 tvg-id="918743" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 01:45 AM | CARABAO CUP SOUTHAMPTON WEST HAM (NL) 8K NL: VIAPLAY 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910734&extension=ts&play_token=LftBPtW7w7
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=918743&extension=ts&play_token=naNsz91UwC
+#EXTINF:-1 tvg-id="1810028" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 01:45 AM | LIGACUPEN SOUTHAMPTON WEST HAM (SE) 8K SE: VIAPLAY 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1810028&extension=ts&play_token=NioFGVDyqA
+#EXTINF:-1 tvg-id="1863201" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 01:45 AM | CARABAO CUP SOUTHAMPTON WEST HAM (DK) 8K DK: VIAPLAY 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863201&extension=ts&play_token=rBydD7Ew6p
+#EXTINF:-1 tvg-id="1242772" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 01:45 AM | LIGACUPEN SOUTHAMPTON WEST HAM (NO) 8K NO: VIAPLAY 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1242772&extension=ts&play_token=TEjXY6kl3n
+#EXTINF:-1 tvg-id="1863318" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 01:45 AM | ENGLANNIN LIIGACUP SOUTHAMPTON WEST HAM (FI) 8K FI: VIAPLAY 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863318&extension=ts&play_token=9PxnkS30Aq
+#EXTINF:-1 tvg-id="1008819" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 01:45 AM | CARABAO CUP SOUTHAMPTON WEST HAM (IS) 8K IS: VIAPLAY 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1008819&extension=ts&play_token=DDfTWkJ9yZ
+#EXTINF:-1 tvg-id="1939917" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/08 01:45 AM | Southampton vs. West Ham all | 8K CA: SOCCER 39
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939917&extension=ts&play_token=9dFBRJfMNR
+#EXTINF:-1 tvg-id="615529" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441",26/08 01:45 AM | Flo (FLSP) 272: 2025 Northampton Saints vs Saracens F.C. 24/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=615529&extension=ts&play_token=a2exFwdTU0
+#EXTINF:-1 tvg-id="1984031" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",26/08 01:45 AM | SOUTHAMPTON VS. WEST HAM UNITED -02 (BR) 8K BR: DISNEY+ 95
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1984031&extension=ts&play_token=TX1ukMU1en
 #EXTINF:-1 tvg-id="615529" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441",26/08 01:45 AM | Flo (FLSP) 272: 2025 Northampton Saints vs Saracens F.C. 24/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=615529&extension=ts&play_token=GxAyrh5P7T
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=615529&extension=ts&play_token=hnjxNChuCE
 #EXTINF:-1 tvg-id="1939917" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/08 01:45 AM | Southampton vs. West Ham all | 8K CA: SOCCER 39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939917&extension=ts&play_token=4bI1kiGRgo
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939917&extension=ts&play_token=HFXA8SN0tR
 #EXTINF:-1 tvg-id="1984031" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",26/08 01:45 AM | SOUTHAMPTON VS. WEST HAM UNITED -02 (BR) 8K BR: DISNEY+ 95
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1984031&extension=ts&play_token=LpecOmj7OX
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1984031&extension=ts&play_token=YItwx9dyfr
 #EXTINF:-1 tvg-id="918743" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 01:45 AM | CARABAO CUP SOUTHAMPTON WEST HAM (NL) 8K NL: VIAPLAY 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=918743&extension=ts&play_token=PtahhSNs1X
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=918743&extension=ts&play_token=4qiXrCGmBK
 #EXTINF:-1 tvg-id="1810028" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 01:45 AM | LIGACUPEN SOUTHAMPTON WEST HAM (SE) 8K SE: VIAPLAY 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1810028&extension=ts&play_token=Maass4nTct
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1810028&extension=ts&play_token=KbXFffULb4
 #EXTINF:-1 tvg-id="1863201" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 01:45 AM | CARABAO CUP SOUTHAMPTON WEST HAM (DK) 8K DK: VIAPLAY 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863201&extension=ts&play_token=osImNxbYHg
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863201&extension=ts&play_token=TfXNICYssI
 #EXTINF:-1 tvg-id="1242772" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 01:45 AM | LIGACUPEN SOUTHAMPTON WEST HAM (NO) 8K NO: VIAPLAY 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1242772&extension=ts&play_token=nNHoCeafTc
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1242772&extension=ts&play_token=0tcPBXOcxc
 #EXTINF:-1 tvg-id="1863318" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 01:45 AM | ENGLANNIN LIIGACUP SOUTHAMPTON WEST HAM (FI) 8K FI: VIAPLAY 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863318&extension=ts&play_token=lJyR2vvDWz
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863318&extension=ts&play_token=60VDBDhsyM
 #EXTINF:-1 tvg-id="1008819" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 01:45 AM | CARABAO CUP SOUTHAMPTON WEST HAM (IS) 8K IS: VIAPLAY 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1008819&extension=ts&play_token=uA34eEiQxb
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1008819&extension=ts&play_token=5o5YeO6Jep
 #EXTINF:-1 tvg-id="2062292" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/08 01:45 AM | Southampton vs. West Ham all | 8K CA: SOCCER 39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C1F90A98A023ACB07A10E21F8457E5EE
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062292&extension=ts&play_token=zUxIN06NRf
+#EXTVLCOPT:http-header=Authorization: Bearer B6D0697826632DC6CB67E87CBBA66369
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062292&extension=ts&play_token=k5WeN6q8NM
 #EXTINF:-1 tvg-id="1592452" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",26/08 01:45 AM | CARABAO CUP SOUTHAMPTON WEST HAM (NL) 8K NL: VIAPLAY 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C1F90A98A023ACB07A10E21F8457E5EE
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1592452&extension=ts&play_token=YjGBo1Tq5g
+#EXTVLCOPT:http-header=Authorization: Bearer B6D0697826632DC6CB67E87CBBA66369
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1592452&extension=ts&play_token=WWjqsOdqVV
 #EXTINF:-1 tvg-id="2070539" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",26/08 01:45 AM | SOUTHAMPTON VS. WEST HAM UNITED -02 (BR) 8K BR: DISNEY+ 95
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C1F90A98A023ACB07A10E21F8457E5EE
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2070539&extension=ts&play_token=CTKx1bILhZ
+#EXTVLCOPT:http-header=Authorization: Bearer B6D0697826632DC6CB67E87CBBA66369
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2070539&extension=ts&play_token=ohl4qSBAYf
 #EXTINF:-1 tvg-id="2062292" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/08 01:45 AM | Southampton vs. West Ham all | 8K CA: SOCCER 39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D98750B4A00C4A44ACA37F0383E17F6E
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062292&extension=ts&play_token=3LRpr1NicU
+#EXTVLCOPT:http-header=Authorization: Bearer E77D6824248678933FC26DEC4FE25AA2
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062292&extension=ts&play_token=gdWTvxz4EI
 #EXTINF:-1 tvg-id="2068542" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",26/08 01:45 AM | CARABAO CUP SOUTHAMPTON WEST HAM (NL) 8K NL: VIAPLAY 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D98750B4A00C4A44ACA37F0383E17F6E
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2068542&extension=ts&play_token=oPd52aBM2L
+#EXTVLCOPT:http-header=Authorization: Bearer E77D6824248678933FC26DEC4FE25AA2
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2068542&extension=ts&play_token=FIXkB3V6sP
 #EXTINF:-1 tvg-id="1735561" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",26/08 01:45 AM | LIGACUPEN SOUTHAMPTON WEST HAM (NO) 8K NO: VIAPLAY 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D98750B4A00C4A44ACA37F0383E17F6E
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735561&extension=ts&play_token=1XJ0QtgfmE
-#EXTINF:-1 tvg-id="1592452" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",26/08 01:45 AM | CARABAO CUP SOUTHAMPTON WEST HAM (NL) 8K NL: VIAPLAY 8
+#EXTVLCOPT:http-header=Authorization: Bearer E77D6824248678933FC26DEC4FE25AA2
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735561&extension=ts&play_token=INaRArK2Lj
+#EXTINF:-1 tvg-id="1912566" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",26/08 02:00 AM | LASK vs. Celtic (in English and French) | 8K CA: DAZN 37
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1592452&extension=ts&play_token=sGvK0cXgkE
-#EXTINF:-1 tvg-id="2016260" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",26/08 01:45 AM | LIGACUPEN SOUTHAMPTON WEST HAM (SE) 8K SE: VIAPLAY 19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2016260&extension=ts&play_token=skF9zX0vQ5
-#EXTINF:-1 tvg-id="2037352" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",26/08 01:45 AM | CARABAO CUP SOUTHAMPTON WEST HAM (DK) 8K DK: VIAPLAY 26
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2037352&extension=ts&play_token=tlSFmwdj07
-#EXTINF:-1 tvg-id="2068542" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",26/08 01:45 AM | CARABAO CUP SOUTHAMPTON WEST HAM (NL) 8K NL: VIAPLAY 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2068542&extension=ts&play_token=7mzucM1X6l
-#EXTINF:-1 tvg-id="1735561" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",26/08 01:45 AM | LIGACUPEN SOUTHAMPTON WEST HAM (NO) 8K NO: VIAPLAY 17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1735561&extension=ts&play_token=WXIwWZoY6A
-#EXTINF:-1 tvg-id="2037466" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",26/08 01:45 AM | ENGLANNIN LIIGACUP SOUTHAMPTON WEST HAM (FI) 8K FI: VIAPLAY 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2037466&extension=ts&play_token=U1H0knhmCJ
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1912566&extension=ts&play_token=m82GYfmRu5
 #EXTINF:-1 tvg-id="1912566" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",26/08 02:00 AM | LASK vs. Celtic (in English and French) | 8K CA: DAZN 37
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1912566&extension=ts&play_token=7FGCmOziLZ
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1912566&extension=ts&play_token=weSQ4z5SKL
 #EXTINF:-1 tvg-id="1910732" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",26/08 02:00 AM | US (Paramount 010) LASK vs. Celtic ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C1F90A98A023ACB07A10E21F8457E5EE
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910732&extension=ts&play_token=llUe9eBLdR
+#EXTVLCOPT:http-header=Authorization: Bearer B6D0697826632DC6CB67E87CBBA66369
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910732&extension=ts&play_token=82GoETOETC
 #EXTINF:-1 tvg-id="1910732" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",26/08 02:00 AM | US (Paramount 010) LASK vs. Celtic ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D98750B4A00C4A44ACA37F0383E17F6E
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910732&extension=ts&play_token=1e709Z07VX
-#EXTINF:-1 tvg-id="1910732" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",26/08 02:00 AM | US (Paramount 010) LASK vs. Celtic ( :00)
+#EXTVLCOPT:http-header=Authorization: Bearer E77D6824248678933FC26DEC4FE25AA2
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910732&extension=ts&play_token=V8qpodZcuz
+#EXTINF:-1 tvg-id="1918816" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/08 02:00 AM | LASK vs. Celtic all | 8K DE: SOCCER 61
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910732&extension=ts&play_token=QRlRfbK2Jg
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918816&extension=ts&play_token=ND9vSii7ES
+#EXTINF:-1 tvg-id="1810025" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | LASK CELTIC (SE) 8K SE: VIAPLAY 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1810025&extension=ts&play_token=B3rYeKJA6G
+#EXTINF:-1 tvg-id="1863193" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | LASK CELTIC (DK) 8K DK: VIAPLAY 34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863193&extension=ts&play_token=Q7ucb4TUh9
+#EXTINF:-1 tvg-id="1008815" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | CHAMPIONS LEAGUE LASK CELTIC (IS) 8K IS: VIAPLAY 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1008815&extension=ts&play_token=seM2jvs97X
+#EXTINF:-1 tvg-id="1939918" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/08 02:00 AM | LASK vs. Celtic all | 8K CA: SOCCER 38
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939918&extension=ts&play_token=Vnx4su7JE4
+#EXTINF:-1 tvg-id="1919065" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/08 02:00 AM | LASK vs. Celtic all | 8K BR: SOCCER 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919065&extension=ts&play_token=YvxXVOqesG
 #EXTINF:-1 tvg-id="1939918" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/08 02:00 AM | LASK vs. Celtic all | 8K CA: SOCCER 38
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939918&extension=ts&play_token=C8sDbOVVHc
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939918&extension=ts&play_token=jR9DVDD2iz
 #EXTINF:-1 tvg-id="1919065" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/08 02:00 AM | LASK vs. Celtic all | 8K BR: SOCCER 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919065&extension=ts&play_token=mbg2VxXxeN
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919065&extension=ts&play_token=KHNMxdTSJY
 #EXTINF:-1 tvg-id="1918816" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/08 02:00 AM | LASK vs. Celtic all | 8K DE: SOCCER 61
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1918816&extension=ts&play_token=lO9CyiuwQZ
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1918816&extension=ts&play_token=azaiYdBW7o
 #EXTINF:-1 tvg-id="1810025" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | LASK CELTIC (SE) 8K SE: VIAPLAY 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1810025&extension=ts&play_token=wQWyRznj8p
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1810025&extension=ts&play_token=EETEUNUiYN
 #EXTINF:-1 tvg-id="1863193" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | LASK CELTIC (DK) 8K DK: VIAPLAY 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863193&extension=ts&play_token=AWztziGZfP
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863193&extension=ts&play_token=NDgllZtSpX
 #EXTINF:-1 tvg-id="1008815" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | CHAMPIONS LEAGUE LASK CELTIC (IS) 8K IS: VIAPLAY 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1008815&extension=ts&play_token=F8h97SpDbc
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1008815&extension=ts&play_token=L7OFnupMQe
 #EXTINF:-1 tvg-id="2062293" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/08 02:00 AM | LASK vs. Celtic all | 8K CA: SOCCER 38
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C1F90A98A023ACB07A10E21F8457E5EE
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062293&extension=ts&play_token=EkXbuHtn2D
+#EXTVLCOPT:http-header=Authorization: Bearer B6D0697826632DC6CB67E87CBBA66369
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062293&extension=ts&play_token=FzJCnXa1wN
 #EXTINF:-1 tvg-id="2066938" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/08 02:00 AM | LASK vs. Celtic all | 8K BR: SOCCER 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C1F90A98A023ACB07A10E21F8457E5EE
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2066938&extension=ts&play_token=VwnNM2w5UK
+#EXTVLCOPT:http-header=Authorization: Bearer B6D0697826632DC6CB67E87CBBA66369
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2066938&extension=ts&play_token=QrvY7SPKAx
 #EXTINF:-1 tvg-id="2054991" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/08 02:00 AM | LASK vs. Celtic all | 8K DE: SOCCER 61
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C1F90A98A023ACB07A10E21F8457E5EE
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2054991&extension=ts&play_token=qK59Krh0m8
+#EXTVLCOPT:http-header=Authorization: Bearer B6D0697826632DC6CB67E87CBBA66369
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2054991&extension=ts&play_token=Vbp04LjBd5
 #EXTINF:-1 tvg-id="2062293" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/08 02:00 AM | LASK vs. Celtic all | 8K CA: SOCCER 38
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D98750B4A00C4A44ACA37F0383E17F6E
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062293&extension=ts&play_token=sUHgXsM8ya
+#EXTVLCOPT:http-header=Authorization: Bearer E77D6824248678933FC26DEC4FE25AA2
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062293&extension=ts&play_token=pEdrFjbd3W
 #EXTINF:-1 tvg-id="2054991" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/08 02:00 AM | LASK vs. Celtic all | 8K DE: SOCCER 61
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D98750B4A00C4A44ACA37F0383E17F6E
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2054991&extension=ts&play_token=Xd6j2HA7uo
-#EXTINF:-1 tvg-id="2054991" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/08 02:00 AM | LASK vs. Celtic all | 8K DE: SOCCER 61
+#EXTVLCOPT:http-header=Authorization: Bearer E77D6824248678933FC26DEC4FE25AA2
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2054991&extension=ts&play_token=FINJ2QOalA
+#EXTINF:-1 tvg-id="1912568" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",26/08 02:00 AM | Nottingham Forest vs. Leeds Carabao Cup | 8K CA: DAZN 35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2054991&extension=ts&play_token=74ca60v8ux
-#EXTINF:-1 tvg-id="2016257" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",26/08 02:00 AM | LASK CELTIC (SE) 8K SE: VIAPLAY 22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2016257&extension=ts&play_token=CH3GV5SSng
-#EXTINF:-1 tvg-id="2070116" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",26/08 02:00 AM | LASK CELTIC (DK) 8K DK: VIAPLAY 34
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2070116&extension=ts&play_token=Fs1qGc4dOR
-#EXTINF:-1 tvg-id="2037344" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",26/08 02:00 AM | LASK CELTIC (DK) 8K DK: VIAPLAY 34
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2037344&extension=ts&play_token=wkgDrDaAV4
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1912568&extension=ts&play_token=DyK1xdNNgZ
 #EXTINF:-1 tvg-id="1912568" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",26/08 02:00 AM | Nottingham Forest vs. Leeds Carabao Cup | 8K CA: DAZN 35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1912568&extension=ts&play_token=hkDip5evid
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1912568&extension=ts&play_token=ZrJI7zeNik
 #EXTINF:-1 tvg-id="1910733" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",26/08 02:00 AM | US (Paramount 009) Nottingham Forest vs. Leeds United ( :20)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C1F90A98A023ACB07A10E21F8457E5EE
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910733&extension=ts&play_token=im9ehy8dq0
+#EXTVLCOPT:http-header=Authorization: Bearer B6D0697826632DC6CB67E87CBBA66369
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910733&extension=ts&play_token=gTM0JEtr9W
 #EXTINF:-1 tvg-id="1910733" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",26/08 02:00 AM | US (Paramount 009) Nottingham Forest vs. Leeds United ( :20)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D98750B4A00C4A44ACA37F0383E17F6E
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910733&extension=ts&play_token=SrySDo7U7T
-#EXTINF:-1 tvg-id="1910733" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",26/08 02:00 AM | US (Paramount 009) Nottingham Forest vs. Leeds United ( :20)
+#EXTVLCOPT:http-header=Authorization: Bearer E77D6824248678933FC26DEC4FE25AA2
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910733&extension=ts&play_token=C1VqivfIuO
+#EXTINF:-1 tvg-id="918739" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | CARABAO CUP NOTTINGHAM FOREST LEEDS (NL) 8K NL: VIAPLAY 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910733&extension=ts&play_token=2BdE22CkSM
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=918739&extension=ts&play_token=GYvOxoX1fj
+#EXTINF:-1 tvg-id="1810024" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | LIGACUPEN NOTTINGHAM FOREST LEEDS (SE) 8K SE: VIAPLAY 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1810024&extension=ts&play_token=nT4pljI9Vy
+#EXTINF:-1 tvg-id="1863196" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | CARABAO CUP NOTTINGHAM FOREST LEEDS (DK) 8K DK: VIAPLAY 31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863196&extension=ts&play_token=1MT0ayyhse
+#EXTINF:-1 tvg-id="942828" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",26/08 02:00 AM | NOTTINGHAM FOREST LEEDS (NO) 8K NO: TV2 PLAY 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=942828&extension=ts&play_token=s3lk0XhzyJ
+#EXTINF:-1 tvg-id="1242769" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | LIGACUPEN NOTTINGHAM FOREST LEEDS (NO) 8K NO: VIAPLAY 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1242769&extension=ts&play_token=jXGalzBkfM
+#EXTINF:-1 tvg-id="1863314" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | ENGLANNIN LIIGACUP NOTTINGHAM FOREST LEEDS (FI) 8K FI: VIAPLAY 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863314&extension=ts&play_token=dznYSuD5Cc
+#EXTINF:-1 tvg-id="1008814" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | CARABAO CUP NOTTINGHAM FOREST LEEDS (IS) 8K IS: VIAPLAY 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1008814&extension=ts&play_token=2yyaYsL3cw
+#EXTINF:-1 tvg-id="1939908" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/08 02:00 AM | Nottingham Forest vs. Leeds all | 8K CA: SOCCER 48
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939908&extension=ts&play_token=1wFXERxyAc
+#EXTINF:-1 tvg-id="1984029" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",26/08 02:00 AM | NOTTINGHAM FOREST VS. LEEDS UNITED -02 (BR) 8K BR: DISNEY+ 97
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1984029&extension=ts&play_token=uPo7mwjAzH
 #EXTINF:-1 tvg-id="1939908" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/08 02:00 AM | Nottingham Forest vs. Leeds all | 8K CA: SOCCER 48
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939908&extension=ts&play_token=yZM2EzfeSy
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939908&extension=ts&play_token=FMNUrm2OSe
 #EXTINF:-1 tvg-id="1984029" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",26/08 02:00 AM | NOTTINGHAM FOREST VS. LEEDS UNITED -02 (BR) 8K BR: DISNEY+ 97
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1984029&extension=ts&play_token=bdW2U44GdN
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1984029&extension=ts&play_token=wV2MtQNGUW
 #EXTINF:-1 tvg-id="918739" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | CARABAO CUP NOTTINGHAM FOREST LEEDS (NL) 8K NL: VIAPLAY 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=918739&extension=ts&play_token=18c4PnLBMU
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=918739&extension=ts&play_token=QGKtnsU5Pa
 #EXTINF:-1 tvg-id="1810024" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | LIGACUPEN NOTTINGHAM FOREST LEEDS (SE) 8K SE: VIAPLAY 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1810024&extension=ts&play_token=nY9JbdwQrx
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1810024&extension=ts&play_token=6ddWNPXQgO
 #EXTINF:-1 tvg-id="1863196" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | CARABAO CUP NOTTINGHAM FOREST LEEDS (DK) 8K DK: VIAPLAY 31
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863196&extension=ts&play_token=HC6j3yx77T
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863196&extension=ts&play_token=qgbynvIcaL
 #EXTINF:-1 tvg-id="942828" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",26/08 02:00 AM | NOTTINGHAM FOREST LEEDS (NO) 8K NO: TV2 PLAY 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=942828&extension=ts&play_token=rIt6zUV84k
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=942828&extension=ts&play_token=aGF45E3Jlv
 #EXTINF:-1 tvg-id="1242769" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | LIGACUPEN NOTTINGHAM FOREST LEEDS (NO) 8K NO: VIAPLAY 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1242769&extension=ts&play_token=pTtT0fdcFT
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1242769&extension=ts&play_token=sfTi6w1qHz
 #EXTINF:-1 tvg-id="1863314" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | ENGLANNIN LIIGACUP NOTTINGHAM FOREST LEEDS (FI) 8K FI: VIAPLAY 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863314&extension=ts&play_token=AIztN7zScp
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863314&extension=ts&play_token=XLDZDSekd3
 #EXTINF:-1 tvg-id="1008814" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | CARABAO CUP NOTTINGHAM FOREST LEEDS (IS) 8K IS: VIAPLAY 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1008814&extension=ts&play_token=No2yIBZJyG
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1008814&extension=ts&play_token=zs839Z0pm9
 #EXTINF:-1 tvg-id="2062283" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/08 02:00 AM | Nottingham Forest vs. Leeds all | 8K CA: SOCCER 48
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C1F90A98A023ACB07A10E21F8457E5EE
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062283&extension=ts&play_token=MK4z8PR9nE
+#EXTVLCOPT:http-header=Authorization: Bearer B6D0697826632DC6CB67E87CBBA66369
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062283&extension=ts&play_token=WXfro9yYC2
 #EXTINF:-1 tvg-id="1592456" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",26/08 02:00 AM | CARABAO CUP NOTTINGHAM FOREST LEEDS (NL) 8K NL: VIAPLAY 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C1F90A98A023ACB07A10E21F8457E5EE
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1592456&extension=ts&play_token=aXCe7QxiOd
+#EXTVLCOPT:http-header=Authorization: Bearer B6D0697826632DC6CB67E87CBBA66369
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1592456&extension=ts&play_token=XbcMZHZo4X
 #EXTINF:-1 tvg-id="2070537" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",26/08 02:00 AM | NOTTINGHAM FOREST VS. LEEDS UNITED -02 (BR) 8K BR: DISNEY+ 97
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C1F90A98A023ACB07A10E21F8457E5EE
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2070537&extension=ts&play_token=TIdrBWhLJZ
+#EXTVLCOPT:http-header=Authorization: Bearer B6D0697826632DC6CB67E87CBBA66369
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2070537&extension=ts&play_token=7DYzbMexpx
 #EXTINF:-1 tvg-id="2062283" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/08 02:00 AM | Nottingham Forest vs. Leeds all | 8K CA: SOCCER 48
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D98750B4A00C4A44ACA37F0383E17F6E
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062283&extension=ts&play_token=6gCJR175Ms
+#EXTVLCOPT:http-header=Authorization: Bearer E77D6824248678933FC26DEC4FE25AA2
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062283&extension=ts&play_token=4JF50pB5ZI
 #EXTINF:-1 tvg-id="1605776" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",26/08 02:00 AM | NOTTINGHAM FOREST LEEDS (NO) 8K NO: TV2 PLAY 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D98750B4A00C4A44ACA37F0383E17F6E
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1605776&extension=ts&play_token=TQUJquCnbP
+#EXTVLCOPT:http-header=Authorization: Bearer E77D6824248678933FC26DEC4FE25AA2
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1605776&extension=ts&play_token=h1HTOfCPzk
 #EXTINF:-1 tvg-id="1735558" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",26/08 02:00 AM | LIGACUPEN NOTTINGHAM FOREST LEEDS (NO) 8K NO: VIAPLAY 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D98750B4A00C4A44ACA37F0383E17F6E
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735558&extension=ts&play_token=h4NobEIvbL
-#EXTINF:-1 tvg-id="1592456" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",26/08 02:00 AM | CARABAO CUP NOTTINGHAM FOREST LEEDS (NL) 8K NL: VIAPLAY 12
+#EXTVLCOPT:http-header=Authorization: Bearer E77D6824248678933FC26DEC4FE25AA2
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735558&extension=ts&play_token=WmvfJHZ3su
+#EXTINF:-1 tvg-id="1912567" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",26/08 02:00 AM | Birmingham vs. Brentford Carabao Cup | 8K CA: DAZN 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1592456&extension=ts&play_token=k1xYpC1edD
-#EXTINF:-1 tvg-id="2016256" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",26/08 02:00 AM | LIGACUPEN NOTTINGHAM FOREST LEEDS (SE) 8K SE: VIAPLAY 23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2016256&extension=ts&play_token=QAYatAr8K8
-#EXTINF:-1 tvg-id="2037347" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",26/08 02:00 AM | CARABAO CUP NOTTINGHAM FOREST LEEDS (DK) 8K DK: VIAPLAY 31
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2037347&extension=ts&play_token=TJWQ1LbmGe
-#EXTINF:-1 tvg-id="1605776" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",26/08 02:00 AM | NOTTINGHAM FOREST LEEDS (NO) 8K NO: TV2 PLAY 16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1605776&extension=ts&play_token=HWjqkMo4LQ
-#EXTINF:-1 tvg-id="1735558" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",26/08 02:00 AM | LIGACUPEN NOTTINGHAM FOREST LEEDS (NO) 8K NO: VIAPLAY 20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1735558&extension=ts&play_token=SLGGkhrztP
-#EXTINF:-1 tvg-id="2037462" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",26/08 02:00 AM | ENGLANNIN LIIGACUP NOTTINGHAM FOREST LEEDS (FI) 8K FI: VIAPLAY 18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2037462&extension=ts&play_token=Q6DjiAYkhw
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1912567&extension=ts&play_token=iGCkGdFAn2
 #EXTINF:-1 tvg-id="1912567" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",26/08 02:00 AM | Birmingham vs. Brentford Carabao Cup | 8K CA: DAZN 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1912567&extension=ts&play_token=RuYqqJmzdL
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1912567&extension=ts&play_token=3i4H3ff2DL
 #EXTINF:-1 tvg-id="1910735" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",26/08 02:00 AM | US (Paramount 007) Birmingham City vs. Brentford ( :10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C1F90A98A023ACB07A10E21F8457E5EE
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910735&extension=ts&play_token=FzNE6v2X1F
+#EXTVLCOPT:http-header=Authorization: Bearer B6D0697826632DC6CB67E87CBBA66369
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910735&extension=ts&play_token=jFcn3YEx1D
 #EXTINF:-1 tvg-id="1910735" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",26/08 02:00 AM | US (Paramount 007) Birmingham City vs. Brentford ( :10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D98750B4A00C4A44ACA37F0383E17F6E
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910735&extension=ts&play_token=UNYQt6GdRG
-#EXTINF:-1 tvg-id="1910735" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",26/08 02:00 AM | US (Paramount 007) Birmingham City vs. Brentford ( :10)
+#EXTVLCOPT:http-header=Authorization: Bearer E77D6824248678933FC26DEC4FE25AA2
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910735&extension=ts&play_token=hJXKFeWbTm
+#EXTINF:-1 tvg-id="918738" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | CARABAO CUP BIRMINGHAM BRENTFORD (NL) 8K NL: VIAPLAY 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910735&extension=ts&play_token=wByQgPj1Oi
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=918738&extension=ts&play_token=nfVlrBgA0m
+#EXTINF:-1 tvg-id="1810023" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | LIGACUPEN BIRMINGHAM BRENTFORD (SE) 8K SE: VIAPLAY 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1810023&extension=ts&play_token=ODgCcLggee
+#EXTINF:-1 tvg-id="1825963" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",26/08 02:00 AM | BIRMINGHAM BRENTFORD (SE) 8K SE: PLAY+ 40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1825963&extension=ts&play_token=me4PC2xC5n
+#EXTINF:-1 tvg-id="1863195" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | CARABAO CUP BIRMINGHAM BRENTFORD (DK) 8K DK: VIAPLAY 32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863195&extension=ts&play_token=h71cxjFRpK
+#EXTINF:-1 tvg-id="942827" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",26/08 02:00 AM | BIRMINGHAM BRENTFORD (NO) 8K NO: TV2 PLAY 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=942827&extension=ts&play_token=dLdGQEb39A
+#EXTINF:-1 tvg-id="1242768" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | LIGACUPEN BIRMINGHAM BRENTFORD (NO) 8K NO: VIAPLAY 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1242768&extension=ts&play_token=z0o02fwHYu
+#EXTINF:-1 tvg-id="1863313" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | ENGLANNIN LIIGACUP BIRMINGHAM BRENTFORD (FI) 8K FI: VIAPLAY 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863313&extension=ts&play_token=JHxhMrFy4q
+#EXTINF:-1 tvg-id="1008813" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | CARABAO CUP BIRMINGHAM BRENTFORD (IS) 8K IS: VIAPLAY 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1008813&extension=ts&play_token=KcV4G7rIWU
+#EXTINF:-1 tvg-id="1939922" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/08 02:00 AM | Birmingham vs. Brentford all | 8K CA: SOCCER 34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E85E9BB650591FAF39D31DAF5F363D19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939922&extension=ts&play_token=Kv2S8hBTWd
 #EXTINF:-1 tvg-id="1939922" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/08 02:00 AM | Birmingham vs. Brentford all | 8K CA: SOCCER 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939922&extension=ts&play_token=9wvuVzOVk4
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939922&extension=ts&play_token=lFedzEM0n7
 #EXTINF:-1 tvg-id="918738" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | CARABAO CUP BIRMINGHAM BRENTFORD (NL) 8K NL: VIAPLAY 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=918738&extension=ts&play_token=yUV0ikKUi1
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=918738&extension=ts&play_token=UVjKN1kony
 #EXTINF:-1 tvg-id="1810023" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | LIGACUPEN BIRMINGHAM BRENTFORD (SE) 8K SE: VIAPLAY 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1810023&extension=ts&play_token=wAxG1vWKGk
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1810023&extension=ts&play_token=L5W3bJ0bxr
 #EXTINF:-1 tvg-id="1825963" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",26/08 02:00 AM | BIRMINGHAM BRENTFORD (SE) 8K SE: PLAY+ 40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1825963&extension=ts&play_token=EPq6R6MXxU
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1825963&extension=ts&play_token=Y0Wg4JXGWY
 #EXTINF:-1 tvg-id="1863195" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | CARABAO CUP BIRMINGHAM BRENTFORD (DK) 8K DK: VIAPLAY 32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863195&extension=ts&play_token=qF2TUXy4g2
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863195&extension=ts&play_token=voTSOQYeZm
 #EXTINF:-1 tvg-id="942827" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",26/08 02:00 AM | BIRMINGHAM BRENTFORD (NO) 8K NO: TV2 PLAY 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=942827&extension=ts&play_token=hPxjd3rrHj
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=942827&extension=ts&play_token=2ntF8HCE6Q
 #EXTINF:-1 tvg-id="1242768" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | LIGACUPEN BIRMINGHAM BRENTFORD (NO) 8K NO: VIAPLAY 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1242768&extension=ts&play_token=dvH31LkKc8
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1242768&extension=ts&play_token=1IyIctKz4X
 #EXTINF:-1 tvg-id="1863313" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | ENGLANNIN LIIGACUP BIRMINGHAM BRENTFORD (FI) 8K FI: VIAPLAY 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863313&extension=ts&play_token=z4fkCTTql8
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863313&extension=ts&play_token=EvEDL5X31R
 #EXTINF:-1 tvg-id="1008813" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/08 02:00 AM | CARABAO CUP BIRMINGHAM BRENTFORD (IS) 8K IS: VIAPLAY 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33C9D6FBAE95C6E4B7B6E516F1543E2E
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1008813&extension=ts&play_token=7gtRRqmajU
+#EXTVLCOPT:http-header=Authorization: Bearer 9DADE49C4FE1A29E7E76F1B83B8179CB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1008813&extension=ts&play_token=IAOu1wGDI3
 #EXTINF:-1 tvg-id="2062297" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/08 02:00 AM | Birmingham vs. Brentford all | 8K CA: SOCCER 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C1F90A98A023ACB07A10E21F8457E5EE
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062297&extension=ts&play_token=AsvgXwJm1B
+#EXTVLCOPT:http-header=Authorization: Bearer B6D0697826632DC6CB67E87CBBA66369
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062297&extension=ts&play_token=Zx2N01M045
 #EXTINF:-1 tvg-id="1592457" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",26/08 02:00 AM | CARABAO CUP BIRMINGHAM BRENTFORD (NL) 8K NL: VIAPLAY 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C1F90A98A023ACB07A10E21F8457E5EE
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1592457&extension=ts&play_token=SYpzrsXyIt
+#EXTVLCOPT:http-header=Authorization: Bearer B6D0697826632DC6CB67E87CBBA66369
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1592457&extension=ts&play_token=c1FI2dA95j
 #EXTINF:-1 tvg-id="2062297" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/08 02:00 AM | Birmingham vs. Brentford all | 8K CA: SOCCER 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D98750B4A00C4A44ACA37F0383E17F6E
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062297&extension=ts&play_token=IrbNiCbQ8t
+#EXTVLCOPT:http-header=Authorization: Bearer E77D6824248678933FC26DEC4FE25AA2
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062297&extension=ts&play_token=ARkteACz1s
 #EXTINF:-1 tvg-id="1605775" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",26/08 02:00 AM | BIRMINGHAM BRENTFORD (NO) 8K NO: TV2 PLAY 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D98750B4A00C4A44ACA37F0383E17F6E
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1605775&extension=ts&play_token=FDcY2NBjFW
+#EXTVLCOPT:http-header=Authorization: Bearer E77D6824248678933FC26DEC4FE25AA2
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1605775&extension=ts&play_token=mVo0DLpGSP
 #EXTINF:-1 tvg-id="1735557" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",26/08 02:00 AM | LIGACUPEN BIRMINGHAM BRENTFORD (NO) 8K NO: VIAPLAY 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D98750B4A00C4A44ACA37F0383E17F6E
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735557&extension=ts&play_token=JnRju31Q6q
-#EXTINF:-1 tvg-id="1592457" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",26/08 02:00 AM | CARABAO CUP BIRMINGHAM BRENTFORD (NL) 8K NL: VIAPLAY 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1592457&extension=ts&play_token=118abWGfcn
-#EXTINF:-1 tvg-id="2021208" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",26/08 02:00 AM | BIRMINGHAM BRENTFORD (SE) 8K SE: PLAY+ 40
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2021208&extension=ts&play_token=vA6wNJ4vTO
-#EXTINF:-1 tvg-id="2016255" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",26/08 02:00 AM | LIGACUPEN BIRMINGHAM BRENTFORD (SE) 8K SE: VIAPLAY 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2016255&extension=ts&play_token=6sc2DuwZGo
-#EXTINF:-1 tvg-id="2037346" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",26/08 02:00 AM | CARABAO CUP BIRMINGHAM BRENTFORD (DK) 8K DK: VIAPLAY 32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2037346&extension=ts&play_token=sZPDthYQh5
-#EXTINF:-1 tvg-id="1605775" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",26/08 02:00 AM | BIRMINGHAM BRENTFORD (NO) 8K NO: TV2 PLAY 17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1605775&extension=ts&play_token=NNmuhLmbF0
-#EXTINF:-1 tvg-id="1735557" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",26/08 02:00 AM | LIGACUPEN BIRMINGHAM BRENTFORD (NO) 8K NO: VIAPLAY 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1735557&extension=ts&play_token=tLdTsSAzeq
-#EXTINF:-1 tvg-id="2037461" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",26/08 02:00 AM | ENGLANNIN LIIGACUP BIRMINGHAM BRENTFORD (FI) 8K FI: VIAPLAY 19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 51BCD031B06B90E1A179F1AD73154FDF
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2037461&extension=ts&play_token=ASBizuRQVh
+#EXTVLCOPT:http-header=Authorization: Bearer E77D6824248678933FC26DEC4FE25AA2
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735557&extension=ts&play_token=G6fNyJxOpu

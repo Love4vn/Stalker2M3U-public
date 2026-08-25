@@ -1,471 +1,586 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="993055" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=993055&extension=ts&play_token=qmcjOxXvgQ
 #EXTINF:-1 tvg-id="1363993" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363993.png",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1363993&extension=ts&play_token=1uPIYFjlYN
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1363993&extension=ts&play_token=wy4YIqyx4b
 #EXTINF:-1 tvg-id="1363058" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363058.png",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1363058&extension=ts&play_token=O1Q6XYkjsA
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1363058&extension=ts&play_token=QCYZsrG6RG
 #EXTINF:-1 tvg-id="1363993" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363993.png",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363993&extension=ts&play_token=iJuIOXh6Xq
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363993&extension=ts&play_token=cu17pIFEFb
 #EXTINF:-1 tvg-id="1363058" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363058.png",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363058&extension=ts&play_token=COmteoKlf0
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363058&extension=ts&play_token=Eqi6vpgcKa
 #EXTINF:-1 tvg-id="1363993" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363993.png",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363993&extension=ts&play_token=9jgM2xZ3mM
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363993&extension=ts&play_token=kRVRPawfQ2
 #EXTINF:-1 tvg-id="1363058" group-title="Live UEFA Conference League-Match" tvg-logo="http://103.176.90.95/images/1363058.png",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363058&extension=ts&play_token=Z41LfVckp4
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363058&extension=ts&play_token=QQu1nx49Ox
+#EXTINF:-1 tvg-id="1025276" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1025276&extension=ts&play_token=6NlI5S7wuu
 #EXTINF:-1 tvg-id="1349310" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1349310&extension=ts&play_token=5LQ5dLAmRc
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1349310&extension=ts&play_token=nlPOEij1BJ
 #EXTINF:-1 tvg-id="1363941" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1363941&extension=ts&play_token=X3PQtpvu38
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1363941&extension=ts&play_token=fbjFzHU4br
 #EXTINF:-1 tvg-id="1349310" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1349310&extension=ts&play_token=fOfb80iI6d
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1349310&extension=ts&play_token=Z4jsDJ17po
 #EXTINF:-1 tvg-id="1363941" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363941&extension=ts&play_token=5WqPyrZmbJ
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363941&extension=ts&play_token=3olqfnCfSj
 #EXTINF:-1 tvg-id="1349310" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1349310&extension=ts&play_token=SY1WJuaSBp
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1349310&extension=ts&play_token=MSeVtmsbdj
 #EXTINF:-1 tvg-id="1363941" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/08 11:45 PM | UEFA 05 hearts vs rapid wien
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363941&extension=ts&play_token=lGc9YdBk4U
-#EXTINF:-1 tvg-id="1119197" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/CANADA/tsn.png",27/08 02:00 AM | CA TSN+ 10 – VALENCIA @ REAL BETIS – – /
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1363941&extension=ts&play_token=bt6rEQ0Yi5
+#EXTINF:-1 tvg-id="621407" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15028.png?57755",27/08 02:00 AM | LA LIGA REAL MADRID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A7BD93162D07D581EAE0D5C783DE254C
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1119197
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=621407&extension=ts&play_token=g4nibPwEAa
+#EXTINF:-1 tvg-id="621402" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15425.png?39379",27/08 02:00 AM | LA LIGA REAL BETIS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=621402&extension=ts&play_token=SAFmOoXpeZ
+#EXTINF:-1 tvg-id="621403" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15424.png?27331",27/08 02:00 AM | LA LIGA REAL SOCIEDAD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=621403&extension=ts&play_token=8G506xqwX2
+#EXTINF:-1 tvg-id="621401" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/new80411.png?43223",27/08 02:00 AM | LA LIGA VILLAREAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=621401&extension=ts&play_token=simdEm4EAS
+#EXTINF:-1 tvg-id="1601668" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",27/08 02:00 AM | US (ESPN+ 051) Soccer: Real Madrid vs. R. Sociedad ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1601668&extension=ts&play_token=J5xaA01Dhs
+#EXTINF:-1 tvg-id="1601667" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",27/08 02:00 AM | US (ESPN+ 052) Soccer: Real Madrid vs. R. Sociedad (ESP) ( :05)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1601667&extension=ts&play_token=mrPhdVyKUI
 #EXTINF:-1 tvg-id="1949861" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",27/08 02:00 AM | US (ESPN+ 051) Soccer: Real Madrid vs. R. Sociedad ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1949861&extension=ts&play_token=06ZJeUN240
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1949861&extension=ts&play_token=GYfuNSFXQP
 #EXTINF:-1 tvg-id="1949860" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",27/08 02:00 AM | US (ESPN+ 052) Soccer: Real Madrid vs. R. Sociedad (ESP) ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1949860&extension=ts&play_token=lLYj2ogRgx
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1949860&extension=ts&play_token=BHPLYzyWIk
 #EXTINF:-1 tvg-id="1949861" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",27/08 02:00 AM | US (ESPN+ 051) Soccer: Real Madrid vs. R. Sociedad ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949861&extension=ts&play_token=T2xpRRo9SS
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949861&extension=ts&play_token=ghAgj5IryX
 #EXTINF:-1 tvg-id="1949860" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",27/08 02:00 AM | US (ESPN+ 052) Soccer: Real Madrid vs. R. Sociedad (ESP) ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949860&extension=ts&play_token=iqIsRJMGnD
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949860&extension=ts&play_token=Z0hiXVe4Ur
 #EXTINF:-1 tvg-id="1949861" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",27/08 02:00 AM | US (ESPN+ 051) Soccer: Real Madrid vs. R. Sociedad ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1949861&extension=ts&play_token=TGitGAKmx8
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1949861&extension=ts&play_token=3otyrqT4Dk
 #EXTINF:-1 tvg-id="1949860" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",27/08 02:00 AM | US (ESPN+ 052) Soccer: Real Madrid vs. R. Sociedad (ESP) ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1949860&extension=ts&play_token=5lrqe8lefh
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1949860&extension=ts&play_token=hWQOHmRCxI
 #EXTINF:-1 tvg-id="1909860" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",27/08 02:00 AM | CA (TSN+ 010) : Valencia vs. Real Betis ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1909860&extension=ts&play_token=XFGSMys5TR
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1909860&extension=ts&play_token=I8o9PeEOTO
 #EXTINF:-1 tvg-id="1909829" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",27/08 02:00 AM | CA (TSN+ 041) : Alaves vs. Villarreal ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1909829&extension=ts&play_token=aeHxM3nLju
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1909829&extension=ts&play_token=Me0a0OvB1B
 #EXTINF:-1 tvg-id="1909822" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",27/08 02:00 AM | CA (TSN+ 048) : Levante vs. Real Betis ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1909822&extension=ts&play_token=9UgHEXJBXG
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1909822&extension=ts&play_token=uBmmnUYohI
 #EXTINF:-1 tvg-id="1909817" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",27/08 02:00 AM | CA (TSN+ 053) : Real Sociedad vs. Espanyol ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1909817&extension=ts&play_token=QGmYj9ExV4
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1909817&extension=ts&play_token=pS2mFadASJ
 #EXTINF:-1 tvg-id="1909805" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",27/08 02:00 AM | CA (TSN+ 065) : Real Madrid vs. Malaga ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1909805&extension=ts&play_token=uOiLZNDeoo
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1909805&extension=ts&play_token=QyqAuk46iE
 #EXTINF:-1 tvg-id="1909860" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",27/08 02:00 AM | CA (TSN+ 010) : Valencia vs. Real Betis ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909860&extension=ts&play_token=Bgo3iGVESP
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909860&extension=ts&play_token=OsIwZrB6yP
 #EXTINF:-1 tvg-id="1909829" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",27/08 02:00 AM | CA (TSN+ 041) : Alaves vs. Villarreal ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909829&extension=ts&play_token=Chccj8Bjnz
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909829&extension=ts&play_token=UYeCFuUWmv
 #EXTINF:-1 tvg-id="1909822" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",27/08 02:00 AM | CA (TSN+ 048) : Levante vs. Real Betis ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909822&extension=ts&play_token=lp24rhV9Hw
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909822&extension=ts&play_token=b8NAMbv8NE
 #EXTINF:-1 tvg-id="1909817" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",27/08 02:00 AM | CA (TSN+ 053) : Real Sociedad vs. Espanyol ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909817&extension=ts&play_token=vDXqcSQcT9
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909817&extension=ts&play_token=UR7ZmVcYmK
 #EXTINF:-1 tvg-id="1909805" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",27/08 02:00 AM | CA (TSN+ 065) : Real Madrid vs. Malaga ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909805&extension=ts&play_token=FBNiEudm8z
-#EXTINF:-1 tvg-id="1117243" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",27/08 02:00 AM | EN VALENCIA REAL BETIS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A7BD93162D07D581EAE0D5C783DE254C
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1117243
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909805&extension=ts&play_token=jHHoxP8r0c
 #EXTINF:-1 tvg-id="1395516" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REALBETIS.png",27/08 02:00 AM | LA LIGA| REAL BETIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1395516&extension=ts&play_token=41KYfi7Gg9
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1395516&extension=ts&play_token=zsMiaNtzVb
 #EXTINF:-1 tvg-id="1395515" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REALMADRID.png",27/08 02:00 AM | LA LIGA| REAL MADRID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1395515&extension=ts&play_token=GCObdstSYL
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1395515&extension=ts&play_token=XPEH0Ytm8y
 #EXTINF:-1 tvg-id="1395514" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REALSOCIEDAD.png",27/08 02:00 AM | LA LIGA| REAL SOCIEDAD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1395514&extension=ts&play_token=ZHDhUSgGur
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1395514&extension=ts&play_token=t0wXFkUPBG
 #EXTINF:-1 tvg-id="1395511" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VILLAREAL.png",27/08 02:00 AM | LA LIGA| VILLAREAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1395511&extension=ts&play_token=awPJAtQvob
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1395511&extension=ts&play_token=9v11I42g3v
 #EXTINF:-1 tvg-id="1395516" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REALBETIS.png",27/08 02:00 AM | LA LIGA| REAL BETIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1395516&extension=ts&play_token=0fMABhbrng
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1395516&extension=ts&play_token=DWzNCjYIlk
 #EXTINF:-1 tvg-id="1395515" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REALMADRID.png",27/08 02:00 AM | LA LIGA| REAL MADRID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1395515&extension=ts&play_token=iGBM8K9dgP
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1395515&extension=ts&play_token=xxu9XvehQl
 #EXTINF:-1 tvg-id="1395514" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REALSOCIEDAD.png",27/08 02:00 AM | LA LIGA| REAL SOCIEDAD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1395514&extension=ts&play_token=B3jrIhwEd9
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1395514&extension=ts&play_token=cbBQ0VIWEW
 #EXTINF:-1 tvg-id="1395511" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VILLAREAL.png",27/08 02:00 AM | LA LIGA| VILLAREAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1395511&extension=ts&play_token=PBJylPwe4y
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1395511&extension=ts&play_token=SNwpRwgODw
 #EXTINF:-1 tvg-id="1395516" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REALBETIS.png",27/08 02:00 AM | LA LIGA| REAL BETIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1395516&extension=ts&play_token=Hd0pN5jBxa
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1395516&extension=ts&play_token=JVa9CxgWKD
 #EXTINF:-1 tvg-id="1395515" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REALMADRID.png",27/08 02:00 AM | LA LIGA| REAL MADRID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1395515&extension=ts&play_token=ojkK9T5OYp
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1395515&extension=ts&play_token=Jnuy8daXIa
 #EXTINF:-1 tvg-id="1395514" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REALSOCIEDAD.png",27/08 02:00 AM | LA LIGA| REAL SOCIEDAD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1395514&extension=ts&play_token=BwOPNJQ8xJ
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1395514&extension=ts&play_token=xVkizxJWLI
 #EXTINF:-1 tvg-id="1395511" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VILLAREAL.png",27/08 02:00 AM | LA LIGA| VILLAREAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1395511&extension=ts&play_token=rEz8Ri4hmC
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1395511&extension=ts&play_token=0gTmmSq9bh
+#EXTINF:-1 tvg-id="2063919" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/08 02:00 AM | End Burrage vs. Maristany Zuleta de Reales all | 8K FR: SOCCER 40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2063919&extension=ts&play_token=xQMfWZrlZF
+#EXTINF:-1 tvg-id="1881228" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",27/08 02:00 AM | End Valencia Real Betis | 8K DE: DAZN 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881228&extension=ts&play_token=vuYewaJqvn
+#EXTINF:-1 tvg-id="1930978" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/08 02:00 AM | End Burrage vs. Maristany Zuleta de Reales all | 8K NL: SOCCER 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1930978&extension=ts&play_token=3ZfGrWp4rw
+#EXTINF:-1 tvg-id="1881130" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",27/08 02:00 AM | End Valencia CF Real Betis | 8K ES: DAZN 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881130&extension=ts&play_token=UHV6zuiNqZ
+#EXTINF:-1 tvg-id="1538898" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",27/08 02:00 AM | R01: REAL MADRID REAL SOCIEDAD DK (DK) 8K DK: DISNEY+ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1538898&extension=ts&play_token=rRLv8grJZv
+#EXTINF:-1 tvg-id="1242776" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",27/08 02:00 AM | ENDED VALENCIA REAL BETIS (NO) 8K NO: VIAPLAY 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1242776&extension=ts&play_token=m6wj4lpTtc
+#EXTINF:-1 tvg-id="1010149" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",27/08 02:00 AM | INTER MILAN REAL BETIS (IS) 8K IS: LIVEY 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1010149&extension=ts&play_token=jztu7dneie
+#EXTINF:-1 tvg-id="1536493" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230",27/08 02:00 AM | PRIME: REAL MADRID TV ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1536493&extension=ts&play_token=wKeuVd85zT
+#EXTINF:-1 tvg-id="1548307" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14491.png?ver=79983",27/08 02:00 AM | TUBI: REAL MADRID ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1548307&extension=ts&play_token=tAOTMyBNeT
+#EXTINF:-1 tvg-id="1940073" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/08 02:00 AM | Club León vs. Real Salt Lake all | 8K US: SOCCER 84
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940073&extension=ts&play_token=8Ly2mLByiM
+#EXTINF:-1 tvg-id="615727" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441",27/08 02:00 AM | Flo (FLSP) 74: 2025 Laval-Montreal Rousseau vs Magog 22/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=615727&extension=ts&play_token=knEpm6zCQI
 #EXTINF:-1 tvg-id="2113071" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",27/08 02:00 AM | End Burrage vs. Maristany Zuleta de Reales all | 8K FR: SOCCER 40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2113071&extension=ts&play_token=2nCK2dYhLO
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2113071&extension=ts&play_token=eU9dfawgyC
 #EXTINF:-1 tvg-id="2062046" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",27/08 02:00 AM | Club León vs. Real Salt Lake all | 8K US: SOCCER 84
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062046&extension=ts&play_token=FlbaQ2xpOw
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062046&extension=ts&play_token=QUihTu5HFx
 #EXTINF:-1 tvg-id="1919961" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/USA/1919961.png",27/08 02:00 AM | PRIME| REAL MADRID TV ᴿᴬᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1919961&extension=ts&play_token=cWFTH0Jb3M
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1919961&extension=ts&play_token=PpjONfVFdY
 #EXTINF:-1 tvg-id="2058527" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",27/08 02:00 AM | End Burrage vs. Maristany Zuleta de Reales all | 8K NL: SOCCER 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2058527&extension=ts&play_token=YvBzw14ax1
-#EXTINF:-1 tvg-id="2040723" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",27/08 02:00 AM | Live Valencia CF Real Betis | 8K ES: DAZN 8
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2058527&extension=ts&play_token=X7U4D1r2zb
+#EXTINF:-1 tvg-id="2040725" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",27/08 02:00 AM | End Valencia CF Real Betis | 8K ES: DAZN 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2040723&extension=ts&play_token=BBO3ycYEip
-#EXTINF:-1 tvg-id="2040522" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",27/08 02:00 AM | Live Valencia Real Betis | 8K DE: DAZN 3
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2040725&extension=ts&play_token=QuVgxE3ZFb
+#EXTINF:-1 tvg-id="2040517" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",27/08 02:00 AM | End Valencia Real Betis | 8K DE: DAZN 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2040522&extension=ts&play_token=SOP4Wqa5sD
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2040517&extension=ts&play_token=FymCrCKtNI
 #EXTINF:-1 tvg-id="2113071" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",27/08 02:00 AM | End Burrage vs. Maristany Zuleta de Reales all | 8K FR: SOCCER 40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113071&extension=ts&play_token=X8ljUEkKI3
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113071&extension=ts&play_token=E3jucOcQ4S
 #EXTINF:-1 tvg-id="2062046" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",27/08 02:00 AM | Club León vs. Real Salt Lake all | 8K US: SOCCER 84
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062046&extension=ts&play_token=m3bF3BjQeH
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062046&extension=ts&play_token=K6oxnBba0n
 #EXTINF:-1 tvg-id="1919961" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/USA/1919961.png",27/08 02:00 AM | PRIME| REAL MADRID TV ᴿᴬᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1919961&extension=ts&play_token=x7s1QunHoV
-#EXTINF:-1 tvg-id="2040522" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",27/08 02:00 AM | Live Valencia Real Betis | 8K DE: DAZN 3
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1919961&extension=ts&play_token=QZn2vWW28b
+#EXTINF:-1 tvg-id="2040517" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",27/08 02:00 AM | End Valencia Real Betis | 8K DE: DAZN 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040522&extension=ts&play_token=RJcNeoAiPZ
-#EXTINF:-1 tvg-id="2040723" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",27/08 02:00 AM | Live Valencia CF Real Betis | 8K ES: DAZN 8
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040517&extension=ts&play_token=lmAOZFy7Z9
+#EXTINF:-1 tvg-id="2040725" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",27/08 02:00 AM | End Valencia CF Real Betis | 8K ES: DAZN 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040723&extension=ts&play_token=pGEmHeui53
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040725&extension=ts&play_token=zz4zRbaqXn
 #EXTINF:-1 tvg-id="1735565" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",27/08 02:00 AM | LIVE VALENCIA REAL BETIS (NO) 8K NO: VIAPLAY 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735565&extension=ts&play_token=GeAy9F6l4t
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735565&extension=ts&play_token=CCNjPxPEcp
 #EXTINF:-1 tvg-id="2058527" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",27/08 02:00 AM | End Burrage vs. Maristany Zuleta de Reales all | 8K NL: SOCCER 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2058527&extension=ts&play_token=V29If5MAhc
-#EXTINF:-1 tvg-id="2040723" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",27/08 02:00 AM | Live Valencia CF Real Betis | 8K ES: DAZN 8
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2058527&extension=ts&play_token=sjD8gG8Drs
+#EXTINF:-1 tvg-id="2040725" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",27/08 02:00 AM | End Valencia CF Real Betis | 8K ES: DAZN 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040723&extension=ts&play_token=edhnqEjkIL
-#EXTINF:-1 tvg-id="2040522" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",27/08 02:00 AM | Live Valencia Real Betis | 8K DE: DAZN 3
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040725&extension=ts&play_token=DZCxXbg1kw
+#EXTINF:-1 tvg-id="2040517" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",27/08 02:00 AM | End Valencia Real Betis | 8K DE: DAZN 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040522&extension=ts&play_token=kymxLC2ezn
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2040517&extension=ts&play_token=zseElMYZeg
 #EXTINF:-1 tvg-id="1934533" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",27/08 02:00 AM | R01: REAL MADRID REAL SOCIEDAD DK (DK) 8K DK: DISNEY+ 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1934533&extension=ts&play_token=2eQgwpkWRw
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1934533&extension=ts&play_token=eowC9WwvLL
 #EXTINF:-1 tvg-id="1735565" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",27/08 02:00 AM | LIVE VALENCIA REAL BETIS (NO) 8K NO: VIAPLAY 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1735565&extension=ts&play_token=YbNaoeCLHe
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1735565&extension=ts&play_token=UegnkslWPP
 #EXTINF:-1 tvg-id="2062046" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",27/08 02:00 AM | Club León vs. Real Salt Lake all | 8K US: SOCCER 84
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2062046&extension=ts&play_token=tzsxvZ8CTS
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2062046&extension=ts&play_token=eJAMmu847i
 #EXTINF:-1 tvg-id="1919961" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/USA/1919961.png",27/08 02:00 AM | PRIME| REAL MADRID TV ᴿᴬᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1919961&extension=ts&play_token=bUqSRy7FKT
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1919961&extension=ts&play_token=Eg03VOcGCH
+#EXTINF:-1 tvg-id="1954563" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15028.png?1854",27/08 02:00 AM | TV: REAL MADRID TV ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1954563&extension=ts&play_token=HjTYyMqNwM
+#EXTINF:-1 tvg-id="1677840" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11366.jpg?73286",27/08 02:00 AM | GO: REAL MADRID ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1677840&extension=ts&play_token=7c3uP1w421
+#EXTINF:-1 tvg-id="1680798" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11366.jpg?67353",27/08 02:00 AM | VO: REAL MADRID ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1680798&extension=ts&play_token=Lk3vjxgPGF
+#EXTINF:-1 tvg-id="1683594" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11366.jpg?73286",27/08 02:00 AM | M+: REAL MADRID TV ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1683594&extension=ts&play_token=KJmUm4TuWW
+#EXTINF:-1 tvg-id="1340217" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13781.png?ver=99080",27/08 02:00 AM | ES: REAL MADRID TV ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1340217&extension=ts&play_token=tV4458x2r4
+#EXTINF:-1 tvg-id="840271" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11366.jpg?73286",27/08 02:00 AM | ES: REAL MADRID TV ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=840271&extension=ts&play_token=emdCL5d7Aa
+#EXTINF:-1 tvg-id="840229" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11366.jpg?11661",27/08 02:00 AM | ES: REAL MADRID TV ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=840229&extension=ts&play_token=h1ueVo4XnV
+#EXTINF:-1 tvg-id="1702988" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",27/08 02:00 AM | Valencia vs Real Betis @ :Viaplay NO 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1702988&extension=ts&play_token=d6FnVJY7r8
+#EXTINF:-1 tvg-id="1610998" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",27/08 02:00 AM | Valencia vs. Real Betis @ :TSN+ 60
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610998&extension=ts&play_token=wo7pwP6YO0
+#EXTINF:-1 tvg-id="1672163" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14456.jpg?ver=20107",27/08 02:00 AM | VIX: REAL MADRID TV ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1672163&extension=ts&play_token=cbdPEJ45SF
+#EXTINF:-1 tvg-id="2095838" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/LATINO/REAL-MADRID.png",27/08 02:00 AM | REAL MADRID TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2095838&extension=ts&play_token=y8g45O5ZGx
+#EXTINF:-1 tvg-id="2095837" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/LATINO/REAL-MADRID.png",27/08 02:00 AM | REAL MADRID TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2095837&extension=ts&play_token=xVoAs2t2E7
+#EXTINF:-1 tvg-id="1672740" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",27/08 02:00 AM | (MX) (Dazn 018) Sevilla FC _ Real Madrid ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1672740&extension=ts&play_token=ok5HwpVH0t
+#EXTINF:-1 tvg-id="1672716" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",27/08 02:00 AM | (MX) (Dazn 042) Real Madrid vs. Atletico Madrid ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1672716&extension=ts&play_token=9qFXY6ccw3
+#EXTINF:-1 tvg-id="1541375" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13715.png?ver=71621",27/08 02:00 AM | VD: REAL MADRID TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 508C52AD289A1167BC2D81526E3516F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1541375&extension=ts&play_token=ZF1Vu6jMH2
 #EXTINF:-1 tvg-id="1972996" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1972996.png",27/08 02:00 AM | ES| REAL MADRID FHD ᴿᴬᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1972996&extension=ts&play_token=zAdCldFf5o
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1972996&extension=ts&play_token=R3G5TJOOol
 #EXTINF:-1 tvg-id="1796581" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://103.176.90.92/images/1796581.png",27/08 02:00 AM | ES| REAL MADRID TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1796581&extension=ts&play_token=haKfKEvEKn
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1796581&extension=ts&play_token=vDlyddowHS
 #EXTINF:-1 tvg-id="2068291" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/REALMADRID.png",27/08 02:00 AM | ES-C| REAL MADRID TV ᴿᴬᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2068291&extension=ts&play_token=8NNbLQonSy
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2068291&extension=ts&play_token=xXSuZQkQwi
 #EXTINF:-1 tvg-id="1919518" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/logos/1919518.png",27/08 02:00 AM | VD| REAL MADRID TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1919518&extension=ts&play_token=xqJHBn761m
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1919518&extension=ts&play_token=uezIi11hey
 #EXTINF:-1 tvg-id="1972996" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1972996.png",27/08 02:00 AM | ES| REAL MADRID FHD ᴿᴬᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1972996&extension=ts&play_token=BhDAKEZfpw
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1972996&extension=ts&play_token=1vzjEHu6ys
 #EXTINF:-1 tvg-id="1796581" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://103.176.90.92/images/1796581.png",27/08 02:00 AM | ES| REAL MADRID TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1796581&extension=ts&play_token=xJvwvvLTVB
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1796581&extension=ts&play_token=k8SVI7L6Wz
 #EXTINF:-1 tvg-id="2068291" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/REALMADRID.png",27/08 02:00 AM | ES-C| REAL MADRID TV ᴿᴬᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2068291&extension=ts&play_token=CaeV9wnAIq
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2068291&extension=ts&play_token=yLz31EnSHC
 #EXTINF:-1 tvg-id="1996102" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",27/08 02:00 AM | Valencia vs Real Betis @ :Viaplay NO 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1996102&extension=ts&play_token=t2u52M9ZdR
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1996102&extension=ts&play_token=HYwql2pOVT
 #EXTINF:-1 tvg-id="1972996" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1972996.png",27/08 02:00 AM | ES| REAL MADRID FHD ᴿᴬᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1972996&extension=ts&play_token=zpPtE92h02
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1972996&extension=ts&play_token=P5UoYqzTZL
 #EXTINF:-1 tvg-id="1796581" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://103.176.90.92/images/1796581.png",27/08 02:00 AM | ES| REAL MADRID TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1796581&extension=ts&play_token=Cw1evo7aqS
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1796581&extension=ts&play_token=BYiNYPr2Wq
 #EXTINF:-1 tvg-id="2068291" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/REALMADRID.png",27/08 02:00 AM | ES-C| REAL MADRID TV ᴿᴬᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2068291&extension=ts&play_token=M97Pa6wqdn
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=2068291&extension=ts&play_token=BEjM6Gm1zW
 #EXTINF:-1 tvg-id="1996102" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",27/08 02:00 AM | Valencia vs Real Betis @ :Viaplay NO 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1996102&extension=ts&play_token=zaU65j2FnB
-#EXTINF:-1 tvg-id="1117244" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",27/08 02:00 AM | FR VALENCIA REAL BETIS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A7BD93162D07D581EAE0D5C783DE254C
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1117244
-#EXTINF:-1 tvg-id="1100782" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",27/08 02:00 AM | AR VALENCIA REAL BETIS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A7BD93162D07D581EAE0D5C783DE254C
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100782
-#EXTINF:-1 tvg-id="1117245" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",27/08 02:00 AM | ES VALENCIA REAL BETIS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A7BD93162D07D581EAE0D5C783DE254C
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1117245
-#EXTINF:-1 tvg-id="1145838" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",27/08 02:00 AM | ALB VALENCIA REAL BETIS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A7BD93162D07D581EAE0D5C783DE254C
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1145838
-#EXTINF:-1 tvg-id="977974" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/SPAIN/realmadrid.png",27/08 02:00 AM | ES REAL MADRID TV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A7BD93162D07D581EAE0D5C783DE254C
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/977974
-#EXTINF:-1 tvg-id="1029281" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/SPAIN/realmadrid.png",27/08 02:00 AM | ES REAL MADRID TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A7BD93162D07D581EAE0D5C783DE254C
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1029281
-#EXTINF:-1 tvg-id="1360054" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/SPAIN/rakutentv.png",27/08 02:00 AM | ES REAL MADRID TV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A7BD93162D07D581EAE0D5C783DE254C
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1360054
-#EXTINF:-1 tvg-id="1278986" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/SPAIN/realmadrid.png",27/08 02:00 AM | MX Real Madrid
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A7BD93162D07D581EAE0D5C783DE254C
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1278986
-#EXTINF:-1 tvg-id="1349096" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/SPAIN/VIX.png",27/08 02:00 AM | ES VIX REAL MADRID TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A7BD93162D07D581EAE0D5C783DE254C
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1349096
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1996102&extension=ts&play_token=2lGGuyOpmL
 #EXTINF:-1 tvg-id="1910723" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",27/08 02:00 AM | US (Paramount 019) Viking vs. GNK Dinamo ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910723&extension=ts&play_token=lnkvTh6a8s
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910723&extension=ts&play_token=pA9VBmYPjB
 #EXTINF:-1 tvg-id="1910723" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",27/08 02:00 AM | US (Paramount 019) Viking vs. GNK Dinamo ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910723&extension=ts&play_token=zhgMeUolKX
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910723&extension=ts&play_token=L36hbBEMQK
 #EXTINF:-1 tvg-id="1910723" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",27/08 02:00 AM | US (Paramount 019) Viking vs. GNK Dinamo ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910723&extension=ts&play_token=zfgnXTrmw3
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910723&extension=ts&play_token=Jpc152huw4
 #EXTINF:-1 tvg-id="1910720" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",27/08 02:00 AM | US (Paramount 022) AEK Athens vs. Levski Sofia ( :15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910720&extension=ts&play_token=1eIqhXZnV9
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910720&extension=ts&play_token=QIdyqCeCGa
 #EXTINF:-1 tvg-id="1910720" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",27/08 02:00 AM | US (Paramount 022) AEK Athens vs. Levski Sofia ( :15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910720&extension=ts&play_token=ydGax2BtEU
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910720&extension=ts&play_token=Jmf1cJAnmp
 #EXTINF:-1 tvg-id="1910720" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",27/08 02:00 AM | US (Paramount 022) AEK Athens vs. Levski Sofia ( :15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910720&extension=ts&play_token=eNZbRdcnHD
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910720&extension=ts&play_token=qP21wfsxAD
 #EXTINF:-1 tvg-id="1910721" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",27/08 02:00 AM | US (Paramount 021) Lyon vs. Fenerbahçe ( :10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910721&extension=ts&play_token=TTelgQNxTV
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910721&extension=ts&play_token=LYoQudoaam
 #EXTINF:-1 tvg-id="1910721" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",27/08 02:00 AM | US (Paramount 021) Lyon vs. Fenerbahçe ( :10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910721&extension=ts&play_token=nyhjkrn4bZ
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910721&extension=ts&play_token=lU4COOQ1XH
 #EXTINF:-1 tvg-id="1910721" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",27/08 02:00 AM | US (Paramount 021) Lyon vs. Fenerbahçe ( :10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910721&extension=ts&play_token=FqKunL3dIq
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910721&extension=ts&play_token=EzQfd6iDN1
 #EXTINF:-1 tvg-id="1910722" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",27/08 02:00 AM | US (Paramount 020) Celje vs. Slovan Bratislava ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2E718FE8C80D0B9BC8339393539CD966
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910722&extension=ts&play_token=D1J3PbuNXk
+#EXTVLCOPT:http-header=Authorization: Bearer B80AFDB9A3D42854B8E2BF4D46B04A67
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910722&extension=ts&play_token=ivjlwbtVmC
 #EXTINF:-1 tvg-id="1910722" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",27/08 02:00 AM | US (Paramount 020) Celje vs. Slovan Bratislava ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5D4F45E6064C9710EDDCD67DBC768B2A
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910722&extension=ts&play_token=NUSG41u9IC
+#EXTVLCOPT:http-header=Authorization: Bearer 04E883D3813B89F028837A9CD4B0A5D3
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910722&extension=ts&play_token=rsb41FoFbd
 #EXTINF:-1 tvg-id="1910722" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",27/08 02:00 AM | US (Paramount 020) Celje vs. Slovan Bratislava ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B1BBE3F8F23FFE6D66F3F3094F1F5443
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910722&extension=ts&play_token=zqzH3bvZZT
+#EXTVLCOPT:http-header=Authorization: Bearer 043224D60593A980D026BA512906ECEF
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1910722&extension=ts&play_token=3LkkDUsTfP

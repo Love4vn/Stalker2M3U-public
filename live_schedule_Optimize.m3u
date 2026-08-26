@@ -1,64 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="386507" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14269.png?19700",26/08 11:45 PM | Rapid Vienna vs Hearts (PT:  Canal 11 4K)
+#EXTINF:-1 tvg-id="791025" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6129.png?95164",26/08 11:30 PM | C. Wong vs L. Neumayer (HK: NOW SPORTS PRIME 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=386507&extension=ts&play_token=FteKEpflJw
-#EXTINF:-1 tvg-id="107524" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/CANAL11.png",26/08 11:45 PM | Rapid Vienna vs Hearts (PT| CANAL 11 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=107524&extension=ts&play_token=zPxYlNYa1f
-#EXTINF:-1 tvg-id="118466" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/CANAL11.png",26/08 11:45 PM | Rapid Vienna vs Hearts (PT| CANAL 11 HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=118466&extension=ts&play_token=XVUsNBkskf
-#EXTINF:-1 tvg-id="107524" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/CANAL11.png",26/08 11:45 PM | Rapid Vienna vs Hearts (PT| CANAL 11 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=107524&extension=ts&play_token=J7OOISEX0C
-#EXTINF:-1 tvg-id="118466" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/CANAL11.png",26/08 11:45 PM | Rapid Vienna vs Hearts (PT| CANAL 11 HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=118466&extension=ts&play_token=uIg6ba1IRK
-#EXTINF:-1 tvg-id="763944" group-title="Live UEFA Conference League" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/11tv.png",26/08 11:45 PM | Rapid Vienna vs Hearts (PT - CANAL 11 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/763944
-#EXTINF:-1 tvg-id="1030823" group-title="Live UEFA Conference League" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/11tv.png",26/08 11:45 PM | Rapid Vienna vs Hearts (PT - CANAL 11 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1030823
-#EXTINF:-1 tvg-id="1523291" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/logos/1913071.png",26/08 11:45 PM | Rapid Vienna vs Hearts (AT: ORF 1 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1523291&extension=ts&play_token=mN5Rz12jS0
-#EXTINF:-1 tvg-id="539288" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6523.jpg?74305",26/08 11:45 PM | Rapid Vienna vs Hearts (AT: ORF 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=539288&extension=ts&play_token=HTdQzXMcw9
-#EXTINF:-1 tvg-id="409256" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6517.jpg?34659",26/08 11:45 PM | Rapid Vienna vs Hearts (AT: ORF 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=409256&extension=ts&play_token=zOmCcxpREn
-#EXTINF:-1 tvg-id="1913071" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/logos/1913071.png",26/08 11:45 PM | Rapid Vienna vs Hearts (AT| ORF 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1913071&extension=ts&play_token=VsycfmCEyU
-#EXTINF:-1 tvg-id="1913071" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/logos/1913071.png",26/08 11:45 PM | Rapid Vienna vs Hearts (AT| ORF 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1913071&extension=ts&play_token=bjg1ckA7Pj
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=791025&extension=ts&play_token=iZHlJBIK0P
 #EXTINF:-1 tvg-id="1032476" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png",27/08 04:00 AM | Abierto GNP Seguros E5 (UK| NOW HK NOW SPORTS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
@@ -324,61 +269,166 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1120425&exte
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1120405&extension=ts&play_token=utCN6vU6Xj
-#EXTINF:-1 tvg-id="1562704" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?37284",27/08 05:30 AM |  (NL: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTINF:-1 tvg-id="1562704" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?37284",27/08 05:35 AM |  (NL: ZIGGO SPORT 4 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562704&extension=ts&play_token=RyOzTIDqnc
-#EXTINF:-1 tvg-id="1980747" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",27/08 05:30 AM |  (ZG: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTINF:-1 tvg-id="1980747" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",27/08 05:35 AM |  (ZG: ZIGGO SPORT 4 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1980747&extension=ts&play_token=335Rr9262Y
-#EXTINF:-1 tvg-id="2011551" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",27/08 05:30 AM |  (OD: ZIGGO SPORT 4 ᴴᴰ)
+#EXTINF:-1 tvg-id="2011551" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",27/08 05:35 AM |  (OD: ZIGGO SPORT 4 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2011551&extension=ts&play_token=OaaHEDfPN8
-#EXTINF:-1 tvg-id="2011260" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",27/08 05:30 AM |  (OD: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTINF:-1 tvg-id="2011260" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",27/08 05:35 AM |  (OD: ZIGGO SPORT 4 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2011260&extension=ts&play_token=YeMYgLpBzX
-#EXTINF:-1 tvg-id="1537608" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",27/08 05:30 AM |  (NL: ZIGGO SPORT 4 ᴿᴬᵂ ◉)
+#EXTINF:-1 tvg-id="1537608" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",27/08 05:35 AM |  (NL: ZIGGO SPORT 4 ᴿᴬᵂ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1537608&extension=ts&play_token=39M6O1LWZC
-#EXTINF:-1 tvg-id="1283307" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",27/08 05:30 AM |  (NL| ZIGGO SPORT 4 4K)
+#EXTINF:-1 tvg-id="1283307" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",27/08 05:35 AM |  (NL| ZIGGO SPORT 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
 http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1283307&extension=ts&play_token=qv2GMFtbBM
-#EXTINF:-1 tvg-id="1761572" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",27/08 05:30 AM |  (NL| ZIGGO SPORT 4 UHD 8K)
+#EXTINF:-1 tvg-id="1761572" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",27/08 05:35 AM |  (NL| ZIGGO SPORT 4 UHD 8K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
 http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1761572&extension=ts&play_token=lVuIlvtxQz
-#EXTINF:-1 tvg-id="1282760" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",27/08 05:30 AM |  (NL| ZIGGO SPORT 4 HD)
+#EXTINF:-1 tvg-id="1282760" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",27/08 05:35 AM |  (NL| ZIGGO SPORT 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
 http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1282760&extension=ts&play_token=lAGWWJzJVT
-#EXTINF:-1 tvg-id="1282745" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",27/08 05:30 AM |  (NL| ZIGGO SPORT 4 FHD)
+#EXTINF:-1 tvg-id="1282745" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",27/08 05:35 AM |  (NL| ZIGGO SPORT 4 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
 http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1282745&extension=ts&play_token=hRWdPjYM5t
-#EXTINF:-1 tvg-id="1921307" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",27/08 05:30 AM |  (NL| ZIGGO SPORT 4 ᴿᴬᵂ ◉)
+#EXTINF:-1 tvg-id="1921307" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",27/08 05:35 AM |  (NL| ZIGGO SPORT 4 ᴿᴬᵂ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
 http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1921307&extension=ts&play_token=ySZtuHlaX3
-#EXTINF:-1 tvg-id="1052177" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/NEDERLAND/ziggosport.png",27/08 05:30 AM |  (NL - ZIGGO SPORT 4 UHD)
+#EXTINF:-1 tvg-id="1052177" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/NEDERLAND/ziggosport.png",27/08 05:35 AM |  (NL - ZIGGO SPORT 4 UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1052177
+#EXTINF:-1 tvg-id="1562885" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1974.png?24531",26/08 11:30 PM | C. Wong vs L. Neumayer (GR: NOVA SPORTS PRIME ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562885&extension=ts&play_token=oTE5raC1r7
+#EXTINF:-1 tvg-id="1562873" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1974.png?4771",26/08 11:30 PM | C. Wong vs L. Neumayer (GR: NOVA SPORTS PRIME ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562873&extension=ts&play_token=bjSfiddFsj
+#EXTINF:-1 tvg-id="842753" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11458.png?82890",26/08 11:30 PM | C. Wong vs L. Neumayer (GR: NOVA SPORTS PRIME ᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842753&extension=ts&play_token=oC0umFFmfO
+#EXTINF:-1 tvg-id="842735" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1974.png?43502",26/08 11:30 PM | C. Wong vs L. Neumayer (GR: NOVA SPORTS PRIME ᵁᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842735&extension=ts&play_token=Iqh7T0opmI
+#EXTINF:-1 tvg-id="842708" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1974.png?66741",26/08 11:30 PM | C. Wong vs L. Neumayer (GR: NOVA SPORTS PRIME 4K ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842708&extension=ts&play_token=iccJT5ncRd
+#EXTINF:-1 tvg-id="770428" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/NOVA-SPORT.jpeg",26/08 11:30 PM | C. Wong vs L. Neumayer (GR VIP: NOVASPORTS PRIME 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=770428&extension=ts&play_token=vsf0cuHqFS
+#EXTINF:-1 tvg-id="770427" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/NOVA-SPORT.jpeg",26/08 11:30 PM | C. Wong vs L. Neumayer (GR VIP: NOVASPORTS PRIME HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=770427&extension=ts&play_token=Er1QRqqLFd
+#EXTINF:-1 tvg-id="1432157" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSPRIME.png",26/08 11:30 PM | C. Wong vs L. Neumayer (GR| NOVASPORTS PRIME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1432157&extension=ts&play_token=3nJbRtfESg
+#EXTINF:-1 tvg-id="1432157" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSPRIME.png",26/08 11:30 PM | C. Wong vs L. Neumayer (GR| NOVASPORTS PRIME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1432157&extension=ts&play_token=Lz7f0ZkaOs
+#EXTINF:-1 tvg-id="386507" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14269.png?19700",26/08 11:45 PM | Rapid Vienna vs Hearts (PT:  Canal 11 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=386507&extension=ts&play_token=FteKEpflJw
+#EXTINF:-1 tvg-id="107524" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/CANAL11.png",26/08 11:45 PM | Rapid Vienna vs Hearts (PT| CANAL 11 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=107524&extension=ts&play_token=zPxYlNYa1f
+#EXTINF:-1 tvg-id="118466" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/CANAL11.png",26/08 11:45 PM | Rapid Vienna vs Hearts (PT| CANAL 11 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=118466&extension=ts&play_token=XVUsNBkskf
+#EXTINF:-1 tvg-id="107524" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/CANAL11.png",26/08 11:45 PM | Rapid Vienna vs Hearts (PT| CANAL 11 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=107524&extension=ts&play_token=J7OOISEX0C
+#EXTINF:-1 tvg-id="118466" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/CANAL11.png",26/08 11:45 PM | Rapid Vienna vs Hearts (PT| CANAL 11 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=118466&extension=ts&play_token=uIg6ba1IRK
+#EXTINF:-1 tvg-id="763944" group-title="Live UEFA Conference League" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/11tv.png",26/08 11:45 PM | Rapid Vienna vs Hearts (PT - CANAL 11 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/763944
+#EXTINF:-1 tvg-id="1030823" group-title="Live UEFA Conference League" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/11tv.png",26/08 11:45 PM | Rapid Vienna vs Hearts (PT - CANAL 11 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1030823
+#EXTINF:-1 tvg-id="1523291" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/logos/1913071.png",26/08 11:45 PM | Rapid Vienna vs Hearts (AT: ORF 1 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1523291&extension=ts&play_token=mN5Rz12jS0
+#EXTINF:-1 tvg-id="539288" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6523.jpg?74305",26/08 11:45 PM | Rapid Vienna vs Hearts (AT: ORF 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=539288&extension=ts&play_token=HTdQzXMcw9
+#EXTINF:-1 tvg-id="409256" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6517.jpg?34659",26/08 11:45 PM | Rapid Vienna vs Hearts (AT: ORF 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=409256&extension=ts&play_token=zOmCcxpREn
+#EXTINF:-1 tvg-id="1913071" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/logos/1913071.png",26/08 11:45 PM | Rapid Vienna vs Hearts (AT| ORF 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1913071&extension=ts&play_token=VsycfmCEyU
+#EXTINF:-1 tvg-id="1913071" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/logos/1913071.png",26/08 11:45 PM | Rapid Vienna vs Hearts (AT| ORF 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1913071&extension=ts&play_token=bjg1ckA7Pj
 #EXTINF:-1 tvg-id="1905835" group-title="Live FA, League Cup" tvg-logo="http://51.158.145.100/picons/logos/UK/1905835.png",27/08 01:45 AM | Newcastle United vs West Bromwich Albion (UK-NOWTV| SKY SPORTS+ FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
@@ -1199,106 +1249,6 @@ http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/316547
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1712431&extension=ts&play_token=AW31jOFedn
-#EXTINF:-1 tvg-id="621642" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6424.png?28135",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK: PREMIER SPORTS 1 IRELAND HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=621642&extension=ts&play_token=w60RrEXV3g
-#EXTINF:-1 tvg-id="621620" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6424.png?63238",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK: PREMIER SPORTS 1 IRELAND HEVC 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=621620&extension=ts&play_token=8PnFR60AMz
-#EXTINF:-1 tvg-id="45235" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK| PREMIER SPORTS 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=45235&extension=ts&play_token=TN0NXMbNeo
-#EXTINF:-1 tvg-id="1458647" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK| PREMIER SPORTS 1 IRELAND HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1458647&extension=ts&play_token=e9COsweHwR
-#EXTINF:-1 tvg-id="1458642" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK| PREMIER SPORTS 1 IRELAND HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1458642&extension=ts&play_token=eWSFPGKRyA
-#EXTINF:-1 tvg-id="1032487" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK| NOW HK PREMIER SPORTS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1032487&extension=ts&play_token=T4cU3E5XWA
-#EXTINF:-1 tvg-id="1905930" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UK/1905930.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK-NOWTV| PREMIER SPORTS 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1905930&extension=ts&play_token=FpFsfBZfcu
-#EXTINF:-1 tvg-id="1905928" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UK/1905928.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK-NOWTV| PREMIER SPORTS 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1905928&extension=ts&play_token=gMU1JpsGxs
-#EXTINF:-1 tvg-id="1905929" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UK/1905929.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK-NOWTV| PREMIER SPORTS 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1905929&extension=ts&play_token=yNxBaL963B
-#EXTINF:-1 tvg-id="45235" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK| PREMIER SPORTS 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=45235&extension=ts&play_token=BhO2OTslML
-#EXTINF:-1 tvg-id="1458647" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK| PREMIER SPORTS 1 IRELAND HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1458647&extension=ts&play_token=CFtDQtQynx
-#EXTINF:-1 tvg-id="1458642" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK| PREMIER SPORTS 1 IRELAND HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1458642&extension=ts&play_token=kKaJZe9f2W
-#EXTINF:-1 tvg-id="1032487" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK| NOW HK PREMIER SPORTS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1032487&extension=ts&play_token=vLBPacReJs
-#EXTINF:-1 tvg-id="1905930" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UK/1905930.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK-NOWTV| PREMIER SPORTS 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1905930&extension=ts&play_token=1iXB5KryXU
-#EXTINF:-1 tvg-id="1905928" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UK/1905928.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK-NOWTV| PREMIER SPORTS 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1905928&extension=ts&play_token=FeimsCXWKG
-#EXTINF:-1 tvg-id="1905929" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UK/1905929.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK-NOWTV| PREMIER SPORTS 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1905929&extension=ts&play_token=ziSY2KzOf4
-#EXTINF:-1 tvg-id="17271" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="https://go4.pw/UK/premiersports.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK - PREMIER SPORTS 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/17271
-#EXTINF:-1 tvg-id="1562520" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12272.jpg?69639",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK: PREMIER SPORT 1 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562520&extension=ts&play_token=EyhgVuD29D
-#EXTINF:-1 tvg-id="163607" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://103.176.90.92/images/163607.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK| PREMIER SPORT 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=163607&extension=ts&play_token=HKdbjXxqMU
-#EXTINF:-1 tvg-id="163607" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://103.176.90.92/images/163607.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK| PREMIER SPORT 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=163607&extension=ts&play_token=agwxHTdxLI
 #EXTINF:-1 tvg-id="621641" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6424.png?28135",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK: PREMIER SPORTS 2 IRELAND HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
@@ -1399,6 +1349,106 @@ http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=163608&ex
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
 http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=163608&extension=ts&play_token=b0ujsGByvu
+#EXTINF:-1 tvg-id="621642" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6424.png?28135",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK: PREMIER SPORTS 1 IRELAND HEVC HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=621642&extension=ts&play_token=w60RrEXV3g
+#EXTINF:-1 tvg-id="621620" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6424.png?63238",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK: PREMIER SPORTS 1 IRELAND HEVC 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=621620&extension=ts&play_token=8PnFR60AMz
+#EXTINF:-1 tvg-id="45235" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK| PREMIER SPORTS 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=45235&extension=ts&play_token=TN0NXMbNeo
+#EXTINF:-1 tvg-id="1458647" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK| PREMIER SPORTS 1 IRELAND HEVC FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1458647&extension=ts&play_token=e9COsweHwR
+#EXTINF:-1 tvg-id="1458642" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK| PREMIER SPORTS 1 IRELAND HEVC HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1458642&extension=ts&play_token=eWSFPGKRyA
+#EXTINF:-1 tvg-id="1032487" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK| NOW HK PREMIER SPORTS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1032487&extension=ts&play_token=T4cU3E5XWA
+#EXTINF:-1 tvg-id="1905930" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UK/1905930.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK-NOWTV| PREMIER SPORTS 1 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1905930&extension=ts&play_token=FpFsfBZfcu
+#EXTINF:-1 tvg-id="1905928" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UK/1905928.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK-NOWTV| PREMIER SPORTS 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1905928&extension=ts&play_token=gMU1JpsGxs
+#EXTINF:-1 tvg-id="1905929" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UK/1905929.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK-NOWTV| PREMIER SPORTS 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1905929&extension=ts&play_token=yNxBaL963B
+#EXTINF:-1 tvg-id="45235" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK| PREMIER SPORTS 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=45235&extension=ts&play_token=BhO2OTslML
+#EXTINF:-1 tvg-id="1458647" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK| PREMIER SPORTS 1 IRELAND HEVC FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1458647&extension=ts&play_token=CFtDQtQynx
+#EXTINF:-1 tvg-id="1458642" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK| PREMIER SPORTS 1 IRELAND HEVC HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1458642&extension=ts&play_token=kKaJZe9f2W
+#EXTINF:-1 tvg-id="1032487" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK| NOW HK PREMIER SPORTS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1032487&extension=ts&play_token=vLBPacReJs
+#EXTINF:-1 tvg-id="1905930" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UK/1905930.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK-NOWTV| PREMIER SPORTS 1 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1905930&extension=ts&play_token=1iXB5KryXU
+#EXTINF:-1 tvg-id="1905928" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UK/1905928.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK-NOWTV| PREMIER SPORTS 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1905928&extension=ts&play_token=FeimsCXWKG
+#EXTINF:-1 tvg-id="1905929" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UK/1905929.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK-NOWTV| PREMIER SPORTS 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1905929&extension=ts&play_token=ziSY2KzOf4
+#EXTINF:-1 tvg-id="17271" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="https://go4.pw/UK/premiersports.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK - PREMIER SPORTS 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/17271
+#EXTINF:-1 tvg-id="1562520" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12272.jpg?69639",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK: PREMIER SPORT 1 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562520&extension=ts&play_token=EyhgVuD29D
+#EXTINF:-1 tvg-id="163607" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://103.176.90.92/images/163607.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK| PREMIER SPORT 1 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=163607&extension=ts&play_token=HKdbjXxqMU
+#EXTINF:-1 tvg-id="163607" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://103.176.90.92/images/163607.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (UK| PREMIER SPORT 1 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=163607&extension=ts&play_token=agwxHTdxLI
 #EXTINF:-1 tvg-id="71925" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="https://go4.pw/USA/espnnn.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (US - ESPN DEPORTES HD ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
@@ -1429,11 +1479,41 @@ http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=45579&exten
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/71936
-#EXTINF:-1 tvg-id="1562919" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1954.jpg?48182",27/08 02:00 AM | Real Madrid vs Real Sociedad (RO: DIGI SPORT 2 ᴿᴬᵂ)
+#EXTINF:-1 tvg-id="1562927" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?78403",27/08 02:00 AM | Real Madrid vs Real Sociedad (SI: SPORT KLUB 2 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562919&extension=ts&play_token=mP6ol15Abf
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562927&extension=ts&play_token=05XUHXMNOr
+#EXTINF:-1 tvg-id="1461057" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?56259",27/08 02:00 AM | Real Madrid vs Real Sociedad (SI: SPORT KLUB 2 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1461057&extension=ts&play_token=gRSDuoOorA
+#EXTINF:-1 tvg-id="1107129" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13852.png?ver=77207",27/08 02:00 AM | Real Madrid vs Real Sociedad (AL-VIP: SUPER SPORT 2 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1107129&extension=ts&play_token=v0O2UFvPcv
+#EXTINF:-1 tvg-id="1562947" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?15630",27/08 02:00 AM | Real Madrid vs Real Sociedad (HR: SPORT KLUB 1 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562947&extension=ts&play_token=faXqaRFLka
+#EXTINF:-1 tvg-id="1711956" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14698.png?23558",27/08 02:00 AM | Real Madrid vs Real Sociedad (HR: SPORT KLUB 1 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1711956&extension=ts&play_token=XPajegSW7o
+#EXTINF:-1 tvg-id="2398" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?33551",27/08 02:00 AM | Real Madrid vs Real Sociedad (HR: Sport Klub 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2398&extension=ts&play_token=mZGMRsJ1wJ
+#EXTINF:-1 tvg-id="2397" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?33551",27/08 02:00 AM | Real Madrid vs Real Sociedad (HR: Sport Klub 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2397&extension=ts&play_token=R6iMtqkRQf
 #EXTINF:-1 tvg-id="119011" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (ES| LALIGA TV BAR HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
@@ -1474,6 +1554,101 @@ http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1026644
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/288868
+#EXTINF:-1 tvg-id="1562553" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14546.png?35467",27/08 02:00 AM | Real Madrid vs Real Sociedad (PL: CANAL+ SPORT 1 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562553&extension=ts&play_token=AEdNS59lpD
+#EXTINF:-1 tvg-id="1285444" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="https://go4.pw/EUROPE/cytavision.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (GR - CYTAVISION SPORTS 8 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1285444
+#EXTINF:-1 tvg-id="1118017" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",27/08 02:00 AM | Real Madrid vs Real Sociedad (CY: CYTAVISION SPORT 8 ᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1118017&extension=ts&play_token=Z90eRuVUer
+#EXTINF:-1 tvg-id="386461" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701",27/08 02:00 AM | Real Madrid vs Real Sociedad (PT: DAZN 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=386461&extension=ts&play_token=73E7krijlV
+#EXTINF:-1 tvg-id="107495" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (PT| DAZN 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=107495&extension=ts&play_token=RIJxetgHNs
+#EXTINF:-1 tvg-id="118459" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (PT| DAZN 1 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=118459&extension=ts&play_token=va3p7FwseZ
+#EXTINF:-1 tvg-id="107495" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (PT| DAZN 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=107495&extension=ts&play_token=vqKLAxMKQx
+#EXTINF:-1 tvg-id="118459" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (PT| DAZN 1 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=118459&extension=ts&play_token=vZ61cx9I6A
+#EXTINF:-1 tvg-id="763969" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="https://go4.pw/FRANCE/DAZN.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (PT - DAZN 1 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/763969
+#EXTINF:-1 tvg-id="942694" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="https://go4.pw/FRANCE/DAZN.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (PT - DAZN 1 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/942694
+#EXTINF:-1 tvg-id="842741" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9948.png?22098",27/08 02:00 AM | Real Madrid vs Real Sociedad (GR: COSMOTE SPORT 7 ᵁᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842741&extension=ts&play_token=cuYQQqAKAA
+#EXTINF:-1 tvg-id="770471" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport7hd.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (GR VIP: COSMOTE SPORT 7 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=770471&extension=ts&play_token=OIydAlcpYx
+#EXTINF:-1 tvg-id="770470" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport7hd.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (GR VIP: COSMOTE SPORT 7 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=770470&extension=ts&play_token=BIPfez0w5v
+#EXTINF:-1 tvg-id="1432190" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/COSMOTESPORT7.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (GR|COSMOTE SPORT 7 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1432190&extension=ts&play_token=2Yo0e3n8iq
+#EXTINF:-1 tvg-id="307812" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/COSMOTESPORT7.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (GR| COSMOTE SPORT 7 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=307812&extension=ts&play_token=oGURxzTeBZ
+#EXTINF:-1 tvg-id="1432190" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/COSMOTESPORT7.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (GR|COSMOTE SPORT 7 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1432190&extension=ts&play_token=vW4cZiIYXj
+#EXTINF:-1 tvg-id="307812" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/COSMOTESPORT7.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (GR| COSMOTE SPORT 7 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=307812&extension=ts&play_token=YKFnirnt4V
+#EXTINF:-1 tvg-id="54941" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="https://go4.pw/EUROPE/cosmotesport.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (GR - COSMOTE SPORT 7 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/54941
+#EXTINF:-1 tvg-id="1562859" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9948.png?15249",27/08 02:00 AM | Real Madrid vs Real Sociedad (GR: COSMOTE SPORTS 7 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562859&extension=ts&play_token=OPkI0RleqB
 #EXTINF:-1 tvg-id="1577208" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14591.png?48021",27/08 02:00 AM | Real Madrid vs Real Sociedad (ES: M.LALIGA ᴴᴰᴿ ³⁸⁴⁰ᴾ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
@@ -1524,6 +1699,16 @@ http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1061315
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/76718
+#EXTINF:-1 tvg-id="508592" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8238.jpg?69095",27/08 02:00 AM | Real Madrid vs Real Sociedad (TR VIP: S SPORT+ 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=508592&extension=ts&play_token=hi2IBzfvE3
+#EXTINF:-1 tvg-id="401283" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3211.png?92632",27/08 02:00 AM | Real Madrid vs Real Sociedad (TR VIP: S SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=401283&extension=ts&play_token=vubjyreusG
 #EXTINF:-1 tvg-id="1562703" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?37284",27/08 02:00 AM | Real Madrid vs Real Sociedad (NL: ZIGGO SPORT 5 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
@@ -1579,6 +1764,36 @@ http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1921306&e
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1052178
+#EXTINF:-1 tvg-id="460826" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (CY: CYTAVISION SPORTS 5 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=460826&extension=ts&play_token=nzOW7Tznyk
+#EXTINF:-1 tvg-id="324970" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="https://go4.pw/EUROPE/cytavision.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (GR - CYTAVISION SPORTS 5 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/324970
+#EXTINF:-1 tvg-id="842680" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",27/08 02:00 AM | Real Madrid vs Real Sociedad (CY: CYTAVISION SPORT 5 ᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842680&extension=ts&play_token=QhvCjeQAJr
+#EXTINF:-1 tvg-id="1171626" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3353.png?ver=53648",27/08 02:00 AM | Real Madrid vs Real Sociedad (AL: ART SPORT 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1171626&extension=ts&play_token=aq2xu8VQn3
+#EXTINF:-1 tvg-id="1819070" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picons.cmshulk.com/picons/1621811.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (CZ: NOVA SPORT 6 ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1819070&extension=ts&play_token=ey8BBYlqtp
+#EXTINF:-1 tvg-id="1254750" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="https://go4.pw/EUROPE/novasport6.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (CZ - NOVA SPORT 6 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1254750
 #EXTINF:-1 tvg-id="1562897" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14532.png?45766",27/08 02:00 AM | Real Madrid vs Real Sociedad (BG: MAX SPORT 4 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
@@ -1604,81 +1819,11 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=441428&exten
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/281062
-#EXTINF:-1 tvg-id="1562947" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?15630",27/08 02:00 AM | Real Madrid vs Real Sociedad (HR: SPORT KLUB 1 ᴿᴬᵂ)
+#EXTINF:-1 tvg-id="1562919" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1954.jpg?48182",27/08 02:00 AM | Real Madrid vs Real Sociedad (RO: DIGI SPORT 2 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562947&extension=ts&play_token=faXqaRFLka
-#EXTINF:-1 tvg-id="1711956" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14698.png?23558",27/08 02:00 AM | Real Madrid vs Real Sociedad (HR: SPORT KLUB 1 ⱽᴵᴾ ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1711956&extension=ts&play_token=XPajegSW7o
-#EXTINF:-1 tvg-id="2398" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?33551",27/08 02:00 AM | Real Madrid vs Real Sociedad (HR: Sport Klub 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2398&extension=ts&play_token=mZGMRsJ1wJ
-#EXTINF:-1 tvg-id="2397" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?33551",27/08 02:00 AM | Real Madrid vs Real Sociedad (HR: Sport Klub 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2397&extension=ts&play_token=R6iMtqkRQf
-#EXTINF:-1 tvg-id="508592" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8238.jpg?69095",27/08 02:00 AM | Real Madrid vs Real Sociedad (TR VIP: S SPORT+ 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=508592&extension=ts&play_token=hi2IBzfvE3
-#EXTINF:-1 tvg-id="401283" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3211.png?92632",27/08 02:00 AM | Real Madrid vs Real Sociedad (TR VIP: S SPORT 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=401283&extension=ts&play_token=vubjyreusG
-#EXTINF:-1 tvg-id="1107129" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13852.png?ver=77207",27/08 02:00 AM | Real Madrid vs Real Sociedad (AL-VIP: SUPER SPORT 2 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1107129&extension=ts&play_token=v0O2UFvPcv
-#EXTINF:-1 tvg-id="1562553" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14546.png?35467",27/08 02:00 AM | Real Madrid vs Real Sociedad (PL: CANAL+ SPORT 1 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562553&extension=ts&play_token=AEdNS59lpD
-#EXTINF:-1 tvg-id="1562927" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?78403",27/08 02:00 AM | Real Madrid vs Real Sociedad (SI: SPORT KLUB 2 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562927&extension=ts&play_token=05XUHXMNOr
-#EXTINF:-1 tvg-id="1461057" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?56259",27/08 02:00 AM | Real Madrid vs Real Sociedad (SI: SPORT KLUB 2 ⱽᴵᴾ ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1461057&extension=ts&play_token=gRSDuoOorA
-#EXTINF:-1 tvg-id="460826" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (CY: CYTAVISION SPORTS 5 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=460826&extension=ts&play_token=nzOW7Tznyk
-#EXTINF:-1 tvg-id="324970" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="https://go4.pw/EUROPE/cytavision.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (GR - CYTAVISION SPORTS 5 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/324970
-#EXTINF:-1 tvg-id="842680" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",27/08 02:00 AM | Real Madrid vs Real Sociedad (CY: CYTAVISION SPORT 5 ᴴᴰ ◉)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842680&extension=ts&play_token=QhvCjeQAJr
-#EXTINF:-1 tvg-id="1819070" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picons.cmshulk.com/picons/1621811.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (CZ: NOVA SPORT 6 ᴴᴰ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1819070&extension=ts&play_token=ey8BBYlqtp
-#EXTINF:-1 tvg-id="1254750" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="https://go4.pw/EUROPE/novasport6.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (CZ - NOVA SPORT 6 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1254750
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562919&extension=ts&play_token=mP6ol15Abf
 #EXTINF:-1 tvg-id="1294764" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/bein/1294764.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (AR| BEIN SPORTS 1 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
@@ -1789,106 +1934,6 @@ http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/211446
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/987007
-#EXTINF:-1 tvg-id="1562914" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14524.jpg?6299",27/08 02:00 AM | Real Madrid vs Real Sociedad (RO: PRIMA SPORT 1 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562914&extension=ts&play_token=x2Vaw39WGx
-#EXTINF:-1 tvg-id="842741" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9948.png?22098",27/08 02:00 AM | Real Madrid vs Real Sociedad (GR: COSMOTE SPORT 7 ᵁᴴᴰ ◉)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842741&extension=ts&play_token=cuYQQqAKAA
-#EXTINF:-1 tvg-id="770471" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport7hd.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (GR VIP: COSMOTE SPORT 7 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=770471&extension=ts&play_token=OIydAlcpYx
-#EXTINF:-1 tvg-id="770470" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport7hd.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (GR VIP: COSMOTE SPORT 7 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=770470&extension=ts&play_token=BIPfez0w5v
-#EXTINF:-1 tvg-id="1432190" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/COSMOTESPORT7.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (GR|COSMOTE SPORT 7 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1432190&extension=ts&play_token=2Yo0e3n8iq
-#EXTINF:-1 tvg-id="307812" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/COSMOTESPORT7.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (GR| COSMOTE SPORT 7 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=307812&extension=ts&play_token=oGURxzTeBZ
-#EXTINF:-1 tvg-id="1432190" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/COSMOTESPORT7.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (GR|COSMOTE SPORT 7 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1432190&extension=ts&play_token=vW4cZiIYXj
-#EXTINF:-1 tvg-id="307812" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/COSMOTESPORT7.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (GR| COSMOTE SPORT 7 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=307812&extension=ts&play_token=YKFnirnt4V
-#EXTINF:-1 tvg-id="54941" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="https://go4.pw/EUROPE/cosmotesport.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (GR - COSMOTE SPORT 7 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/54941
-#EXTINF:-1 tvg-id="1562859" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9948.png?15249",27/08 02:00 AM | Real Madrid vs Real Sociedad (GR: COSMOTE SPORTS 7 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562859&extension=ts&play_token=OPkI0RleqB
-#EXTINF:-1 tvg-id="1171626" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3353.png?ver=53648",27/08 02:00 AM | Real Madrid vs Real Sociedad (AL: ART SPORT 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1171626&extension=ts&play_token=aq2xu8VQn3
-#EXTINF:-1 tvg-id="1285444" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="https://go4.pw/EUROPE/cytavision.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (GR - CYTAVISION SPORTS 8 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1285444
-#EXTINF:-1 tvg-id="1118017" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",27/08 02:00 AM | Real Madrid vs Real Sociedad (CY: CYTAVISION SPORT 8 ᴴᴰ ◉)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1118017&extension=ts&play_token=Z90eRuVUer
-#EXTINF:-1 tvg-id="386461" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701",27/08 02:00 AM | Real Madrid vs Real Sociedad (PT: DAZN 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=386461&extension=ts&play_token=73E7krijlV
-#EXTINF:-1 tvg-id="107495" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (PT| DAZN 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=107495&extension=ts&play_token=RIJxetgHNs
-#EXTINF:-1 tvg-id="118459" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (PT| DAZN 1 HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1D8DC982DE8921E38F5B32611F17A74F
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=118459&extension=ts&play_token=va3p7FwseZ
-#EXTINF:-1 tvg-id="107495" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (PT| DAZN 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=107495&extension=ts&play_token=vqKLAxMKQx
-#EXTINF:-1 tvg-id="118459" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (PT| DAZN 1 HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3D31DB37DC5BCFF6160584106D717052
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=118459&extension=ts&play_token=vZ61cx9I6A
-#EXTINF:-1 tvg-id="763969" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="https://go4.pw/FRANCE/DAZN.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (PT - DAZN 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/763969
-#EXTINF:-1 tvg-id="942694" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="https://go4.pw/FRANCE/DAZN.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (PT - DAZN 1 HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/942694
 #EXTINF:-1 tvg-id="2134726" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALSPORT6.png",27/08 02:00 AM | Real Madrid vs Real Sociedad (PL| CANAL+ SPORT 6 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
@@ -1909,6 +1954,11 @@ http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1471186
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8635EBD8F5067C3B34367409A1EB1F22
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1471184
+#EXTINF:-1 tvg-id="1562914" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14524.jpg?6299",27/08 02:00 AM | Real Madrid vs Real Sociedad (RO: PRIMA SPORT 1 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FE55E9CA00BD07B762BADAD09BC73F07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562914&extension=ts&play_token=x2Vaw39WGx
 #EXTINF:-1 tvg-id="588077" group-title="Live UEFA Champions League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1070.png?39337",27/08 02:00 AM | Lyon vs Fenerbahçe (UK: TNT SPORTS 1 ᴴᴰ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT

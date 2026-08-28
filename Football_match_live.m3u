@@ -1,321 +1,1211 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2062286" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:30 AM | Bayern München vs. Stuttgart all | 8K CA: SOCCER 45
+#EXTINF:-1 tvg-id="1912592" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",29/08 01:30 AM | Bayern Munich vs. Stuttgart Bundesliga | 8K CA: DAZN 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A1F517D5262E69E77C04219B2C483C87
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062286&extension=ts&play_token=lbbsLgiTWk
-#EXTINF:-1 tvg-id="1592456" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (NL) 8K NL: VIAPLAY 12
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1912592&extension=ts&play_token=DYLWBz9pPd
+#EXTINF:-1 tvg-id="1912592" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",29/08 01:30 AM | Bayern Munich vs. Stuttgart Bundesliga | 8K CA: DAZN 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A1F517D5262E69E77C04219B2C483C87
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1592456&extension=ts&play_token=qstAby8xWr
-#EXTINF:-1 tvg-id="1592457" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (NL) 8K NL: VIAPLAY 13
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1912592&extension=ts&play_token=NqIghB627X
+#EXTINF:-1 tvg-id="1918868" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 01:30 AM | Bayern München vs. Stuttgart all | 8K DE: SOCCER 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A1F517D5262E69E77C04219B2C483C87
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1592457&extension=ts&play_token=LUdcqdlU11
-#EXTINF:-1 tvg-id="2072503" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:30 AM | Bayern München vs. Stuttgart all | 8K ES: SOCCER 50
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918868&extension=ts&play_token=fS4564UeVK
+#EXTINF:-1 tvg-id="918743" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (NL) 8K NL: VIAPLAY 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A1F517D5262E69E77C04219B2C483C87
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2072503&extension=ts&play_token=c8xxrnridD
-#EXTINF:-1 tvg-id="2066927" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:30 AM | Bayern München vs. Stuttgart all | 8K BR: SOCCER 30
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=918743&extension=ts&play_token=ApVK3dG9zQ
+#EXTINF:-1 tvg-id="918742" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (NL) 8K NL: VIAPLAY 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A1F517D5262E69E77C04219B2C483C87
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2066927&extension=ts&play_token=ZPF4m6MkeR
-#EXTINF:-1 tvg-id="2054999" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:30 AM | Bayern München vs. Stuttgart all | 8K DE: SOCCER 53
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=918742&extension=ts&play_token=OCpsFmZP26
+#EXTINF:-1 tvg-id="1988112" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 01:30 AM | Bayern München vs. Stuttgart all | 8K ES: SOCCER 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A1F517D5262E69E77C04219B2C483C87
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2054999&extension=ts&play_token=hPg9o9MGCX
-#EXTINF:-1 tvg-id="2062286" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:30 AM | Bayern München vs. Stuttgart all | 8K CA: SOCCER 45
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988112&extension=ts&play_token=WzyH56YcXc
+#EXTINF:-1 tvg-id="1810031" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (SE) 8K SE: VIAPLAY 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1810031&extension=ts&play_token=Pl2NjzB47i
+#EXTINF:-1 tvg-id="1810029" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (SE) 8K SE: VIAPLAY 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1810029&extension=ts&play_token=HpzApB8jAx
+#EXTINF:-1 tvg-id="1825988" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",29/08 01:30 AM | BAYERN MÜNCHEN STUTTGART (SE) 8K SE: PLAY+ 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1825988&extension=ts&play_token=IdYnSQGIUc
+#EXTINF:-1 tvg-id="1863207" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (DK) 8K DK: VIAPLAY 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863207&extension=ts&play_token=pWMH1q4FZC
+#EXTINF:-1 tvg-id="1863206" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (DK) 8K DK: VIAPLAY 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863206&extension=ts&play_token=NQrGVXNgRg
+#EXTINF:-1 tvg-id="942839" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",29/08 01:30 AM | BAYERN MÜNCHEN STUTTGART (NO) 8K NO: TV2 PLAY 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=942839&extension=ts&play_token=lA7SG2MlmC
+#EXTINF:-1 tvg-id="942833" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",29/08 01:30 AM | BAYERN MÜNCHEN – STUTTGART (NO) 8K NO: TV2 PLAY 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=942833&extension=ts&play_token=quLOHwXAaK
+#EXTINF:-1 tvg-id="1242769" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (NO) 8K NO: VIAPLAY 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1242769&extension=ts&play_token=QvmBr3xJwC
+#EXTINF:-1 tvg-id="1242768" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (NO) 8K NO: VIAPLAY 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1242768&extension=ts&play_token=M2hHbC0gN0
+#EXTINF:-1 tvg-id="1863314" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIIGA BAYERN MÜNCHEN STUTTGART (FI) 8K FI: VIAPLAY 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863314&extension=ts&play_token=75ibDxiQj0
+#EXTINF:-1 tvg-id="1863313" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (FI) 8K FI: VIAPLAY 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863313&extension=ts&play_token=gEjyIMiWg9
+#EXTINF:-1 tvg-id="1008812" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (IS) 8K IS: VIAPLAY 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1008812&extension=ts&play_token=4LklbxFFhf
+#EXTINF:-1 tvg-id="1008811" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (IS) 8K IS: VIAPLAY 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1008811&extension=ts&play_token=h5E0RnRU3i
+#EXTINF:-1 tvg-id="1716113" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",29/08 01:30 AM | FC BAYERN MÜNCHEN VFB STUTTGART (IS) 8K IS: SIMINN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1716113&extension=ts&play_token=ukpd36189Q
+#EXTINF:-1 tvg-id="1939946" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 01:30 AM | Bayern München vs. Stuttgart all | 8K CA: SOCCER 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939946&extension=ts&play_token=rn1GGTi1zn
+#EXTINF:-1 tvg-id="1940143" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 01:30 AM | End Bayern München vs. Stuttgart all | 8K US: SOCCER 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940143&extension=ts&play_token=CsUTYsJSTa
+#EXTINF:-1 tvg-id="1919079" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 01:30 AM | End Bayern München vs. Stuttgart all | 8K BR: SOCCER 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919079&extension=ts&play_token=ZW5MWmJKou
+#EXTINF:-1 tvg-id="1762520" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14728.png?70431",29/08 01:30 AM | FC BAYERN MUNICH VS. VFB STUTTGART +03 (SA) 8K SA: SHAHID 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1762520&extension=ts&play_token=01MRjR1CuL
+#EXTINF:-1 tvg-id="1940143" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 01:30 AM | End Bayern München vs. Stuttgart all | 8K US: SOCCER 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1940143&extension=ts&play_token=WDZLg1RuaM
+#EXTINF:-1 tvg-id="1939946" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 01:30 AM | Bayern München vs. Stuttgart all | 8K CA: SOCCER 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939946&extension=ts&play_token=kbgWPlZF2E
+#EXTINF:-1 tvg-id="1988112" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 01:30 AM | Bayern München vs. Stuttgart all | 8K ES: SOCCER 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988112&extension=ts&play_token=Ez0FN0mmye
+#EXTINF:-1 tvg-id="1919079" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 01:30 AM | End Bayern München vs. Stuttgart all | 8K BR: SOCCER 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919079&extension=ts&play_token=EqmlDUreaG
+#EXTINF:-1 tvg-id="1918868" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 01:30 AM | Bayern München vs. Stuttgart all | 8K DE: SOCCER 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1918868&extension=ts&play_token=6z7NBd0PYX
+#EXTINF:-1 tvg-id="918743" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (NL) 8K NL: VIAPLAY 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=918743&extension=ts&play_token=8sWIf43Q6M
+#EXTINF:-1 tvg-id="918742" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (NL) 8K NL: VIAPLAY 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=918742&extension=ts&play_token=X9zawFR4gf
+#EXTINF:-1 tvg-id="1810031" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (SE) 8K SE: VIAPLAY 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1810031&extension=ts&play_token=y8pxQbgTWq
+#EXTINF:-1 tvg-id="1810029" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (SE) 8K SE: VIAPLAY 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1810029&extension=ts&play_token=y3kYhTISAt
+#EXTINF:-1 tvg-id="1825988" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",29/08 01:30 AM | BAYERN MÜNCHEN STUTTGART (SE) 8K SE: PLAY+ 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1825988&extension=ts&play_token=w4bv4uLGvM
+#EXTINF:-1 tvg-id="1863207" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (DK) 8K DK: VIAPLAY 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863207&extension=ts&play_token=6aco2D6u4d
+#EXTINF:-1 tvg-id="1863206" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (DK) 8K DK: VIAPLAY 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863206&extension=ts&play_token=GvXpRXDtYB
+#EXTINF:-1 tvg-id="942839" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",29/08 01:30 AM | BAYERN MÜNCHEN STUTTGART (NO) 8K NO: TV2 PLAY 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=942839&extension=ts&play_token=qqrGOJat7a
+#EXTINF:-1 tvg-id="942833" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",29/08 01:30 AM | BAYERN MÜNCHEN – STUTTGART (NO) 8K NO: TV2 PLAY 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=942833&extension=ts&play_token=2LInEAykPW
+#EXTINF:-1 tvg-id="1242769" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (NO) 8K NO: VIAPLAY 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1242769&extension=ts&play_token=tgCQpecawx
+#EXTINF:-1 tvg-id="1242768" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (NO) 8K NO: VIAPLAY 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1242768&extension=ts&play_token=QXsozwc5zX
+#EXTINF:-1 tvg-id="1863314" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIIGA BAYERN MÜNCHEN STUTTGART (FI) 8K FI: VIAPLAY 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863314&extension=ts&play_token=tqLIACWgDY
+#EXTINF:-1 tvg-id="1863313" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (FI) 8K FI: VIAPLAY 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863313&extension=ts&play_token=Y06HrAShqp
+#EXTINF:-1 tvg-id="1008812" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (IS) 8K IS: VIAPLAY 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1008812&extension=ts&play_token=nThbzMxLla
+#EXTINF:-1 tvg-id="1008811" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (IS) 8K IS: VIAPLAY 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1008811&extension=ts&play_token=taoyhB2FPN
+#EXTINF:-1 tvg-id="1716113" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",29/08 01:30 AM | FC BAYERN MÜNCHEN VFB STUTTGART (IS) 8K IS: SIMINN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1716113&extension=ts&play_token=cwNu2lGvfo
+#EXTINF:-1 tvg-id="2062116" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:30 AM | End Bayern München vs. Stuttgart all | 8K US: SOCCER 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4E3BD3D5BBB1AC06A5A62A22535F3EBA
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062286&extension=ts&play_token=EOZ5G2FROr
-#EXTINF:-1 tvg-id="2054999" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:30 AM | Bayern München vs. Stuttgart all | 8K DE: SOCCER 53
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062116&extension=ts&play_token=YjJDAwXgiw
+#EXTINF:-1 tvg-id="2062321" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:30 AM | Bayern München vs. Stuttgart all | 8K CA: SOCCER 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4E3BD3D5BBB1AC06A5A62A22535F3EBA
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2054999&extension=ts&play_token=AzvaUhDwYA
-#EXTINF:-1 tvg-id="2072503" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:30 AM | Bayern München vs. Stuttgart all | 8K ES: SOCCER 50
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062321&extension=ts&play_token=uf8Z9N2LPn
+#EXTINF:-1 tvg-id="2055043" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:30 AM | Bayern München vs. Stuttgart all | 8K DE: SOCCER 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4E3BD3D5BBB1AC06A5A62A22535F3EBA
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072503&extension=ts&play_token=mK1DaEvhKY
-#EXTINF:-1 tvg-id="1735547" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (NO) 8K NO: VIAPLAY 31
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2055043&extension=ts&play_token=uJWJUtDcWk
+#EXTINF:-1 tvg-id="2072539" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:30 AM | End Bayern München vs. Stuttgart all | 8K ES: SOCCER 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4E3BD3D5BBB1AC06A5A62A22535F3EBA
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735547&extension=ts&play_token=yFFNP0yIHk
-#EXTINF:-1 tvg-id="1735546" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (NO) 8K NO: VIAPLAY 32
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072539&extension=ts&play_token=qTBIlPAUwW
+#EXTINF:-1 tvg-id="1993507" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/SHAHID.png",29/08 01:30 AM | FC BAYERN MUNICH VS. VFB STUTTGART +03 (SA) 8K SA: SHAHID 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4E3BD3D5BBB1AC06A5A62A22535F3EBA
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735546&extension=ts&play_token=l4fXw9K4ZO
-#EXTINF:-1 tvg-id="1592456" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (NL) 8K NL: VIAPLAY 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592456&extension=ts&play_token=dBTGtRO16W
-#EXTINF:-1 tvg-id="1592457" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (NL) 8K NL: VIAPLAY 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592457&extension=ts&play_token=0Liz6yT1De
-#EXTINF:-1 tvg-id="2054999" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:30 AM | Bayern München vs. Stuttgart all | 8K DE: SOCCER 53
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054999&extension=ts&play_token=2XDzhvXhcq
-#EXTINF:-1 tvg-id="2072503" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:30 AM | Bayern München vs. Stuttgart all | 8K ES: SOCCER 50
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072503&extension=ts&play_token=33ldALtwoU
-#EXTINF:-1 tvg-id="2021210" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",29/08 01:30 AM | BAYERN MÜNCHEN STUTTGART (SE) 8K SE: PLAY+ 38
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021210&extension=ts&play_token=9x75nFrTqm
-#EXTINF:-1 tvg-id="2016251" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (SE) 8K SE: VIAPLAY 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016251&extension=ts&play_token=lihtTF4v0Y
-#EXTINF:-1 tvg-id="2070116" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (DK) 8K DK: VIAPLAY 34
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2070116&extension=ts&play_token=P4nl3J4b3Q
-#EXTINF:-1 tvg-id="2037344" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (DK) 8K DK: VIAPLAY 34
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037344&extension=ts&play_token=AD2bhTxTIo
-#EXTINF:-1 tvg-id="2037343" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (DK) 8K DK: VIAPLAY 35
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037343&extension=ts&play_token=mkbspUDHvY
-#EXTINF:-1 tvg-id="1735547" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (NO) 8K NO: VIAPLAY 31
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735547&extension=ts&play_token=gLHjsCv4tF
-#EXTINF:-1 tvg-id="1735546" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (NO) 8K NO: VIAPLAY 32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735546&extension=ts&play_token=hMnQh8p94U
-#EXTINF:-1 tvg-id="2037452" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | BUNDESLIIGA BAYERN MÜNCHEN STUTTGART (FI) 8K FI: VIAPLAY 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037452&extension=ts&play_token=v8A5UVxgEh
-#EXTINF:-1 tvg-id="2037451" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | BUNDESLIIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (FI) 8K FI: VIAPLAY 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037451&extension=ts&play_token=QIGQGAA53h
-#EXTINF:-1 tvg-id="1992252" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",29/08 01:30 AM | Bayern Munchen vs Stuttgart @ :Telia FI 16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992252&extension=ts&play_token=0rcWD7rtLg
-#EXTINF:-1 tvg-id="2048898" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",29/08 01:45 AM | Milan vs. Venezia Lega Serie A | 8K GB: DAZN 31
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A1F517D5262E69E77C04219B2C483C87
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2048898&extension=ts&play_token=p6OVV8dlhk
-#EXTINF:-1 tvg-id="2048898" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",29/08 01:45 AM | Milan vs. Venezia Lega Serie A | 8K GB: DAZN 31
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1993507&extension=ts&play_token=fubbGNwhn3
+#EXTINF:-1 tvg-id="1605787" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",29/08 01:30 AM | BAYERN MÜNCHEN STUTTGART (NO) 8K NO: TV2 PLAY 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4E3BD3D5BBB1AC06A5A62A22535F3EBA
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2048898&extension=ts&play_token=JviVGGVsSt
-#EXTINF:-1 tvg-id="2048898" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",29/08 01:45 AM | Milan vs. Venezia Lega Serie A | 8K GB: DAZN 31
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1605787&extension=ts&play_token=UM0ouxfn2c
+#EXTINF:-1 tvg-id="1605781" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",29/08 01:30 AM | BAYERN MÜNCHEN – STUTTGART (NO) 8K NO: TV2 PLAY 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1605781&extension=ts&play_token=UzbXQEbHJC
+#EXTINF:-1 tvg-id="2068542" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (NL) 8K NL: VIAPLAY 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2068542&extension=ts&play_token=OUIBZXnZEA
+#EXTINF:-1 tvg-id="1735558" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (NO) 8K NO: VIAPLAY 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735558&extension=ts&play_token=v6PY01leoR
+#EXTINF:-1 tvg-id="1735557" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (NO) 8K NO: VIAPLAY 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735557&extension=ts&play_token=J48d8IDNpj
+#EXTINF:-1 tvg-id="1592452" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (NL) 8K NL: VIAPLAY 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2048898&extension=ts&play_token=cp3JFGUnSA
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592452&extension=ts&play_token=NAzmxK6PrI
+#EXTINF:-1 tvg-id="1592453" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (NL) 8K NL: VIAPLAY 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592453&extension=ts&play_token=Jx6qZ4NGj9
+#EXTINF:-1 tvg-id="2055043" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:30 AM | Bayern München vs. Stuttgart all | 8K DE: SOCCER 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055043&extension=ts&play_token=pjBYcVpUxS
+#EXTINF:-1 tvg-id="2072539" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:30 AM | End Bayern München vs. Stuttgart all | 8K ES: SOCCER 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072539&extension=ts&play_token=QqF5K68zfC
+#EXTINF:-1 tvg-id="2016263" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (SE) 8K SE: VIAPLAY 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016263&extension=ts&play_token=LTLw46Kc71
+#EXTINF:-1 tvg-id="2016261" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (SE) 8K SE: VIAPLAY 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016261&extension=ts&play_token=gVm13vBnoe
+#EXTINF:-1 tvg-id="2037358" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (DK) 8K DK: VIAPLAY 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037358&extension=ts&play_token=WXopQovMD4
+#EXTINF:-1 tvg-id="2037357" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (DK) 8K DK: VIAPLAY 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037357&extension=ts&play_token=WGTOcS27cY
+#EXTINF:-1 tvg-id="1605787" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",29/08 01:30 AM | BAYERN MÜNCHEN STUTTGART (NO) 8K NO: TV2 PLAY 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1605787&extension=ts&play_token=mBBbPsVpXd
+#EXTINF:-1 tvg-id="1605781" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",29/08 01:30 AM | BAYERN MÜNCHEN – STUTTGART (NO) 8K NO: TV2 PLAY 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1605781&extension=ts&play_token=UetwQDkqp9
+#EXTINF:-1 tvg-id="2068542" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (NL) 8K NL: VIAPLAY 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2068542&extension=ts&play_token=PApEhFgLsj
+#EXTINF:-1 tvg-id="1735558" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (NO) 8K NO: VIAPLAY 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735558&extension=ts&play_token=bDT43CDoYa
+#EXTINF:-1 tvg-id="1735557" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (NO) 8K NO: VIAPLAY 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735557&extension=ts&play_token=D5ht9F1Hp1
+#EXTINF:-1 tvg-id="2037462" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | BUNDESLIIGA BAYERN MÜNCHEN STUTTGART (FI) 8K FI: VIAPLAY 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037462&extension=ts&play_token=ErAEOD8SIK
+#EXTINF:-1 tvg-id="2037461" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | BUNDESLIIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (FI) 8K FI: VIAPLAY 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037461&extension=ts&play_token=3FXtV2SqPg
+#EXTINF:-1 tvg-id="1703224" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart @ :Viaplay NL 08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1703224&extension=ts&play_token=6Kq7c76oVI
+#EXTINF:-1 tvg-id="1703223" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart Tactical Feed @ :Viaplay NL 09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1703223&extension=ts&play_token=V2MKfw8jKV
+#EXTINF:-1 tvg-id="1702604" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart @ :Viaplay SE 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1702604&extension=ts&play_token=2hANgq2Yzk
+#EXTINF:-1 tvg-id="1702603" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart Tactical Feed @ :Viaplay SE 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1702603&extension=ts&play_token=9KHPdZI3TW
+#EXTINF:-1 tvg-id="1704137" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",29/08 01:30 AM | Bayern Munchen vs Stuttgart @ :TeliaPlay SE 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1704137&extension=ts&play_token=BhiNRrLDMj
+#EXTINF:-1 tvg-id="1703056" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart Tactical Feed @ :Viaplay DK 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1703056&extension=ts&play_token=dUh2IcEzxy
+#EXTINF:-1 tvg-id="1703055" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart @ :Viaplay DK 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1703055&extension=ts&play_token=Kgj9buC0Nd
+#EXTINF:-1 tvg-id="1702701" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",29/08 01:30 AM | Soccer: Bayern München vs Stuttgart @ :Tv2Play NO 34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1702701&extension=ts&play_token=DIhMfmypfD
+#EXTINF:-1 tvg-id="1702984" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart @ :Viaplay NO 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1702984&extension=ts&play_token=Ryx7lRifdQ
+#EXTINF:-1 tvg-id="1702983" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart Tactical Feed @ :Viaplay NO 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1702983&extension=ts&play_token=VE0rGLqreA
+#EXTINF:-1 tvg-id="1704245" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",29/08 01:30 AM | Bayern Munchen vs Stuttgart @ :Telia FI 08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1704245&extension=ts&play_token=LjHn2ctpFf
+#EXTINF:-1 tvg-id="1703120" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart @ :Viaplay FI 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1703120&extension=ts&play_token=YTmzaCFser
+#EXTINF:-1 tvg-id="1703119" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart Tactical Feed @ :Viaplay FI 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1703119&extension=ts&play_token=pDS7ykcoFI
+#EXTINF:-1 tvg-id="1803775" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart @ :Viaplay IS 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1803775&extension=ts&play_token=HGe7XhYr2C
+#EXTINF:-1 tvg-id="1803774" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart Tactical Feed @ :Viaplay IS 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1803774&extension=ts&play_token=EDCAEOcUEc
+#EXTINF:-1 tvg-id="1703224" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart @ :Viaplay NL 08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1703224&extension=ts&play_token=ddjcN5Sm4v
+#EXTINF:-1 tvg-id="1703223" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart Tactical Feed @ :Viaplay NL 09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1703223&extension=ts&play_token=EzonQlsIvd
+#EXTINF:-1 tvg-id="1702604" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart @ :Viaplay SE 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1702604&extension=ts&play_token=nJoJmbtEoW
+#EXTINF:-1 tvg-id="1702603" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart Tactical Feed @ :Viaplay SE 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1702603&extension=ts&play_token=S4Vi7trbCA
+#EXTINF:-1 tvg-id="1704137" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",29/08 01:30 AM | Bayern Munchen vs Stuttgart @ :TeliaPlay SE 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1704137&extension=ts&play_token=ePyapsu87h
+#EXTINF:-1 tvg-id="1703056" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart Tactical Feed @ :Viaplay DK 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1703056&extension=ts&play_token=RaCXehOkUS
+#EXTINF:-1 tvg-id="1703055" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart @ :Viaplay DK 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1703055&extension=ts&play_token=3ijC82CIlb
+#EXTINF:-1 tvg-id="1702701" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",29/08 01:30 AM | Soccer: Bayern München vs Stuttgart @ :Tv2Play NO 34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1702701&extension=ts&play_token=bBt79MHHIv
+#EXTINF:-1 tvg-id="1702984" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart @ :Viaplay NO 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1702984&extension=ts&play_token=JAbl6s6wsk
+#EXTINF:-1 tvg-id="1702983" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart Tactical Feed @ :Viaplay NO 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1702983&extension=ts&play_token=wEUbDKguWY
+#EXTINF:-1 tvg-id="1704245" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",29/08 01:30 AM | Bayern Munchen vs Stuttgart @ :Telia FI 08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1704245&extension=ts&play_token=21B3mqjG8b
+#EXTINF:-1 tvg-id="1703120" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart @ :Viaplay FI 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1703120&extension=ts&play_token=ovUuwaam9d
+#EXTINF:-1 tvg-id="1703119" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart Tactical Feed @ :Viaplay FI 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1703119&extension=ts&play_token=eyxhpm2wbH
+#EXTINF:-1 tvg-id="1803775" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart @ :Viaplay IS 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1803775&extension=ts&play_token=ywBKYQqCdD
+#EXTINF:-1 tvg-id="1803774" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 01:30 AM | Bayern München vs Stuttgart Tactical Feed @ :Viaplay IS 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1803774&extension=ts&play_token=DftR7vODoN
+#EXTINF:-1 tvg-id="1996002" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/2PLAY.png",29/08 01:30 AM | Soccer: Bayern München vs Stuttgart @ :Tv2Play NO 34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1996002&extension=ts&play_token=YFuaWffMWR
+#EXTINF:-1 tvg-id="1996098" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | Bayern München vs Stuttgart @ :Viaplay NO 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1996098&extension=ts&play_token=F4KQOfSZuk
+#EXTINF:-1 tvg-id="1996097" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | Bayern München vs Stuttgart Tactical Feed @ :Viaplay NO 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1996097&extension=ts&play_token=Mi0fc7JiAx
+#EXTINF:-1 tvg-id="2025563" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | Bayern München vs Stuttgart @ :Viaplay NL 08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2025563&extension=ts&play_token=bYfW6fZJfg
+#EXTINF:-1 tvg-id="2025562" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | Bayern München vs Stuttgart Tactical Feed @ :Viaplay NL 09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2025562&extension=ts&play_token=h016KtYCGu
+#EXTINF:-1 tvg-id="1991525" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",29/08 01:30 AM | Bayern Munchen vs Stuttgart @ :TeliaPlay SE 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1991525&extension=ts&play_token=IWntzhn1jE
+#EXTINF:-1 tvg-id="1990186" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",29/08 01:30 AM | Bayern München vs Stuttgart @ :Viaplay SE 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990186&extension=ts&play_token=jLCJOBIlxL
+#EXTINF:-1 tvg-id="1990185" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",29/08 01:30 AM | Bayern München vs Stuttgart Tactical Feed @ :Viaplay SE 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990185&extension=ts&play_token=gqzFUdgqBt
+#EXTINF:-1 tvg-id="1996278" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",29/08 01:30 AM | Bayern München vs Stuttgart Tactical Feed @ :Viaplay DK 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996278&extension=ts&play_token=bzrwdhJ8hm
+#EXTINF:-1 tvg-id="1996277" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",29/08 01:30 AM | Bayern München vs Stuttgart @ :Viaplay DK 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996277&extension=ts&play_token=yzjMyQBkBa
+#EXTINF:-1 tvg-id="1996002" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/2PLAY.png",29/08 01:30 AM | Soccer: Bayern München vs Stuttgart @ :Tv2Play NO 34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996002&extension=ts&play_token=TQJEsLPMoY
+#EXTINF:-1 tvg-id="1996098" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | Bayern München vs Stuttgart @ :Viaplay NO 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996098&extension=ts&play_token=VQIBOuTCgQ
+#EXTINF:-1 tvg-id="1996097" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | Bayern München vs Stuttgart Tactical Feed @ :Viaplay NO 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996097&extension=ts&play_token=JZWH4euKxm
+#EXTINF:-1 tvg-id="1992101" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | Bayern München vs Stuttgart @ :Viaplay FI 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992101&extension=ts&play_token=Iez9AgfBYB
+#EXTINF:-1 tvg-id="1992100" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | Bayern München vs Stuttgart Tactical Feed @ :Viaplay FI 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992100&extension=ts&play_token=ZFmh7IrJP8
+#EXTINF:-1 tvg-id="1992260" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",29/08 01:30 AM | Bayern Munchen vs Stuttgart @ :Telia FI 08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992260&extension=ts&play_token=DMTByHWAr6
+#EXTINF:-1 tvg-id="2026351" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",29/08 01:30 AM | Bayern München vs Stuttgart @ :Viaplay IS 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2026351&extension=ts&play_token=TB1tiYjJMe
+#EXTINF:-1 tvg-id="2026350" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",29/08 01:30 AM | Bayern München vs Stuttgart Tactical Feed @ :Viaplay IS 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2026350&extension=ts&play_token=995pBEYgVv
+#EXTINF:-1 tvg-id="1899987" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",29/08 01:45 AM | Milan vs. Venezia Lega Serie A | 8K GB: DAZN 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1899987&extension=ts&play_token=mLsgSUANIm
+#EXTINF:-1 tvg-id="1899987" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",29/08 01:45 AM | Milan vs. Venezia Lega Serie A | 8K GB: DAZN 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1899987&extension=ts&play_token=zaE8FNcXAA
+#EXTINF:-1 tvg-id="2048914" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",29/08 01:45 AM | Milan vs. Venezia Lega Serie A | 8K GB: DAZN 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2048914&extension=ts&play_token=U2VxacD3ig
+#EXTINF:-1 tvg-id="2048914" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",29/08 01:45 AM | Milan vs. Venezia Lega Serie A | 8K GB: DAZN 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2048914&extension=ts&play_token=8scfBtKcOK
 #EXTINF:-1 tvg-id="1910735" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",29/08 01:45 AM | US (Paramount 007) Milan vs. Venezia ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A1F517D5262E69E77C04219B2C483C87
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1910735&extension=ts&play_token=ealNVxMYvp
-#EXTINF:-1 tvg-id="1910735" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",29/08 01:45 AM | US (Paramount 007) Milan vs. Venezia ( :00)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910735&extension=ts&play_token=QjYNhnV6UJ
+#EXTINF:-1 tvg-id="2063952" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 01:45 AM | Milan vs. Venezia all | 8K FR: SOCCER 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2063952&extension=ts&play_token=hr33qmrSBv
+#EXTINF:-1 tvg-id="1884189" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",29/08 01:45 AM | AC Milan vs. Venezia Serie A Enilive | 8K FR: DAZN 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1884189&extension=ts&play_token=68iasfBr1Q
+#EXTINF:-1 tvg-id="1918854" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 01:45 AM | Milan vs. Venezia all | 8K DE: SOCCER 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918854&extension=ts&play_token=wlpgb9wfNs
+#EXTINF:-1 tvg-id="1988125" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 01:45 AM | Milan vs. Venezia all | 8K ES: SOCCER 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988125&extension=ts&play_token=Nu2PwBDsLn
+#EXTINF:-1 tvg-id="1027274" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13832.png?ver=61261",29/08 01:45 AM | AC MILAN-VENEZIA (DK) 8K DK: PLAY TV2 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1027274&extension=ts&play_token=tDDS8JV3hh
+#EXTINF:-1 tvg-id="1128620" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",29/08 01:45 AM | AC MILAN VENEZIA (NO) 8K NO: VGTV 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1128620&extension=ts&play_token=QDKMhU52VT
+#EXTINF:-1 tvg-id="1665537" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14665.png?ver=4488",29/08 01:45 AM | AC MILAN VENEZIA (FI) 8K FI: MTV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1665537&extension=ts&play_token=CEpHyIIPrL
+#EXTINF:-1 tvg-id="1716110" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",29/08 01:45 AM | AC MILAN VENEZIA (IS) 8K IS: SIMINN 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1716110&extension=ts&play_token=nCehT4Fp6L
+#EXTINF:-1 tvg-id="1939945" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 01:45 AM | Milan vs. Venezia all | 8K CA: SOCCER 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939945&extension=ts&play_token=s64CyMr2u6
+#EXTINF:-1 tvg-id="1940136" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 01:45 AM | Milan vs. Venezia all | 8K US: SOCCER 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940136&extension=ts&play_token=UNKBeArB5p
+#EXTINF:-1 tvg-id="1940136" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 01:45 AM | Milan vs. Venezia all | 8K US: SOCCER 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1940136&extension=ts&play_token=2dPj6KkUpL
+#EXTINF:-1 tvg-id="1939945" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 01:45 AM | Milan vs. Venezia all | 8K CA: SOCCER 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939945&extension=ts&play_token=yb6SP4ba7O
+#EXTINF:-1 tvg-id="2063952" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 01:45 AM | Milan vs. Venezia all | 8K FR: SOCCER 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2063952&extension=ts&play_token=Vx5fwAprCN
+#EXTINF:-1 tvg-id="1884189" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",29/08 01:45 AM | AC Milan vs. Venezia Serie A Enilive | 8K FR: DAZN 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1884189&extension=ts&play_token=Z2dbMYAU4v
+#EXTINF:-1 tvg-id="1988125" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 01:45 AM | Milan vs. Venezia all | 8K ES: SOCCER 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988125&extension=ts&play_token=N7K73pVVa5
+#EXTINF:-1 tvg-id="1918854" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 01:45 AM | Milan vs. Venezia all | 8K DE: SOCCER 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1918854&extension=ts&play_token=1yJQfm0tts
+#EXTINF:-1 tvg-id="1027274" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13832.png?ver=61261",29/08 01:45 AM | AC MILAN-VENEZIA (DK) 8K DK: PLAY TV2 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1027274&extension=ts&play_token=qegmjbFuk5
+#EXTINF:-1 tvg-id="1128620" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",29/08 01:45 AM | AC MILAN VENEZIA (NO) 8K NO: VGTV 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1128620&extension=ts&play_token=umjpnwuUp7
+#EXTINF:-1 tvg-id="1665537" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14665.png?ver=4488",29/08 01:45 AM | AC MILAN VENEZIA (FI) 8K FI: MTV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1665537&extension=ts&play_token=LFH0W83OsL
+#EXTINF:-1 tvg-id="1716110" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",29/08 01:45 AM | AC MILAN VENEZIA (IS) 8K IS: SIMINN 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1716110&extension=ts&play_token=DviCfAqqVk
+#EXTINF:-1 tvg-id="2113104" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | Milan vs. Venezia all | 8K FR: SOCCER 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4E3BD3D5BBB1AC06A5A62A22535F3EBA
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910735&extension=ts&play_token=Pj3JzM6tMQ
-#EXTINF:-1 tvg-id="2113060" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | Milan vs. Venezia all | 8K FR: SOCCER 51
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A1F517D5262E69E77C04219B2C483C87
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2113060&extension=ts&play_token=k4iET7pgUc
-#EXTINF:-1 tvg-id="2042011" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",29/08 01:45 AM | AC Milan vs. Venezia Serie A Enilive | 8K FR: DAZN 35
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A1F517D5262E69E77C04219B2C483C87
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2042011&extension=ts&play_token=jf4D1IjODn
-#EXTINF:-1 tvg-id="2062288" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | Milan vs. Venezia all | 8K CA: SOCCER 43
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A1F517D5262E69E77C04219B2C483C87
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062288&extension=ts&play_token=NMR4WqCbOK
-#EXTINF:-1 tvg-id="2072518" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | Milan vs. Venezia all | 8K ES: SOCCER 35
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A1F517D5262E69E77C04219B2C483C87
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2072518&extension=ts&play_token=tkJLz7qGuo
-#EXTINF:-1 tvg-id="2054975" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | Milan vs. Venezia all | 8K DE: SOCCER 77
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A1F517D5262E69E77C04219B2C483C87
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2054975&extension=ts&play_token=RRFfsIzRbY
-#EXTINF:-1 tvg-id="2113060" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | Milan vs. Venezia all | 8K FR: SOCCER 51
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113104&extension=ts&play_token=RIIBeIBfUW
+#EXTINF:-1 tvg-id="2042028" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",29/08 01:45 AM | AC Milan vs. Venezia Serie A Enilive | 8K FR: DAZN 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4E3BD3D5BBB1AC06A5A62A22535F3EBA
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113060&extension=ts&play_token=CfvPWDMPfI
-#EXTINF:-1 tvg-id="2042011" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",29/08 01:45 AM | AC Milan vs. Venezia Serie A Enilive | 8K FR: DAZN 35
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2042028&extension=ts&play_token=KayL5seyMu
+#EXTINF:-1 tvg-id="2062109" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | Milan vs. Venezia all | 8K US: SOCCER 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4E3BD3D5BBB1AC06A5A62A22535F3EBA
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2042011&extension=ts&play_token=4YaFU8etO2
-#EXTINF:-1 tvg-id="2062288" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | Milan vs. Venezia all | 8K CA: SOCCER 43
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062109&extension=ts&play_token=ub8LMdJTly
+#EXTINF:-1 tvg-id="2062320" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | Milan vs. Venezia all | 8K CA: SOCCER 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4E3BD3D5BBB1AC06A5A62A22535F3EBA
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062288&extension=ts&play_token=vnoTaSKHzx
-#EXTINF:-1 tvg-id="2054975" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | Milan vs. Venezia all | 8K DE: SOCCER 77
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062320&extension=ts&play_token=cOs4nRaXpC
+#EXTINF:-1 tvg-id="2055029" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | Milan vs. Venezia all | 8K DE: SOCCER 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4E3BD3D5BBB1AC06A5A62A22535F3EBA
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2054975&extension=ts&play_token=j4MMEhdtFU
-#EXTINF:-1 tvg-id="2072518" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | Milan vs. Venezia all | 8K ES: SOCCER 35
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2055029&extension=ts&play_token=UFurTnYBgM
+#EXTINF:-1 tvg-id="2072552" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | End Milan vs. Venezia all | 8K ES: SOCCER 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4E3BD3D5BBB1AC06A5A62A22535F3EBA
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072518&extension=ts&play_token=B9uO3coITO
-#EXTINF:-1 tvg-id="2054975" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | Milan vs. Venezia all | 8K DE: SOCCER 77
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072552&extension=ts&play_token=rgPKlmOh0S
+#EXTINF:-1 tvg-id="1675559" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",29/08 01:45 AM | AC MILAN VENEZIA (NO) 8K NO: VGTV 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1675559&extension=ts&play_token=tTaKXCskU7
+#EXTINF:-1 tvg-id="2055029" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | Milan vs. Venezia all | 8K DE: SOCCER 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054975&extension=ts&play_token=TiN4TnBD9Y
-#EXTINF:-1 tvg-id="2113060" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | Milan vs. Venezia all | 8K FR: SOCCER 51
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055029&extension=ts&play_token=wYZqUBUaNZ
+#EXTINF:-1 tvg-id="2113104" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | Milan vs. Venezia all | 8K FR: SOCCER 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113060&extension=ts&play_token=d3TBD7aaAa
-#EXTINF:-1 tvg-id="2042011" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",29/08 01:45 AM | AC Milan vs. Venezia Serie A Enilive | 8K FR: DAZN 35
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113104&extension=ts&play_token=8LxMZ5U7Y8
+#EXTINF:-1 tvg-id="2042028" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",29/08 01:45 AM | AC Milan vs. Venezia Serie A Enilive | 8K FR: DAZN 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2042011&extension=ts&play_token=zcDISiOBkg
-#EXTINF:-1 tvg-id="2072518" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | Milan vs. Venezia all | 8K ES: SOCCER 35
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2042028&extension=ts&play_token=Z2sowZwOqh
+#EXTINF:-1 tvg-id="2072552" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | End Milan vs. Venezia all | 8K ES: SOCCER 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072518&extension=ts&play_token=ymtXyBuUUu
-#EXTINF:-1 tvg-id="1992250" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",29/08 01:45 AM | Serie A: AC Milan vs Venezia @ :Telia FI 18
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072552&extension=ts&play_token=VYULrU0pXt
+#EXTINF:-1 tvg-id="1639617" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/PLAYTV2.png",29/08 01:45 AM | AC MILAN-VENEZIA (DK) 8K DK: PLAY TV2 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992250&extension=ts&play_token=ftHq1HfE5j
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1639617&extension=ts&play_token=HTgEsUAjtn
+#EXTINF:-1 tvg-id="1675559" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",29/08 01:45 AM | AC MILAN VENEZIA (NO) 8K NO: VGTV 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1675559&extension=ts&play_token=wjYCk66WfN
+#EXTINF:-1 tvg-id="1963191" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MTV.png",29/08 01:45 AM | AC MILAN VENEZIA (FI) 8K FI: MTV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1963191&extension=ts&play_token=V79MVbeTBr
+#EXTINF:-1 tvg-id="2123720" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13832.png?ver=61261",29/08 01:45 AM | Serie A: AC Milan-Venezia @ :00 :Tv2Play DK 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2123720&extension=ts&play_token=PZWLfCjGoy
+#EXTINF:-1 tvg-id="2123536" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",29/08 01:45 AM | AC Milan Venezia @ :VG 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2123536&extension=ts&play_token=vMmMJo34bR
+#EXTINF:-1 tvg-id="1704243" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",29/08 01:45 AM | Serie A: AC Milan vs Venezia @ :Telia FI 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1704243&extension=ts&play_token=IlcP84RnQX
+#EXTINF:-1 tvg-id="1704301" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14665.png?ver=4488",29/08 01:45 AM | AC Milan Venezia @ :MTV FI 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1704301&extension=ts&play_token=Me6GacXgkW
+#EXTINF:-1 tvg-id="2123720" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13832.png?ver=61261",29/08 01:45 AM | Serie A: AC Milan-Venezia @ :00 :Tv2Play DK 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2123720&extension=ts&play_token=6YTTh8668X
+#EXTINF:-1 tvg-id="2123536" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",29/08 01:45 AM | AC Milan Venezia @ :VG 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2123536&extension=ts&play_token=kp1hRrT44D
+#EXTINF:-1 tvg-id="1704243" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",29/08 01:45 AM | Serie A: AC Milan vs Venezia @ :Telia FI 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1704243&extension=ts&play_token=rTCEWJo8eQ
+#EXTINF:-1 tvg-id="1704301" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14665.png?ver=4488",29/08 01:45 AM | AC Milan Venezia @ :MTV FI 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1704301&extension=ts&play_token=YBL9GeuBL3
+#EXTINF:-1 tvg-id="2134497" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png",29/08 01:45 AM | AC Milan Venezia @ :VG 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2134497&extension=ts&play_token=4tvLTVzl5h
+#EXTINF:-1 tvg-id="2134475" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png",29/08 01:45 AM | Serie A: AC Milan-Venezia @ :00 :Tv2Play DK 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2134475&extension=ts&play_token=ktDIgG2AR7
+#EXTINF:-1 tvg-id="2134497" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png",29/08 01:45 AM | AC Milan Venezia @ :VG 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2134497&extension=ts&play_token=aWqCcsZ3wx
+#EXTINF:-1 tvg-id="1992164" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MTVKatsomo.png",29/08 01:45 AM | AC Milan Venezia @ :MTV FI 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992164&extension=ts&play_token=ZFoi1xbGF2
+#EXTINF:-1 tvg-id="1992258" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",29/08 01:45 AM | Serie A: AC Milan vs Venezia @ :Telia FI 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992258&extension=ts&play_token=WlXW1XUKY2
+#EXTINF:-1 tvg-id="1535950" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",29/08 02:00 AM | AU (STAN 12) Crystal Palace v Manchester City Matchweek 2 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535950&extension=ts&play_token=ALdVkePKoY
+#EXTINF:-1 tvg-id="1535950" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",29/08 02:00 AM | AU (STAN 12) Crystal Palace v Manchester City Matchweek 2 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1535950&extension=ts&play_token=MsuPbWf8QR
 #EXTINF:-1 tvg-id="1909964" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",29/08 02:00 AM | AU (STAN 12) Crystal Palace v Manchester City Matchweek 2 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A1F517D5262E69E77C04219B2C483C87
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1909964&extension=ts&play_token=mLsxAeFNb4
-#EXTINF:-1 tvg-id="1909964" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",29/08 02:00 AM | AU (STAN 12) Crystal Palace v Manchester City Matchweek 2 2026/2027 ( :29)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909964&extension=ts&play_token=2FJLjg4O80
+#EXTINF:-1 tvg-id="1966345" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",29/08 02:00 AM | AU (STAN 12) Crystal Palace v Manchester City Matchweek 2 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966345&extension=ts&play_token=I55XQgp1z7
+#EXTINF:-1 tvg-id="1966345" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",29/08 02:00 AM | AU (STAN 12) Crystal Palace v Manchester City Matchweek 2 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1966345&extension=ts&play_token=OubyjJfa3Q
+#EXTINF:-1 tvg-id="1454430" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",29/08 02:00 AM | 01: Crystal Palace vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454430&extension=ts&play_token=hZWZFbnTOy
+#EXTINF:-1 tvg-id="1454429" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",29/08 02:00 AM | 01: Crystal Palace vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454429&extension=ts&play_token=YQEBUUqM1B
+#EXTINF:-1 tvg-id="1454428" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",29/08 02:00 AM | 01: Crystal Palace vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454428&extension=ts&play_token=KX4O1B0nf2
+#EXTINF:-1 tvg-id="1454430" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",29/08 02:00 AM | 01: Crystal Palace vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1454430&extension=ts&play_token=njUUHiaidK
+#EXTINF:-1 tvg-id="1454429" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",29/08 02:00 AM | 01: Crystal Palace vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1454429&extension=ts&play_token=0vcYL8vFLN
+#EXTINF:-1 tvg-id="1454428" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",29/08 02:00 AM | 01: Crystal Palace vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1454428&extension=ts&play_token=Dgp5fWcRB8
+#EXTINF:-1 tvg-id="1918863" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 02:00 AM | Palace vs. Manchester City all | 8K DE: SOCCER 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918863&extension=ts&play_token=ceG0m8we1B
+#EXTINF:-1 tvg-id="1930995" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 02:00 AM | Palace vs. Manchester City all | 8K NL: SOCCER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1930995&extension=ts&play_token=mVYNaoNlKN
+#EXTINF:-1 tvg-id="918739" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 02:00 AM | CRYSTAL PALACE MAN CITY (NL) 8K NL: VIAPLAY 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=918739&extension=ts&play_token=ubD8m39TcB
+#EXTINF:-1 tvg-id="1988124" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 02:00 AM | Palace vs. Manchester City all | 8K ES: SOCCER 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988124&extension=ts&play_token=SwF7zaCPkS
+#EXTINF:-1 tvg-id="1810027" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 02:00 AM | CRYSTAL PALACE MAN CITY (SE) 8K SE: VIAPLAY 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1810027&extension=ts&play_token=BE64XnxH3I
+#EXTINF:-1 tvg-id="1825985" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",29/08 02:00 AM | CRYSTAL PALACE MANCHESTER CITY (SE) 8K SE: PLAY+ 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1825985&extension=ts&play_token=yktBuOSHnf
+#EXTINF:-1 tvg-id="1863203" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 02:00 AM | CRYSTAL PALACE MAN CITY (DK) 8K DK: VIAPLAY 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863203&extension=ts&play_token=cqFWcCrGPC
+#EXTINF:-1 tvg-id="1242772" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 02:00 AM | CRYSTAL PALACE MAN CITY (NO) 8K NO: VIAPLAY 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1242772&extension=ts&play_token=l9MQUyvO65
+#EXTINF:-1 tvg-id="1863311" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 02:00 AM | VALIOLIIGA CRYSTAL PALACE MAN CITY (FI) 8K FI: VIAPLAY 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863311&extension=ts&play_token=HXBCSfbWfV
+#EXTINF:-1 tvg-id="1939950" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 02:00 AM | Palace vs. Manchester City all | 8K CA: SOCCER 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939950&extension=ts&play_token=Nuzd7pDiMl
+#EXTINF:-1 tvg-id="1939950" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 02:00 AM | Palace vs. Manchester City all | 8K CA: SOCCER 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939950&extension=ts&play_token=AAGxJSdwVE
+#EXTINF:-1 tvg-id="1988124" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 02:00 AM | Palace vs. Manchester City all | 8K ES: SOCCER 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988124&extension=ts&play_token=75Nnep8i8T
+#EXTINF:-1 tvg-id="1918863" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 02:00 AM | Palace vs. Manchester City all | 8K DE: SOCCER 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1918863&extension=ts&play_token=hDmXOvdYIA
+#EXTINF:-1 tvg-id="1930995" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",29/08 02:00 AM | Palace vs. Manchester City all | 8K NL: SOCCER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1930995&extension=ts&play_token=XecovtBnup
+#EXTINF:-1 tvg-id="918739" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 02:00 AM | CRYSTAL PALACE MAN CITY (NL) 8K NL: VIAPLAY 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=918739&extension=ts&play_token=eoAN9FaMOH
+#EXTINF:-1 tvg-id="1810027" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 02:00 AM | CRYSTAL PALACE MAN CITY (SE) 8K SE: VIAPLAY 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1810027&extension=ts&play_token=rJNh4d3YH0
+#EXTINF:-1 tvg-id="1825985" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",29/08 02:00 AM | CRYSTAL PALACE MANCHESTER CITY (SE) 8K SE: PLAY+ 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1825985&extension=ts&play_token=IWBeSuXM40
+#EXTINF:-1 tvg-id="1863203" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 02:00 AM | CRYSTAL PALACE MAN CITY (DK) 8K DK: VIAPLAY 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863203&extension=ts&play_token=QQz8yxpq2O
+#EXTINF:-1 tvg-id="1242772" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 02:00 AM | CRYSTAL PALACE MAN CITY (NO) 8K NO: VIAPLAY 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1242772&extension=ts&play_token=InQ0ZlEB9I
+#EXTINF:-1 tvg-id="1863311" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 02:00 AM | VALIOLIIGA CRYSTAL PALACE MAN CITY (FI) 8K FI: VIAPLAY 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863311&extension=ts&play_token=gcODnWQoSw
+#EXTINF:-1 tvg-id="2062325" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 02:00 AM | Palace vs. Manchester City all | 8K CA: SOCCER 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4E3BD3D5BBB1AC06A5A62A22535F3EBA
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909964&extension=ts&play_token=u1CpOq3CXO
-#EXTINF:-1 tvg-id="2062293" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 02:00 AM | Palace vs. Manchester City all | 8K CA: SOCCER 38
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A1F517D5262E69E77C04219B2C483C87
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2062293&extension=ts&play_token=myXCKWezP1
-#EXTINF:-1 tvg-id="1592460" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",29/08 02:00 AM | CRYSTAL PALACE MAN CITY (NL) 8K NL: VIAPLAY 16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A1F517D5262E69E77C04219B2C483C87
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1592460&extension=ts&play_token=PzmA0OIjZ3
-#EXTINF:-1 tvg-id="2072517" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 02:00 AM | Palace vs. Manchester City all | 8K ES: SOCCER 36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A1F517D5262E69E77C04219B2C483C87
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2072517&extension=ts&play_token=c1qdQkh6TL
-#EXTINF:-1 tvg-id="2054993" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 02:00 AM | Palace vs. Manchester City all | 8K DE: SOCCER 59
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A1F517D5262E69E77C04219B2C483C87
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=2054993&extension=ts&play_token=U8rzmtPNVf
-#EXTINF:-1 tvg-id="2062293" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 02:00 AM | Palace vs. Manchester City all | 8K CA: SOCCER 38
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062325&extension=ts&play_token=E2BfY7VVqF
+#EXTINF:-1 tvg-id="2055038" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 02:00 AM | Palace vs. Manchester City all | 8K DE: SOCCER 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4E3BD3D5BBB1AC06A5A62A22535F3EBA
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062293&extension=ts&play_token=KN0KmSjSsb
-#EXTINF:-1 tvg-id="2054993" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 02:00 AM | Palace vs. Manchester City all | 8K DE: SOCCER 59
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2055038&extension=ts&play_token=E8C0pjFcqh
+#EXTINF:-1 tvg-id="2072551" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 02:00 AM | End Palace vs. Manchester City all | 8K ES: SOCCER 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4E3BD3D5BBB1AC06A5A62A22535F3EBA
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2054993&extension=ts&play_token=VKBGcbbFjt
-#EXTINF:-1 tvg-id="2072517" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 02:00 AM | Palace vs. Manchester City all | 8K ES: SOCCER 36
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072551&extension=ts&play_token=VuOKYLsDD2
+#EXTINF:-1 tvg-id="2072543" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 02:00 AM | End Palace vs. Manchester City all | 8K ES: SOCCER 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4E3BD3D5BBB1AC06A5A62A22535F3EBA
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072517&extension=ts&play_token=W63aan05GK
-#EXTINF:-1 tvg-id="1735550" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 02:00 AM | CRYSTAL PALACE MAN CITY (NO) 8K NO: VIAPLAY 28
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072543&extension=ts&play_token=gDKUIXrBoD
+#EXTINF:-1 tvg-id="1735561" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 02:00 AM | CRYSTAL PALACE MAN CITY (NO) 8K NO: VIAPLAY 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4E3BD3D5BBB1AC06A5A62A22535F3EBA
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735550&extension=ts&play_token=xT6rsG30Wq
-#EXTINF:-1 tvg-id="1592460" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",29/08 02:00 AM | CRYSTAL PALACE MAN CITY (NL) 8K NL: VIAPLAY 16
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735561&extension=ts&play_token=9exMNH8WcL
+#EXTINF:-1 tvg-id="1592456" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",29/08 02:00 AM | CRYSTAL PALACE MAN CITY (NL) 8K NL: VIAPLAY 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592460&extension=ts&play_token=xAJQFoUclf
-#EXTINF:-1 tvg-id="2054993" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 02:00 AM | Palace vs. Manchester City all | 8K DE: SOCCER 59
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592456&extension=ts&play_token=STmAtkoIvN
+#EXTINF:-1 tvg-id="2058544" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 02:00 AM | Palace vs. Manchester City all | 8K NL: SOCCER 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054993&extension=ts&play_token=00j6femTgt
-#EXTINF:-1 tvg-id="2072517" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 02:00 AM | Palace vs. Manchester City all | 8K ES: SOCCER 36
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058544&extension=ts&play_token=JrX8HoFH52
+#EXTINF:-1 tvg-id="2055038" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 02:00 AM | Palace vs. Manchester City all | 8K DE: SOCCER 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072517&extension=ts&play_token=c7IAh9J4ns
-#EXTINF:-1 tvg-id="2021207" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",29/08 02:00 AM | CRYSTAL PALACE MANCHESTER CITY (SE) 8K SE: PLAY+ 41
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055038&extension=ts&play_token=BT3IEBLVcC
+#EXTINF:-1 tvg-id="2072551" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 02:00 AM | End Palace vs. Manchester City all | 8K ES: SOCCER 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021207&extension=ts&play_token=m7D20APCJs
-#EXTINF:-1 tvg-id="2016247" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 02:00 AM | CRYSTAL PALACE MAN CITY (SE) 8K SE: VIAPLAY 32
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072551&extension=ts&play_token=NpirQf6ToK
+#EXTINF:-1 tvg-id="2072543" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 02:00 AM | End Palace vs. Manchester City all | 8K ES: SOCCER 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016247&extension=ts&play_token=Zx2sqCZMdG
-#EXTINF:-1 tvg-id="2037340" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 02:00 AM | CRYSTAL PALACE MAN CITY (DK) 8K DK: VIAPLAY 38
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072543&extension=ts&play_token=2farmuN9Iv
+#EXTINF:-1 tvg-id="2021230" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",29/08 02:00 AM | CRYSTAL PALACE MANCHESTER CITY (SE) 8K SE: PLAY+ 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037340&extension=ts&play_token=TyaRSYjii6
-#EXTINF:-1 tvg-id="1735550" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 02:00 AM | CRYSTAL PALACE MAN CITY (NO) 8K NO: VIAPLAY 28
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021230&extension=ts&play_token=5DKKcj0APl
+#EXTINF:-1 tvg-id="2016259" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 02:00 AM | CRYSTAL PALACE MAN CITY (SE) 8K SE: VIAPLAY 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735550&extension=ts&play_token=pdEvXSq9er
-#EXTINF:-1 tvg-id="2037449" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 02:00 AM | VALIOLIIGA CRYSTAL PALACE MAN CITY (FI) 8K FI: VIAPLAY 31
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016259&extension=ts&play_token=dZ3foXotyu
+#EXTINF:-1 tvg-id="2037354" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 02:00 AM | CRYSTAL PALACE MAN CITY (DK) 8K DK: VIAPLAY 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037449&extension=ts&play_token=SRNxRebu2f
-#EXTINF:-1 tvg-id="1992248" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",29/08 02:00 AM | Crystal Palace vs Manchester City @ :Telia FI 20
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037354&extension=ts&play_token=CV1O3DEKc6
+#EXTINF:-1 tvg-id="1735561" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 02:00 AM | CRYSTAL PALACE MAN CITY (NO) 8K NO: VIAPLAY 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C6DF896D2D4AF558C3248241E32EE7BA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992248&extension=ts&play_token=WWWShMrlKW
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735561&extension=ts&play_token=adF0Pf3DmR
+#EXTINF:-1 tvg-id="2037459" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 02:00 AM | VALIOLIIGA CRYSTAL PALACE MAN CITY (FI) 8K FI: VIAPLAY 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037459&extension=ts&play_token=g47RP8NUzk
+#EXTINF:-1 tvg-id="1703220" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 02:00 AM | Crystal Palace vs Man City @ :Viaplay NL 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1703220&extension=ts&play_token=nCCr7uw2MW
+#EXTINF:-1 tvg-id="1840572" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391",29/08 02:00 AM | Fútbol: Crystal Palace vs Manchester City @ :MAX ES 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1840572&extension=ts&play_token=vDVzf9RvMf
+#EXTINF:-1 tvg-id="1702602" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 02:00 AM | Crystal Palace vs Man City @ :Viaplay SE 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1702602&extension=ts&play_token=zKBqFvGFcY
+#EXTINF:-1 tvg-id="1704134" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",29/08 02:00 AM | Crystal Palace vs Manchester City @ :TeliaPlay SE 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1704134&extension=ts&play_token=QC5q8TVyVz
+#EXTINF:-1 tvg-id="1703052" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 02:00 AM | Crystal Palace vs Man City @ :Viaplay DK 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1703052&extension=ts&play_token=d67ksYedT1
+#EXTINF:-1 tvg-id="1702987" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 02:00 AM | Crystal Palace vs Man City @ :Viaplay NO 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1702987&extension=ts&play_token=yvi2H4LshY
+#EXTINF:-1 tvg-id="1704242" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",29/08 02:00 AM | Crystal Palace vs Manchester City @ :Telia FI 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1704242&extension=ts&play_token=0dFpRMUEWr
+#EXTINF:-1 tvg-id="1703117" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 02:00 AM | Crystal Palace vs Man City @ :Viaplay FI 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9925D593B737D628089CC0E5BDD2E472
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1703117&extension=ts&play_token=oFCFpNhHVK
+#EXTINF:-1 tvg-id="1840572" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391",29/08 02:00 AM | Fútbol: Crystal Palace vs Manchester City @ :MAX ES 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1840572&extension=ts&play_token=fO0X7LJR9H
+#EXTINF:-1 tvg-id="1703220" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 02:00 AM | Crystal Palace vs Man City @ :Viaplay NL 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1703220&extension=ts&play_token=ibaZLu93bX
+#EXTINF:-1 tvg-id="1702602" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 02:00 AM | Crystal Palace vs Man City @ :Viaplay SE 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1702602&extension=ts&play_token=Xj5W98dzkM
+#EXTINF:-1 tvg-id="1704134" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",29/08 02:00 AM | Crystal Palace vs Manchester City @ :TeliaPlay SE 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1704134&extension=ts&play_token=bPBKxKa16h
+#EXTINF:-1 tvg-id="1703052" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 02:00 AM | Crystal Palace vs Man City @ :Viaplay DK 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1703052&extension=ts&play_token=wFa5OSLnum
+#EXTINF:-1 tvg-id="1702987" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 02:00 AM | Crystal Palace vs Man City @ :Viaplay NO 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1702987&extension=ts&play_token=k6yTO3auI0
+#EXTINF:-1 tvg-id="1704242" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",29/08 02:00 AM | Crystal Palace vs Manchester City @ :Telia FI 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1704242&extension=ts&play_token=4Qo4V4BjDp
+#EXTINF:-1 tvg-id="1703117" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",29/08 02:00 AM | Crystal Palace vs Man City @ :Viaplay FI 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 32C37288324153B2B53D8E08A81EE111
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1703117&extension=ts&play_token=seVja5R45F
+#EXTINF:-1 tvg-id="2026535" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MAX-MAX.png",29/08 02:00 AM | Fútbol: Crystal Palace vs Manchester City @ :MAX ES 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2026535&extension=ts&play_token=0rIGVyDkoW
+#EXTINF:-1 tvg-id="1996101" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 02:00 AM | Crystal Palace vs Man City @ :Viaplay NO 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 527BE19DDEB5DCE7FF5507D20CC73712
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1996101&extension=ts&play_token=Z6FgeN9pnp
+#EXTINF:-1 tvg-id="2025559" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 02:00 AM | Crystal Palace vs Man City @ :Viaplay NL 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2025559&extension=ts&play_token=5Q3Ob7FUWF
+#EXTINF:-1 tvg-id="2026535" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MAX-MAX.png",29/08 02:00 AM | Fútbol: Crystal Palace vs Manchester City @ :MAX ES 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2026535&extension=ts&play_token=sNS3t9h7B0
+#EXTINF:-1 tvg-id="1991522" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",29/08 02:00 AM | Crystal Palace vs Manchester City @ :TeliaPlay SE 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1991522&extension=ts&play_token=450GXe0slf
+#EXTINF:-1 tvg-id="1990184" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",29/08 02:00 AM | Crystal Palace vs Man City @ :Viaplay SE 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990184&extension=ts&play_token=HEfn4rmTrj
+#EXTINF:-1 tvg-id="1996274" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",29/08 02:00 AM | Crystal Palace vs Man City @ :Viaplay DK 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996274&extension=ts&play_token=T8Yyvw7HIR
+#EXTINF:-1 tvg-id="1996101" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 02:00 AM | Crystal Palace vs Man City @ :Viaplay NO 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996101&extension=ts&play_token=m3kfONtmIq
+#EXTINF:-1 tvg-id="1992098" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 02:00 AM | Crystal Palace vs Man City @ :Viaplay FI 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992098&extension=ts&play_token=NGlf9oSkC3
+#EXTINF:-1 tvg-id="1992257" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",29/08 02:00 AM | Crystal Palace vs Manchester City @ :Telia FI 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CC56F777DFED16C07117A12D907E4413
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992257&extension=ts&play_token=O8Dh2LfnWD

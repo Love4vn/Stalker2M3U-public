@@ -814,91 +814,116 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=944687&exte
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=944687&extension=ts&play_token=ibYQOws10C
-#EXTINF:-1 tvg-id="207964" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picons.cmshulk.com/picons/207964.png",01/09 01:45 AM | Atalanta vs Bologna (RO|  DIGI SPORT 4 HD)
+#EXTINF:-1 tvg-id="1432202" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/COSMOTESPORT3.png",01/09 01:45 AM | Atalanta vs Bologna (GR| COSMOTE SPORT 3 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=207964&extension=ts&play_token=WRju251GUU
-#EXTINF:-1 tvg-id="56116" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picons.cmshulk.com/picons/56116.png",01/09 01:45 AM | Atalanta vs Bologna (RO| DIGI SPORT 4)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1432202&extension=ts&play_token=5f6IWjApX5
+#EXTINF:-1 tvg-id="307820" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/COSMOTESPORT3.png",01/09 01:45 AM | Atalanta vs Bologna (GR| COSMOTE SPORT 3 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=56116&extension=ts&play_token=JqdMTFSefe
-#EXTINF:-1 tvg-id="1444090" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 4K)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=307820&extension=ts&play_token=ehLuTchQYC
+#EXTINF:-1 tvg-id="174428" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",01/09 01:45 AM | Atalanta vs Bologna (┃GR┃ COSMOTE SPORT 3 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444090&extension=ts&play_token=k1G7E3rt3t
-#EXTINF:-1 tvg-id="1444087" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 FHD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=174428&extension=ts&play_token=eEXC01i8su
+#EXTINF:-1 tvg-id="1888" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",01/09 01:45 AM | Atalanta vs Bologna (┃GR┃ COSMOTE SPORT 3 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444087&extension=ts&play_token=ZyEm3dW9XU
-#EXTINF:-1 tvg-id="1444088" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 HD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1888&extension=ts&play_token=vo0lozOjp4
+#EXTINF:-1 tvg-id="174428" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",01/09 01:45 AM | Atalanta vs Bologna (┃GR┃ COSMOTE SPORT 3 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=174428&extension=ts&play_token=D7yV8gdsEA
+#EXTINF:-1 tvg-id="1888" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",01/09 01:45 AM | Atalanta vs Bologna (┃GR┃ COSMOTE SPORT 3 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1888&extension=ts&play_token=9nI30CRXm2
+#EXTINF:-1 tvg-id="174428" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",01/09 01:45 AM | Atalanta vs Bologna (┃GR┃ COSMOTE SPORT 3 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=174428&extension=ts&play_token=y2D0ZN4WcL
+#EXTINF:-1 tvg-id="1888" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",01/09 01:45 AM | Atalanta vs Bologna (┃GR┃ COSMOTE SPORT 3 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1888&extension=ts&play_token=x3pyCeq0gX
+#EXTINF:-1 tvg-id="691261" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picons.cmshulk.com/picons/691261.png",01/09 01:45 AM | Atalanta vs Bologna (IT| SKY SPORT CALCIO UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=691261&extension=ts&play_token=le8oCrVeNN
+#EXTINF:-1 tvg-id="691260" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picons.cmshulk.com/picons/691260.png",01/09 01:45 AM | Atalanta vs Bologna (IT| SKY SPORT CALCIO 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=691260&extension=ts&play_token=pluUSo8Tda
+#EXTINF:-1 tvg-id="691523" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picons.cmshulk.com/picons/691523.png",01/09 01:45 AM | Atalanta vs Bologna (IT| SKY SPORT CALCIO HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=691523&extension=ts&play_token=GSyC1ATJfF
+#EXTINF:-1 tvg-id="692417" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picons.cmshulk.com/picons/692417.png",01/09 01:45 AM | Atalanta vs Bologna (IT| SKY SPORT CALCIO 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=692417&extension=ts&play_token=CcA4JJZhcZ
+#EXTINF:-1 tvg-id="692416" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picons.cmshulk.com/picons/692416.png",01/09 01:45 AM | Atalanta vs Bologna (IT| SKY SPORT CALCIO HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=692416&extension=ts&play_token=6Ja988DIWE
+#EXTINF:-1 tvg-id="177695" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTCALCIO.png",01/09 01:45 AM | Atalanta vs Bologna (┃IT┃ SKY SPORT CALCIO HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444088&extension=ts&play_token=z0zrfmSOeE
-#EXTINF:-1 tvg-id="1444089" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=177695&extension=ts&play_token=G2LISqkdlj
+#EXTINF:-1 tvg-id="1167169" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTCALCIO.png",01/09 01:45 AM | Atalanta vs Bologna (┃IT┃ SKY SPORT CALCIO HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444089&extension=ts&play_token=R3zqipiDOI
-#EXTINF:-1 tvg-id="1444091" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 FIBRA)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1167169&extension=ts&play_token=UhdSZ70nhp
+#EXTINF:-1 tvg-id="177694" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTCALCIO.png",01/09 01:45 AM | Atalanta vs Bologna (┃IT┃ SKY SPORT CALCIO FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444091&extension=ts&play_token=BgaE8df0ar
-#EXTINF:-1 tvg-id="1444090" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 4K)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=177694&extension=ts&play_token=XqbEJlgLBD
+#EXTINF:-1 tvg-id="177695" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTCALCIO.png",01/09 01:45 AM | Atalanta vs Bologna (┃IT┃ SKY SPORT CALCIO HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444090&extension=ts&play_token=O2j7tnyhtl
-#EXTINF:-1 tvg-id="1444087" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 FHD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=177695&extension=ts&play_token=I7HgixM926
+#EXTINF:-1 tvg-id="1167169" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTCALCIO.png",01/09 01:45 AM | Atalanta vs Bologna (┃IT┃ SKY SPORT CALCIO HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444087&extension=ts&play_token=PxdAZLQKOi
-#EXTINF:-1 tvg-id="1444088" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 HD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1167169&extension=ts&play_token=v7NOkcvt7g
+#EXTINF:-1 tvg-id="177694" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTCALCIO.png",01/09 01:45 AM | Atalanta vs Bologna (┃IT┃ SKY SPORT CALCIO FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444088&extension=ts&play_token=ReRBgnLhPh
-#EXTINF:-1 tvg-id="1444089" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444089&extension=ts&play_token=MVrX59Dbtf
-#EXTINF:-1 tvg-id="1444091" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 FIBRA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444091&extension=ts&play_token=fYsWAZDQ3K
-#EXTINF:-1 tvg-id="1444090" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 4K)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=177694&extension=ts&play_token=lIatOSxCIc
+#EXTINF:-1 tvg-id="177695" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTCALCIO.png",01/09 01:45 AM | Atalanta vs Bologna (┃IT┃ SKY SPORT CALCIO HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444090&extension=ts&play_token=OXfcaMuNn0
-#EXTINF:-1 tvg-id="1444087" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 FHD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=177695&extension=ts&play_token=LhezFTJQKC
+#EXTINF:-1 tvg-id="1167169" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTCALCIO.png",01/09 01:45 AM | Atalanta vs Bologna (┃IT┃ SKY SPORT CALCIO HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444087&extension=ts&play_token=xKCoCWNWq0
-#EXTINF:-1 tvg-id="1444088" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 HD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1167169&extension=ts&play_token=ccu4o3ALK9
+#EXTINF:-1 tvg-id="177694" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTCALCIO.png",01/09 01:45 AM | Atalanta vs Bologna (┃IT┃ SKY SPORT CALCIO FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444088&extension=ts&play_token=Px1XnwQDy0
-#EXTINF:-1 tvg-id="1444089" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444089&extension=ts&play_token=qo85UlKizY
-#EXTINF:-1 tvg-id="1444091" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 FIBRA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444091&extension=ts&play_token=Wd0KdPxati
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=177694&extension=ts&play_token=7TuWFL4sne
 #EXTINF:-1 tvg-id="308" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png",01/09 01:45 AM | Atalanta vs Bologna (┃AL┃ TRING SPORT 1 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
@@ -944,6 +969,101 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1652483&ext
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=317&extension=ts&play_token=qDu8LEZ9A4
+#EXTINF:-1 tvg-id="208009" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picons.cmshulk.com/picons/208009.png",01/09 01:45 AM | Atalanta vs Bologna (RO| PRIMA SPORT 3 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=208009&extension=ts&play_token=azZ5iOs3i5
+#EXTINF:-1 tvg-id="459749" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picons.cmshulk.com/picons/459749.png",01/09 01:45 AM | Atalanta vs Bologna (RO| PRIMA SPORT 3 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=459749&extension=ts&play_token=ASHRGEQaF0
+#EXTINF:-1 tvg-id="92476" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picons.cmshulk.com/picons/92476.png",01/09 01:45 AM | Atalanta vs Bologna (RO| PRIMA SPORT 3 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=92476&extension=ts&play_token=9sclkmQTVI
+#EXTINF:-1 tvg-id="56111" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picons.cmshulk.com/picons/56111.png",01/09 01:45 AM | Atalanta vs Bologna (RO| PRIMA SPORT 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=56111&extension=ts&play_token=ME0FzZICp1
+#EXTINF:-1 tvg-id="1444105" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 3.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ PRIMA SPORT 3 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444105&extension=ts&play_token=sS3m04CYOQ
+#EXTINF:-1 tvg-id="1444104" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 3.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ PRIMA SPORT 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444104&extension=ts&play_token=BH2KNSNJdO
+#EXTINF:-1 tvg-id="1444106" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 3.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ PRIMA SPORT 3 FIBRA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444106&extension=ts&play_token=c5HwPODW5z
+#EXTINF:-1 tvg-id="1444105" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 3.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ PRIMA SPORT 3 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444105&extension=ts&play_token=m9zJwGKrJE
+#EXTINF:-1 tvg-id="1444104" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 3.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ PRIMA SPORT 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444104&extension=ts&play_token=ED3d9CF6Ad
+#EXTINF:-1 tvg-id="1444106" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 3.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ PRIMA SPORT 3 FIBRA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444106&extension=ts&play_token=xt1XoG7miu
+#EXTINF:-1 tvg-id="1444105" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 3.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ PRIMA SPORT 3 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444105&extension=ts&play_token=Q4kP4xKNEU
+#EXTINF:-1 tvg-id="1444104" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 3.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ PRIMA SPORT 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444104&extension=ts&play_token=86hhXEzZjv
+#EXTINF:-1 tvg-id="1444106" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 3.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ PRIMA SPORT 3 FIBRA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444106&extension=ts&play_token=3AakKiLssh
+#EXTINF:-1 tvg-id="1652477" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 2.png",01/09 01:45 AM | Atalanta vs Bologna (┃AL┃ ART SPORT 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1652477&extension=ts&play_token=3Ns4HjCqT9
+#EXTINF:-1 tvg-id="337" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 2.png",01/09 01:45 AM | Atalanta vs Bologna (┃AL┃ ART SPORT 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=337&extension=ts&play_token=AyJs4Ez4zL
+#EXTINF:-1 tvg-id="1652477" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 2.png",01/09 01:45 AM | Atalanta vs Bologna (┃AL┃ ART SPORT 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1652477&extension=ts&play_token=o4DXNtwgjF
+#EXTINF:-1 tvg-id="337" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 2.png",01/09 01:45 AM | Atalanta vs Bologna (┃AL┃ ART SPORT 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=337&extension=ts&play_token=O7JPkQHv2v
+#EXTINF:-1 tvg-id="1652477" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 2.png",01/09 01:45 AM | Atalanta vs Bologna (┃AL┃ ART SPORT 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1652477&extension=ts&play_token=euuRixwW5a
+#EXTINF:-1 tvg-id="337" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 2.png",01/09 01:45 AM | Atalanta vs Bologna (┃AL┃ ART SPORT 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=337&extension=ts&play_token=PPrWVgsa4z
 #EXTINF:-1 tvg-id="1530157" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://103.176.90.92/images/1530157.png",01/09 01:45 AM | Atalanta vs Bologna (PL-VIP| ELEVEN SPORTS 1 RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
@@ -1039,211 +1159,91 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1114&extens
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1114&extension=ts&play_token=CiCXe6Z76K
-#EXTINF:-1 tvg-id="1652477" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 2.png",01/09 01:45 AM | Atalanta vs Bologna (┃AL┃ ART SPORT 2 FHD)
+#EXTINF:-1 tvg-id="207964" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picons.cmshulk.com/picons/207964.png",01/09 01:45 AM | Atalanta vs Bologna (RO|  DIGI SPORT 4 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=207964&extension=ts&play_token=WRju251GUU
+#EXTINF:-1 tvg-id="56116" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picons.cmshulk.com/picons/56116.png",01/09 01:45 AM | Atalanta vs Bologna (RO| DIGI SPORT 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=56116&extension=ts&play_token=JqdMTFSefe
+#EXTINF:-1 tvg-id="1444090" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1652477&extension=ts&play_token=3Ns4HjCqT9
-#EXTINF:-1 tvg-id="337" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 2.png",01/09 01:45 AM | Atalanta vs Bologna (┃AL┃ ART SPORT 2 HD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444090&extension=ts&play_token=k1G7E3rt3t
+#EXTINF:-1 tvg-id="1444087" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=337&extension=ts&play_token=AyJs4Ez4zL
-#EXTINF:-1 tvg-id="1652477" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 2.png",01/09 01:45 AM | Atalanta vs Bologna (┃AL┃ ART SPORT 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1652477&extension=ts&play_token=o4DXNtwgjF
-#EXTINF:-1 tvg-id="337" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 2.png",01/09 01:45 AM | Atalanta vs Bologna (┃AL┃ ART SPORT 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=337&extension=ts&play_token=O7JPkQHv2v
-#EXTINF:-1 tvg-id="1652477" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 2.png",01/09 01:45 AM | Atalanta vs Bologna (┃AL┃ ART SPORT 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1652477&extension=ts&play_token=euuRixwW5a
-#EXTINF:-1 tvg-id="337" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 2.png",01/09 01:45 AM | Atalanta vs Bologna (┃AL┃ ART SPORT 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=337&extension=ts&play_token=PPrWVgsa4z
-#EXTINF:-1 tvg-id="691261" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picons.cmshulk.com/picons/691261.png",01/09 01:45 AM | Atalanta vs Bologna (IT| SKY SPORT CALCIO UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=691261&extension=ts&play_token=le8oCrVeNN
-#EXTINF:-1 tvg-id="691260" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picons.cmshulk.com/picons/691260.png",01/09 01:45 AM | Atalanta vs Bologna (IT| SKY SPORT CALCIO 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=691260&extension=ts&play_token=pluUSo8Tda
-#EXTINF:-1 tvg-id="691523" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picons.cmshulk.com/picons/691523.png",01/09 01:45 AM | Atalanta vs Bologna (IT| SKY SPORT CALCIO HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=691523&extension=ts&play_token=GSyC1ATJfF
-#EXTINF:-1 tvg-id="692417" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picons.cmshulk.com/picons/692417.png",01/09 01:45 AM | Atalanta vs Bologna (IT| SKY SPORT CALCIO 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=692417&extension=ts&play_token=CcA4JJZhcZ
-#EXTINF:-1 tvg-id="692416" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picons.cmshulk.com/picons/692416.png",01/09 01:45 AM | Atalanta vs Bologna (IT| SKY SPORT CALCIO HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=692416&extension=ts&play_token=6Ja988DIWE
-#EXTINF:-1 tvg-id="177695" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTCALCIO.png",01/09 01:45 AM | Atalanta vs Bologna (┃IT┃ SKY SPORT CALCIO HD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444087&extension=ts&play_token=ZyEm3dW9XU
+#EXTINF:-1 tvg-id="1444088" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=177695&extension=ts&play_token=G2LISqkdlj
-#EXTINF:-1 tvg-id="1167169" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTCALCIO.png",01/09 01:45 AM | Atalanta vs Bologna (┃IT┃ SKY SPORT CALCIO HEVC)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444088&extension=ts&play_token=z0zrfmSOeE
+#EXTINF:-1 tvg-id="1444089" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1167169&extension=ts&play_token=UhdSZ70nhp
-#EXTINF:-1 tvg-id="177694" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTCALCIO.png",01/09 01:45 AM | Atalanta vs Bologna (┃IT┃ SKY SPORT CALCIO FHD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444089&extension=ts&play_token=R3zqipiDOI
+#EXTINF:-1 tvg-id="1444091" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 FIBRA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=177694&extension=ts&play_token=XqbEJlgLBD
-#EXTINF:-1 tvg-id="177695" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTCALCIO.png",01/09 01:45 AM | Atalanta vs Bologna (┃IT┃ SKY SPORT CALCIO HD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444091&extension=ts&play_token=BgaE8df0ar
+#EXTINF:-1 tvg-id="1444090" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=177695&extension=ts&play_token=I7HgixM926
-#EXTINF:-1 tvg-id="1167169" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTCALCIO.png",01/09 01:45 AM | Atalanta vs Bologna (┃IT┃ SKY SPORT CALCIO HEVC)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444090&extension=ts&play_token=O2j7tnyhtl
+#EXTINF:-1 tvg-id="1444087" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1167169&extension=ts&play_token=v7NOkcvt7g
-#EXTINF:-1 tvg-id="177694" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTCALCIO.png",01/09 01:45 AM | Atalanta vs Bologna (┃IT┃ SKY SPORT CALCIO FHD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444087&extension=ts&play_token=PxdAZLQKOi
+#EXTINF:-1 tvg-id="1444088" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=177694&extension=ts&play_token=lIatOSxCIc
-#EXTINF:-1 tvg-id="177695" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTCALCIO.png",01/09 01:45 AM | Atalanta vs Bologna (┃IT┃ SKY SPORT CALCIO HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=177695&extension=ts&play_token=LhezFTJQKC
-#EXTINF:-1 tvg-id="1167169" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTCALCIO.png",01/09 01:45 AM | Atalanta vs Bologna (┃IT┃ SKY SPORT CALCIO HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1167169&extension=ts&play_token=ccu4o3ALK9
-#EXTINF:-1 tvg-id="177694" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTCALCIO.png",01/09 01:45 AM | Atalanta vs Bologna (┃IT┃ SKY SPORT CALCIO FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=177694&extension=ts&play_token=7TuWFL4sne
-#EXTINF:-1 tvg-id="208009" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picons.cmshulk.com/picons/208009.png",01/09 01:45 AM | Atalanta vs Bologna (RO| PRIMA SPORT 3 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=208009&extension=ts&play_token=azZ5iOs3i5
-#EXTINF:-1 tvg-id="459749" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picons.cmshulk.com/picons/459749.png",01/09 01:45 AM | Atalanta vs Bologna (RO| PRIMA SPORT 3 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=459749&extension=ts&play_token=ASHRGEQaF0
-#EXTINF:-1 tvg-id="92476" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picons.cmshulk.com/picons/92476.png",01/09 01:45 AM | Atalanta vs Bologna (RO| PRIMA SPORT 3 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=92476&extension=ts&play_token=9sclkmQTVI
-#EXTINF:-1 tvg-id="56111" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picons.cmshulk.com/picons/56111.png",01/09 01:45 AM | Atalanta vs Bologna (RO| PRIMA SPORT 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=56111&extension=ts&play_token=ME0FzZICp1
-#EXTINF:-1 tvg-id="1444105" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 3.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ PRIMA SPORT 3 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444105&extension=ts&play_token=sS3m04CYOQ
-#EXTINF:-1 tvg-id="1444104" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 3.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ PRIMA SPORT 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444104&extension=ts&play_token=BH2KNSNJdO
-#EXTINF:-1 tvg-id="1444106" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 3.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ PRIMA SPORT 3 FIBRA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444106&extension=ts&play_token=c5HwPODW5z
-#EXTINF:-1 tvg-id="1444105" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 3.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ PRIMA SPORT 3 FHD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444088&extension=ts&play_token=ReRBgnLhPh
+#EXTINF:-1 tvg-id="1444089" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444105&extension=ts&play_token=m9zJwGKrJE
-#EXTINF:-1 tvg-id="1444104" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 3.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ PRIMA SPORT 3)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444089&extension=ts&play_token=MVrX59Dbtf
+#EXTINF:-1 tvg-id="1444091" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 FIBRA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444104&extension=ts&play_token=ED3d9CF6Ad
-#EXTINF:-1 tvg-id="1444106" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 3.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ PRIMA SPORT 3 FIBRA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444106&extension=ts&play_token=xt1XoG7miu
-#EXTINF:-1 tvg-id="1444105" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 3.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ PRIMA SPORT 3 FHD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444091&extension=ts&play_token=fYsWAZDQ3K
+#EXTINF:-1 tvg-id="1444090" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444105&extension=ts&play_token=Q4kP4xKNEU
-#EXTINF:-1 tvg-id="1444104" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 3.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ PRIMA SPORT 3)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444090&extension=ts&play_token=OXfcaMuNn0
+#EXTINF:-1 tvg-id="1444087" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444104&extension=ts&play_token=86hhXEzZjv
-#EXTINF:-1 tvg-id="1444106" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 3.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ PRIMA SPORT 3 FIBRA)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444087&extension=ts&play_token=xKCoCWNWq0
+#EXTINF:-1 tvg-id="1444088" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444106&extension=ts&play_token=3AakKiLssh
-#EXTINF:-1 tvg-id="1432202" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/COSMOTESPORT3.png",01/09 01:45 AM | Atalanta vs Bologna (GR| COSMOTE SPORT 3 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1432202&extension=ts&play_token=5f6IWjApX5
-#EXTINF:-1 tvg-id="307820" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/COSMOTESPORT3.png",01/09 01:45 AM | Atalanta vs Bologna (GR| COSMOTE SPORT 3 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=307820&extension=ts&play_token=ehLuTchQYC
-#EXTINF:-1 tvg-id="174428" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",01/09 01:45 AM | Atalanta vs Bologna (┃GR┃ COSMOTE SPORT 3 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=174428&extension=ts&play_token=eEXC01i8su
-#EXTINF:-1 tvg-id="1888" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",01/09 01:45 AM | Atalanta vs Bologna (┃GR┃ COSMOTE SPORT 3 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1888&extension=ts&play_token=vo0lozOjp4
-#EXTINF:-1 tvg-id="174428" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",01/09 01:45 AM | Atalanta vs Bologna (┃GR┃ COSMOTE SPORT 3 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=174428&extension=ts&play_token=D7yV8gdsEA
-#EXTINF:-1 tvg-id="1888" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",01/09 01:45 AM | Atalanta vs Bologna (┃GR┃ COSMOTE SPORT 3 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1888&extension=ts&play_token=9nI30CRXm2
-#EXTINF:-1 tvg-id="174428" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",01/09 01:45 AM | Atalanta vs Bologna (┃GR┃ COSMOTE SPORT 3 FHD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444088&extension=ts&play_token=Px1XnwQDy0
+#EXTINF:-1 tvg-id="1444089" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=174428&extension=ts&play_token=y2D0ZN4WcL
-#EXTINF:-1 tvg-id="1888" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",01/09 01:45 AM | Atalanta vs Bologna (┃GR┃ COSMOTE SPORT 3 HD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444089&extension=ts&play_token=qo85UlKizY
+#EXTINF:-1 tvg-id="1444091" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",01/09 01:45 AM | Atalanta vs Bologna (┃RO┃ DIGI SPORT 4 FIBRA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1888&extension=ts&play_token=x3pyCeq0gX
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444091&extension=ts&play_token=Wd0KdPxati
 #EXTINF:-1 tvg-id="526124" group-title="⚽️🇮🇹|Live Serie A" tvg-logo="http://51.158.145.100/picons/logos/france/526124.png",01/09 01:45 AM | Atalanta vs Bologna (FR| BEIN SPORTS 3 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
@@ -1684,6 +1684,11 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=809372&exte
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=809372&extension=ts&play_token=3grxKFjnkN
+#EXTINF:-1 tvg-id="1608071" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",01/09 02:00 AM | Aston Villa vs Arsenal (4K| SKY SPORTS MAIN EVENTS UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1608071&extension=ts&play_token=n764fk7SuH
 #EXTINF:-1 tvg-id="941405" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL+ FOOT.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃FR┃ CANAL+ FOOT FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
@@ -1729,86 +1734,21 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=941406&exte
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=941407&extension=ts&play_token=OzMMhzqOn9
-#EXTINF:-1 tvg-id="691275" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picons.cmshulk.com/picons/691275.png",01/09 02:00 AM | Aston Villa vs Arsenal (IT| SKY SPORT ARENA UHD)
+#EXTINF:-1 tvg-id="107495" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",01/09 02:00 AM | Aston Villa vs Arsenal (PT| DAZN 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=691275&extension=ts&play_token=4CUuq33DJx
-#EXTINF:-1 tvg-id="691274" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picons.cmshulk.com/picons/691274.png",01/09 02:00 AM | Aston Villa vs Arsenal (IT| SKY SPORT ARENA 4K)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=107495&extension=ts&play_token=NS1DuZNEkf
+#EXTINF:-1 tvg-id="118459" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",01/09 02:00 AM | Aston Villa vs Arsenal (PT| DAZN 1 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=691274&extension=ts&play_token=iTTYc8m8hB
-#EXTINF:-1 tvg-id="691534" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picons.cmshulk.com/picons/691534.png",01/09 02:00 AM | Aston Villa vs Arsenal (IT| SKY SPORT ARENA HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=691534&extension=ts&play_token=aEyBg36rwk
-#EXTINF:-1 tvg-id="692436" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picons.cmshulk.com/picons/692436.png",01/09 02:00 AM | Aston Villa vs Arsenal (IT| SKY SPORT ARENA 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=692436&extension=ts&play_token=70XzxwnkRU
-#EXTINF:-1 tvg-id="692435" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picons.cmshulk.com/picons/692435.png",01/09 02:00 AM | Aston Villa vs Arsenal (IT| SKY SPORT ARENA HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=692435&extension=ts&play_token=bAEddKHEsx
-#EXTINF:-1 tvg-id="177686" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃IT┃ SKY SPORT ARENA HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=177686&extension=ts&play_token=R0SBi5WKF4
-#EXTINF:-1 tvg-id="1167171" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃IT┃ SKY SPORT ARENA HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1167171&extension=ts&play_token=Rs2BpKLb7F
-#EXTINF:-1 tvg-id="177696" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃IT┃ SKY SPORT ARENA FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=177696&extension=ts&play_token=eXGsw0q5X6
-#EXTINF:-1 tvg-id="177686" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃IT┃ SKY SPORT ARENA HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=177686&extension=ts&play_token=azjQVA4IVR
-#EXTINF:-1 tvg-id="1167171" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃IT┃ SKY SPORT ARENA HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1167171&extension=ts&play_token=4Isk7QiGl2
-#EXTINF:-1 tvg-id="177696" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃IT┃ SKY SPORT ARENA FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=177696&extension=ts&play_token=em8LQQz064
-#EXTINF:-1 tvg-id="177686" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃IT┃ SKY SPORT ARENA HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=177686&extension=ts&play_token=1d2hzVZFXT
-#EXTINF:-1 tvg-id="1167171" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃IT┃ SKY SPORT ARENA HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1167171&extension=ts&play_token=iiRaKpJwo7
-#EXTINF:-1 tvg-id="177696" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃IT┃ SKY SPORT ARENA FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=177696&extension=ts&play_token=qa96ua0Vb7
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=118459&extension=ts&play_token=sdwfdHaN4r
 #EXTINF:-1 tvg-id="1921635" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/FINLAND/1921635.png",01/09 02:00 AM | Aston Villa vs Arsenal (FI| V SPORT PREMIUM ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1921635&extension=ts&play_token=7Xy4H5ppEi
-#EXTINF:-1 tvg-id="1608071" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",01/09 02:00 AM | Aston Villa vs Arsenal (4K| SKY SPORTS MAIN EVENTS UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1608071&extension=ts&play_token=n764fk7SuH
 #EXTINF:-1 tvg-id="811941" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/BELGIUMNEW/PLAYSPORTS1.png",01/09 02:00 AM | Aston Villa vs Arsenal (BE| PLAY SPORTS 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
@@ -1929,41 +1869,6 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=961106&exte
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=961122&extension=ts&play_token=FV3S1gZaAC
-#EXTINF:-1 tvg-id="1432157" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSPRIME.png",01/09 02:00 AM | Aston Villa vs Arsenal (GR| NOVASPORTS PRIME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1432157&extension=ts&play_token=t1WPE5nqxs
-#EXTINF:-1 tvg-id="1142146" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃GR┃ NOVA SPORTS PRIME FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1142146&extension=ts&play_token=CazUcn3ISC
-#EXTINF:-1 tvg-id="1874" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃GR┃ NOVA SPORTS PRIME HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1874&extension=ts&play_token=fPkeDyuxui
-#EXTINF:-1 tvg-id="1142146" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃GR┃ NOVA SPORTS PRIME FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1142146&extension=ts&play_token=QiXC9hvj3L
-#EXTINF:-1 tvg-id="1874" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃GR┃ NOVA SPORTS PRIME HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1874&extension=ts&play_token=71lZLrtLUo
-#EXTINF:-1 tvg-id="1142146" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃GR┃ NOVA SPORTS PRIME FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1142146&extension=ts&play_token=iBlaH91d4X
-#EXTINF:-1 tvg-id="1874" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃GR┃ NOVA SPORTS PRIME HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1874&extension=ts&play_token=t0t73HswqP
 #EXTINF:-1 tvg-id="913454" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picons.cmshulk.com/picons/913454.png",01/09 02:00 AM | Aston Villa vs Arsenal (TR| BEIN SPORTS 3 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
@@ -2044,31 +1949,111 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=988876&exte
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=988883&extension=ts&play_token=CRjTg31plX
-#EXTINF:-1 tvg-id="1862038" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://picons.cmshulk.com/picons/arenasport1.png",01/09 02:00 AM | Aston Villa vs Arsenal (HR| ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTINF:-1 tvg-id="1432157" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSPRIME.png",01/09 02:00 AM | Aston Villa vs Arsenal (GR| NOVASPORTS PRIME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1862038&extension=ts&play_token=sEvbKjCE19
-#EXTINF:-1 tvg-id="110737" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT1.png",01/09 02:00 AM | Aston Villa vs Arsenal (HR| ARENA SPORT 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=110737&extension=ts&play_token=Gbm0pYipvW
-#EXTINF:-1 tvg-id="1115" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃HR┃ ARENA SPORT 1 HD)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1432157&extension=ts&play_token=t1WPE5nqxs
+#EXTINF:-1 tvg-id="1142146" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃GR┃ NOVA SPORTS PRIME FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1115&extension=ts&play_token=QJluIf0j64
-#EXTINF:-1 tvg-id="1115" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃HR┃ ARENA SPORT 1 HD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1142146&extension=ts&play_token=CazUcn3ISC
+#EXTINF:-1 tvg-id="1874" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃GR┃ NOVA SPORTS PRIME HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1874&extension=ts&play_token=fPkeDyuxui
+#EXTINF:-1 tvg-id="1142146" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃GR┃ NOVA SPORTS PRIME FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1115&extension=ts&play_token=eLEHHBW2tg
-#EXTINF:-1 tvg-id="1115" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃HR┃ ARENA SPORT 1 HD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1142146&extension=ts&play_token=QiXC9hvj3L
+#EXTINF:-1 tvg-id="1874" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃GR┃ NOVA SPORTS PRIME HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1874&extension=ts&play_token=71lZLrtLUo
+#EXTINF:-1 tvg-id="1142146" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃GR┃ NOVA SPORTS PRIME FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1115&extension=ts&play_token=rCU9mGeWAU
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1142146&extension=ts&play_token=iBlaH91d4X
+#EXTINF:-1 tvg-id="1874" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃GR┃ NOVA SPORTS PRIME HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1874&extension=ts&play_token=t0t73HswqP
+#EXTINF:-1 tvg-id="691275" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picons.cmshulk.com/picons/691275.png",01/09 02:00 AM | Aston Villa vs Arsenal (IT| SKY SPORT ARENA UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=691275&extension=ts&play_token=4CUuq33DJx
+#EXTINF:-1 tvg-id="691274" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picons.cmshulk.com/picons/691274.png",01/09 02:00 AM | Aston Villa vs Arsenal (IT| SKY SPORT ARENA 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=691274&extension=ts&play_token=iTTYc8m8hB
+#EXTINF:-1 tvg-id="691534" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picons.cmshulk.com/picons/691534.png",01/09 02:00 AM | Aston Villa vs Arsenal (IT| SKY SPORT ARENA HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=691534&extension=ts&play_token=aEyBg36rwk
+#EXTINF:-1 tvg-id="692436" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picons.cmshulk.com/picons/692436.png",01/09 02:00 AM | Aston Villa vs Arsenal (IT| SKY SPORT ARENA 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=692436&extension=ts&play_token=70XzxwnkRU
+#EXTINF:-1 tvg-id="692435" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picons.cmshulk.com/picons/692435.png",01/09 02:00 AM | Aston Villa vs Arsenal (IT| SKY SPORT ARENA HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=692435&extension=ts&play_token=bAEddKHEsx
+#EXTINF:-1 tvg-id="177686" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃IT┃ SKY SPORT ARENA HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=177686&extension=ts&play_token=R0SBi5WKF4
+#EXTINF:-1 tvg-id="1167171" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃IT┃ SKY SPORT ARENA HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1167171&extension=ts&play_token=Rs2BpKLb7F
+#EXTINF:-1 tvg-id="177696" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃IT┃ SKY SPORT ARENA FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=177696&extension=ts&play_token=eXGsw0q5X6
+#EXTINF:-1 tvg-id="177686" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃IT┃ SKY SPORT ARENA HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=177686&extension=ts&play_token=azjQVA4IVR
+#EXTINF:-1 tvg-id="1167171" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃IT┃ SKY SPORT ARENA HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1167171&extension=ts&play_token=4Isk7QiGl2
+#EXTINF:-1 tvg-id="177696" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃IT┃ SKY SPORT ARENA FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=177696&extension=ts&play_token=em8LQQz064
+#EXTINF:-1 tvg-id="177686" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃IT┃ SKY SPORT ARENA HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=177686&extension=ts&play_token=1d2hzVZFXT
+#EXTINF:-1 tvg-id="1167171" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃IT┃ SKY SPORT ARENA HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1167171&extension=ts&play_token=iiRaKpJwo7
+#EXTINF:-1 tvg-id="177696" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃IT┃ SKY SPORT ARENA FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=177696&extension=ts&play_token=qa96ua0Vb7
 #EXTINF:-1 tvg-id="798772" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃AR┃ BEIN SPORTS 1 UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
@@ -2144,16 +2129,31 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1030247&ext
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=242242&extension=ts&play_token=oKx5FXY3AZ
-#EXTINF:-1 tvg-id="107495" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",01/09 02:00 AM | Aston Villa vs Arsenal (PT| DAZN 1 HD)
+#EXTINF:-1 tvg-id="1862038" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://picons.cmshulk.com/picons/arenasport1.png",01/09 02:00 AM | Aston Villa vs Arsenal (HR| ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=107495&extension=ts&play_token=NS1DuZNEkf
-#EXTINF:-1 tvg-id="118459" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",01/09 02:00 AM | Aston Villa vs Arsenal (PT| DAZN 1 HEVC)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1862038&extension=ts&play_token=sEvbKjCE19
+#EXTINF:-1 tvg-id="110737" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT1.png",01/09 02:00 AM | Aston Villa vs Arsenal (HR| ARENA SPORT 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=118459&extension=ts&play_token=sdwfdHaN4r
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=110737&extension=ts&play_token=Gbm0pYipvW
+#EXTINF:-1 tvg-id="1115" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃HR┃ ARENA SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1115&extension=ts&play_token=QJluIf0j64
+#EXTINF:-1 tvg-id="1115" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃HR┃ ARENA SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1115&extension=ts&play_token=eLEHHBW2tg
+#EXTINF:-1 tvg-id="1115" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",01/09 02:00 AM | Aston Villa vs Arsenal (┃HR┃ ARENA SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1115&extension=ts&play_token=rCU9mGeWAU
 #EXTINF:-1 tvg-id="45235" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (UK| PREMIER SPORTS 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
@@ -2304,21 +2304,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=163607&exte
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=238264&extension=ts&play_token=hWQ0dJ5vBH
-#EXTINF:-1 tvg-id="833946" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃IE┃ PREMIER SPORTS 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=833946&extension=ts&play_token=Tba4Ku2Vjg
-#EXTINF:-1 tvg-id="833946" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃IE┃ PREMIER SPORTS 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=833946&extension=ts&play_token=vXyLQ1GDVw
-#EXTINF:-1 tvg-id="833946" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃IE┃ PREMIER SPORTS 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=833946&extension=ts&play_token=NeI9UXnGBD
 #EXTINF:-1 tvg-id="858554" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/espn.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃USA┃ ESPN HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
@@ -2334,6 +2319,21 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858554&exte
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=858554&extension=ts&play_token=66kAtBe1OV
+#EXTINF:-1 tvg-id="833946" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃IE┃ PREMIER SPORTS 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=833946&extension=ts&play_token=Tba4Ku2Vjg
+#EXTINF:-1 tvg-id="833946" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃IE┃ PREMIER SPORTS 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=833946&extension=ts&play_token=vXyLQ1GDVw
+#EXTINF:-1 tvg-id="833946" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃IE┃ PREMIER SPORTS 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=833946&extension=ts&play_token=NeI9UXnGBD
 #EXTINF:-1 tvg-id="944686" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRALIA/AU AUSTRALIA LOGOS/BEIN SPORTS 2.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃AU┃ BEIN SPORTS 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
@@ -2349,71 +2349,6 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=944686&exte
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=944686&extension=ts&play_token=amVTjnn48c
-#EXTINF:-1 tvg-id="107494" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (PT| DAZN 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=107494&extension=ts&play_token=JGp0YMUeFY
-#EXTINF:-1 tvg-id="118458" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (PT| DAZN 2 HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=118458&extension=ts&play_token=IuYZsuwQ4b
-#EXTINF:-1 tvg-id="119011" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (ES| LALIGA TV BAR HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119011&extension=ts&play_token=BFZyhgPWdk
-#EXTINF:-1 tvg-id="1510757" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (ES| LALIGA TV BAR FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510757&extension=ts&play_token=4vQZGlmERg
-#EXTINF:-1 tvg-id="107591" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (ES| LALIGA TV BAR HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=107591&extension=ts&play_token=uq6o1w4X9v
-#EXTINF:-1 tvg-id="1438027" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picons.cmshulk.com/picons/1438027.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (CZ| NOVA SPORT 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1438027&extension=ts&play_token=z1qCg3xcPk
-#EXTINF:-1 tvg-id="2112824" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/CZECHNEW/NOVASPORT4.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (CZ| NOVA SPORT 4 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2112824&extension=ts&play_token=bmoSwElxXn
-#EXTINF:-1 tvg-id="961104" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/CZECHREPUBLIC/SPORTOVNÍ/NOVA SPORT 4.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃CZ┃ NOVA SPORT 4 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=961104&extension=ts&play_token=0r8q4Pl2fZ
-#EXTINF:-1 tvg-id="961104" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/CZECHREPUBLIC/SPORTOVNÍ/NOVA SPORT 4.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃CZ┃ NOVA SPORT 4 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=961104&extension=ts&play_token=1jQJ9ZZ0jh
-#EXTINF:-1 tvg-id="961104" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/CZECHREPUBLIC/SPORTOVNÍ/NOVA SPORT 4.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃CZ┃ NOVA SPORT 4 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=961104&extension=ts&play_token=McnL9rdVx0
-#EXTINF:-1 tvg-id="1444092" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI 4K.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ DIGI 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444092&extension=ts&play_token=4dBdE7NbVl
-#EXTINF:-1 tvg-id="1444092" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI 4K.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ DIGI 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444092&extension=ts&play_token=7beYW4JWIB
-#EXTINF:-1 tvg-id="1444092" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI 4K.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ DIGI 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444092&extension=ts&play_token=ylHxJ2vVhE
 #EXTINF:-1 tvg-id="798773" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃AR┃ BEIN SPORTS 2 UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
@@ -2489,71 +2424,6 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1030248&ext
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=242241&extension=ts&play_token=x3BVvo9hgW
-#EXTINF:-1 tvg-id="208007" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picons.cmshulk.com/picons/208007.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (RO| PRIMA SPORT 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=208007&extension=ts&play_token=eUwyOXUgog
-#EXTINF:-1 tvg-id="92488" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picons.cmshulk.com/picons/92488.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (RO| PRIMA SPORT 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=92488&extension=ts&play_token=JwrWgrm08Y
-#EXTINF:-1 tvg-id="92477" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picons.cmshulk.com/picons/92477.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (RO| PRIMA SPORT 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=92477&extension=ts&play_token=a0P3GfiakR
-#EXTINF:-1 tvg-id="56039" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picons.cmshulk.com/picons/56039.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (RO| PRIMA SPORT 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=56039&extension=ts&play_token=WYaYXYmzlx
-#EXTINF:-1 tvg-id="1444102" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 2.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ PRIMA SPORT 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444102&extension=ts&play_token=1ziaCHQPE9
-#EXTINF:-1 tvg-id="1444101" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 2.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ PRIMA SPORT 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444101&extension=ts&play_token=WFkB3pK0Ep
-#EXTINF:-1 tvg-id="1444103" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 2.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ PRIMA SPORT 2 FIBRA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444103&extension=ts&play_token=WS1QTGQFZE
-#EXTINF:-1 tvg-id="1444102" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 2.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ PRIMA SPORT 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444102&extension=ts&play_token=iQjni1gQRO
-#EXTINF:-1 tvg-id="1444101" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 2.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ PRIMA SPORT 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444101&extension=ts&play_token=17N0YXmI6W
-#EXTINF:-1 tvg-id="1444103" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 2.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ PRIMA SPORT 2 FIBRA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444103&extension=ts&play_token=kC213N0YCZ
-#EXTINF:-1 tvg-id="1444102" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 2.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ PRIMA SPORT 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444102&extension=ts&play_token=yXixnEKlot
-#EXTINF:-1 tvg-id="1444101" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 2.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ PRIMA SPORT 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444101&extension=ts&play_token=Jx9X5Cdop4
-#EXTINF:-1 tvg-id="1444103" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 2.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ PRIMA SPORT 2 FIBRA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444103&extension=ts&play_token=LExEH61Q6y
 #EXTINF:-1 tvg-id="1432193" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/COSMOTESPORT6.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (GR|COSMOTE SPORT 6 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
@@ -2624,6 +2494,136 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1652476&ext
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=336&extension=ts&play_token=y0SfaCOemF
+#EXTINF:-1 tvg-id="107494" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (PT| DAZN 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=107494&extension=ts&play_token=JGp0YMUeFY
+#EXTINF:-1 tvg-id="118458" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (PT| DAZN 2 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=118458&extension=ts&play_token=IuYZsuwQ4b
+#EXTINF:-1 tvg-id="1438027" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picons.cmshulk.com/picons/1438027.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (CZ| NOVA SPORT 4 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1438027&extension=ts&play_token=z1qCg3xcPk
+#EXTINF:-1 tvg-id="2112824" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/CZECHNEW/NOVASPORT4.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (CZ| NOVA SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2112824&extension=ts&play_token=bmoSwElxXn
+#EXTINF:-1 tvg-id="961104" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/CZECHREPUBLIC/SPORTOVNÍ/NOVA SPORT 4.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃CZ┃ NOVA SPORT 4 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=961104&extension=ts&play_token=0r8q4Pl2fZ
+#EXTINF:-1 tvg-id="961104" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/CZECHREPUBLIC/SPORTOVNÍ/NOVA SPORT 4.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃CZ┃ NOVA SPORT 4 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=961104&extension=ts&play_token=1jQJ9ZZ0jh
+#EXTINF:-1 tvg-id="961104" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/CZECHREPUBLIC/SPORTOVNÍ/NOVA SPORT 4.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃CZ┃ NOVA SPORT 4 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=961104&extension=ts&play_token=McnL9rdVx0
+#EXTINF:-1 tvg-id="119011" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (ES| LALIGA TV BAR HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119011&extension=ts&play_token=BFZyhgPWdk
+#EXTINF:-1 tvg-id="1510757" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (ES| LALIGA TV BAR FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510757&extension=ts&play_token=4vQZGlmERg
+#EXTINF:-1 tvg-id="107591" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (ES| LALIGA TV BAR HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=107591&extension=ts&play_token=uq6o1w4X9v
+#EXTINF:-1 tvg-id="208007" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picons.cmshulk.com/picons/208007.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (RO| PRIMA SPORT 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=208007&extension=ts&play_token=eUwyOXUgog
+#EXTINF:-1 tvg-id="92488" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picons.cmshulk.com/picons/92488.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (RO| PRIMA SPORT 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=92488&extension=ts&play_token=JwrWgrm08Y
+#EXTINF:-1 tvg-id="92477" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picons.cmshulk.com/picons/92477.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (RO| PRIMA SPORT 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=92477&extension=ts&play_token=a0P3GfiakR
+#EXTINF:-1 tvg-id="56039" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picons.cmshulk.com/picons/56039.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (RO| PRIMA SPORT 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=56039&extension=ts&play_token=WYaYXYmzlx
+#EXTINF:-1 tvg-id="1444102" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 2.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ PRIMA SPORT 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444102&extension=ts&play_token=1ziaCHQPE9
+#EXTINF:-1 tvg-id="1444101" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 2.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ PRIMA SPORT 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444101&extension=ts&play_token=WFkB3pK0Ep
+#EXTINF:-1 tvg-id="1444103" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 2.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ PRIMA SPORT 2 FIBRA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444103&extension=ts&play_token=WS1QTGQFZE
+#EXTINF:-1 tvg-id="1444102" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 2.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ PRIMA SPORT 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444102&extension=ts&play_token=iQjni1gQRO
+#EXTINF:-1 tvg-id="1444101" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 2.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ PRIMA SPORT 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444101&extension=ts&play_token=17N0YXmI6W
+#EXTINF:-1 tvg-id="1444103" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 2.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ PRIMA SPORT 2 FIBRA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444103&extension=ts&play_token=kC213N0YCZ
+#EXTINF:-1 tvg-id="1444102" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 2.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ PRIMA SPORT 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444102&extension=ts&play_token=yXixnEKlot
+#EXTINF:-1 tvg-id="1444101" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 2.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ PRIMA SPORT 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444101&extension=ts&play_token=Jx9X5Cdop4
+#EXTINF:-1 tvg-id="1444103" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/PRIMA SPORT 2.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ PRIMA SPORT 2 FIBRA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444103&extension=ts&play_token=LExEH61Q6y
+#EXTINF:-1 tvg-id="1444092" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI 4K.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ DIGI 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 94AB313AAC2C11D57704C780623B90EE
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444092&extension=ts&play_token=4dBdE7NbVl
+#EXTINF:-1 tvg-id="1444092" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI 4K.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ DIGI 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EDF9D8A628F3BA888A7239AD2C5416D5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444092&extension=ts&play_token=7beYW4JWIB
+#EXTINF:-1 tvg-id="1444092" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI 4K.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (┃RO┃ DIGI 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DFB63D13CD8FA439E63942941682E61
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1444092&extension=ts&play_token=ylHxJ2vVhE
 #EXTINF:-1 tvg-id="207917" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picons.cmshulk.com/picons/207917.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano (RO|  DIGI SPORT 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT

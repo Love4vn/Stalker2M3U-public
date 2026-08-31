@@ -1,121 +1,191 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2048863" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",31/08 11:30 PM | Lecce vs. Roma Lega Serie A | 8K GB: DAZN 66
+#EXTINF:-1 tvg-id="2048923" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",31/08 11:30 PM | Lecce vs. Roma Lega Serie A | 8K GB: DAZN 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2048863&extension=ts&play_token=OvXKCizDcQ
-#EXTINF:-1 tvg-id="2054942" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",31/08 11:30 PM | Lecce vs. Roma all | 8K DE: SOCCER 110
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2048923&extension=ts&play_token=8bKeBmCTqa
+#EXTINF:-1 tvg-id="2113105" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",31/08 11:30 PM | Lecce vs. Roma all | 8K FR: SOCCER 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054942&extension=ts&play_token=IS1EEoKSyc
-#EXTINF:-1 tvg-id="2113023" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",31/08 11:30 PM | Lecce vs. Roma all | 8K FR: SOCCER 88
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113105&extension=ts&play_token=kB6k2w8eG3
+#EXTINF:-1 tvg-id="2072546" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",31/08 11:30 PM | Lecce vs. Roma all | 8K ES: SOCCER 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113023&extension=ts&play_token=Ta9igQvdXK
-#EXTINF:-1 tvg-id="2072473" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",31/08 11:30 PM | Lecce vs. Roma all | 8K ES: SOCCER 80
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072546&extension=ts&play_token=h870auIzXa
+#EXTINF:-1 tvg-id="1992266" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",31/08 11:30 PM | Serie A: Lecce vs AS Roma @ :Telia FI 02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072473&extension=ts&play_token=X20X0RCzzS
-#EXTINF:-1 tvg-id="2048860" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",01/09 01:45 AM | Atalanta vs. Bologna Lega Serie A | 8K GB: DAZN 69
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992266&extension=ts&play_token=2Gz6sp7Y6j
+#EXTINF:-1 tvg-id="2048920" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",01/09 01:45 AM | Atalanta vs. Bologna Lega Serie A | 8K GB: DAZN 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2048860&extension=ts&play_token=1kwOCsW6Qw
-#EXTINF:-1 tvg-id="2054941" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",01/09 01:45 AM | Atalanta vs. Bologna all | 8K DE: SOCCER 111
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2048920&extension=ts&play_token=CMbjUUsvOV
+#EXTINF:-1 tvg-id="2055043" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",01/09 01:45 AM | Atalanta vs. Bologna all | 8K DE: SOCCER 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054941&extension=ts&play_token=PhTCPl7p8H
-#EXTINF:-1 tvg-id="2112984" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",01/09 01:45 AM | Atalanta vs. Bologna all | 8K FR: SOCCER 127
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055043&extension=ts&play_token=KolIYY35QV
+#EXTINF:-1 tvg-id="2113107" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",01/09 01:45 AM | Atalanta vs. Bologna all | 8K FR: SOCCER 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2112984&extension=ts&play_token=2G8d0rcj7j
-#EXTINF:-1 tvg-id="2072475" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",01/09 01:45 AM | Atalanta vs. Bologna all | 8K ES: SOCCER 78
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113107&extension=ts&play_token=vNCiBDXzts
+#EXTINF:-1 tvg-id="2072547" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",01/09 01:45 AM | Atalanta vs. Bologna all | 8K ES: SOCCER 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072475&extension=ts&play_token=te4LfEDgr4
-#EXTINF:-1 tvg-id="1592468" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",01/09 02:00 AM | ASTON VILLA ARSENAL (NL) 8K NL: VIAPLAY 24
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072547&extension=ts&play_token=g3wJryX1nE
+#EXTINF:-1 tvg-id="1992263" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",01/09 01:45 AM | Serie A: Atalanta vs Bologna @ :Telia FI 05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592468&extension=ts&play_token=zfadnMVPZo
-#EXTINF:-1 tvg-id="2058490" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",01/09 02:00 AM | Villa vs. Arsenal all | 8K NL: SOCCER 58
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992263&extension=ts&play_token=Tj7rSHS7ul
+#EXTINF:-1 tvg-id="1592447" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",01/09 02:00 AM | ASTON VILLA ARSENAL (NL) 8K NL: VIAPLAY 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058490&extension=ts&play_token=gbYiUCumux
-#EXTINF:-1 tvg-id="2054947" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",01/09 02:00 AM | Villa vs. Arsenal all | 8K DE: SOCCER 105
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592447&extension=ts&play_token=ARrTMLVGhE
+#EXTINF:-1 tvg-id="2058546" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",01/09 02:00 AM | Villa vs. Arsenal all | 8K NL: SOCCER 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054947&extension=ts&play_token=C337n0rh0K
-#EXTINF:-1 tvg-id="2072476" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",01/09 02:00 AM | Villa vs. Arsenal all | 8K ES: SOCCER 77
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058546&extension=ts&play_token=QnLSciypWZ
+#EXTINF:-1 tvg-id="2055047" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",01/09 02:00 AM | Villa vs. Arsenal all | 8K DE: SOCCER 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072476&extension=ts&play_token=7N2vawcdLB
-#EXTINF:-1 tvg-id="2046602" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",01/09 02:00 AM | Aston Villa x Arsenal | 8K PT: DAZN 3
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055047&extension=ts&play_token=I2I6u77PEx
+#EXTINF:-1 tvg-id="2072548" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",01/09 02:00 AM | Villa vs. Arsenal all | 8K ES: SOCCER 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046602&extension=ts&play_token=aIfKyprHq8
-#EXTINF:-1 tvg-id="2021182" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",01/09 02:00 AM | ASTON VILLA ARSENAL (SE) 8K SE: PLAY+ 66
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072548&extension=ts&play_token=dnht0CdwwC
+#EXTINF:-1 tvg-id="2046581" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",01/09 02:00 AM | Aston Villa x Arsenal | 8K PT: DAZN 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021182&extension=ts&play_token=byZmA5tpDx
-#EXTINF:-1 tvg-id="2016231" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",01/09 02:00 AM | ASTON VILLA ARSENAL (SE) 8K SE: VIAPLAY 48
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046581&extension=ts&play_token=WJHtH1EbD8
+#EXTINF:-1 tvg-id="2021228" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",01/09 02:00 AM | ASTON VILLA ARSENAL (SE) 8K SE: PLAY+ 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016231&extension=ts&play_token=NMY7aP5giD
-#EXTINF:-1 tvg-id="2037333" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",01/09 02:00 AM | ASTON VILLA ARSENAL (DK) 8K DK: VIAPLAY 45
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021228&extension=ts&play_token=VyfswxUkIF
+#EXTINF:-1 tvg-id="2016275" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",01/09 02:00 AM | ASTON VILLA ARSENAL (SE) 8K SE: VIAPLAY 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037333&extension=ts&play_token=OfTORaVQHQ
-#EXTINF:-1 tvg-id="1735528" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",01/09 02:00 AM | ASTON VILLA ARSENAL (NO) 8K NO: VIAPLAY 50
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016275&extension=ts&play_token=sSFXr5JgQh
+#EXTINF:-1 tvg-id="2070143" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",01/09 02:00 AM | ASTON VILLA ARSENAL (DK) 8K DK: VIAPLAY 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735528&extension=ts&play_token=YeY3sSpKCb
-#EXTINF:-1 tvg-id="2037434" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",01/09 02:00 AM | VALIOLIIGA ASTON VILLA ARSENAL (FI) 8K FI: VIAPLAY 46
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2070143&extension=ts&play_token=TyE0alLIeX
+#EXTINF:-1 tvg-id="2037371" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",01/09 02:00 AM | ASTON VILLA ARSENAL (DK) 8K DK: VIAPLAY 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037434&extension=ts&play_token=e3cW15ySsR
-#EXTINF:-1 tvg-id="2054948" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",01/09 02:30 AM | Barcelona vs. Rayo Vallecano all | 8K DE: SOCCER 104
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037371&extension=ts&play_token=SqlVIEmixi
+#EXTINF:-1 tvg-id="1735574" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",01/09 02:00 AM | ASTON VILLA ARSENAL (NO) 8K NO: VIAPLAY 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054948&extension=ts&play_token=2xzN3j0uc2
-#EXTINF:-1 tvg-id="2112985" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",01/09 02:30 AM | Barcelona vs. Rayo Vallecano all | 8K FR: SOCCER 126
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735574&extension=ts&play_token=m512bwr8DW
+#EXTINF:-1 tvg-id="2037477" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",01/09 02:00 AM | VALIOLIIGA ASTON VILLA ARSENAL (FI) 8K FI: VIAPLAY 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2112985&extension=ts&play_token=m6WVGNnMYD
-#EXTINF:-1 tvg-id="2072477" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",01/09 02:30 AM | FC Barcelona Rayo Vallecano + El Post all | 8K ES: SOCCER 76
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037477&extension=ts&play_token=K4zNPg5AbZ
+#EXTINF:-1 tvg-id="2025569" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",01/09 02:00 AM | Aston Villa vs Arsenal @ :Viaplay NL 02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072477&extension=ts&play_token=3VhBRJ9iVE
-#EXTINF:-1 tvg-id="2046600" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",01/09 02:30 AM | Barcelona x Rayo Vallecano | 8K PT: DAZN 5
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2025569&extension=ts&play_token=RLhRCcTzw5
+#EXTINF:-1 tvg-id="2026530" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MAX-MAX.png",01/09 02:00 AM | Fútbol: Aston Villa vs Arsenal @ :MAX ES 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046600&extension=ts&play_token=RrjgiWoWwe
-#EXTINF:-1 tvg-id="2021180" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",01/09 02:30 AM | BARCELONA RAYO VALLECANO (SE) 8K SE: PLAY+ 68
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2026530&extension=ts&play_token=VrnrZZx1Ee
+#EXTINF:-1 tvg-id="1991524" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",01/09 02:00 AM | Aston Villa vs Arsenal @ :TeliaPlay SE 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021180&extension=ts&play_token=CR5QoicyDM
-#EXTINF:-1 tvg-id="1934515" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",01/09 02:30 AM | R03: BARCELONA RAYO VALLECANO DK (DK) 8K DK: DISNEY+ 21
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1991524&extension=ts&play_token=EzYFxOEV7E
+#EXTINF:-1 tvg-id="1990197" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",01/09 02:00 AM | Aston Villa vs Arsenal @ :Viaplay SE 04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7D4D7242F6914A9280E34A7A99A6CC92
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1934515&extension=ts&play_token=8opbVYe0sK
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990197&extension=ts&play_token=0od5k9asWX
+#EXTINF:-1 tvg-id="1996288" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",01/09 02:00 AM | Aston Villa vs Arsenal @ :Viaplay DK 08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996288&extension=ts&play_token=gjVpuhCxQE
+#EXTINF:-1 tvg-id="1992114" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",01/09 02:00 AM | Aston Villa vs Arsenal @ :Viaplay FI 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992114&extension=ts&play_token=JLsVMgT3Gi
+#EXTINF:-1 tvg-id="1992262" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",01/09 02:00 AM | Aston Villa vs Arsenal @ :Telia FI 06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992262&extension=ts&play_token=TEEg73YRT4
+#EXTINF:-1 tvg-id="2055048" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",01/09 02:30 AM | Barcelona vs. Rayo Vallecano all | 8K DE: SOCCER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055048&extension=ts&play_token=drJYAyaVgy
+#EXTINF:-1 tvg-id="2113109" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",01/09 02:30 AM | Barcelona vs. Rayo Vallecano all | 8K FR: SOCCER 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113109&extension=ts&play_token=NTI3o0fdWS
+#EXTINF:-1 tvg-id="2072549" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",01/09 02:30 AM | FC Barcelona Rayo Vallecano + El Post all | 8K ES: SOCCER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072549&extension=ts&play_token=0fXXKIPT2O
+#EXTINF:-1 tvg-id="2046579" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",01/09 02:30 AM | Barcelona x Rayo Vallecano | 8K PT: DAZN 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046579&extension=ts&play_token=yCvRdv8kR4
+#EXTINF:-1 tvg-id="2021226" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",01/09 02:30 AM | BARCELONA RAYO VALLECANO (SE) 8K SE: PLAY+ 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021226&extension=ts&play_token=qGv9EQHH0A
+#EXTINF:-1 tvg-id="1688637" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",01/09 02:30 AM | BARCELONA RAYO VALLECANO (SE) 8K SE: DISNEY+ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1688637&extension=ts&play_token=AiDMGPIuc0
+#EXTINF:-1 tvg-id="1934533" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",01/09 02:30 AM | R03: BARCELONA RAYO VALLECANO DK (DK) 8K DK: DISNEY+ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1934533&extension=ts&play_token=Rpzw7S93eq
+#EXTINF:-1 tvg-id="1605786" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",01/09 02:30 AM | BARCELONA – RAYO VALLECANO (NO) 8K NO: TV2 PLAY 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1605786&extension=ts&play_token=acaIdsN87V
+#EXTINF:-1 tvg-id="1735572" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",01/09 02:30 AM | BARCELONA RAYO VALLECANO (NO) 8K NO: VIAPLAY 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735572&extension=ts&play_token=0JmGrGwm0h
+#EXTINF:-1 tvg-id="2026531" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MAX-MAX.png",01/09 02:30 AM | Fútbol: FC Barcelona vs Rayo Vallecano @ :MAX ES 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2026531&extension=ts&play_token=NI1NjzeaKY
+#EXTINF:-1 tvg-id="1991522" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",01/09 02:30 AM | Barcelona vs Rayo Vallecano @ :TeliaPlay SE 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E496164AD616A35F4429D4F4258B603C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1991522&extension=ts&play_token=5RDQ7dDj2Y

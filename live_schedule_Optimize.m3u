@@ -1,76 +1,56 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1032476" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png",02/09 06:00 AM | Day 3 Rd 1(B) (UK| NOW HK NOW SPORTS 4)
+#EXTINF:-1 tvg-id="1032476" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png",02/09 10:30 PM | Day 4 Rd 2(A) (UK| NOW HK NOW SPORTS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4D69B5A7F860E65CB5C1B18D24FCF412
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1032476&extension=ts&play_token=LvViML12Zc
-#EXTINF:-1 tvg-id="382840" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",02/09 06:00 AM | Day 3 Rd 1(B) (┃HK┃ NOW SPORTS 4)
+#EXTVLCOPT:http-header=Authorization: Bearer E6E11B48DB0F992D5A72CE561C382F0B
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1032476&extension=ts&play_token=AYZ2tXqAYg
+#EXTINF:-1 tvg-id="382840" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",02/09 10:30 PM | Day 4 Rd 2(A) (┃HK┃ NOW SPORTS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A158D746598375E3BA5BC4CA085B9720
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=382840&extension=ts&play_token=idHilGfEBL
-#EXTINF:-1 tvg-id="382840" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",02/09 06:00 AM | Day 3 Rd 1(B) (┃HK┃ NOW SPORTS 4)
+#EXTVLCOPT:http-header=Authorization: Bearer 8A2EAFDAC4F7B2C4F9B2D934699DFF36
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=382840&extension=ts&play_token=3evCF6ovms
+#EXTINF:-1 tvg-id="382840" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",02/09 10:30 PM | Day 4 Rd 2(A) (┃HK┃ NOW SPORTS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 68F9A7210DD215671CF11AD60D28E5BA
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=382840&extension=ts&play_token=HxfaggBSw6
-#EXTINF:-1 tvg-id="382840" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",02/09 06:00 AM | Day 3 Rd 1(B) (┃HK┃ NOW SPORTS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AE1F9060DCBF8A79539DFA0B69F7C9E0
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=382840&extension=ts&play_token=87OyzFkrJp
-#EXTINF:-1 tvg-id="1032474" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png",02/09 06:00 AM | Day 3 Rd 1(B) (UK| NOW HK NOW SPORTS 6)
+#EXTVLCOPT:http-header=Authorization: Bearer 8E9E4F836A30657C03B6F1A22A2CC9D3
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=382840&extension=ts&play_token=IfIiwbFLvU
+#EXTINF:-1 tvg-id="1032474" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png",02/09 10:30 PM | Day 4 Rd 2(A) (UK| NOW HK NOW SPORTS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4D69B5A7F860E65CB5C1B18D24FCF412
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1032474&extension=ts&play_token=nNyYERAzVW
-#EXTINF:-1 tvg-id="382838" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",02/09 06:00 AM | Day 3 Rd 1(B) (┃HK┃ NOW SPORTS 6)
+#EXTVLCOPT:http-header=Authorization: Bearer E6E11B48DB0F992D5A72CE561C382F0B
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1032474&extension=ts&play_token=AEEGLzg7CR
+#EXTINF:-1 tvg-id="382838" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",02/09 10:30 PM | Day 4 Rd 2(A) (┃HK┃ NOW SPORTS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A158D746598375E3BA5BC4CA085B9720
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=382838&extension=ts&play_token=0Ew8yvnjRM
-#EXTINF:-1 tvg-id="382838" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",02/09 06:00 AM | Day 3 Rd 1(B) (┃HK┃ NOW SPORTS 6)
+#EXTVLCOPT:http-header=Authorization: Bearer 8A2EAFDAC4F7B2C4F9B2D934699DFF36
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=382838&extension=ts&play_token=UmZJMHOo4S
+#EXTINF:-1 tvg-id="382838" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",02/09 10:30 PM | Day 4 Rd 2(A) (┃HK┃ NOW SPORTS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 68F9A7210DD215671CF11AD60D28E5BA
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=382838&extension=ts&play_token=a7WFEcnXOS
-#EXTINF:-1 tvg-id="382838" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",02/09 06:00 AM | Day 3 Rd 1(B) (┃HK┃ NOW SPORTS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AE1F9060DCBF8A79539DFA0B69F7C9E0
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=382838&extension=ts&play_token=vzzBSQKJIN
-#EXTINF:-1 tvg-id="1142146" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",02/09 06:00 AM | Day 3 Rd 1(B) (┃GR┃ NOVA SPORTS PRIME FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 8E9E4F836A30657C03B6F1A22A2CC9D3
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=382838&extension=ts&play_token=Ylex7Tbk8y
+#EXTINF:-1 tvg-id="1142146" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",02/09 10:30 PM | Day 4 Rd 2(A) (┃GR┃ NOVA SPORTS PRIME FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A158D746598375E3BA5BC4CA085B9720
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1142146&extension=ts&play_token=Sa5H9rxThg
-#EXTINF:-1 tvg-id="1874" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",02/09 06:00 AM | Day 3 Rd 1(B) (┃GR┃ NOVA SPORTS PRIME HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 8A2EAFDAC4F7B2C4F9B2D934699DFF36
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1142146&extension=ts&play_token=axCdpQ2O89
+#EXTINF:-1 tvg-id="1874" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",02/09 10:30 PM | Day 4 Rd 2(A) (┃GR┃ NOVA SPORTS PRIME HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A158D746598375E3BA5BC4CA085B9720
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1874&extension=ts&play_token=uL1e87PqSX
-#EXTINF:-1 tvg-id="1142146" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",02/09 06:00 AM | Day 3 Rd 1(B) (┃GR┃ NOVA SPORTS PRIME FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 8A2EAFDAC4F7B2C4F9B2D934699DFF36
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1874&extension=ts&play_token=TCF451Lcg3
+#EXTINF:-1 tvg-id="1142146" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",02/09 10:30 PM | Day 4 Rd 2(A) (┃GR┃ NOVA SPORTS PRIME FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 68F9A7210DD215671CF11AD60D28E5BA
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1142146&extension=ts&play_token=N4uBejGwG7
-#EXTINF:-1 tvg-id="1874" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",02/09 06:00 AM | Day 3 Rd 1(B) (┃GR┃ NOVA SPORTS PRIME HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 8E9E4F836A30657C03B6F1A22A2CC9D3
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1142146&extension=ts&play_token=yPYFycSvNk
+#EXTINF:-1 tvg-id="1874" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",02/09 10:30 PM | Day 4 Rd 2(A) (┃GR┃ NOVA SPORTS PRIME HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 68F9A7210DD215671CF11AD60D28E5BA
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1874&extension=ts&play_token=RKggoHM84H
-#EXTINF:-1 tvg-id="1142146" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",02/09 06:00 AM | Day 3 Rd 1(B) (┃GR┃ NOVA SPORTS PRIME FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AE1F9060DCBF8A79539DFA0B69F7C9E0
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1142146&extension=ts&play_token=POzzMJDDvC
-#EXTINF:-1 tvg-id="1874" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",02/09 06:00 AM | Day 3 Rd 1(B) (┃GR┃ NOVA SPORTS PRIME HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AE1F9060DCBF8A79539DFA0B69F7C9E0
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1874&extension=ts&play_token=WUkgA7E4pS
-#EXTINF:-1 tvg-id="1432157" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSPRIME.png",02/09 06:00 AM | Day 3 Rd 1(B) (GR| NOVASPORTS PRIME)
+#EXTVLCOPT:http-header=Authorization: Bearer 8E9E4F836A30657C03B6F1A22A2CC9D3
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1874&extension=ts&play_token=g8dp8iQBFV
+#EXTINF:-1 tvg-id="1432157" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSPRIME.png",02/09 10:30 PM | Day 4 Rd 2(A) (GR| NOVASPORTS PRIME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4D69B5A7F860E65CB5C1B18D24FCF412
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1432157&extension=ts&play_token=Dj1iOO1zdZ
+#EXTVLCOPT:http-header=Authorization: Bearer E6E11B48DB0F992D5A72CE561C382F0B
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1432157&extension=ts&play_token=8U0gOkkk8c

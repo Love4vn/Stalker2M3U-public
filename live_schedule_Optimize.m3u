@@ -39,6 +39,146 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=382838&exte
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=382838&extension=ts&play_token=ZPOL9sDBId
+#EXTINF:-1 tvg-id="107487" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/EUROSPORT2.png",04/09 09:30 PM | Ténis - US Open (PT| EUROSPORT 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=107487&extension=ts&play_token=doNTtBcCmh
+#EXTINF:-1 tvg-id="1604042" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/EUROSPORT2.png",04/09 09:30 PM | Ténis - US Open (PT| EUROSPORT 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1604042&extension=ts&play_token=31TS1FrB7c
+#EXTINF:-1 tvg-id="959441" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 2.png",04/09 09:30 PM | Ténis - US Open (┃PT┃ EUROSPORT 2 FHD HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=959441&extension=ts&play_token=AoBrYuH7fn
+#EXTINF:-1 tvg-id="959442" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 2.png",04/09 09:30 PM | Ténis - US Open (┃PT┃ EUROSPORT 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=959442&extension=ts&play_token=eocv5j3R2R
+#EXTINF:-1 tvg-id="959443" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 2.png",04/09 09:30 PM | Ténis - US Open (┃PT┃ EUROSPORT 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=959443&extension=ts&play_token=iFcU84mcti
+#EXTINF:-1 tvg-id="959444" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 2.png",04/09 09:30 PM | Ténis - US Open (┃PT┃ EUROSPORT 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=959444&extension=ts&play_token=JKnpaiF89C
+#EXTINF:-1 tvg-id="959441" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 2.png",04/09 09:30 PM | Ténis - US Open (┃PT┃ EUROSPORT 2 FHD HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=959441&extension=ts&play_token=J27o4Juczx
+#EXTINF:-1 tvg-id="959442" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 2.png",04/09 09:30 PM | Ténis - US Open (┃PT┃ EUROSPORT 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=959442&extension=ts&play_token=vxATomHD2P
+#EXTINF:-1 tvg-id="959443" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 2.png",04/09 09:30 PM | Ténis - US Open (┃PT┃ EUROSPORT 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=959443&extension=ts&play_token=vsgW30spvX
+#EXTINF:-1 tvg-id="959444" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 2.png",04/09 09:30 PM | Ténis - US Open (┃PT┃ EUROSPORT 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=959444&extension=ts&play_token=EPmTlq6Rt2
+#EXTINF:-1 tvg-id="959441" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 2.png",04/09 09:30 PM | Ténis - US Open (┃PT┃ EUROSPORT 2 FHD HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=959441&extension=ts&play_token=QnPK8JJ6w1
+#EXTINF:-1 tvg-id="959442" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 2.png",04/09 09:30 PM | Ténis - US Open (┃PT┃ EUROSPORT 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=959442&extension=ts&play_token=3Eg0R5SdPW
+#EXTINF:-1 tvg-id="959443" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 2.png",04/09 09:30 PM | Ténis - US Open (┃PT┃ EUROSPORT 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=959443&extension=ts&play_token=jShTyact9B
+#EXTINF:-1 tvg-id="959444" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 2.png",04/09 09:30 PM | Ténis - US Open (┃PT┃ EUROSPORT 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=959444&extension=ts&play_token=oBLPZB1dnV
+#EXTINF:-1 tvg-id="107488" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/EUROSPORT1.png",04/09 10:45 PM | Ténis - US Open (PT| EUROSPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=107488&extension=ts&play_token=pkdSv3iC4J
+#EXTINF:-1 tvg-id="118457" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/EUROSPORT1.png",04/09 10:45 PM | Ténis - US Open (PT| EUROSPORT 1 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=118457&extension=ts&play_token=uEeZbI9wkm
+#EXTINF:-1 tvg-id="959437" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",04/09 10:45 PM | Ténis - US Open (┃PT┃ EUROSPORT 1 FHD HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=959437&extension=ts&play_token=CiVwDyfFjQ
+#EXTINF:-1 tvg-id="959438" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",04/09 10:45 PM | Ténis - US Open (┃PT┃ EUROSPORT 1 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=959438&extension=ts&play_token=5ljIguxJAY
+#EXTINF:-1 tvg-id="959439" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",04/09 10:45 PM | Ténis - US Open (┃PT┃ EUROSPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=959439&extension=ts&play_token=veR1S5Oqul
+#EXTINF:-1 tvg-id="959440" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",04/09 10:45 PM | Ténis - US Open (┃PT┃ EUROSPORT 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=959440&extension=ts&play_token=k2IHbnem2z
+#EXTINF:-1 tvg-id="959437" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",04/09 10:45 PM | Ténis - US Open (┃PT┃ EUROSPORT 1 FHD HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=959437&extension=ts&play_token=3sK8m5PEPC
+#EXTINF:-1 tvg-id="959438" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",04/09 10:45 PM | Ténis - US Open (┃PT┃ EUROSPORT 1 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=959438&extension=ts&play_token=AE9jxzCtKb
+#EXTINF:-1 tvg-id="959439" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",04/09 10:45 PM | Ténis - US Open (┃PT┃ EUROSPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=959439&extension=ts&play_token=nMqeCEb9Xx
+#EXTINF:-1 tvg-id="959440" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",04/09 10:45 PM | Ténis - US Open (┃PT┃ EUROSPORT 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=959440&extension=ts&play_token=QdOmtdgKpy
+#EXTINF:-1 tvg-id="959437" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",04/09 10:45 PM | Ténis - US Open (┃PT┃ EUROSPORT 1 FHD HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=959437&extension=ts&play_token=O867Luq4ja
+#EXTINF:-1 tvg-id="959438" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",04/09 10:45 PM | Ténis - US Open (┃PT┃ EUROSPORT 1 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=959438&extension=ts&play_token=qFiJq3c3Ma
+#EXTINF:-1 tvg-id="959439" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",04/09 10:45 PM | Ténis - US Open (┃PT┃ EUROSPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=959439&extension=ts&play_token=nQq4Kyc9YN
+#EXTINF:-1 tvg-id="959440" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",04/09 10:45 PM | Ténis - US Open (┃PT┃ EUROSPORT 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=959440&extension=ts&play_token=tZB99cSSfy
 #EXTINF:-1 tvg-id="1948624" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",05/09 02:00 AM | Ipswich Town vs Liverpool (4K| NOW SPORTS PREMIER LEAGUE UHD/4K NM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
@@ -59,61 +199,6 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=382836&exte
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=382836&extension=ts&play_token=oBRdo2whMH
-#EXTINF:-1 tvg-id="1905853" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/UK/1905853.png",05/09 02:00 AM | Ipswich Town vs Liverpool (UK-NOWTV| SKY SPORTS MAIN EVENT FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1905853&extension=ts&play_token=Hox4fi0nAU
-#EXTINF:-1 tvg-id="1905852" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/UK/1905852.png",05/09 02:00 AM | Ipswich Town vs Liverpool (UK-NOWTV| SKY SPORTS MAIN EVENT HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1905852&extension=ts&play_token=mze6ldO7xV
-#EXTINF:-1 tvg-id="1641636" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENT.png",05/09 02:00 AM | Ipswich Town vs Liverpool (UK| SKY SPORTS MAIN EVENT UHD/4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1641636&extension=ts&play_token=zYupIaPO6H
-#EXTINF:-1 tvg-id="30496" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://103.176.90.92/images/30496.png",05/09 02:00 AM | Ipswich Town vs Liverpool (UK| SKY SPORTS MAIN EVENT FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=30496&extension=ts&play_token=UjjncGc5jE
-#EXTINF:-1 tvg-id="79476" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://103.176.90.92/images/79476.png",05/09 02:00 AM | Ipswich Town vs Liverpool (UK| SKY SPORTS MAIN EVENT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=79476&extension=ts&play_token=yMbwzkyjUh
-#EXTINF:-1 tvg-id="394553" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃UK┃ SKY SPORTS MAIN EVENT FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=394553&extension=ts&play_token=FwAgyIXm3l
-#EXTINF:-1 tvg-id="1312176" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃UK┃ SKY SPORTS MAIN EVENT HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312176&extension=ts&play_token=M3bRcaECmY
-#EXTINF:-1 tvg-id="394553" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃UK┃ SKY SPORTS MAIN EVENT FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=394553&extension=ts&play_token=fwPVTjrlt3
-#EXTINF:-1 tvg-id="1312176" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃UK┃ SKY SPORTS MAIN EVENT HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312176&extension=ts&play_token=6XEM0j0xXy
-#EXTINF:-1 tvg-id="394553" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃UK┃ SKY SPORTS MAIN EVENT FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=394553&extension=ts&play_token=6CEP48sg5f
-#EXTINF:-1 tvg-id="1312176" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃UK┃ SKY SPORTS MAIN EVENT HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1312176&extension=ts&play_token=tlWyiXQHBf
 #EXTINF:-1 tvg-id="1905844" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/UK/1905844.png",05/09 02:00 AM | Ipswich Town vs Liverpool (UK-NOWTV| SKY SPORTS PREMIER LEAGUE FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
@@ -204,6 +289,61 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=394557&exte
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1312177&extension=ts&play_token=Vsy2qfJTbb
+#EXTINF:-1 tvg-id="1905853" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/UK/1905853.png",05/09 02:00 AM | Ipswich Town vs Liverpool (UK-NOWTV| SKY SPORTS MAIN EVENT FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1905853&extension=ts&play_token=Hox4fi0nAU
+#EXTINF:-1 tvg-id="1905852" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/UK/1905852.png",05/09 02:00 AM | Ipswich Town vs Liverpool (UK-NOWTV| SKY SPORTS MAIN EVENT HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1905852&extension=ts&play_token=mze6ldO7xV
+#EXTINF:-1 tvg-id="1641636" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENT.png",05/09 02:00 AM | Ipswich Town vs Liverpool (UK| SKY SPORTS MAIN EVENT UHD/4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1641636&extension=ts&play_token=zYupIaPO6H
+#EXTINF:-1 tvg-id="30496" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://103.176.90.92/images/30496.png",05/09 02:00 AM | Ipswich Town vs Liverpool (UK| SKY SPORTS MAIN EVENT FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=30496&extension=ts&play_token=UjjncGc5jE
+#EXTINF:-1 tvg-id="79476" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://103.176.90.92/images/79476.png",05/09 02:00 AM | Ipswich Town vs Liverpool (UK| SKY SPORTS MAIN EVENT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=79476&extension=ts&play_token=yMbwzkyjUh
+#EXTINF:-1 tvg-id="394553" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃UK┃ SKY SPORTS MAIN EVENT FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=394553&extension=ts&play_token=FwAgyIXm3l
+#EXTINF:-1 tvg-id="1312176" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃UK┃ SKY SPORTS MAIN EVENT HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312176&extension=ts&play_token=M3bRcaECmY
+#EXTINF:-1 tvg-id="394553" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃UK┃ SKY SPORTS MAIN EVENT FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=394553&extension=ts&play_token=fwPVTjrlt3
+#EXTINF:-1 tvg-id="1312176" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃UK┃ SKY SPORTS MAIN EVENT HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312176&extension=ts&play_token=6XEM0j0xXy
+#EXTINF:-1 tvg-id="394553" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃UK┃ SKY SPORTS MAIN EVENT FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=394553&extension=ts&play_token=6CEP48sg5f
+#EXTINF:-1 tvg-id="1312176" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃UK┃ SKY SPORTS MAIN EVENT HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1312176&extension=ts&play_token=tlWyiXQHBf
 #EXTINF:-1 tvg-id="809372" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT PREMIER LEAGUE HD.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃NZ┃ SKY SPORT PREMIER LEAGUE HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
@@ -219,6 +359,81 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=809372&exte
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=809372&extension=ts&play_token=K69Ki0BfFd
+#EXTINF:-1 tvg-id="107494" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",05/09 02:00 AM | Ipswich Town vs Liverpool (PT| DAZN 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=107494&extension=ts&play_token=Mq5MS4xQMH
+#EXTINF:-1 tvg-id="118458" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",05/09 02:00 AM | Ipswich Town vs Liverpool (PT| DAZN 2 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=118458&extension=ts&play_token=XCsrZEylYn
+#EXTINF:-1 tvg-id="984663" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://103.176.90.92/images/984663.png",05/09 02:00 AM | Ipswich Town vs Liverpool (DE| SKY SPORT PREMIER LEAGUE HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=984663&extension=ts&play_token=gRiEDOAn4a
+#EXTINF:-1 tvg-id="971711" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://103.176.90.92/images/971711.png",05/09 02:00 AM | Ipswich Town vs Liverpool (DE| SKY SPORT PREMIER LEAGUE FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=971711&extension=ts&play_token=oeski13kV2
+#EXTINF:-1 tvg-id="1235927" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://103.176.90.92/images/1235927.png",05/09 02:00 AM | Ipswich Town vs Liverpool (DE| SKY SPORT PREMIER LEAGUE FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1235927&extension=ts&play_token=AQ8GEOrmWN
+#EXTINF:-1 tvg-id="1235920" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://103.176.90.92/images/1235920.png",05/09 02:00 AM | Ipswich Town vs Liverpool (DE| SKY SPORT PREMIER LEAGUE HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1235920&extension=ts&play_token=5bK3Qh6mI4
+#EXTINF:-1 tvg-id="760956" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTPREMIERHD.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃DE┃ SKY SPORT PREMIER LEAGUE RAW)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=760956&extension=ts&play_token=79SF48SC5G
+#EXTINF:-1 tvg-id="1149432" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT PREMIER LEAGUE.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃DE┃ SKY SPORT PREMIER LEAGUE FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1149432&extension=ts&play_token=1DnzMHck8P
+#EXTINF:-1 tvg-id="1149458" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT PREMIER LEAGUE.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃DE┃ SKY SPORT PREMIER LEAGUE HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1149458&extension=ts&play_token=B5MRfNOeU2
+#EXTINF:-1 tvg-id="760956" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTPREMIERHD.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃DE┃ SKY SPORT PREMIER LEAGUE RAW)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=760956&extension=ts&play_token=4tT9G1hcvJ
+#EXTINF:-1 tvg-id="1149432" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT PREMIER LEAGUE.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃DE┃ SKY SPORT PREMIER LEAGUE FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1149432&extension=ts&play_token=ViMtZHWiQg
+#EXTINF:-1 tvg-id="1149458" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT PREMIER LEAGUE.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃DE┃ SKY SPORT PREMIER LEAGUE HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1149458&extension=ts&play_token=A8KTYEvEeY
+#EXTINF:-1 tvg-id="760956" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTPREMIERHD.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃DE┃ SKY SPORT PREMIER LEAGUE RAW)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=760956&extension=ts&play_token=Ie8pyzoVxS
+#EXTINF:-1 tvg-id="1149432" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT PREMIER LEAGUE.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃DE┃ SKY SPORT PREMIER LEAGUE FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1149432&extension=ts&play_token=147L2PHE1U
+#EXTINF:-1 tvg-id="1149458" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT PREMIER LEAGUE.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃DE┃ SKY SPORT PREMIER LEAGUE HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1149458&extension=ts&play_token=aFI4sBp3Oi
 #EXTINF:-1 tvg-id="1862132" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picons.cmshulk.com/picons/arenasport.png",05/09 02:00 AM | Ipswich Town vs Liverpool (SI| ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
@@ -229,31 +444,11 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1862132&ext
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1553352&extension=ts&play_token=XZSs4KCxon
-#EXTINF:-1 tvg-id="1862038" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://picons.cmshulk.com/picons/arenasport1.png",05/09 02:00 AM | Ipswich Town vs Liverpool (HR| ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTINF:-1 tvg-id="1608071" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",05/09 02:00 AM | Ipswich Town vs Liverpool (4K| SKY SPORTS MAIN EVENTS UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1862038&extension=ts&play_token=PWDTXJo1EZ
-#EXTINF:-1 tvg-id="110737" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT1.png",05/09 02:00 AM | Ipswich Town vs Liverpool (HR| ARENA SPORT 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=110737&extension=ts&play_token=XAvhED72GV
-#EXTINF:-1 tvg-id="1115" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃HR┃ ARENA SPORT 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1115&extension=ts&play_token=gP9O9VF3Ut
-#EXTINF:-1 tvg-id="1115" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃HR┃ ARENA SPORT 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1115&extension=ts&play_token=pV5G2aYXMg
-#EXTINF:-1 tvg-id="1115" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃HR┃ ARENA SPORT 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1115&extension=ts&play_token=6qaOvCEsNF
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1608071&extension=ts&play_token=ULCEAewPOw
 #EXTINF:-1 tvg-id="691261" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picons.cmshulk.com/picons/691261.png",05/09 02:00 AM | Ipswich Town vs Liverpool (IT| SKY SPORT CALCIO UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
@@ -324,91 +519,131 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1167169&ext
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=177694&extension=ts&play_token=49gYcKZAB6
-#EXTINF:-1 tvg-id="984663" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://103.176.90.92/images/984663.png",05/09 02:00 AM | Ipswich Town vs Liverpool (DE| SKY SPORT PREMIER LEAGUE HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=984663&extension=ts&play_token=gRiEDOAn4a
-#EXTINF:-1 tvg-id="971711" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://103.176.90.92/images/971711.png",05/09 02:00 AM | Ipswich Town vs Liverpool (DE| SKY SPORT PREMIER LEAGUE FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=971711&extension=ts&play_token=oeski13kV2
-#EXTINF:-1 tvg-id="1235927" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://103.176.90.92/images/1235927.png",05/09 02:00 AM | Ipswich Town vs Liverpool (DE| SKY SPORT PREMIER LEAGUE FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1235927&extension=ts&play_token=AQ8GEOrmWN
-#EXTINF:-1 tvg-id="1235920" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://103.176.90.92/images/1235920.png",05/09 02:00 AM | Ipswich Town vs Liverpool (DE| SKY SPORT PREMIER LEAGUE HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1235920&extension=ts&play_token=5bK3Qh6mI4
-#EXTINF:-1 tvg-id="760956" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTPREMIERHD.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃DE┃ SKY SPORT PREMIER LEAGUE RAW)
+#EXTINF:-1 tvg-id="798773" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=760956&extension=ts&play_token=79SF48SC5G
-#EXTINF:-1 tvg-id="1149432" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT PREMIER LEAGUE.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃DE┃ SKY SPORT PREMIER LEAGUE FHD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=798773&extension=ts&play_token=HWWekZIqHE
+#EXTINF:-1 tvg-id="798796" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1149432&extension=ts&play_token=1DnzMHck8P
-#EXTINF:-1 tvg-id="1149458" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT PREMIER LEAGUE.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃DE┃ SKY SPORT PREMIER LEAGUE HD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=798796&extension=ts&play_token=xDZnEn8rLA
+#EXTINF:-1 tvg-id="1030237" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1149458&extension=ts&play_token=B5MRfNOeU2
-#EXTINF:-1 tvg-id="760956" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTPREMIERHD.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃DE┃ SKY SPORT PREMIER LEAGUE RAW)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1030237&extension=ts&play_token=NaUgQ6koIB
+#EXTINF:-1 tvg-id="1030248" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 2 FRANCE.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 FRANCE RAW)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1030248&extension=ts&play_token=OUZLmuEGwZ
+#EXTINF:-1 tvg-id="242241" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=242241&extension=ts&play_token=RTR0ae61tE
+#EXTINF:-1 tvg-id="798773" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=760956&extension=ts&play_token=4tT9G1hcvJ
-#EXTINF:-1 tvg-id="1149432" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT PREMIER LEAGUE.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃DE┃ SKY SPORT PREMIER LEAGUE FHD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=798773&extension=ts&play_token=UxVGuiaXE9
+#EXTINF:-1 tvg-id="798796" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1149432&extension=ts&play_token=ViMtZHWiQg
-#EXTINF:-1 tvg-id="1149458" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT PREMIER LEAGUE.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃DE┃ SKY SPORT PREMIER LEAGUE HD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=798796&extension=ts&play_token=etrZozE1Yc
+#EXTINF:-1 tvg-id="1030237" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1149458&extension=ts&play_token=A8KTYEvEeY
-#EXTINF:-1 tvg-id="760956" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTPREMIERHD.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃DE┃ SKY SPORT PREMIER LEAGUE RAW)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1030237&extension=ts&play_token=0KUJj0rMyS
+#EXTINF:-1 tvg-id="1030248" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 2 FRANCE.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 FRANCE RAW)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1030248&extension=ts&play_token=MszwQ8Olor
+#EXTINF:-1 tvg-id="242241" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=242241&extension=ts&play_token=imVZfCOtYW
+#EXTINF:-1 tvg-id="798773" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=760956&extension=ts&play_token=Ie8pyzoVxS
-#EXTINF:-1 tvg-id="1149432" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT PREMIER LEAGUE.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃DE┃ SKY SPORT PREMIER LEAGUE FHD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=798773&extension=ts&play_token=fgyji7lEBB
+#EXTINF:-1 tvg-id="798796" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1149432&extension=ts&play_token=147L2PHE1U
-#EXTINF:-1 tvg-id="1149458" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT PREMIER LEAGUE.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃DE┃ SKY SPORT PREMIER LEAGUE HD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=798796&extension=ts&play_token=As2ZFCOb0E
+#EXTINF:-1 tvg-id="1030237" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1149458&extension=ts&play_token=aFI4sBp3Oi
-#EXTINF:-1 tvg-id="1608071" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",05/09 02:00 AM | Ipswich Town vs Liverpool (4K| SKY SPORTS MAIN EVENTS UHD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1030237&extension=ts&play_token=Cz50WJtnO5
+#EXTINF:-1 tvg-id="1030248" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 2 FRANCE.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 FRANCE RAW)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1030248&extension=ts&play_token=Xr1Eg9yzed
+#EXTINF:-1 tvg-id="242241" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=242241&extension=ts&play_token=SPid0ID0Ti
+#EXTINF:-1 tvg-id="154826" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/logos/154826.png",05/09 02:00 AM | Ipswich Town vs Liverpool (BG| DIEMA SPORT 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1608071&extension=ts&play_token=ULCEAewPOw
-#EXTINF:-1 tvg-id="1734002" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/SETANTA SPORTS 1.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃LT┃ SETANTA SPORTS 1 FHD)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=154826&extension=ts&play_token=B6Sq5IEs9I
+#EXTINF:-1 tvg-id="2140885" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",05/09 02:00 AM | Ipswich Town vs Liverpool (BG| DIEMA SPORT 2 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2140885&extension=ts&play_token=cRIWGPuVJH
+#EXTINF:-1 tvg-id="154820" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/logos/154820.png",05/09 02:00 AM | Ipswich Town vs Liverpool (BG| DIEMA SPORT 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=154820&extension=ts&play_token=UWUiFOZGK8
+#EXTINF:-1 tvg-id="1862351" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/logos/1862351.png",05/09 02:00 AM | Ipswich Town vs Liverpool (BG| DIEMA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1862351&extension=ts&play_token=6gztLhIjRX
+#EXTINF:-1 tvg-id="228722" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃BG┃ DIEMA SPORT 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1734002&extension=ts&play_token=vx0XoU5ACr
-#EXTINF:-1 tvg-id="1734002" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/SETANTA SPORTS 1.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃LT┃ SETANTA SPORTS 1 FHD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=228722&extension=ts&play_token=3SChVnok5N
+#EXTINF:-1 tvg-id="228627" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃BG┃ DIEMA SPORT 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=228627&extension=ts&play_token=5OqmMZI7YW
+#EXTINF:-1 tvg-id="228722" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃BG┃ DIEMA SPORT 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1734002&extension=ts&play_token=WSOsHirAKa
-#EXTINF:-1 tvg-id="1734002" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/SETANTA SPORTS 1.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃LT┃ SETANTA SPORTS 1 FHD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=228722&extension=ts&play_token=1puv5sDzK9
+#EXTINF:-1 tvg-id="228627" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃BG┃ DIEMA SPORT 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=228627&extension=ts&play_token=MdU9Ra60f9
+#EXTINF:-1 tvg-id="228722" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃BG┃ DIEMA SPORT 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1734002&extension=ts&play_token=pVhrvm3P8U
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=228722&extension=ts&play_token=98TsNuFJQX
+#EXTINF:-1 tvg-id="228627" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃BG┃ DIEMA SPORT 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=228627&extension=ts&play_token=pP5XUeZBno
 #EXTINF:-1 tvg-id="913454" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picons.cmshulk.com/picons/913454.png",05/09 02:00 AM | Ipswich Town vs Liverpool (TR| BEIN SPORTS 3 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
@@ -489,81 +724,6 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=988876&exte
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=988883&extension=ts&play_token=ZjpnZDYEUo
-#EXTINF:-1 tvg-id="798773" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=798773&extension=ts&play_token=HWWekZIqHE
-#EXTINF:-1 tvg-id="798796" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=798796&extension=ts&play_token=xDZnEn8rLA
-#EXTINF:-1 tvg-id="1030237" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1030237&extension=ts&play_token=NaUgQ6koIB
-#EXTINF:-1 tvg-id="1030248" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 2 FRANCE.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 FRANCE RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1030248&extension=ts&play_token=OUZLmuEGwZ
-#EXTINF:-1 tvg-id="242241" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=242241&extension=ts&play_token=RTR0ae61tE
-#EXTINF:-1 tvg-id="798773" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=798773&extension=ts&play_token=UxVGuiaXE9
-#EXTINF:-1 tvg-id="798796" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=798796&extension=ts&play_token=etrZozE1Yc
-#EXTINF:-1 tvg-id="1030237" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1030237&extension=ts&play_token=0KUJj0rMyS
-#EXTINF:-1 tvg-id="1030248" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 2 FRANCE.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 FRANCE RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1030248&extension=ts&play_token=MszwQ8Olor
-#EXTINF:-1 tvg-id="242241" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=242241&extension=ts&play_token=imVZfCOtYW
-#EXTINF:-1 tvg-id="798773" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=798773&extension=ts&play_token=fgyji7lEBB
-#EXTINF:-1 tvg-id="798796" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=798796&extension=ts&play_token=As2ZFCOb0E
-#EXTINF:-1 tvg-id="1030237" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1030237&extension=ts&play_token=Cz50WJtnO5
-#EXTINF:-1 tvg-id="1030248" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 2 FRANCE.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2 FRANCE RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1030248&extension=ts&play_token=Xr1Eg9yzed
-#EXTINF:-1 tvg-id="242241" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃AR┃ BEIN SPORTS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=242241&extension=ts&play_token=SPid0ID0Ti
 #EXTINF:-1 tvg-id="1729146" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ CANAL+ SPORT/CANAL+ EXTRA 1.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃PL┃ CANAL+ EXTRA 1 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
@@ -594,56 +754,46 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1729146&ext
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1729147&extension=ts&play_token=DK6eLcSKU3
-#EXTINF:-1 tvg-id="154826" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/logos/154826.png",05/09 02:00 AM | Ipswich Town vs Liverpool (BG| DIEMA SPORT 2)
+#EXTINF:-1 tvg-id="1862038" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://picons.cmshulk.com/picons/arenasport1.png",05/09 02:00 AM | Ipswich Town vs Liverpool (HR| ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=154826&extension=ts&play_token=B6Sq5IEs9I
-#EXTINF:-1 tvg-id="2140885" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",05/09 02:00 AM | Ipswich Town vs Liverpool (BG| DIEMA SPORT 2 4K)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1862038&extension=ts&play_token=PWDTXJo1EZ
+#EXTINF:-1 tvg-id="110737" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT1.png",05/09 02:00 AM | Ipswich Town vs Liverpool (HR| ARENA SPORT 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2140885&extension=ts&play_token=cRIWGPuVJH
-#EXTINF:-1 tvg-id="154820" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/logos/154820.png",05/09 02:00 AM | Ipswich Town vs Liverpool (BG| DIEMA SPORT 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=154820&extension=ts&play_token=UWUiFOZGK8
-#EXTINF:-1 tvg-id="1862351" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/logos/1862351.png",05/09 02:00 AM | Ipswich Town vs Liverpool (BG| DIEMA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1862351&extension=ts&play_token=6gztLhIjRX
-#EXTINF:-1 tvg-id="228722" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃BG┃ DIEMA SPORT 2 HD)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=110737&extension=ts&play_token=XAvhED72GV
+#EXTINF:-1 tvg-id="1115" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃HR┃ ARENA SPORT 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=228722&extension=ts&play_token=3SChVnok5N
-#EXTINF:-1 tvg-id="228627" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃BG┃ DIEMA SPORT 2)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1115&extension=ts&play_token=gP9O9VF3Ut
+#EXTINF:-1 tvg-id="1115" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃HR┃ ARENA SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1115&extension=ts&play_token=pV5G2aYXMg
+#EXTINF:-1 tvg-id="1115" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃HR┃ ARENA SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1115&extension=ts&play_token=6qaOvCEsNF
+#EXTINF:-1 tvg-id="1734002" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/SETANTA SPORTS 1.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃LT┃ SETANTA SPORTS 1 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=228627&extension=ts&play_token=5OqmMZI7YW
-#EXTINF:-1 tvg-id="228722" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃BG┃ DIEMA SPORT 2 HD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1734002&extension=ts&play_token=vx0XoU5ACr
+#EXTINF:-1 tvg-id="1734002" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/SETANTA SPORTS 1.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃LT┃ SETANTA SPORTS 1 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=228722&extension=ts&play_token=1puv5sDzK9
-#EXTINF:-1 tvg-id="228627" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃BG┃ DIEMA SPORT 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=228627&extension=ts&play_token=MdU9Ra60f9
-#EXTINF:-1 tvg-id="228722" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃BG┃ DIEMA SPORT 2 HD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1734002&extension=ts&play_token=WSOsHirAKa
+#EXTINF:-1 tvg-id="1734002" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/SETANTA SPORTS 1.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃LT┃ SETANTA SPORTS 1 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=228722&extension=ts&play_token=98TsNuFJQX
-#EXTINF:-1 tvg-id="228627" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png",05/09 02:00 AM | Ipswich Town vs Liverpool (┃BG┃ DIEMA SPORT 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=228627&extension=ts&play_token=pP5XUeZBno
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1734002&extension=ts&play_token=pVhrvm3P8U
 #EXTINF:-1 tvg-id="45235" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png",05/09 02:00 AM | Real Betis vs Real Madrid (UK| PREMIER SPORTS 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
@@ -794,6 +944,21 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=163607&exte
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=238264&extension=ts&play_token=FpqsrwYNvV
+#EXTINF:-1 tvg-id="833946" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃IE┃ PREMIER SPORTS 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=833946&extension=ts&play_token=OFtLegupMN
+#EXTINF:-1 tvg-id="833946" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃IE┃ PREMIER SPORTS 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=833946&extension=ts&play_token=6RtDixnPk3
+#EXTINF:-1 tvg-id="833946" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃IE┃ PREMIER SPORTS 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=833946&extension=ts&play_token=TeSDsxnNFR
 #EXTINF:-1 tvg-id="944686" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRALIA/AU AUSTRALIA LOGOS/BEIN SPORTS 2.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AU┃ BEIN SPORTS 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
@@ -824,136 +989,6 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858554&exte
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=858554&extension=ts&play_token=HSeSskgY7B
-#EXTINF:-1 tvg-id="833946" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃IE┃ PREMIER SPORTS 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=833946&extension=ts&play_token=OFtLegupMN
-#EXTINF:-1 tvg-id="833946" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃IE┃ PREMIER SPORTS 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=833946&extension=ts&play_token=6RtDixnPk3
-#EXTINF:-1 tvg-id="833946" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃IE┃ PREMIER SPORTS 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=833946&extension=ts&play_token=TeSDsxnNFR
-#EXTINF:-1 tvg-id="1734003" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/SETANTA SPORTS 2.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃LT┃ SETANTA SPORTS 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1734003&extension=ts&play_token=J2wqjKwJKg
-#EXTINF:-1 tvg-id="1734003" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/SETANTA SPORTS 2.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃LT┃ SETANTA SPORTS 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1734003&extension=ts&play_token=K306athTjU
-#EXTINF:-1 tvg-id="1734003" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/SETANTA SPORTS 2.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃LT┃ SETANTA SPORTS 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1734003&extension=ts&play_token=wGoEkIiOxg
-#EXTINF:-1 tvg-id="1432190" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/COSMOTESPORT7.png",05/09 02:00 AM | Real Betis vs Real Madrid (GR|COSMOTE SPORT 7 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1432190&extension=ts&play_token=j7S7IsrQuh
-#EXTINF:-1 tvg-id="307812" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/COSMOTESPORT7.png",05/09 02:00 AM | Real Betis vs Real Madrid (GR| COSMOTE SPORT 7 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=307812&extension=ts&play_token=I7HcThvZdg
-#EXTINF:-1 tvg-id="174264" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃GR┃ COSMOTE SPORT 7 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=174264&extension=ts&play_token=L66nGwYGwz
-#EXTINF:-1 tvg-id="1884" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃GR┃ COSMOTE SPORT 7 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1884&extension=ts&play_token=nTKqfd9LO5
-#EXTINF:-1 tvg-id="174264" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃GR┃ COSMOTE SPORT 7 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=174264&extension=ts&play_token=wG4a1bWMYE
-#EXTINF:-1 tvg-id="1884" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃GR┃ COSMOTE SPORT 7 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1884&extension=ts&play_token=f0EA4eKtH6
-#EXTINF:-1 tvg-id="174264" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃GR┃ COSMOTE SPORT 7 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=174264&extension=ts&play_token=AVbNoj2Wyt
-#EXTINF:-1 tvg-id="1884" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃GR┃ COSMOTE SPORT 7 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1884&extension=ts&play_token=ojZDcXol76
-#EXTINF:-1 tvg-id="119004" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (ES| M.LALIGA HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119004&extension=ts&play_token=yiQLHDlPca
-#EXTINF:-1 tvg-id="915236" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (ES| M.LALIGA FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=915236&extension=ts&play_token=JlYF7rWZPu
-#EXTINF:-1 tvg-id="107564" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (ES| M.LALIGA HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=107564&extension=ts&play_token=mpmyH1I6mx
-#EXTINF:-1 tvg-id="1044416" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃ES┃ M+ LA LIGA 4K UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1044416&extension=ts&play_token=xIwmYFDHwi
-#EXTINF:-1 tvg-id="699397" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃ES┃ M+ LA LIGA FHD HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=699397&extension=ts&play_token=txYcfI9Qc1
-#EXTINF:-1 tvg-id="699395" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃ES┃ M+ LA LIGA FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=699395&extension=ts&play_token=OTCs3Xy9Ux
-#EXTINF:-1 tvg-id="1044416" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃ES┃ M+ LA LIGA 4K UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1044416&extension=ts&play_token=26iqEwdTHT
-#EXTINF:-1 tvg-id="699397" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃ES┃ M+ LA LIGA FHD HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=699397&extension=ts&play_token=m2VAOWa84p
-#EXTINF:-1 tvg-id="699395" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃ES┃ M+ LA LIGA FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=699395&extension=ts&play_token=VEAmxFj72T
-#EXTINF:-1 tvg-id="1044416" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃ES┃ M+ LA LIGA 4K UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1044416&extension=ts&play_token=vB9Fr5czfg
-#EXTINF:-1 tvg-id="699397" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃ES┃ M+ LA LIGA FHD HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=699397&extension=ts&play_token=VdJd6lVdXy
-#EXTINF:-1 tvg-id="699395" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃ES┃ M+ LA LIGA FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=699395&extension=ts&play_token=s5U9YmKy6L
 #EXTINF:-1 tvg-id="119011" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (ES| LALIGA TV BAR HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
@@ -969,171 +1004,6 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510757&ext
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=107591&extension=ts&play_token=uZVM7nX1hK
-#EXTINF:-1 tvg-id="880460" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT2.png",05/09 02:00 AM | Real Betis vs Real Madrid (PL| CANAL+ SPORT 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=880460&extension=ts&play_token=eqCEfxBQL2
-#EXTINF:-1 tvg-id="880320" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT2.png",05/09 02:00 AM | Real Betis vs Real Madrid (PL| CANAL+ SPORT 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=880320&extension=ts&play_token=qVJa5qfUeP
-#EXTINF:-1 tvg-id="1729136" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ CANAL+ SPORT/CANAL+ SPORT 2.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃PL┃ CANAL+ SPORT 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1729136&extension=ts&play_token=uSpUqjbiJC
-#EXTINF:-1 tvg-id="1729137" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ CANAL+ SPORT/CANAL+ SPORT 2.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃PL┃ CANAL+ SPORT 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1729137&extension=ts&play_token=NWPEb5a0py
-#EXTINF:-1 tvg-id="1729136" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ CANAL+ SPORT/CANAL+ SPORT 2.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃PL┃ CANAL+ SPORT 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1729136&extension=ts&play_token=ayZdkmv8Wa
-#EXTINF:-1 tvg-id="1729137" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ CANAL+ SPORT/CANAL+ SPORT 2.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃PL┃ CANAL+ SPORT 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1729137&extension=ts&play_token=b4qkP8pZC4
-#EXTINF:-1 tvg-id="1729136" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ CANAL+ SPORT/CANAL+ SPORT 2.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃PL┃ CANAL+ SPORT 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1729136&extension=ts&play_token=FcnJX9SCBD
-#EXTINF:-1 tvg-id="1729137" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ CANAL+ SPORT/CANAL+ SPORT 2.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃PL┃ CANAL+ SPORT 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1729137&extension=ts&play_token=g645OCQCCk
-#EXTINF:-1 tvg-id="2134726" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALSPORT6.png",05/09 02:00 AM | Real Betis vs Real Madrid (PL| CANAL+ SPORT 6 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2134726&extension=ts&play_token=pTRSTw2loQ
-#EXTINF:-1 tvg-id="83257" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/logos/83257.png",05/09 02:00 AM | Real Betis vs Real Madrid (BG| MAX SPORT 4 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=83257&extension=ts&play_token=1jMLxDvpoV
-#EXTINF:-1 tvg-id="154882" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/logos/154882.png",05/09 02:00 AM | Real Betis vs Real Madrid (BG| MAX SPORT 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=154882&extension=ts&play_token=p67nKLZxQj
-#EXTINF:-1 tvg-id="1862331" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/logos/1862331.png",05/09 02:00 AM | Real Betis vs Real Madrid (BG| MAX SPORT 4 ⱽᴵᴾ ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1862331&extension=ts&play_token=v5G3ZRV4dR
-#EXTINF:-1 tvg-id="228724" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport4.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃BG┃ MAX SPORT 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=228724&extension=ts&play_token=xUQD5vxdWv
-#EXTINF:-1 tvg-id="228629" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport4.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃BG┃ MAX SPORT 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=228629&extension=ts&play_token=OlnodmU371
-#EXTINF:-1 tvg-id="228724" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport4.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃BG┃ MAX SPORT 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=228724&extension=ts&play_token=cjNhlZWVq1
-#EXTINF:-1 tvg-id="228629" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport4.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃BG┃ MAX SPORT 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=228629&extension=ts&play_token=hcnb5LTgNm
-#EXTINF:-1 tvg-id="228724" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport4.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃BG┃ MAX SPORT 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=228724&extension=ts&play_token=R8gIGV4iBs
-#EXTINF:-1 tvg-id="228629" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport4.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃BG┃ MAX SPORT 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=228629&extension=ts&play_token=3zHajX2bZQ
-#EXTINF:-1 tvg-id="798788" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=798788&extension=ts&play_token=HZ2b7TuLqr
-#EXTINF:-1 tvg-id="798797" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=798797&extension=ts&play_token=tBSiSelbla
-#EXTINF:-1 tvg-id="1030238" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1030238&extension=ts&play_token=QSS3LGwzgg
-#EXTINF:-1 tvg-id="1030249" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 3 FRANCE.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 FRANCE RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1030249&extension=ts&play_token=VFxmRKVZlb
-#EXTINF:-1 tvg-id="242240" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=242240&extension=ts&play_token=VdqqTzfUNA
-#EXTINF:-1 tvg-id="798788" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=798788&extension=ts&play_token=FVpmR2sdFm
-#EXTINF:-1 tvg-id="798797" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=798797&extension=ts&play_token=HfGKmdqJ1b
-#EXTINF:-1 tvg-id="1030238" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1030238&extension=ts&play_token=rzqw7Ol5Yr
-#EXTINF:-1 tvg-id="1030249" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 3 FRANCE.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 FRANCE RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1030249&extension=ts&play_token=wmmWhytABP
-#EXTINF:-1 tvg-id="242240" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=242240&extension=ts&play_token=KY91qCcI4J
-#EXTINF:-1 tvg-id="798788" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=798788&extension=ts&play_token=rLdPOSgk4N
-#EXTINF:-1 tvg-id="798797" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=798797&extension=ts&play_token=pHRPuwrOsP
-#EXTINF:-1 tvg-id="1030238" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1030238&extension=ts&play_token=A6VIFQxFqg
-#EXTINF:-1 tvg-id="1030249" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 3 FRANCE.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 FRANCE RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1030249&extension=ts&play_token=0leGisE1B6
-#EXTINF:-1 tvg-id="242240" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=242240&extension=ts&play_token=pu6jbEVC7N
 #EXTINF:-1 tvg-id="798772" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 1 UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
@@ -1209,6 +1079,286 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1030247&ext
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=242242&extension=ts&play_token=1X7VAbSaWX
+#EXTINF:-1 tvg-id="119004" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (ES| M.LALIGA HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119004&extension=ts&play_token=yiQLHDlPca
+#EXTINF:-1 tvg-id="915236" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (ES| M.LALIGA FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=915236&extension=ts&play_token=JlYF7rWZPu
+#EXTINF:-1 tvg-id="107564" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (ES| M.LALIGA HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=107564&extension=ts&play_token=mpmyH1I6mx
+#EXTINF:-1 tvg-id="1044416" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃ES┃ M+ LA LIGA 4K UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1044416&extension=ts&play_token=xIwmYFDHwi
+#EXTINF:-1 tvg-id="699397" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃ES┃ M+ LA LIGA FHD HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=699397&extension=ts&play_token=txYcfI9Qc1
+#EXTINF:-1 tvg-id="699395" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃ES┃ M+ LA LIGA FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=699395&extension=ts&play_token=OTCs3Xy9Ux
+#EXTINF:-1 tvg-id="1044416" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃ES┃ M+ LA LIGA 4K UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1044416&extension=ts&play_token=26iqEwdTHT
+#EXTINF:-1 tvg-id="699397" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃ES┃ M+ LA LIGA FHD HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=699397&extension=ts&play_token=m2VAOWa84p
+#EXTINF:-1 tvg-id="699395" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃ES┃ M+ LA LIGA FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=699395&extension=ts&play_token=VEAmxFj72T
+#EXTINF:-1 tvg-id="1044416" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃ES┃ M+ LA LIGA 4K UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1044416&extension=ts&play_token=vB9Fr5czfg
+#EXTINF:-1 tvg-id="699397" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃ES┃ M+ LA LIGA FHD HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=699397&extension=ts&play_token=VdJd6lVdXy
+#EXTINF:-1 tvg-id="699395" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃ES┃ M+ LA LIGA FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=699395&extension=ts&play_token=s5U9YmKy6L
+#EXTINF:-1 tvg-id="880460" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT2.png",05/09 02:00 AM | Real Betis vs Real Madrid (PL| CANAL+ SPORT 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=880460&extension=ts&play_token=eqCEfxBQL2
+#EXTINF:-1 tvg-id="880320" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT2.png",05/09 02:00 AM | Real Betis vs Real Madrid (PL| CANAL+ SPORT 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=880320&extension=ts&play_token=qVJa5qfUeP
+#EXTINF:-1 tvg-id="1729136" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ CANAL+ SPORT/CANAL+ SPORT 2.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃PL┃ CANAL+ SPORT 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1729136&extension=ts&play_token=uSpUqjbiJC
+#EXTINF:-1 tvg-id="1729137" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ CANAL+ SPORT/CANAL+ SPORT 2.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃PL┃ CANAL+ SPORT 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1729137&extension=ts&play_token=NWPEb5a0py
+#EXTINF:-1 tvg-id="1729136" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ CANAL+ SPORT/CANAL+ SPORT 2.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃PL┃ CANAL+ SPORT 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1729136&extension=ts&play_token=ayZdkmv8Wa
+#EXTINF:-1 tvg-id="1729137" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ CANAL+ SPORT/CANAL+ SPORT 2.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃PL┃ CANAL+ SPORT 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1729137&extension=ts&play_token=b4qkP8pZC4
+#EXTINF:-1 tvg-id="1729136" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ CANAL+ SPORT/CANAL+ SPORT 2.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃PL┃ CANAL+ SPORT 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1729136&extension=ts&play_token=FcnJX9SCBD
+#EXTINF:-1 tvg-id="1729137" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ CANAL+ SPORT/CANAL+ SPORT 2.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃PL┃ CANAL+ SPORT 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1729137&extension=ts&play_token=g645OCQCCk
+#EXTINF:-1 tvg-id="2134726" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALSPORT6.png",05/09 02:00 AM | Real Betis vs Real Madrid (PL| CANAL+ SPORT 6 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2134726&extension=ts&play_token=pTRSTw2loQ
+#EXTINF:-1 tvg-id="798788" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=798788&extension=ts&play_token=HZ2b7TuLqr
+#EXTINF:-1 tvg-id="798797" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=798797&extension=ts&play_token=tBSiSelbla
+#EXTINF:-1 tvg-id="1030238" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 RAW)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1030238&extension=ts&play_token=QSS3LGwzgg
+#EXTINF:-1 tvg-id="1030249" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 3 FRANCE.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 FRANCE RAW)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1030249&extension=ts&play_token=VFxmRKVZlb
+#EXTINF:-1 tvg-id="242240" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=242240&extension=ts&play_token=VdqqTzfUNA
+#EXTINF:-1 tvg-id="798788" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=798788&extension=ts&play_token=FVpmR2sdFm
+#EXTINF:-1 tvg-id="798797" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=798797&extension=ts&play_token=HfGKmdqJ1b
+#EXTINF:-1 tvg-id="1030238" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 RAW)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1030238&extension=ts&play_token=rzqw7Ol5Yr
+#EXTINF:-1 tvg-id="1030249" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 3 FRANCE.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 FRANCE RAW)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1030249&extension=ts&play_token=wmmWhytABP
+#EXTINF:-1 tvg-id="242240" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=242240&extension=ts&play_token=KY91qCcI4J
+#EXTINF:-1 tvg-id="798788" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=798788&extension=ts&play_token=rLdPOSgk4N
+#EXTINF:-1 tvg-id="798797" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=798797&extension=ts&play_token=pHRPuwrOsP
+#EXTINF:-1 tvg-id="1030238" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 RAW)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1030238&extension=ts&play_token=A6VIFQxFqg
+#EXTINF:-1 tvg-id="1030249" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 3 FRANCE.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3 FRANCE RAW)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1030249&extension=ts&play_token=0leGisE1B6
+#EXTINF:-1 tvg-id="242240" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃AR┃ BEIN SPORTS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=242240&extension=ts&play_token=pu6jbEVC7N
+#EXTINF:-1 tvg-id="1432190" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/COSMOTESPORT7.png",05/09 02:00 AM | Real Betis vs Real Madrid (GR|COSMOTE SPORT 7 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1432190&extension=ts&play_token=j7S7IsrQuh
+#EXTINF:-1 tvg-id="307812" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/COSMOTESPORT7.png",05/09 02:00 AM | Real Betis vs Real Madrid (GR| COSMOTE SPORT 7 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=307812&extension=ts&play_token=I7HcThvZdg
+#EXTINF:-1 tvg-id="174264" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃GR┃ COSMOTE SPORT 7 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=174264&extension=ts&play_token=L66nGwYGwz
+#EXTINF:-1 tvg-id="1884" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃GR┃ COSMOTE SPORT 7 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1884&extension=ts&play_token=nTKqfd9LO5
+#EXTINF:-1 tvg-id="174264" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃GR┃ COSMOTE SPORT 7 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=174264&extension=ts&play_token=wG4a1bWMYE
+#EXTINF:-1 tvg-id="1884" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃GR┃ COSMOTE SPORT 7 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1884&extension=ts&play_token=f0EA4eKtH6
+#EXTINF:-1 tvg-id="174264" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃GR┃ COSMOTE SPORT 7 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=174264&extension=ts&play_token=AVbNoj2Wyt
+#EXTINF:-1 tvg-id="1884" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃GR┃ COSMOTE SPORT 7 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1884&extension=ts&play_token=ojZDcXol76
+#EXTINF:-1 tvg-id="1734003" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/SETANTA SPORTS 2.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃LT┃ SETANTA SPORTS 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1734003&extension=ts&play_token=J2wqjKwJKg
+#EXTINF:-1 tvg-id="1734003" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/SETANTA SPORTS 2.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃LT┃ SETANTA SPORTS 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1734003&extension=ts&play_token=K306athTjU
+#EXTINF:-1 tvg-id="1734003" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/SETANTA SPORTS 2.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃LT┃ SETANTA SPORTS 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1734003&extension=ts&play_token=wGoEkIiOxg
+#EXTINF:-1 tvg-id="83257" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/logos/83257.png",05/09 02:00 AM | Real Betis vs Real Madrid (BG| MAX SPORT 4 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=83257&extension=ts&play_token=1jMLxDvpoV
+#EXTINF:-1 tvg-id="154882" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/logos/154882.png",05/09 02:00 AM | Real Betis vs Real Madrid (BG| MAX SPORT 4 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=154882&extension=ts&play_token=p67nKLZxQj
+#EXTINF:-1 tvg-id="1862331" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/logos/1862331.png",05/09 02:00 AM | Real Betis vs Real Madrid (BG| MAX SPORT 4 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 238FC0519520858E4747057821E58EB4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1862331&extension=ts&play_token=v5G3ZRV4dR
+#EXTINF:-1 tvg-id="228724" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport4.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃BG┃ MAX SPORT 4 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=228724&extension=ts&play_token=xUQD5vxdWv
+#EXTINF:-1 tvg-id="228629" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport4.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃BG┃ MAX SPORT 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0174C982BA5FA6EA5D3F773DC7F810BC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=228629&extension=ts&play_token=OlnodmU371
+#EXTINF:-1 tvg-id="228724" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport4.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃BG┃ MAX SPORT 4 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=228724&extension=ts&play_token=cjNhlZWVq1
+#EXTINF:-1 tvg-id="228629" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport4.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃BG┃ MAX SPORT 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B08A1A8DF3E1756BC7AA2FD927DF67FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=228629&extension=ts&play_token=hcnb5LTgNm
+#EXTINF:-1 tvg-id="228724" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport4.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃BG┃ MAX SPORT 4 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=228724&extension=ts&play_token=R8gIGV4iBs
+#EXTINF:-1 tvg-id="228629" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport4.png",05/09 02:00 AM | Real Betis vs Real Madrid (┃BG┃ MAX SPORT 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8889A337C17BA7801382C7A25C3C824C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=228629&extension=ts&play_token=3zHajX2bZQ
 #EXTINF:-1 tvg-id="526125" group-title="⚽️🇪🇦|Live La Liga" tvg-logo="http://51.158.145.100/picons/logos/france/526125.png",05/09 02:00 AM | Real Betis vs Real Madrid (FR| BEIN SPORTS 2 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT

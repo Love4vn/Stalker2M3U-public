@@ -1,201 +1,66 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1313261" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIER LEAGUE/PREMIER LEAGUE.png",06/09 08:00 PM | EPL10: Man Utd Everton 24/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:51:32:B0; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 95C8551BF4758DB6C55755B0DF1FEFC9
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:51:32:B0&stream=1313261&extension=ts&play_token=qqdNEeiL6F
-#EXTINF:-1 tvg-id="2066916" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | End Canada U20 vs. England U20 all 8K BR: SOCCER 41
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7ED0F95221640D6AE4BED7101E7F9089
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1313261&extension=ts&play_token=rPlnIqmzRM
+#EXTINF:-1 tvg-id="1313261" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIER LEAGUE/PREMIER LEAGUE.png",06/09 08:00 PM | EPL10: Man Utd Everton 24/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066916&extension=ts&play_token=YW2KROuvTS
-#EXTINF:-1 tvg-id="2072545" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | End RCD Espanyol FC Badalona Women all 8K ES: SOCCER 8
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 67FD0B06A1B4E205D6986EF75C0936E1
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1313261&extension=ts&play_token=xUIieuCIcN
+#EXTINF:-1 tvg-id="1313261" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIER LEAGUE/PREMIER LEAGUE.png",06/09 08:00 PM | EPL10: Man Utd Everton 24/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B0AF920D0F40858C57BE6ED5B1BD6DFB
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1313261&extension=ts&play_token=ZHfR5t7wTd
+#EXTINF:-1 tvg-id="2072545" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | End RCD Espanyol FC Badalona Women all | 8K ES: SOCCER 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C47A90D964DFDBA10C1F0303DA2693EB
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072545&extension=ts&play_token=ImIS8Jd61M
-#EXTINF:-1 tvg-id="2072545" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | End RCD Espanyol FC Badalona Women all 8K ES: SOCCER 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2072545&extension=ts&play_token=rVGVQpC1qC
-#EXTINF:-1 tvg-id="2066944" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | End Brazil U20 vs. Tanzania U20 all 8K BR: SOCCER 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066944&extension=ts&play_token=4FoIt5Pe5a
-#EXTINF:-1 tvg-id="2066929" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | End Brazil U20 vs. Tanzania U20 all 8K BR: SOCCER 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066929&extension=ts&play_token=Jds0ZAHAJg
-#EXTINF:-1 tvg-id="2066927" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | End Poland U20 vs. Argentina U20 all 8K BR: SOCCER 30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066927&extension=ts&play_token=3w8g6x8mE7
-#EXTINF:-1 tvg-id="2066920" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | End Mexico U20 vs. Benin U20 all 8K BR: SOCCER 37
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066920&extension=ts&play_token=22xuhBPSFz
-#EXTINF:-1 tvg-id="2066912" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | End France vs. Republic of Korea all 8K BR: SOCCER 45
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066912&extension=ts&play_token=H3ADgRdMVS
+#EXTVLCOPT:http-header=Authorization: Bearer 451E4B0A966AC0212746301506D0EA86
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072545&extension=ts&play_token=AvKCvWECGR
 #EXTINF:-1 tvg-id="1645435" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",06/09 08:00 PM | NOR| DAZN WOMEN'S FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C47A90D964DFDBA10C1F0303DA2693EB
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1645435&extension=ts&play_token=lJYZuHELTZ
-#EXTINF:-1 tvg-id="2066916" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | End Canada U20 vs. England U20 all 8K BR: SOCCER 41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066916&extension=ts&play_token=YW2KROuvTS
-#EXTINF:-1 tvg-id="2072545" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | End RCD Espanyol FC Badalona Women all 8K ES: SOCCER 8
+#EXTVLCOPT:http-header=Authorization: Bearer 451E4B0A966AC0212746301506D0EA86
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1645435&extension=ts&play_token=II5YDOqebM
+#EXTINF:-1 tvg-id="2072545" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | End RCD Espanyol FC Badalona Women all | 8K ES: SOCCER 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C47A90D964DFDBA10C1F0303DA2693EB
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072545&extension=ts&play_token=ImIS8Jd61M
-#EXTINF:-1 tvg-id="2072545" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | End RCD Espanyol FC Badalona Women all 8K ES: SOCCER 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2072545&extension=ts&play_token=rVGVQpC1qC
-#EXTINF:-1 tvg-id="2066944" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | End Brazil U20 vs. Tanzania U20 all 8K BR: SOCCER 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066944&extension=ts&play_token=4FoIt5Pe5a
-#EXTINF:-1 tvg-id="2066929" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | End Brazil U20 vs. Tanzania U20 all 8K BR: SOCCER 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066929&extension=ts&play_token=Jds0ZAHAJg
-#EXTINF:-1 tvg-id="2066927" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | End Poland U20 vs. Argentina U20 all 8K BR: SOCCER 30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066927&extension=ts&play_token=3w8g6x8mE7
-#EXTINF:-1 tvg-id="2066920" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | End Mexico U20 vs. Benin U20 all 8K BR: SOCCER 37
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066920&extension=ts&play_token=22xuhBPSFz
+#EXTVLCOPT:http-header=Authorization: Bearer 451E4B0A966AC0212746301506D0EA86
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072545&extension=ts&play_token=AvKCvWECGR
 #EXTINF:-1 tvg-id="1645435" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",06/09 08:00 PM | NOR| DAZN WOMEN'S FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C47A90D964DFDBA10C1F0303DA2693EB
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1645435&extension=ts&play_token=lJYZuHELTZ
-#EXTINF:-1 tvg-id="1949437" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",06/09 09:15 PM | US (ESPN+ 475) Spanish Valencia vs. Barcelona (Valencia vs. Barcelona) ( :00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=1949437&extension=ts&play_token=tBzMObL5fn
-#EXTINF:-1 tvg-id="1949435" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",06/09 09:15 PM | US (ESPN+ 477) Spanish Valencia vs. Barcelona (ESP) (Valencia vs. Barcelona (ESP)) ( :05)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=1949435&extension=ts&play_token=1EBqqYfH1v
-#EXTINF:-1 tvg-id="1949434" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",06/09 09:15 PM | US (ESPN+ 478) Spanish Valencia vs. Barcelona (ESP) (Valencia vs. Barcelona (ESP)) ( :10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=1949434&extension=ts&play_token=YHguxY65ky
-#EXTINF:-1 tvg-id="2066916" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 11:00 PM | End Canada U20 vs. England U20 all 8K BR: SOCCER 41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066916&extension=ts&play_token=YW2KROuvTS
-#EXTINF:-1 tvg-id="2072545" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 11:00 PM | End RCD Espanyol FC Badalona Women all 8K ES: SOCCER 8
+#EXTVLCOPT:http-header=Authorization: Bearer 451E4B0A966AC0212746301506D0EA86
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1645435&extension=ts&play_token=II5YDOqebM
+#EXTINF:-1 tvg-id="2072545" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 11:00 PM | End RCD Espanyol FC Badalona Women all | 8K ES: SOCCER 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C47A90D964DFDBA10C1F0303DA2693EB
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072545&extension=ts&play_token=ImIS8Jd61M
-#EXTINF:-1 tvg-id="2072545" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 11:00 PM | End RCD Espanyol FC Badalona Women all 8K ES: SOCCER 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2072545&extension=ts&play_token=rVGVQpC1qC
-#EXTINF:-1 tvg-id="2066944" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 11:00 PM | End Brazil U20 vs. Tanzania U20 all 8K BR: SOCCER 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066944&extension=ts&play_token=4FoIt5Pe5a
-#EXTINF:-1 tvg-id="2066929" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 11:00 PM | End Brazil U20 vs. Tanzania U20 all 8K BR: SOCCER 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066929&extension=ts&play_token=Jds0ZAHAJg
-#EXTINF:-1 tvg-id="2066927" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 11:00 PM | End Poland U20 vs. Argentina U20 all 8K BR: SOCCER 30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066927&extension=ts&play_token=3w8g6x8mE7
-#EXTINF:-1 tvg-id="2066920" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 11:00 PM | End Mexico U20 vs. Benin U20 all 8K BR: SOCCER 37
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066920&extension=ts&play_token=22xuhBPSFz
+#EXTVLCOPT:http-header=Authorization: Bearer 451E4B0A966AC0212746301506D0EA86
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072545&extension=ts&play_token=AvKCvWECGR
 #EXTINF:-1 tvg-id="1645435" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",06/09 11:00 PM | NOR| DAZN WOMEN'S FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C47A90D964DFDBA10C1F0303DA2693EB
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1645435&extension=ts&play_token=lJYZuHELTZ
-#EXTINF:-1 tvg-id="2066916" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 11:00 PM | End Canada U20 vs. England U20 all 8K BR: SOCCER 41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066916&extension=ts&play_token=YW2KROuvTS
-#EXTINF:-1 tvg-id="2072545" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 11:00 PM | End RCD Espanyol FC Badalona Women all 8K ES: SOCCER 8
+#EXTVLCOPT:http-header=Authorization: Bearer 451E4B0A966AC0212746301506D0EA86
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1645435&extension=ts&play_token=II5YDOqebM
+#EXTINF:-1 tvg-id="2072545" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 11:00 PM | End RCD Espanyol FC Badalona Women all | 8K ES: SOCCER 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C47A90D964DFDBA10C1F0303DA2693EB
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072545&extension=ts&play_token=ImIS8Jd61M
-#EXTINF:-1 tvg-id="2072545" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 11:00 PM | End RCD Espanyol FC Badalona Women all 8K ES: SOCCER 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2072545&extension=ts&play_token=rVGVQpC1qC
-#EXTINF:-1 tvg-id="2066944" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 11:00 PM | End Brazil U20 vs. Tanzania U20 all 8K BR: SOCCER 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066944&extension=ts&play_token=4FoIt5Pe5a
-#EXTINF:-1 tvg-id="2066929" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 11:00 PM | End Brazil U20 vs. Tanzania U20 all 8K BR: SOCCER 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066929&extension=ts&play_token=Jds0ZAHAJg
-#EXTINF:-1 tvg-id="2066927" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 11:00 PM | End Poland U20 vs. Argentina U20 all 8K BR: SOCCER 30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066927&extension=ts&play_token=3w8g6x8mE7
-#EXTINF:-1 tvg-id="2066920" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 11:00 PM | End Mexico U20 vs. Benin U20 all 8K BR: SOCCER 37
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066920&extension=ts&play_token=22xuhBPSFz
+#EXTVLCOPT:http-header=Authorization: Bearer 451E4B0A966AC0212746301506D0EA86
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072545&extension=ts&play_token=AvKCvWECGR
 #EXTINF:-1 tvg-id="1645435" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",06/09 11:00 PM | NOR| DAZN WOMEN'S FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C47A90D964DFDBA10C1F0303DA2693EB
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1645435&extension=ts&play_token=lJYZuHELTZ
-#EXTINF:-1 tvg-id="2058539" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",07/09 01:45 AM | End UFC Paris Hooker vs Parnasse Preliminary Card Engels Commentaar all 8K NL: SOCCER 9
+#EXTVLCOPT:http-header=Authorization: Bearer 451E4B0A966AC0212746301506D0EA86
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1645435&extension=ts&play_token=II5YDOqebM
+#EXTINF:-1 tvg-id="2058539" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",07/09 01:45 AM | Live UFC Paris Hooker vs Parnasse Preliminary Card Engels Commentaar all 8K NL: SOCCER 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C47A90D964DFDBA10C1F0303DA2693EB
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058539&extension=ts&play_token=YmNCU0om3S
-#EXTINF:-1 tvg-id="2058537" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",07/09 01:45 AM | End UFC Paris Hooker vs Parnasse Main Card Nederlands Commentaar all 8K NL: SOCCER 11
+#EXTVLCOPT:http-header=Authorization: Bearer 451E4B0A966AC0212746301506D0EA86
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058539&extension=ts&play_token=lfQHrk0GBw
+#EXTINF:-1 tvg-id="2058537" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",07/09 01:45 AM | Live UFC Paris Hooker vs Parnasse Main Card Nederlands Commentaar all 8K NL: SOCCER 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C47A90D964DFDBA10C1F0303DA2693EB
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058537&extension=ts&play_token=njGWLlX499
-#EXTINF:-1 tvg-id="1910142" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/fanatiz-premium.png",07/09 01:45 AM | (Fanatiz 048) Olympique Marseille vs Paris FC ( :00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=1910142&extension=ts&play_token=CjY1YlTwDs
+#EXTVLCOPT:http-header=Authorization: Bearer 451E4B0A966AC0212746301506D0EA86
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058537&extension=ts&play_token=8zPFjsORgg

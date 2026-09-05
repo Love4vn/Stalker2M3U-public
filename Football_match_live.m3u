@@ -1,59 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2054972" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 01:45 AM | Live Roma vs. Atalanta all 8K DE: SOCCER 80
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C47A90D964DFDBA10C1F0303DA2693EB
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054972&extension=ts&play_token=Ld8tXdVhUX
-#EXTINF:-1 tvg-id="2072487" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 01:45 AM | Live Roma vs. Atalanta all 8K ES: SOCCER 66
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C47A90D964DFDBA10C1F0303DA2693EB
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072487&extension=ts&play_token=te5hZv3RfJ
-#EXTINF:-1 tvg-id="2040670" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",06/09 01:45 AM | Live AS Roma Atalanta Serie A 8K ES: DAZN 61
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C47A90D964DFDBA10C1F0303DA2693EB
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040670&extension=ts&play_token=VODM2SPKJc
-#EXTINF:-1 tvg-id="2021175" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",06/09 01:45 AM | LIVE SERIE A: ROMA ATALANTA (SE) 8K SE: PLAY+ 73
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C47A90D964DFDBA10C1F0303DA2693EB
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021175&extension=ts&play_token=ZmmH4ADY1Q
-#EXTINF:-1 tvg-id="2072487" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 01:45 AM | Live Roma vs. Atalanta all 8K ES: SOCCER 66
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2072487&extension=ts&play_token=2wmIoYnftZ
-#EXTINF:-1 tvg-id="2040670" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",06/09 01:45 AM | Live AS Roma Atalanta Serie A 8K ES: DAZN 61
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2040670&extension=ts&play_token=zpDoXu2bz6
-#EXTINF:-1 tvg-id="2066946" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 01:45 AM | End Roma vs. Atalanta all 8K BR: SOCCER 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066946&extension=ts&play_token=bWnxpvZS1O
-#EXTINF:-1 tvg-id="2070525" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",06/09 01:45 AM | LIVE SERIE A ITALIANA ROMA X ATALANTA (CAZÉTV) -02 (BR) 8K BR: DISNEY+ 108
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
-http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2070525&extension=ts&play_token=QnyIjarWbq
-#EXTINF:-1 tvg-id="1991472" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",06/09 01:45 AM | Serie A: Roma vs Atalanta @ :TeliaPlay SE 68
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C47A90D964DFDBA10C1F0303DA2693EB
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1991472&extension=ts&play_token=hWoYCc9tMz
-#EXTINF:-1 tvg-id="2134464" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png",06/09 01:45 AM | Serie A: Roma-Atalanta @ :00 :Tv2Play DK 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C47A90D964DFDBA10C1F0303DA2693EB
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2134464&extension=ts&play_token=id8CpZW8ar
-#EXTINF:-1 tvg-id="1992229" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",06/09 01:45 AM | Serie A: AS Roma vs Atalanta @ :Telia FI 39
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C47A90D964DFDBA10C1F0303DA2693EB
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992229&extension=ts&play_token=ijrnt30643
 #EXTINF:-1 tvg-id="1313261" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIER LEAGUE/PREMIER LEAGUE.png",06/09 08:00 PM | EPL10: Man Utd Everton 24/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:51:32:B0; stb_lang=en; timezone=GMT
@@ -239,3 +184,18 @@ http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=2066920&ext
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer C47A90D964DFDBA10C1F0303DA2693EB
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1645435&extension=ts&play_token=lJYZuHELTZ
+#EXTINF:-1 tvg-id="2058539" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",07/09 01:45 AM | End UFC Paris Hooker vs Parnasse Preliminary Card Engels Commentaar all 8K NL: SOCCER 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C47A90D964DFDBA10C1F0303DA2693EB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058539&extension=ts&play_token=YmNCU0om3S
+#EXTINF:-1 tvg-id="2058537" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",07/09 01:45 AM | End UFC Paris Hooker vs Parnasse Main Card Nederlands Commentaar all 8K NL: SOCCER 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C47A90D964DFDBA10C1F0303DA2693EB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058537&extension=ts&play_token=njGWLlX499
+#EXTINF:-1 tvg-id="1910142" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/fanatiz-premium.png",07/09 01:45 AM | (Fanatiz 048) Olympique Marseille vs Paris FC ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:54:7F:EE; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A4F3D30FE115D7FB1E6999C0B62859B8
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:54:7F:EE&stream=1910142&extension=ts&play_token=CjY1YlTwDs

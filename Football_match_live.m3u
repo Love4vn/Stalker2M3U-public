@@ -2,65 +2,205 @@
 #EXTINF:-1 tvg-id="1313261" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIER LEAGUE/PREMIER LEAGUE.png",06/09 08:00 PM | EPL10: Man Utd Everton 24/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7ED0F95221640D6AE4BED7101E7F9089
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1313261&extension=ts&play_token=rPlnIqmzRM
+#EXTVLCOPT:http-header=Authorization: Bearer 520A1FDABE62099A9763089BAF802999
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1313261&extension=ts&play_token=TXEESL5sm7
 #EXTINF:-1 tvg-id="1313261" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIER LEAGUE/PREMIER LEAGUE.png",06/09 08:00 PM | EPL10: Man Utd Everton 24/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 67FD0B06A1B4E205D6986EF75C0936E1
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1313261&extension=ts&play_token=xUIieuCIcN
+#EXTVLCOPT:http-header=Authorization: Bearer 471AF433F85EDF11C5233C5BE1D40536
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1313261&extension=ts&play_token=IOzdPKWutR
 #EXTINF:-1 tvg-id="1313261" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIER LEAGUE/PREMIER LEAGUE.png",06/09 08:00 PM | EPL10: Man Utd Everton 24/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:F8:BE:49; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B0AF920D0F40858C57BE6ED5B1BD6DFB
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1313261&extension=ts&play_token=ZHfR5t7wTd
+#EXTVLCOPT:http-header=Authorization: Bearer EF76FFC06BFB6EEA25926D0139C30345
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:F8:BE:49&stream=1313261&extension=ts&play_token=s6ADJkTETH
+#EXTINF:-1 tvg-id="2040705" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",06/09 08:00 PM | Everton Manchester United | 8K ES: DAZN 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040705&extension=ts&play_token=JtuiDyxhsT
+#EXTINF:-1 tvg-id="2016185" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",06/09 08:00 PM | VIAPLAY PREMIER SUNDAY: EVERTON MAN UNITED (SE) 8K SE: VIAPLAY 94
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016185&extension=ts&play_token=SkemaI7p8R
+#EXTINF:-1 tvg-id="2037292" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",06/09 08:00 PM | EVERTON MAN UNITED (DK) 8K DK: VIAPLAY 86
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037292&extension=ts&play_token=WJnajmTctC
+#EXTINF:-1 tvg-id="2037382" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",06/09 08:00 PM | VALIOLIIGA EVERTON MAN UNITED (FI) 8K FI: VIAPLAY 98
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037382&extension=ts&play_token=LS0RKAG62H
+#EXTINF:-1 tvg-id="2058472" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | AC Milan Women at Juventus Women all | 8K NL: SOCCER 76
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058472&extension=ts&play_token=ORD254RwIM
+#EXTINF:-1 tvg-id="2112997" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | AC Milan Women at Juventus Women all | 8K FR: SOCCER 114
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2112997&extension=ts&play_token=qGHSC5YJHj
 #EXTINF:-1 tvg-id="2072545" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | End RCD Espanyol FC Badalona Women all | 8K ES: SOCCER 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 451E4B0A966AC0212746301506D0EA86
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072545&extension=ts&play_token=AvKCvWECGR
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072545&extension=ts&play_token=PGcNCQaLjZ
+#EXTINF:-1 tvg-id="2037351" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",06/09 08:00 PM | FOTBOLL: WOMEN SUPER LEAGUE BRIGHTON-ARSENAL (SE) 8K SE: PLAY+ 128
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037351&extension=ts&play_token=rZbhTiax06
 #EXTINF:-1 tvg-id="1645435" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",06/09 08:00 PM | NOR| DAZN WOMEN'S FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 451E4B0A966AC0212746301506D0EA86
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1645435&extension=ts&play_token=II5YDOqebM
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1645435&extension=ts&play_token=4kHz1d3CUg
+#EXTINF:-1 tvg-id="2058472" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | AC Milan Women at Juventus Women all | 8K NL: SOCCER 76
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058472&extension=ts&play_token=ORD254RwIM
+#EXTINF:-1 tvg-id="2112997" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | AC Milan Women at Juventus Women all | 8K FR: SOCCER 114
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2112997&extension=ts&play_token=qGHSC5YJHj
 #EXTINF:-1 tvg-id="2072545" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 08:00 PM | End RCD Espanyol FC Badalona Women all | 8K ES: SOCCER 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 451E4B0A966AC0212746301506D0EA86
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072545&extension=ts&play_token=AvKCvWECGR
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072545&extension=ts&play_token=PGcNCQaLjZ
+#EXTINF:-1 tvg-id="2037351" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",06/09 08:00 PM | FOTBOLL: WOMEN SUPER LEAGUE BRIGHTON-ARSENAL (SE) 8K SE: PLAY+ 128
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037351&extension=ts&play_token=rZbhTiax06
 #EXTINF:-1 tvg-id="1645435" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",06/09 08:00 PM | NOR| DAZN WOMEN'S FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 451E4B0A966AC0212746301506D0EA86
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1645435&extension=ts&play_token=II5YDOqebM
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1645435&extension=ts&play_token=4kHz1d3CUg
+#EXTINF:-1 tvg-id="2040511" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",06/09 09:15 PM | Valencia FC Barcelona | 8K DE: DAZN 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040511&extension=ts&play_token=UXJGVYBe5t
+#EXTINF:-1 tvg-id="2046644" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",06/09 09:15 PM | Valencia FC Barcelona | 8K AT: DAZN 61
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046644&extension=ts&play_token=Ikl4h7Llrz
+#EXTINF:-1 tvg-id="2040685" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",06/09 10:30 PM | Arsenal Chelsea | 8K ES: DAZN 46
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040685&extension=ts&play_token=ybPIsQO3uW
+#EXTINF:-1 tvg-id="2021236" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",06/09 10:30 PM | VIAPLAY PREMIER SUNDAY: ARSENAL CHELSEA (SE) 8K SE: VIAPLAY 113
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021236&extension=ts&play_token=gSOKl7V0PY
+#EXTINF:-1 tvg-id="2039887" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/EXPRESSEN.png",06/09 10:30 PM | VALIOLIIGA ARSENAL CHELSEA (FI) 8K FI: VIAPLAY 118
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2039887&extension=ts&play_token=NphV2h5ab9
+#EXTINF:-1 tvg-id="2058472" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 11:00 PM | AC Milan Women at Juventus Women all | 8K NL: SOCCER 76
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058472&extension=ts&play_token=ORD254RwIM
+#EXTINF:-1 tvg-id="2112997" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 11:00 PM | AC Milan Women at Juventus Women all | 8K FR: SOCCER 114
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2112997&extension=ts&play_token=qGHSC5YJHj
 #EXTINF:-1 tvg-id="2072545" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 11:00 PM | End RCD Espanyol FC Badalona Women all | 8K ES: SOCCER 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 451E4B0A966AC0212746301506D0EA86
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072545&extension=ts&play_token=AvKCvWECGR
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072545&extension=ts&play_token=PGcNCQaLjZ
+#EXTINF:-1 tvg-id="2037351" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",06/09 11:00 PM | FOTBOLL: WOMEN SUPER LEAGUE BRIGHTON-ARSENAL (SE) 8K SE: PLAY+ 128
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037351&extension=ts&play_token=rZbhTiax06
 #EXTINF:-1 tvg-id="1645435" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",06/09 11:00 PM | NOR| DAZN WOMEN'S FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 451E4B0A966AC0212746301506D0EA86
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1645435&extension=ts&play_token=II5YDOqebM
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1645435&extension=ts&play_token=4kHz1d3CUg
+#EXTINF:-1 tvg-id="2058472" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 11:00 PM | AC Milan Women at Juventus Women all | 8K NL: SOCCER 76
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058472&extension=ts&play_token=ORD254RwIM
+#EXTINF:-1 tvg-id="2112997" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 11:00 PM | AC Milan Women at Juventus Women all | 8K FR: SOCCER 114
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2112997&extension=ts&play_token=qGHSC5YJHj
 #EXTINF:-1 tvg-id="2072545" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/09 11:00 PM | End RCD Espanyol FC Badalona Women all | 8K ES: SOCCER 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 451E4B0A966AC0212746301506D0EA86
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072545&extension=ts&play_token=AvKCvWECGR
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072545&extension=ts&play_token=PGcNCQaLjZ
+#EXTINF:-1 tvg-id="2037351" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",06/09 11:00 PM | FOTBOLL: WOMEN SUPER LEAGUE BRIGHTON-ARSENAL (SE) 8K SE: PLAY+ 128
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037351&extension=ts&play_token=rZbhTiax06
 #EXTINF:-1 tvg-id="1645435" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",06/09 11:00 PM | NOR| DAZN WOMEN'S FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 451E4B0A966AC0212746301506D0EA86
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1645435&extension=ts&play_token=II5YDOqebM
-#EXTINF:-1 tvg-id="2058539" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",07/09 01:45 AM | Live UFC Paris Hooker vs Parnasse Preliminary Card Engels Commentaar all 8K NL: SOCCER 9
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1645435&extension=ts&play_token=4kHz1d3CUg
+#EXTINF:-1 tvg-id="2058472" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",07/09 01:45 AM | AC Milan Women at Juventus Women all | 8K NL: SOCCER 76
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 451E4B0A966AC0212746301506D0EA86
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058539&extension=ts&play_token=lfQHrk0GBw
-#EXTINF:-1 tvg-id="2058537" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",07/09 01:45 AM | Live UFC Paris Hooker vs Parnasse Main Card Nederlands Commentaar all 8K NL: SOCCER 11
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058472&extension=ts&play_token=ORD254RwIM
+#EXTINF:-1 tvg-id="2040489" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",07/09 01:45 AM | Juventus Milan (italienischer Kommentar) Serie A | 8K DE: DAZN 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 451E4B0A966AC0212746301506D0EA86
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058537&extension=ts&play_token=8zPFjsORgg
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040489&extension=ts&play_token=bFIXkIWVNf
+#EXTINF:-1 tvg-id="2040488" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",07/09 01:45 AM | Juventus Milan Serie A | 8K DE: DAZN 37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040488&extension=ts&play_token=w42It3Nmsk
+#EXTINF:-1 tvg-id="2046790" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",07/09 01:45 AM | Juventus Milan (Commentaire italien) Serie A | 8K CH: DAZN 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046790&extension=ts&play_token=YNJr8Wwaot
+#EXTINF:-1 tvg-id="2046788" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",07/09 01:45 AM | Juventus Milan Serie A | 8K CH: DAZN 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046788&extension=ts&play_token=JOQfjeyyew
+#EXTINF:-1 tvg-id="2112997" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",07/09 01:45 AM | AC Milan Women at Juventus Women all | 8K FR: SOCCER 114
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2112997&extension=ts&play_token=qGHSC5YJHj
+#EXTINF:-1 tvg-id="2040671" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",07/09 01:45 AM | Juventus AC Milan Serie A | 8K ES: DAZN 60
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040671&extension=ts&play_token=etpb0jk4MB
+#EXTINF:-1 tvg-id="2058539" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",07/09 01:45 AM | End UFC Paris Hooker vs Parnasse Preliminary Card Engels Commentaar all | 8K NL: SOCCER 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058539&extension=ts&play_token=YktlyB2040
+#EXTINF:-1 tvg-id="2058537" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",07/09 01:45 AM | End UFC Paris Hooker vs Parnasse Main Card Nederlands Commentaar all | 8K NL: SOCCER 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AD1295F9C8BA1978179D91F13ED94424
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058537&extension=ts&play_token=X9ORyARJLa

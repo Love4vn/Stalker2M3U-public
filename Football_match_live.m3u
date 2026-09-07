@@ -54,3 +54,18 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2134473&ext
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer B9E32F0755C03E790FEDFA61F5CC30ED
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992263&extension=ts&play_token=8aVMhjDsGt
+#EXTINF:-1 tvg-id="1367492" group-title="Live UEFA Champions League-Match" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif",09/09 02:00 AM | USA Soccer07: Europe : Atlético Madrid vs Internazionale @
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B6E6E73C1BCA0668224920E48BEC2FFC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1367492&extension=ts&play_token=AUzyVAEX5S
+#EXTINF:-1 tvg-id="1367492" group-title="Live UEFA Champions League-Match" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif",09/09 02:00 AM | USA Soccer07: Europe : Atlético Madrid vs Internazionale @
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C21647A05E1E8A8BB3A4678A0C591EF1
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1367492&extension=ts&play_token=XB4CsFVDo6
+#EXTINF:-1 tvg-id="1367492" group-title="Live UEFA Champions League-Match" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif",09/09 02:00 AM | USA Soccer07: Europe : Atlético Madrid vs Internazionale @
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:48:5A:84; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E368ADAAEB0D058C45F2B8ECCA57D2C3
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=1367492&extension=ts&play_token=JtT3qs3HZi

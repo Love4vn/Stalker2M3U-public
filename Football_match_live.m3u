@@ -1,16 +1,56 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1100792" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="https://go4.pw/55.png",08/09 01:45 AM | EN UDINESE VS LAZIO
+#EXTINF:-1 tvg-id="2048917" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",08/09 01:45 AM | Udinese vs. Lazio Lega Serie A | 8K GB: DAZN 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9797AE1971027E96F94E9C56F970C0B1
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100792
-#EXTINF:-1 tvg-id="1100791" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="https://go4.pw/55.png",08/09 01:45 AM | IT UDINESE VS LAZIO
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B9E32F0755C03E790FEDFA61F5CC30ED
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2048917&extension=ts&play_token=4ZAXbF4rE6
+#EXTINF:-1 tvg-id="2040512" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",08/09 01:45 AM | Udinese Lazio (italienischer Kommentar) Serie A | 8K DE: DAZN 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9797AE1971027E96F94E9C56F970C0B1
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100791
-#EXTINF:-1 tvg-id="1421364" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="https://go4.pw/55.png",08/09 01:45 AM | AR UDINESE VS LAZIO
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B9E32F0755C03E790FEDFA61F5CC30ED
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040512&extension=ts&play_token=MiSFJJjcul
+#EXTINF:-1 tvg-id="2040507" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",08/09 01:45 AM | Udinese Lazio Serie A | 8K DE: DAZN 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9797AE1971027E96F94E9C56F970C0B1
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1421364
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B9E32F0755C03E790FEDFA61F5CC30ED
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040507&extension=ts&play_token=yrMD6pJm48
+#EXTINF:-1 tvg-id="2055033" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/09 01:45 AM | Udinese vs. Lazio all | 8K DE: SOCCER 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B9E32F0755C03E790FEDFA61F5CC30ED
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055033&extension=ts&play_token=iVOpv1TvAh
+#EXTINF:-1 tvg-id="2046796" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",08/09 01:45 AM | Udinese Lazio (Commentaire italien) Serie A | 8K CH: DAZN 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B9E32F0755C03E790FEDFA61F5CC30ED
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046796&extension=ts&play_token=3gUxiGlDiH
+#EXTINF:-1 tvg-id="2046791" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",08/09 01:45 AM | Udinese Lazio Serie A | 8K CH: DAZN 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B9E32F0755C03E790FEDFA61F5CC30ED
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046791&extension=ts&play_token=zwY805quv2
+#EXTINF:-1 tvg-id="2072521" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/09 01:45 AM | Udinese vs. Lazio all | 8K ES: SOCCER 32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B9E32F0755C03E790FEDFA61F5CC30ED
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072521&extension=ts&play_token=gFnYm0fRSs
+#EXTINF:-1 tvg-id="2040720" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",08/09 01:45 AM | Udinese Lazio Serie A | 8K ES: DAZN 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B9E32F0755C03E790FEDFA61F5CC30ED
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040720&extension=ts&play_token=zy5WR3IgWt
+#EXTINF:-1 tvg-id="2021234" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",08/09 01:45 AM | SERIE A: UDINESE LAZIO (SE) 8K SE: PLAY+ 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B9E32F0755C03E790FEDFA61F5CC30ED
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021234&extension=ts&play_token=9wJHDTehXQ
+#EXTINF:-1 tvg-id="2134473" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png",08/09 01:45 AM | Serie A: Udinese-Lazio @ :00 :Tv2Play DK 04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B9E32F0755C03E790FEDFA61F5CC30ED
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2134473&extension=ts&play_token=2JnLzgGvNI
+#EXTINF:-1 tvg-id="1992263" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",08/09 01:45 AM | Serie A: Udinese vs Lazio @ :Telia FI 05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B9E32F0755C03E790FEDFA61F5CC30ED
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992263&extension=ts&play_token=8aVMhjDsGt

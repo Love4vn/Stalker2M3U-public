@@ -209,6 +209,116 @@ http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=870313&ex
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer ADA3F4016B53A06EE3603B7DED64A6E2
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312185&extension=ts&play_token=R9b8i2xGtc
+#EXTINF:-1 tvg-id="1905853" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UK/1905853.png",10/09 04:30 AM | US Open (UK-NOWTV| SKY SPORTS MAIN EVENT FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1905853&extension=ts&play_token=NovW3BI5VX
+#EXTINF:-1 tvg-id="1905852" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UK/1905852.png",10/09 04:30 AM | US Open (UK-NOWTV| SKY SPORTS MAIN EVENT HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1905852&extension=ts&play_token=XKa3MYsTYz
+#EXTINF:-1 tvg-id="17286" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/UK/skyamainevent.png",10/09 04:30 AM | US Open (UK - SKY SPORTS MAIN EVENT FHD ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/17286
+#EXTINF:-1 tvg-id="348315" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/UK/skyamainevent.png",10/09 04:30 AM | US Open (UK - SKY SPORTS MAIN EVENT HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/348315
+#EXTINF:-1 tvg-id="365037" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/UK/skyamainevent.png",10/09 04:30 AM | US Open (UK - SKY SPORTS MAIN EVENT HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/365037
+#EXTINF:-1 tvg-id="1641636" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENT.png",10/09 04:30 AM | US Open (UK| SKY SPORTS MAIN EVENT UHD/4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1641636&extension=ts&play_token=bNe2DgLIGc
+#EXTINF:-1 tvg-id="30496" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.92/images/30496.png",10/09 04:30 AM | US Open (UK| SKY SPORTS MAIN EVENT FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=30496&extension=ts&play_token=GONxPiqOPv
+#EXTINF:-1 tvg-id="79476" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.92/images/79476.png",10/09 04:30 AM | US Open (UK| SKY SPORTS MAIN EVENT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=79476&extension=ts&play_token=UEH3zi7Fww
+#EXTINF:-1 tvg-id="394553" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",10/09 04:30 AM | US Open (┃UK┃ SKY SPORTS MAIN EVENT FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B2C84C99BE51F6CD944DF7F211BB87D
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=394553&extension=ts&play_token=oWYhzUakxU
+#EXTINF:-1 tvg-id="1312176" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",10/09 04:30 AM | US Open (┃UK┃ SKY SPORTS MAIN EVENT HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B2C84C99BE51F6CD944DF7F211BB87D
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312176&extension=ts&play_token=N7OhDty3nt
+#EXTINF:-1 tvg-id="394553" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",10/09 04:30 AM | US Open (┃UK┃ SKY SPORTS MAIN EVENT FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer ADA3F4016B53A06EE3603B7DED64A6E2
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=394553&extension=ts&play_token=jrTprsFLkC
+#EXTINF:-1 tvg-id="1312176" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",10/09 04:30 AM | US Open (┃UK┃ SKY SPORTS MAIN EVENT HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer ADA3F4016B53A06EE3603B7DED64A6E2
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312176&extension=ts&play_token=FO5Opa53fr
+#EXTINF:-1 tvg-id="83450" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENTS.png",10/09 04:30 AM | US Open (UK| SKY SPORTS MAIN EVENTS HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=83450&extension=ts&play_token=z3wkLwRzeL
+#EXTINF:-1 tvg-id="1458672" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENTS.png",10/09 04:30 AM | US Open (UK| SKY SPORTS MAIN EVENTS HEVC FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1458672&extension=ts&play_token=5jFaAbfQeJ
+#EXTINF:-1 tvg-id="1458658" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENTS.png",10/09 04:30 AM | US Open (UK| SKY SPORTS MAIN EVENTS HEVC HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1458658&extension=ts&play_token=OvcbNmRlYv
+#EXTINF:-1 tvg-id="1905924" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UK/1905924.png",10/09 04:30 AM | US Open (UK-NOWTV| SET SPORTS MAIN EVENT (UHD/4K))
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1905924&extension=ts&play_token=qBtOGMGwAm
+#EXTINF:-1 tvg-id="1312008" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ SKY SPORTS RAW DOLBY/SKY SPORTS MAIN EVENTS.png",10/09 04:30 AM | US Open (┃UK┃ SKY SPORTS MAIN EVENTS 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B2C84C99BE51F6CD944DF7F211BB87D
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312008&extension=ts&play_token=RPFaRPPktd
+#EXTINF:-1 tvg-id="1312033" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",10/09 04:30 AM | US Open (┃UK┃ SKY SPORTS MAIN EVENTS HEVC FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B2C84C99BE51F6CD944DF7F211BB87D
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312033&extension=ts&play_token=HjspQLDCAC
+#EXTINF:-1 tvg-id="1312049" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",10/09 04:30 AM | US Open (┃UK┃ SKY SPORTS MAIN EVENTS HEVC HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B2C84C99BE51F6CD944DF7F211BB87D
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312049&extension=ts&play_token=b6yFQZBa6r
+#EXTINF:-1 tvg-id="1312008" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ SKY SPORTS RAW DOLBY/SKY SPORTS MAIN EVENTS.png",10/09 04:30 AM | US Open (┃UK┃ SKY SPORTS MAIN EVENTS 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer ADA3F4016B53A06EE3603B7DED64A6E2
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312008&extension=ts&play_token=Gcjyg2cvU1
+#EXTINF:-1 tvg-id="1312033" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",10/09 04:30 AM | US Open (┃UK┃ SKY SPORTS MAIN EVENTS HEVC FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer ADA3F4016B53A06EE3603B7DED64A6E2
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312033&extension=ts&play_token=5eqnDemaXj
+#EXTINF:-1 tvg-id="1312049" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",10/09 04:30 AM | US Open (┃UK┃ SKY SPORTS MAIN EVENTS HEVC HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer ADA3F4016B53A06EE3603B7DED64A6E2
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312049&extension=ts&play_token=LFh9ulIVPG
 #EXTINF:-1 tvg-id="858673" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/sny.png",09/09 10:30 PM | US Open (┃USA┃ SNY SPORTS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
@@ -344,67 +454,77 @@ http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1167174&e
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1281068
-#EXTINF:-1 tvg-id="1030825" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/germany/EUROSPORT.png",09/09 08:00 AM | Ténis - US Open (PT - EUROSPORT 1 UHD)
+#EXTINF:-1 tvg-id="1281430" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/VIP/4k_ultra.png",10/09 04:30 AM | US Open (VIP - SKY SPORTS MAIN EVENT 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1281430
+#EXTINF:-1 tvg-id="1608071" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",10/09 04:30 AM | US Open (4K| SKY SPORTS MAIN EVENTS UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1608071&extension=ts&play_token=Z2chk0vGV1
+#EXTINF:-1 tvg-id="1030825" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/germany/EUROSPORT.png",09/09 10:45 PM | Ténis - US Open (PT - EUROSPORT 1 UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1030825
-#EXTINF:-1 tvg-id="763983" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/germany/EUROSPORT.png",09/09 08:00 AM | Ténis - US Open (PT - EUROSPORT 1 FHD)
+#EXTINF:-1 tvg-id="763983" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/germany/EUROSPORT.png",09/09 10:45 PM | Ténis - US Open (PT - EUROSPORT 1 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/763983
-#EXTINF:-1 tvg-id="68413" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/germany/EUROSPORT.png",09/09 08:00 AM | Ténis - US Open (PT - EUROSPORT 1 HD)
+#EXTINF:-1 tvg-id="68413" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/germany/EUROSPORT.png",09/09 10:45 PM | Ténis - US Open (PT - EUROSPORT 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/68413
-#EXTINF:-1 tvg-id="107488" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/EUROSPORT1.png",09/09 08:00 AM | Ténis - US Open (PT| EUROSPORT 1 HD)
+#EXTINF:-1 tvg-id="107488" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/EUROSPORT1.png",09/09 10:45 PM | Ténis - US Open (PT| EUROSPORT 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=107488&extension=ts&play_token=prQAiU1yo3
-#EXTINF:-1 tvg-id="118457" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/EUROSPORT1.png",09/09 08:00 AM | Ténis - US Open (PT| EUROSPORT 1 HEVC)
+#EXTINF:-1 tvg-id="118457" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/EUROSPORT1.png",09/09 10:45 PM | Ténis - US Open (PT| EUROSPORT 1 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=118457&extension=ts&play_token=V3gkO2UHn4
-#EXTINF:-1 tvg-id="959437" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",09/09 08:00 AM | Ténis - US Open (┃PT┃ EUROSPORT 1 FHD HEVC)
+#EXTINF:-1 tvg-id="959437" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",09/09 10:45 PM | Ténis - US Open (┃PT┃ EUROSPORT 1 FHD HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 5B2C84C99BE51F6CD944DF7F211BB87D
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=959437&extension=ts&play_token=mrtQwAQ6Vw
-#EXTINF:-1 tvg-id="959438" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",09/09 08:00 AM | Ténis - US Open (┃PT┃ EUROSPORT 1 FHD)
+#EXTINF:-1 tvg-id="959438" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",09/09 10:45 PM | Ténis - US Open (┃PT┃ EUROSPORT 1 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 5B2C84C99BE51F6CD944DF7F211BB87D
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=959438&extension=ts&play_token=p5Bjynj9Ct
-#EXTINF:-1 tvg-id="959439" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",09/09 08:00 AM | Ténis - US Open (┃PT┃ EUROSPORT 1 HD)
+#EXTINF:-1 tvg-id="959439" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",09/09 10:45 PM | Ténis - US Open (┃PT┃ EUROSPORT 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 5B2C84C99BE51F6CD944DF7F211BB87D
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=959439&extension=ts&play_token=bpGQfyy6hT
-#EXTINF:-1 tvg-id="959440" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",09/09 08:00 AM | Ténis - US Open (┃PT┃ EUROSPORT 1)
+#EXTINF:-1 tvg-id="959440" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",09/09 10:45 PM | Ténis - US Open (┃PT┃ EUROSPORT 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 5B2C84C99BE51F6CD944DF7F211BB87D
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=959440&extension=ts&play_token=47FNIBLLO1
-#EXTINF:-1 tvg-id="959437" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",09/09 08:00 AM | Ténis - US Open (┃PT┃ EUROSPORT 1 FHD HEVC)
+#EXTINF:-1 tvg-id="959437" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",09/09 10:45 PM | Ténis - US Open (┃PT┃ EUROSPORT 1 FHD HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer ADA3F4016B53A06EE3603B7DED64A6E2
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=959437&extension=ts&play_token=jOQ65MhQUJ
-#EXTINF:-1 tvg-id="959438" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",09/09 08:00 AM | Ténis - US Open (┃PT┃ EUROSPORT 1 FHD)
+#EXTINF:-1 tvg-id="959438" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",09/09 10:45 PM | Ténis - US Open (┃PT┃ EUROSPORT 1 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer ADA3F4016B53A06EE3603B7DED64A6E2
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=959438&extension=ts&play_token=T2brnCwUDZ
-#EXTINF:-1 tvg-id="959439" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",09/09 08:00 AM | Ténis - US Open (┃PT┃ EUROSPORT 1 HD)
+#EXTINF:-1 tvg-id="959439" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",09/09 10:45 PM | Ténis - US Open (┃PT┃ EUROSPORT 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer ADA3F4016B53A06EE3603B7DED64A6E2
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=959439&extension=ts&play_token=MO2pBOUURW
-#EXTINF:-1 tvg-id="959440" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",09/09 08:00 AM | Ténis - US Open (┃PT┃ EUROSPORT 1)
+#EXTINF:-1 tvg-id="959440" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/EUROSPORT 1.png",09/09 10:45 PM | Ténis - US Open (┃PT┃ EUROSPORT 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer ADA3F4016B53A06EE3603B7DED64A6E2

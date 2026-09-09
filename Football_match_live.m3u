@@ -1,91 +1,341 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="2047070" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png",09/09 11:45 PM | BARCELONA FEYENOORD 8K : MAX 36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2047070&extension=ts&play_token=3gF4WXAo4t
+#EXTINF:-1 tvg-id="1150168" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",09/09 11:45 PM | EN BARCELONA VS FEYENOORD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150168
 #EXTINF:-1 tvg-id="1606802" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FEYENOORD.png",09/09 11:45 PM | ENDED LIVE PERSCONFERENTIE FC BARCELONA FEYENOORD (NL) 8K NL: FEYENOORD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0271665100D25A77510CAD8C09B2928B
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1606802&extension=ts&play_token=whF8rqsKqh
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1606802&extension=ts&play_token=YYYd0WQhFX
 #EXTINF:-1 tvg-id="2040495" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",09/09 11:45 PM | FC Barcelona Feyenoord | 8K DE: DAZN 30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0271665100D25A77510CAD8C09B2928B
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040495&extension=ts&play_token=A5pHMiyfDQ
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040495&extension=ts&play_token=IuZx4rMdq0
 #EXTINF:-1 tvg-id="2055011" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",09/09 11:45 PM | Barcelona vs. Feyenoord all | 8K DE: SOCCER 41
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0271665100D25A77510CAD8C09B2928B
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055011&extension=ts&play_token=sPaG0s8uH9
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055011&extension=ts&play_token=F4uVCm2hIT
+#EXTINF:-1 tvg-id="1992996" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ViX.png",09/09 11:45 PM | FC BARCELONA VS. FEYENOORD (ES) 8K ES: VIX 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992996&extension=ts&play_token=riE3JqpVcn
+#EXTINF:-1 tvg-id="2046584" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",09/09 11:45 PM | Barcelona x Feyenoord | 8K PT: DAZN 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046584&extension=ts&play_token=eimS1kpXtp
 #EXTINF:-1 tvg-id="2021211" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",09/09 11:45 PM | BARCELONA FEYENOORD (SE) 8K SE: PLAY+ 37
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0271665100D25A77510CAD8C09B2928B
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021211&extension=ts&play_token=hws8mgarcg
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021211&extension=ts&play_token=YKdU03ORXy
 #EXTINF:-1 tvg-id="2016254" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",09/09 11:45 PM | CL-STUDION: BARCELONA FEYENOORD (SE) 8K SE: VIAPLAY 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0271665100D25A77510CAD8C09B2928B
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016254&extension=ts&play_token=WBUpX0sg25
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016254&extension=ts&play_token=M7DZInsWlH
+#EXTINF:-1 tvg-id="1605764" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",09/09 11:45 PM | BARCELONA FEYENOORD (NO) 8K NO: TV2 PLAY 28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1605764&extension=ts&play_token=tIvzQ6sWTd
+#EXTINF:-1 tvg-id="1963185" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MTV.png",09/09 11:45 PM | BARCELONA FEYENOORD (FI) 8K FI: MTV 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1963185&extension=ts&play_token=AlXaQUsIYD
+#EXTINF:-1 tvg-id="1150141" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",09/09 11:45 PM | FR BARCELONA VS FEYENOORD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150141
+#EXTINF:-1 tvg-id="1292008" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",09/09 11:45 PM | AR BARCELONA VS FEYENOORD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1292008
+#EXTINF:-1 tvg-id="1292015" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",09/09 11:45 PM | SP BARCELONA VS FEYENOORD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1292015
+#EXTINF:-1 tvg-id="1292020" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",09/09 11:45 PM | DE BARCELONA VS FEYENOORD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1292020
+#EXTINF:-1 tvg-id="1274757" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",09/09 11:45 PM | ALB BARCELONA VS FEYENOORD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1274757
+#EXTINF:-1 tvg-id="1150167" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",09/09 11:45 PM | EN STUTTGART VS VIKING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150167
 #EXTINF:-1 tvg-id="2040496" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",09/09 11:45 PM | VfB Stuttgart Viking FK | 8K DE: DAZN 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0271665100D25A77510CAD8C09B2928B
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040496&extension=ts&play_token=vIWZzEgHc7
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040496&extension=ts&play_token=coPzfrsUls
 #EXTINF:-1 tvg-id="2055012" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",09/09 11:45 PM | Stuttgart vs. Viking all | 8K DE: SOCCER 40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0271665100D25A77510CAD8C09B2928B
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055012&extension=ts&play_token=xQ9ZUnELY6
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055012&extension=ts&play_token=0HJIqvvI6K
+#EXTINF:-1 tvg-id="2046583" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",09/09 11:45 PM | Stuttgart x Viking | 8K PT: DAZN 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046583&extension=ts&play_token=MYCLrnPNwA
 #EXTINF:-1 tvg-id="2016253" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",09/09 11:45 PM | STUTTGART VIKING (SE) 8K SE: VIAPLAY 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0271665100D25A77510CAD8C09B2928B
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016253&extension=ts&play_token=30OiaA8K1b
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016253&extension=ts&play_token=BPdYEoucK5
+#EXTINF:-1 tvg-id="1150140" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",09/09 11:45 PM | FR STUTTGART VS VIKING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150140
+#EXTINF:-1 tvg-id="1292007" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",09/09 11:45 PM | AR STUTTGART VS VIKING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1292007
+#EXTINF:-1 tvg-id="1150174" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",09/09 11:45 PM | SP STUTTGART VS VIKING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150174
+#EXTINF:-1 tvg-id="1292019" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",09/09 11:45 PM | DE STUTTGART VS VIKING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1292019
+#EXTINF:-1 tvg-id="1274756" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",09/09 11:45 PM | ALB STUTTGART VS VIKING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1274756
+#EXTINF:-1 tvg-id="2047065" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png",10/09 02:00 AM | NAPOLI ARSENAL 8K : MAX 41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2047065&extension=ts&play_token=Hz2UjLTaAY
+#EXTINF:-1 tvg-id="1150165" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",10/09 02:00 AM | EN NAPOLI VS ARSENAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150165
 #EXTINF:-1 tvg-id="2055004" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",10/09 02:00 AM | Napoli vs. Arsenal all | 8K DE: SOCCER 48
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0271665100D25A77510CAD8C09B2928B
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055004&extension=ts&play_token=hXKlkKCJ4e
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055004&extension=ts&play_token=YxpXP9YWJg
+#EXTINF:-1 tvg-id="1992994" group-title="Live UEFA Champions League-Match" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14456.jpg?ver=20107",10/09 02:00 AM | NAPOLI VS. ARSENAL (ES) 8K ES: VIX 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992994&extension=ts&play_token=ijaOz6YGil
+#EXTINF:-1 tvg-id="2046581" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",10/09 02:00 AM | Napoli x Arsenal | 8K PT: DAZN 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046581&extension=ts&play_token=9q6NvXm9gm
 #EXTINF:-1 tvg-id="2021202" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",10/09 02:00 AM | NAPOLI ARSENAL (SE) 8K SE: PLAY+ 46
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0271665100D25A77510CAD8C09B2928B
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021202&extension=ts&play_token=SFzkfMmnfm
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021202&extension=ts&play_token=YA5QEastkR
 #EXTINF:-1 tvg-id="2016245" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",10/09 02:00 AM | NAPOLI ARSENAL (SE) 8K SE: VIAPLAY 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0271665100D25A77510CAD8C09B2928B
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016245&extension=ts&play_token=3uYH5ZnUeb
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016245&extension=ts&play_token=Ae4KnPNXoQ
+#EXTINF:-1 tvg-id="1605759" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",10/09 02:00 AM | NAPOLI – ARSENAL (NO) 8K NO: TV2 PLAY 33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1605759&extension=ts&play_token=EJDBDJMM86
+#EXTINF:-1 tvg-id="1963183" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MTV.png",10/09 02:00 AM | NAPOLI ARSENAL (FI) 8K FI: MTV 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1963183&extension=ts&play_token=VHueDJulRm
+#EXTINF:-1 tvg-id="1150135" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",10/09 02:00 AM | FR NAPOLI VS ARSENAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150135
+#EXTINF:-1 tvg-id="1150139" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",10/09 02:00 AM | AR NAPOLI VS ARSENAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150139
+#EXTINF:-1 tvg-id="1095991" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",10/09 02:00 AM | SP NAPOLI VS ARSENAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1095991
+#EXTINF:-1 tvg-id="1274765" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",10/09 02:00 AM | DE NAPOLI VS ARSENAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1274765
+#EXTINF:-1 tvg-id="1150172" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",10/09 02:00 AM | ALB NAPOLI VS ARSENAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150172
+#EXTINF:-1 tvg-id="2047064" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png",10/09 02:00 AM | PARIS SAINT-GERMAIN SLOVAN BRATISLAVA 8K : MAX 42
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2047064&extension=ts&play_token=ZyXqmGC1YZ
+#EXTINF:-1 tvg-id="1150164" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",10/09 02:00 AM | EN PSG VS SLOVAN BRATISLAVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150164
 #EXTINF:-1 tvg-id="2040489" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",10/09 02:00 AM | PSG Bratislava | 8K DE: DAZN 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0271665100D25A77510CAD8C09B2928B
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040489&extension=ts&play_token=VvBKEIJmQP
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040489&extension=ts&play_token=rA1sp3ppI6
 #EXTINF:-1 tvg-id="2055007" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",10/09 02:00 AM | PSG vs. Slovan Bratislava all | 8K DE: SOCCER 45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0271665100D25A77510CAD8C09B2928B
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055007&extension=ts&play_token=wCyriSVnee
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055007&extension=ts&play_token=mqZptrqbBL
+#EXTINF:-1 tvg-id="2046579" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",10/09 02:00 AM | PSG x Slovan Bratislava | 8K PT: DAZN 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046579&extension=ts&play_token=9k2csYxWYN
 #EXTINF:-1 tvg-id="2021203" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",10/09 02:00 AM | PSG SLOVAN BRATISLAVA (SE) 8K SE: PLAY+ 45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0271665100D25A77510CAD8C09B2928B
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021203&extension=ts&play_token=nZNYs9O9xa
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021203&extension=ts&play_token=O9Vi7P6ZQl
 #EXTINF:-1 tvg-id="2016246" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",10/09 02:00 AM | PSG SLOVAN BRATISLAVA (SE) 8K SE: VIAPLAY 33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0271665100D25A77510CAD8C09B2928B
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016246&extension=ts&play_token=9p6muzgItY
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016246&extension=ts&play_token=2m7SZK4Sy6
+#EXTINF:-1 tvg-id="1605752" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",10/09 02:00 AM | PSG SLOVAN BRATISLAVA (NO) 8K NO: TV2 PLAY 40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1605752&extension=ts&play_token=33UKINLmfd
+#EXTINF:-1 tvg-id="1096035" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",10/09 02:00 AM | FR PSG VS SLOVAN BRATISLAVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1096035
+#EXTINF:-1 tvg-id="1150138" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",10/09 02:00 AM | AR PSG VS SLOVAN BRATISLAVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150138
+#EXTINF:-1 tvg-id="1095990" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",10/09 02:00 AM | SP PSG VS SLOVAN BRATISLAVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1095990
+#EXTINF:-1 tvg-id="1150171" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",10/09 02:00 AM | DE PSG VS SLOVAN BRATISLAVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150171
+#EXTINF:-1 tvg-id="1150157" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",10/09 02:00 AM | ALB PSG VS SLOVAN BRATISLAVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150157
+#EXTINF:-1 tvg-id="2047067" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png",10/09 02:00 AM | LIVERPOOL ATLÉTICO MADRID 8K : MAX 39
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2047067&extension=ts&play_token=kX4VL0Ll4o
+#EXTINF:-1 tvg-id="2047066" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png",10/09 02:00 AM | LIVERPOOL ATLÉTICO MADRID 8K : MAX 40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2047066&extension=ts&play_token=8tjbgG58jO
+#EXTINF:-1 tvg-id="1150166" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",10/09 02:00 AM | EN LIVERPOOL VS ATLÉTICO MADRID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150166
 #EXTINF:-1 tvg-id="2040491" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",10/09 02:00 AM | Liverpool Atletico Madrid | 8K DE: DAZN 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0271665100D25A77510CAD8C09B2928B
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040491&extension=ts&play_token=B7lGbbyunA
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040491&extension=ts&play_token=In3n9Spthz
 #EXTINF:-1 tvg-id="2055006" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",10/09 02:00 AM | Liverpool vs. Atlético Madrid all | 8K DE: SOCCER 46
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0271665100D25A77510CAD8C09B2928B
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055006&extension=ts&play_token=S1iTWUfzwa
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055006&extension=ts&play_token=GNAQRFIDz3
+#EXTINF:-1 tvg-id="1992997" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ViX.png",10/09 02:00 AM | LIVERPOOL VS. ATLÉTICO DE MADRID (ES) 8K ES: VIX 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992997&extension=ts&play_token=sEEcQggQue
+#EXTINF:-1 tvg-id="2046580" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",10/09 02:00 AM | Liverpool x Atl. Madrid | 8K PT: DAZN 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046580&extension=ts&play_token=Xw0ZtwiLk6
 #EXTINF:-1 tvg-id="2021200" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",10/09 02:00 AM | LIVERPOOL ATLÉTICO MADRID (SE) 8K SE: PLAY+ 48
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0271665100D25A77510CAD8C09B2928B
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021200&extension=ts&play_token=dCZaFBFcVK
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021200&extension=ts&play_token=IQGVxYaBnA
+#EXTINF:-1 tvg-id="1605758" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",10/09 02:00 AM | LIVERPOOL – ATLÉTICO (NO) 8K NO: TV2 PLAY 34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1605758&extension=ts&play_token=a89EaKqJcJ
+#EXTINF:-1 tvg-id="1963184" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MTV.png",10/09 02:00 AM | LIVERPOOL ATLÉTICO MADRID (FI) 8K FI: MTV 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 658CA47021CFE4EF2CEC171797092FEB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1963184&extension=ts&play_token=UxLWqD7cqz
+#EXTINF:-1 tvg-id="1150136" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",10/09 02:00 AM | FR LIVERPOOL VS ATLÉTICO MADRID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150136
+#EXTINF:-1 tvg-id="1292006" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",10/09 02:00 AM | AR LIVERPOOL VS ATLÉTICO MADRID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1292006
+#EXTINF:-1 tvg-id="1095992" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",10/09 02:00 AM | SP LIVERPOOL VS ATLÉTICO MADRID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1095992
+#EXTINF:-1 tvg-id="1274770" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",10/09 02:00 AM | DE LIVERPOOL VS ATLÉTICO MADRID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1274770
+#EXTINF:-1 tvg-id="1248255" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",10/09 02:00 AM | ALB LIVERPOOL VS ATLÉTICO MADRID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 969BE539165987B6F94EC7EDF5A395E0
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1248255

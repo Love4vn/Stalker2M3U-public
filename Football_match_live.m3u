@@ -1,26 +1,106 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1327958" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",10/09 11:45 PM | AU (STAN 22) PSV v Shakhtar Donetsk 2026/2027 ( :34)
+#EXTINF:-1 tvg-id="2054982" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",10/09 11:45 PM | PSV vs. Shakhtar D all | 8K DE: SOCCER 70
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:50:46:96; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 28B4351F321665E207813A6702716DA9
-http://scopetv.online:80/play/live.php?mac=00:1A:79:50:46:96&stream=1327958&extension=ts&play_token=iIyfDvLHjY
-#EXTINF:-1 tvg-id="1327959" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",10/09 11:45 PM | AU (STAN 21) Fenerbahçe v Roma 2026/2027 ( :29)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 07CD9CEBEBB4165CA69CBB2FF0CE9DB1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054982&extension=ts&play_token=z4gJMG9da6
+#EXTINF:-1 tvg-id="2046586" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",10/09 11:45 PM | PSV x Shakhtar | 8K PT: DAZN 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:50:46:96; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 28B4351F321665E207813A6702716DA9
-http://scopetv.online:80/play/live.php?mac=00:1A:79:50:46:96&stream=1327959&extension=ts&play_token=FUu56GmeQe
-#EXTINF:-1 tvg-id="1327956" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",11/09 02:00 AM | AU (STAN 24) Manchester United v Sabah 2026/2027 ( :29)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 07CD9CEBEBB4165CA69CBB2FF0CE9DB1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046586&extension=ts&play_token=YZ6FD4fQv0
+#EXTINF:-1 tvg-id="1992262" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",10/09 11:45 PM | PSV vs Shakhtar Donetsk @ :Telia FI 06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:50:46:96; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 28B4351F321665E207813A6702716DA9
-http://scopetv.online:80/play/live.php?mac=00:1A:79:50:46:96&stream=1327956&extension=ts&play_token=62hYqVKgi4
-#EXTINF:-1 tvg-id="1327954" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",11/09 02:00 AM | AU (STAN 26) Como v RB Leipzig 2026/2027 ( :39)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 07CD9CEBEBB4165CA69CBB2FF0CE9DB1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992262&extension=ts&play_token=dxITKbiI9R
+#EXTINF:-1 tvg-id="2054981" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",10/09 11:45 PM | Fenerbahçe vs. Roma all | 8K DE: SOCCER 71
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:50:46:96; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 28B4351F321665E207813A6702716DA9
-http://scopetv.online:80/play/live.php?mac=00:1A:79:50:46:96&stream=1327954&extension=ts&play_token=Crhz4bAYh0
-#EXTINF:-1 tvg-id="1327953" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",11/09 02:00 AM | AU (STAN 27) Slavia Praha v Lens 2026/2027 ( :44)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 07CD9CEBEBB4165CA69CBB2FF0CE9DB1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054981&extension=ts&play_token=bDjnN1dBan
+#EXTINF:-1 tvg-id="2046585" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",10/09 11:45 PM | Fenerbahçe x Roma | 8K PT: DAZN 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:50:46:96; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 28B4351F321665E207813A6702716DA9
-http://scopetv.online:80/play/live.php?mac=00:1A:79:50:46:96&stream=1327953&extension=ts&play_token=xAIBgnDvNg
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 07CD9CEBEBB4165CA69CBB2FF0CE9DB1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046585&extension=ts&play_token=stvTA6ojzS
+#EXTINF:-1 tvg-id="1992261" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",10/09 11:45 PM | Fenerbahce vs AS Roma @ :Telia FI 07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 07CD9CEBEBB4165CA69CBB2FF0CE9DB1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992261&extension=ts&play_token=IylWQnsV8y
+#EXTINF:-1 tvg-id="2047087" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png",11/09 02:00 AM | MANCHESTER UNITED SABAH FK 8K : MAX 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 07CD9CEBEBB4165CA69CBB2FF0CE9DB1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2047087&extension=ts&play_token=MEr6ibnGiU
+#EXTINF:-1 tvg-id="2047086" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png",11/09 02:00 AM | MANCHESTER UNITED SABAH FK 8K : MAX 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 07CD9CEBEBB4165CA69CBB2FF0CE9DB1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2047086&extension=ts&play_token=ZF49Kv477V
+#EXTINF:-1 tvg-id="2040492" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",11/09 02:00 AM | Man United Sabah | 8K DE: DAZN 33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 07CD9CEBEBB4165CA69CBB2FF0CE9DB1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040492&extension=ts&play_token=bz05F1j8UM
+#EXTINF:-1 tvg-id="2054977" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",11/09 02:00 AM | Manchester United vs. Sabah all | 8K DE: SOCCER 75
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 07CD9CEBEBB4165CA69CBB2FF0CE9DB1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054977&extension=ts&play_token=M56rumEAGn
+#EXTINF:-1 tvg-id="2046583" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",11/09 02:00 AM | Man. United x Sabah | 8K PT: DAZN 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 07CD9CEBEBB4165CA69CBB2FF0CE9DB1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046583&extension=ts&play_token=dleKAovcsF
+#EXTINF:-1 tvg-id="1991523" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",11/09 02:00 AM | Manchester United vs Sabah @ :TeliaPlay SE 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 07CD9CEBEBB4165CA69CBB2FF0CE9DB1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1991523&extension=ts&play_token=j4M7QHuAH9
+#EXTINF:-1 tvg-id="1992161" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MTVKatsomo.png",11/09 02:00 AM | Manchester United Sabah Baku @ :MTV FI 06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 07CD9CEBEBB4165CA69CBB2FF0CE9DB1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992161&extension=ts&play_token=w8oJmt4rQy
+#EXTINF:-1 tvg-id="1992256" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",11/09 02:00 AM | Manchester United vs Sabah Baku @ :Telia FI 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 07CD9CEBEBB4165CA69CBB2FF0CE9DB1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992256&extension=ts&play_token=ruDeSIkbIU
+#EXTINF:-1 tvg-id="2040493" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",11/09 02:00 AM | Como RB Leipzig | 8K DE: DAZN 32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 07CD9CEBEBB4165CA69CBB2FF0CE9DB1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040493&extension=ts&play_token=ZpDRERlZYG
+#EXTINF:-1 tvg-id="2054978" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",11/09 02:00 AM | Como vs. Leipzig all | 8K DE: SOCCER 74
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 07CD9CEBEBB4165CA69CBB2FF0CE9DB1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054978&extension=ts&play_token=fGzrwU2RaN
+#EXTINF:-1 tvg-id="2046581" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",11/09 02:00 AM | Como x Leipzig | 8K PT: DAZN 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 07CD9CEBEBB4165CA69CBB2FF0CE9DB1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046581&extension=ts&play_token=Tk49BtLvAL
+#EXTINF:-1 tvg-id="2040491" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",11/09 02:00 AM | Slavia Prag Lens | 8K DE: DAZN 34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 07CD9CEBEBB4165CA69CBB2FF0CE9DB1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040491&extension=ts&play_token=SuE0to4KHn
+#EXTINF:-1 tvg-id="2054976" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",11/09 02:00 AM | Slavia vs. Lens all | 8K DE: SOCCER 76
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 07CD9CEBEBB4165CA69CBB2FF0CE9DB1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054976&extension=ts&play_token=xOcDCfNJLw
+#EXTINF:-1 tvg-id="2046580" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",11/09 02:00 AM | Slavia Praga x Lens | 8K PT: DAZN 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 07CD9CEBEBB4165CA69CBB2FF0CE9DB1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046580&extension=ts&play_token=fWgZ6Njdfk
+#EXTINF:-1 tvg-id="1992257" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",11/09 02:00 AM | Slavia Praha vs Lens @ :Telia FI 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 07CD9CEBEBB4165CA69CBB2FF0CE9DB1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992257&extension=ts&play_token=zSNLHUWaen

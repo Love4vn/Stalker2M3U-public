@@ -419,76 +419,101 @@ http://meilleur-iptv8k.xyz:80/play/live.php?mac=00:1A:79:C1:69:B3&stream=601848&
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:69:B3; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 9C2BD610A69622F5883CCDF95D7B630B
 http://meilleur-iptv8k.xyz:80/play/live.php?mac=00:1A:79:C1:69:B3&stream=750143&extension=ts&play_token=RrU1laQVWF
-#EXTINF:-1 tvg-id="1729224" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ ELEVEN SPORTS/ELEVEN SPORTS 2.png",12/09 01:45 AM | Rennes vs Marseille (┃PL┃ ELEVEN SPORTS 2 FHD)
+#EXTINF:-1 tvg-id="988856" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png",12/09 01:45 AM | Rennes vs Marseille (┃TR┃ BEIN SPORTS 3 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 50E1C6C69F2F2DA2D057CA3A0260DF44
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1729224&extension=ts&play_token=ciewI3XlSW
-#EXTINF:-1 tvg-id="1729225" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ ELEVEN SPORTS/ELEVEN SPORTS 2.png",12/09 01:45 AM | Rennes vs Marseille (┃PL┃ ELEVEN SPORTS 2 HD)
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=988856&extension=ts&play_token=whMOoPKUIU
+#EXTINF:-1 tvg-id="988857" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png",12/09 01:45 AM | Rennes vs Marseille (┃TR┃ BEIN SPORTS 3 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 50E1C6C69F2F2DA2D057CA3A0260DF44
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1729225&extension=ts&play_token=xt5Dqnm9bj
-#EXTINF:-1 tvg-id="1729226" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ ELEVEN SPORTS/ELEVEN SPORTS 2.png",12/09 01:45 AM | Rennes vs Marseille (┃PL┃ ELEVEN SPORTS 2)
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=988857&extension=ts&play_token=ZeXEXZ3Gjs
+#EXTINF:-1 tvg-id="988869" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png",12/09 01:45 AM | Rennes vs Marseille (┃TR┃ BEIN SPORTS 3 RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 50E1C6C69F2F2DA2D057CA3A0260DF44
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1729226&extension=ts&play_token=TVTmt0otRP
-#EXTINF:-1 tvg-id="1729224" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ ELEVEN SPORTS/ELEVEN SPORTS 2.png",12/09 01:45 AM | Rennes vs Marseille (┃PL┃ ELEVEN SPORTS 2 FHD)
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=988869&extension=ts&play_token=9LflZWadoL
+#EXTINF:-1 tvg-id="988876" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png",12/09 01:45 AM | Rennes vs Marseille (┃TR┃ BEIN SPORTS 3 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 50E1C6C69F2F2DA2D057CA3A0260DF44
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=988876&extension=ts&play_token=bugjD0k5vD
+#EXTINF:-1 tvg-id="988883" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png",12/09 01:45 AM | Rennes vs Marseille (┃TR┃ BEIN SPORTS 3 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 50E1C6C69F2F2DA2D057CA3A0260DF44
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=988883&extension=ts&play_token=OJMtUe083H
+#EXTINF:-1 tvg-id="988856" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png",12/09 01:45 AM | Rennes vs Marseille (┃TR┃ BEIN SPORTS 3 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 22D7B69E33929C01B6EE6A920DD4AD08
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1729224&extension=ts&play_token=VEHEoGOPMo
-#EXTINF:-1 tvg-id="1729225" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ ELEVEN SPORTS/ELEVEN SPORTS 2.png",12/09 01:45 AM | Rennes vs Marseille (┃PL┃ ELEVEN SPORTS 2 HD)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=988856&extension=ts&play_token=gdLqKU79bl
+#EXTINF:-1 tvg-id="988857" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png",12/09 01:45 AM | Rennes vs Marseille (┃TR┃ BEIN SPORTS 3 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 22D7B69E33929C01B6EE6A920DD4AD08
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1729225&extension=ts&play_token=davJlL0UXK
-#EXTINF:-1 tvg-id="1729226" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ ELEVEN SPORTS/ELEVEN SPORTS 2.png",12/09 01:45 AM | Rennes vs Marseille (┃PL┃ ELEVEN SPORTS 2)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=988857&extension=ts&play_token=NAgN3Fndlb
+#EXTINF:-1 tvg-id="988869" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png",12/09 01:45 AM | Rennes vs Marseille (┃TR┃ BEIN SPORTS 3 RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 22D7B69E33929C01B6EE6A920DD4AD08
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1729226&extension=ts&play_token=xDi0U3Mrsb
-#EXTINF:-1 tvg-id="1729224" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ ELEVEN SPORTS/ELEVEN SPORTS 2.png",12/09 01:45 AM | Rennes vs Marseille (┃PL┃ ELEVEN SPORTS 2 FHD)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=988869&extension=ts&play_token=7b0qisONWc
+#EXTINF:-1 tvg-id="988876" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png",12/09 01:45 AM | Rennes vs Marseille (┃TR┃ BEIN SPORTS 3 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 22D7B69E33929C01B6EE6A920DD4AD08
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=988876&extension=ts&play_token=Ux1m0Dgz2X
+#EXTINF:-1 tvg-id="988883" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png",12/09 01:45 AM | Rennes vs Marseille (┃TR┃ BEIN SPORTS 3 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 22D7B69E33929C01B6EE6A920DD4AD08
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=988883&extension=ts&play_token=kUQdGobiym
+#EXTINF:-1 tvg-id="988856" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png",12/09 01:45 AM | Rennes vs Marseille (┃TR┃ BEIN SPORTS 3 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 0A0385566F95CF27895D7203B436F575
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1729224&extension=ts&play_token=Uq7RI2b85O
-#EXTINF:-1 tvg-id="1729225" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ ELEVEN SPORTS/ELEVEN SPORTS 2.png",12/09 01:45 AM | Rennes vs Marseille (┃PL┃ ELEVEN SPORTS 2 HD)
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=988856&extension=ts&play_token=78C6FUjCYY
+#EXTINF:-1 tvg-id="988857" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png",12/09 01:45 AM | Rennes vs Marseille (┃TR┃ BEIN SPORTS 3 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 0A0385566F95CF27895D7203B436F575
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1729225&extension=ts&play_token=81DqpDZ66e
-#EXTINF:-1 tvg-id="1729226" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ ELEVEN SPORTS/ELEVEN SPORTS 2.png",12/09 01:45 AM | Rennes vs Marseille (┃PL┃ ELEVEN SPORTS 2)
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=988857&extension=ts&play_token=VrRTzqTAzS
+#EXTINF:-1 tvg-id="988869" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png",12/09 01:45 AM | Rennes vs Marseille (┃TR┃ BEIN SPORTS 3 RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 0A0385566F95CF27895D7203B436F575
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1729226&extension=ts&play_token=zCeIkE5U60
-#EXTINF:-1 tvg-id="814326" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS2.png",12/09 01:45 AM | Rennes vs Marseille (PL - ELEVEN SPORTS 2 FHD)
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=988869&extension=ts&play_token=v1OZckrZ2K
+#EXTINF:-1 tvg-id="988876" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png",12/09 01:45 AM | Rennes vs Marseille (┃TR┃ BEIN SPORTS 3 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0A0385566F95CF27895D7203B436F575
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=988876&extension=ts&play_token=LT4TSoBwdw
+#EXTINF:-1 tvg-id="988883" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png",12/09 01:45 AM | Rennes vs Marseille (┃TR┃ BEIN SPORTS 3 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0A0385566F95CF27895D7203B436F575
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=988883&extension=ts&play_token=5LuJPtwrtt
+#EXTINF:-1 tvg-id="686364" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORT-3-NP.jpg",12/09 01:45 AM | Rennes vs Marseille (TR - BEIN SPORT 3 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:69:B3; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 9C2BD610A69622F5883CCDF95D7B630B
-http://meilleur-iptv8k.xyz:80/play/live.php?mac=00:1A:79:C1:69:B3&stream=814326&extension=ts&play_token=Of12ommWIK
-#EXTINF:-1 tvg-id="689696" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS2.png",12/09 01:45 AM | Rennes vs Marseille (PL - ELEVEN SPORTS 2 HD)
+http://meilleur-iptv8k.xyz:80/play/live.php?mac=00:1A:79:C1:69:B3&stream=686364&extension=ts&play_token=cvrnsXHZi1
+#EXTINF:-1 tvg-id="260076" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports3hd.png",12/09 01:45 AM | Rennes vs Marseille (TR - BEIN SPORT 3 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:69:B3; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 9C2BD610A69622F5883CCDF95D7B630B
-http://meilleur-iptv8k.xyz:80/play/live.php?mac=00:1A:79:C1:69:B3&stream=689696&extension=ts&play_token=4YUvKCSHXQ
-#EXTINF:-1 tvg-id="1114" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",12/09 01:45 AM | Rennes vs Marseille (┃HR┃ ARENA SPORT 2 HD)
+http://meilleur-iptv8k.xyz:80/play/live.php?mac=00:1A:79:C1:69:B3&stream=260076&extension=ts&play_token=XPVtH0Anho
+#EXTINF:-1 tvg-id="260077" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports3hd.png",12/09 01:45 AM | Rennes vs Marseille (TR - BEIN SPORT 3 UHD HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 50E1C6C69F2F2DA2D057CA3A0260DF44
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1114&extension=ts&play_token=YtOBuq6tFZ
-#EXTINF:-1 tvg-id="1114" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",12/09 01:45 AM | Rennes vs Marseille (┃HR┃ ARENA SPORT 2 HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:69:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9C2BD610A69622F5883CCDF95D7B630B
+http://meilleur-iptv8k.xyz:80/play/live.php?mac=00:1A:79:C1:69:B3&stream=260077&extension=ts&play_token=uzCTIHJq0Q
+#EXTINF:-1 tvg-id="260082" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports3.png",12/09 01:45 AM | Rennes vs Marseille (TR - BEIN SPORT 3 UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 22D7B69E33929C01B6EE6A920DD4AD08
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1114&extension=ts&play_token=ru3fI8LR8R
-#EXTINF:-1 tvg-id="1114" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",12/09 01:45 AM | Rennes vs Marseille (┃HR┃ ARENA SPORT 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0A0385566F95CF27895D7203B436F575
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1114&extension=ts&play_token=YrK0yhZtCX
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:69:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9C2BD610A69622F5883CCDF95D7B630B
+http://meilleur-iptv8k.xyz:80/play/live.php?mac=00:1A:79:C1:69:B3&stream=260082&extension=ts&play_token=v5r9DObR7C
 #EXTINF:-1 tvg-id="1099" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/arenasport2.png",12/09 01:45 AM | Rennes vs Marseille (┃RS┃ ARENA SPORT 2 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
@@ -629,6 +654,21 @@ http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242242&e
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:69:B3; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 9C2BD610A69622F5883CCDF95D7B630B
 http://meilleur-iptv8k.xyz:80/play/live.php?mac=00:1A:79:C1:69:B3&stream=987845&extension=ts&play_token=svBHnVHjPy
+#EXTINF:-1 tvg-id="1114" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",12/09 01:45 AM | Rennes vs Marseille (┃HR┃ ARENA SPORT 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 50E1C6C69F2F2DA2D057CA3A0260DF44
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1114&extension=ts&play_token=YtOBuq6tFZ
+#EXTINF:-1 tvg-id="1114" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",12/09 01:45 AM | Rennes vs Marseille (┃HR┃ ARENA SPORT 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 22D7B69E33929C01B6EE6A920DD4AD08
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1114&extension=ts&play_token=ru3fI8LR8R
+#EXTINF:-1 tvg-id="1114" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",12/09 01:45 AM | Rennes vs Marseille (┃HR┃ ARENA SPORT 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0A0385566F95CF27895D7203B436F575
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1114&extension=ts&play_token=YrK0yhZtCX
 #EXTINF:-1 tvg-id="971288" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://51.158.145.100/picons/logos/bein/971288.png",12/09 01:45 AM | Rennes vs Marseille (AR - BEIN SPORTS 2 FRANCE HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:69:B3; stb_lang=en; timezone=GMT
@@ -739,3 +779,58 @@ http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242241&e
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:69:B3; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 9C2BD610A69622F5883CCDF95D7B630B
 http://meilleur-iptv8k.xyz:80/play/live.php?mac=00:1A:79:C1:69:B3&stream=987844&extension=ts&play_token=MIu4QXNmGV
+#EXTINF:-1 tvg-id="1729224" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ ELEVEN SPORTS/ELEVEN SPORTS 2.png",12/09 01:45 AM | Rennes vs Marseille (┃PL┃ ELEVEN SPORTS 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 50E1C6C69F2F2DA2D057CA3A0260DF44
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1729224&extension=ts&play_token=ciewI3XlSW
+#EXTINF:-1 tvg-id="1729225" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ ELEVEN SPORTS/ELEVEN SPORTS 2.png",12/09 01:45 AM | Rennes vs Marseille (┃PL┃ ELEVEN SPORTS 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 50E1C6C69F2F2DA2D057CA3A0260DF44
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1729225&extension=ts&play_token=xt5Dqnm9bj
+#EXTINF:-1 tvg-id="1729226" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ ELEVEN SPORTS/ELEVEN SPORTS 2.png",12/09 01:45 AM | Rennes vs Marseille (┃PL┃ ELEVEN SPORTS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 50E1C6C69F2F2DA2D057CA3A0260DF44
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1729226&extension=ts&play_token=TVTmt0otRP
+#EXTINF:-1 tvg-id="1729224" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ ELEVEN SPORTS/ELEVEN SPORTS 2.png",12/09 01:45 AM | Rennes vs Marseille (┃PL┃ ELEVEN SPORTS 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 22D7B69E33929C01B6EE6A920DD4AD08
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1729224&extension=ts&play_token=VEHEoGOPMo
+#EXTINF:-1 tvg-id="1729225" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ ELEVEN SPORTS/ELEVEN SPORTS 2.png",12/09 01:45 AM | Rennes vs Marseille (┃PL┃ ELEVEN SPORTS 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 22D7B69E33929C01B6EE6A920DD4AD08
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1729225&extension=ts&play_token=davJlL0UXK
+#EXTINF:-1 tvg-id="1729226" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ ELEVEN SPORTS/ELEVEN SPORTS 2.png",12/09 01:45 AM | Rennes vs Marseille (┃PL┃ ELEVEN SPORTS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 22D7B69E33929C01B6EE6A920DD4AD08
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1729226&extension=ts&play_token=xDi0U3Mrsb
+#EXTINF:-1 tvg-id="1729224" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ ELEVEN SPORTS/ELEVEN SPORTS 2.png",12/09 01:45 AM | Rennes vs Marseille (┃PL┃ ELEVEN SPORTS 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0A0385566F95CF27895D7203B436F575
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1729224&extension=ts&play_token=Uq7RI2b85O
+#EXTINF:-1 tvg-id="1729225" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ ELEVEN SPORTS/ELEVEN SPORTS 2.png",12/09 01:45 AM | Rennes vs Marseille (┃PL┃ ELEVEN SPORTS 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0A0385566F95CF27895D7203B436F575
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1729225&extension=ts&play_token=81DqpDZ66e
+#EXTINF:-1 tvg-id="1729226" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ ELEVEN SPORTS/ELEVEN SPORTS 2.png",12/09 01:45 AM | Rennes vs Marseille (┃PL┃ ELEVEN SPORTS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0A0385566F95CF27895D7203B436F575
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1729226&extension=ts&play_token=zCeIkE5U60
+#EXTINF:-1 tvg-id="814326" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS2.png",12/09 01:45 AM | Rennes vs Marseille (PL - ELEVEN SPORTS 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:69:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9C2BD610A69622F5883CCDF95D7B630B
+http://meilleur-iptv8k.xyz:80/play/live.php?mac=00:1A:79:C1:69:B3&stream=814326&extension=ts&play_token=Of12ommWIK
+#EXTINF:-1 tvg-id="689696" group-title="⚽️🇨🇵|Live Ligue 1" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS2.png",12/09 01:45 AM | Rennes vs Marseille (PL - ELEVEN SPORTS 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:69:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9C2BD610A69622F5883CCDF95D7B630B
+http://meilleur-iptv8k.xyz:80/play/live.php?mac=00:1A:79:C1:69:B3&stream=689696&extension=ts&play_token=4YUvKCSHXQ

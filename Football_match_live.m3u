@@ -1,31 +1,56 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1421374" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="https://go4.pw/fanatiz.png",12/09 01:45 AM | BR FANATIZ 07 RENNES @ OLYMPIQUE MARSEILLE – – /
+#EXTINF:-1 tvg-id="2055017" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",12/09 01:45 AM | Rennes vs. Marseille all | 8K DE: SOCCER 35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5887410615255F8AF630AFC15AAE4D75
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1421374
-#EXTINF:-1 tvg-id="1022237" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="https://go4.pw/57.png",12/09 01:45 AM | FR RENNES VS OLYMPIQUE MARSEILLE
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 55C1F8F8B1744E62EADF7822DC9A11A4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055017&extension=ts&play_token=FX8K6LJkEP
+#EXTINF:-1 tvg-id="2113099" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",12/09 01:45 AM | Live Rennes vs. Marseille all 8K FR: SOCCER 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5887410615255F8AF630AFC15AAE4D75
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1022237
-#EXTINF:-1 tvg-id="1018321" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="https://go4.pw/57.png",12/09 01:45 AM | AR RENNES VS OLYMPIQUE MARSEILLE
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 55C1F8F8B1744E62EADF7822DC9A11A4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113099&extension=ts&play_token=SVjqaaGxjS
+#EXTINF:-1 tvg-id="2072519" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",12/09 01:45 AM | End Rennes vs. Marseille all | 8K ES: SOCCER 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5887410615255F8AF630AFC15AAE4D75
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1018321
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 55C1F8F8B1744E62EADF7822DC9A11A4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072519&extension=ts&play_token=fycvMOaXtg
+#EXTINF:-1 tvg-id="2040691" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 01:45 AM | Rennes Olympique Marseille Ligue 1 | 8K ES: DAZN 40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 55C1F8F8B1744E62EADF7822DC9A11A4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040691&extension=ts&play_token=NZVJ2snDds
+#EXTINF:-1 tvg-id="1360817" group-title="Live FA, League Cup-Match" tvg-logo="http://103.176.90.95/images/1360817.png",12/09 01:45 AM | Live Football 01: Stenhousemuir vs Hearts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 55C1F8F8B1744E62EADF7822DC9A11A4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1360817&extension=ts&play_token=voAB7d9fKj
+#EXTINF:-1 tvg-id="1926115" group-title="Live FA, League Cup-Match" tvg-logo="http://103.176.90.95/images/1363059.png",12/09 01:45 AM | Live Football 01: Stenhousemuir vs Hearts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 55C1F8F8B1744E62EADF7822DC9A11A4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1926115&extension=ts&play_token=z9YoNJMOi7
 #EXTINF:-1 tvg-id="1313084" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ LIVE FOOTBALL/Live Football.png",12/09 01:45 AM | Live Football 01: Stenhousemuir vs Hearts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C0C68174F1D092235BE6658EC67C1CA3
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1313084&extension=ts&play_token=uyxC3AVnBD
+#EXTVLCOPT:http-header=Authorization: Bearer DD762D6FED84A2A8435FEEF717E0A0A5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1313084&extension=ts&play_token=jW1K41W4zo
 #EXTINF:-1 tvg-id="1313084" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ LIVE FOOTBALL/Live Football.png",12/09 01:45 AM | Live Football 01: Stenhousemuir vs Hearts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D37FE0043E9BC5670C13E31860152CC0
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1313084&extension=ts&play_token=lQguYqzwnb
+#EXTVLCOPT:http-header=Authorization: Bearer 16EC1ADB1A6E79EBE51876D0F480DBAA
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1313084&extension=ts&play_token=CFReCrcDlR
 #EXTINF:-1 tvg-id="1313084" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ LIVE FOOTBALL/Live Football.png",12/09 01:45 AM | Live Football 01: Stenhousemuir vs Hearts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B0E67DB97F8CD92FE2413829DCE11129
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1313084&extension=ts&play_token=OEdpT0JfAX
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DDF6B8E299E72509F2CCE8D2BFA6BD05
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1313084&extension=ts&play_token=grG3XN0siw
+#EXTINF:-1 tvg-id="2134491" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png",12/09 09:01 PM | Følg og hør Liverpool Fulham på LFCTV @ :VG 09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 55C1F8F8B1744E62EADF7822DC9A11A4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2134491&extension=ts&play_token=BgT6uyDX98
+#EXTINF:-1 tvg-id="2134489" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png",12/09 11:00 PM | Lazio AC Milan @ :VG 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 55C1F8F8B1744E62EADF7822DC9A11A4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2134489&extension=ts&play_token=Brhs4ezUwT

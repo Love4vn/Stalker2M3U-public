@@ -14,3 +14,18 @@ http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1022237
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 5887410615255F8AF630AFC15AAE4D75
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1018321
+#EXTINF:-1 tvg-id="1313084" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ LIVE FOOTBALL/Live Football.png",12/09 01:45 AM | Live Football 01: Stenhousemuir vs Hearts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C0C68174F1D092235BE6658EC67C1CA3
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1313084&extension=ts&play_token=uyxC3AVnBD
+#EXTINF:-1 tvg-id="1313084" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ LIVE FOOTBALL/Live Football.png",12/09 01:45 AM | Live Football 01: Stenhousemuir vs Hearts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D37FE0043E9BC5670C13E31860152CC0
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1313084&extension=ts&play_token=lQguYqzwnb
+#EXTINF:-1 tvg-id="1313084" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ LIVE FOOTBALL/Live Football.png",12/09 01:45 AM | Live Football 01: Stenhousemuir vs Hearts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B0E67DB97F8CD92FE2413829DCE11129
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1313084&extension=ts&play_token=OEdpT0JfAX

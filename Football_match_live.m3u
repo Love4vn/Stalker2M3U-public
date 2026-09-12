@@ -1,881 +1,436 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1592472" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",12/09 08:30 PM | BUNDESLIGA DORTMUND PADERBORN (NL) 8K NL: VIAPLAY 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592472&extension=ts&play_token=7AVomzfFe2
-#EXTINF:-1 tvg-id="2055008" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",12/09 08:30 PM | Dortmund vs. SC Paderborn 07 all | 8K DE: SOCCER 44
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055008&extension=ts&play_token=pB1VtgFpwS
-#EXTINF:-1 tvg-id="2040687" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 08:30 PM | Borussia Dortmund Paderborn Bundesliga | 8K ES: DAZN 44
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040687&extension=ts&play_token=8iGncyQHCA
-#EXTINF:-1 tvg-id="2046569" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 08:30 PM | Dortmund x Paderborn Bundesliga | 8K PT: DAZN 36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046569&extension=ts&play_token=DEUZgxbbWV
-#EXTINF:-1 tvg-id="2016241" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 08:30 PM | BUNDESLIGA DORTMUND PADERBORN (SE) 8K SE: VIAPLAY 38
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016241&extension=ts&play_token=w4pVWckCi7
-#EXTINF:-1 tvg-id="2037338" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 08:30 PM | BUNDESLIGA DORTMUND PADERBORN (DK) 8K DK: VIAPLAY 40
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037338&extension=ts&play_token=go2rAyo5Pw
-#EXTINF:-1 tvg-id="1735539" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 08:30 PM | BUNDESLIGA DORTMUND PADERBORN (NO) 8K NO: VIAPLAY 39
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735539&extension=ts&play_token=cS2UY5IDfP
-#EXTINF:-1 tvg-id="1995991" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/2PLAY.png",12/09 08:30 PM | Soccer: Dortmund vs Paderborn @ :Tv2Play NO 45
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1995991&extension=ts&play_token=7nvujaeJPq
-#EXTINF:-1 tvg-id="1592469" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",12/09 08:30 PM | BUNDESLIGA AUGSBURG LEVERKUSEN (NL) 8K NL: VIAPLAY 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592469&extension=ts&play_token=mUR4pvJujk
-#EXTINF:-1 tvg-id="2055009" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",12/09 08:30 PM | FC Augsburg vs. Leverkusen all | 8K DE: SOCCER 43
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055009&extension=ts&play_token=GnHROrvFZ4
-#EXTINF:-1 tvg-id="2040686" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 08:30 PM | Augsburg Bayer Leverkusen Bundesliga | 8K ES: DAZN 45
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040686&extension=ts&play_token=2RhEuzOSQ2
-#EXTINF:-1 tvg-id="2046571" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 08:30 PM | Augsburg x Leverkusen Bundesliga | 8K PT: DAZN 34
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046571&extension=ts&play_token=iKsIrQLTZC
-#EXTINF:-1 tvg-id="2037341" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 08:30 PM | BUNDESLIGA AUGSBURG LEVERKUSEN (DK) 8K DK: VIAPLAY 37
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037341&extension=ts&play_token=QlwctdGlkq
-#EXTINF:-1 tvg-id="1995988" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/2PLAY.png",12/09 08:30 PM | Soccer: Augsburg vs Leverkusen @ :Tv2Play NO 48
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1995988&extension=ts&play_token=itchoI30hh
-#EXTINF:-1 tvg-id="1735542" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 08:30 PM | BUNDESLIGA AUGSBURG LEVERKUSEN (NO) 8K NO: VIAPLAY 36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735542&extension=ts&play_token=zURHOGEnvc
-#EXTINF:-1 tvg-id="1592476" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",12/09 09:00 PM | ASTON VILLA NOTTINGHAM FOREST (NL) 8K NL: VIAPLAY 32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592476&extension=ts&play_token=lfR0DQysTw
-#EXTINF:-1 tvg-id="2055002" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",12/09 09:00 PM | Villa vs. Nottingham Forest all | 8K DE: SOCCER 50
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055002&extension=ts&play_token=AJqvM2d2lL
-#EXTINF:-1 tvg-id="2040674" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 09:00 PM | Aston Villa Nottingham Forest | 8K ES: DAZN 57
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040674&extension=ts&play_token=XtL10ckDQW
-#EXTINF:-1 tvg-id="2046557" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 09:00 PM | Aston Villa x Nott'm Forest | 8K PT: DAZN 48
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046557&extension=ts&play_token=mLpn5LDKBK
-#EXTINF:-1 tvg-id="2021221" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",12/09 09:00 PM | ASTON VILLA NOTTINGHAM (SE) 8K SE: PLAY+ 27
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021221&extension=ts&play_token=imHuxZF6bB
-#EXTINF:-1 tvg-id="2016234" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | ASTON VILLA NOTTINGHAM FOREST (SE) 8K SE: VIAPLAY 45
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016234&extension=ts&play_token=6W1NWYDxqA
-#EXTINF:-1 tvg-id="2070097" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | ASTON VILLA NOTTINGHAM FOREST (DK) 8K DK: VIAPLAY 53
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2070097&extension=ts&play_token=8mqhosW01Q
-#EXTINF:-1 tvg-id="2037325" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | ASTON VILLA NOTTINGHAM FOREST (DK) 8K DK: VIAPLAY 53
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037325&extension=ts&play_token=LoxBz8sYZM
-#EXTINF:-1 tvg-id="1735528" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | ASTON VILLA NOTTINGHAM FOREST (NO) 8K NO: VIAPLAY 50
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735528&extension=ts&play_token=FHSPWn330C
-#EXTINF:-1 tvg-id="2025547" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | Aston Villa vs Nottingham Forest @ :Viaplay NL 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2025547&extension=ts&play_token=8wLN7z0B0M
-#EXTINF:-1 tvg-id="1991515" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",12/09 09:00 PM | Aston Villa vs Nottingham @ :TeliaPlay SE 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1991515&extension=ts&play_token=0M85UpJHrK
-#EXTINF:-1 tvg-id="1990168" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",12/09 09:00 PM | Aston Villa vs Nottingham Forest @ :Viaplay SE 33
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990168&extension=ts&play_token=VjQXKtmqL0
-#EXTINF:-1 tvg-id="1996254" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",12/09 09:00 PM | Aston Villa vs Nottingham Forest @ :Viaplay DK 42
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996254&extension=ts&play_token=6ubzeqsqfX
-#EXTINF:-1 tvg-id="1992085" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | Aston Villa vs Nottingham Forest @ :Viaplay FI 32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992085&extension=ts&play_token=uCzTt62Txu
-#EXTINF:-1 tvg-id="1992246" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",12/09 09:00 PM | Aston Villa vs Nottingham @ :Telia FI 22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992246&extension=ts&play_token=PdMdOo9ipn
-#EXTINF:-1 tvg-id="1592473" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",12/09 09:00 PM | CRYSTAL PALACE IPSWICH (NL) 8K NL: VIAPLAY 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592473&extension=ts&play_token=6fnQOvzHYK
-#EXTINF:-1 tvg-id="2040675" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 09:00 PM | Crystal Palace Ipswich Town | 8K ES: DAZN 56
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040675&extension=ts&play_token=CykvySmmV7
-#EXTINF:-1 tvg-id="2046558" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 09:00 PM | Crystal Palace x Ipswich Town | 8K PT: DAZN 47
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046558&extension=ts&play_token=ezFyYMWjIC
-#EXTINF:-1 tvg-id="2016236" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | CRYSTAL PALACE IPSWICH (SE) 8K SE: VIAPLAY 43
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016236&extension=ts&play_token=1Vm0a8QRLE
-#EXTINF:-1 tvg-id="2037324" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | CRYSTAL PALACE IPSWICH (DK) 8K DK: VIAPLAY 54
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037324&extension=ts&play_token=vrZZgeW19l
-#EXTINF:-1 tvg-id="1735534" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | CRYSTAL PALACE IPSWICH (NO) 8K NO: VIAPLAY 44
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735534&extension=ts&play_token=0guXoUD0sg
-#EXTINF:-1 tvg-id="2025549" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | Crystal Palace vs Ipswich @ :Viaplay NL 22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2025549&extension=ts&play_token=UJiakiOQG3
-#EXTINF:-1 tvg-id="1990170" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",12/09 09:00 PM | Crystal Palace vs Ipswich @ :Viaplay SE 31
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990170&extension=ts&play_token=XxF0JvoJQv
-#EXTINF:-1 tvg-id="1996256" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",12/09 09:00 PM | Crystal Palace vs Ipswich @ :Viaplay DK 40
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996256&extension=ts&play_token=t2XRRnS8bc
-#EXTINF:-1 tvg-id="1996087" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | Crystal Palace vs Ipswich @ :Viaplay NO 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996087&extension=ts&play_token=wrzKlLIBv6
-#EXTINF:-1 tvg-id="1996085" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | Crystal Palace vs Ipswich @ :Viaplay SE 31
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996085&extension=ts&play_token=AwYMZZA9Zz
-#EXTINF:-1 tvg-id="1992086" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | Crystal Palace vs Ipswich @ :Viaplay FI 31
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992086&extension=ts&play_token=3oJsDiRSLz
-#EXTINF:-1 tvg-id="1592475" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",12/09 09:00 PM | CHELSEA HULL (NL) 8K NL: VIAPLAY 31
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592475&extension=ts&play_token=jPD8FZIVum
-#EXTINF:-1 tvg-id="2040677" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 09:00 PM | Chelsea Hull City | 8K ES: DAZN 54
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040677&extension=ts&play_token=ucW5b3NaOM
-#EXTINF:-1 tvg-id="2046561" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 09:00 PM | Chelsea x Hull City | 8K PT: DAZN 44
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046561&extension=ts&play_token=lPdGJsvTwu
-#EXTINF:-1 tvg-id="2021220" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",12/09 09:00 PM | CHELSEA HULL (SE) 8K SE: PLAY+ 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021220&extension=ts&play_token=cx5fZv9yVd
-#EXTINF:-1 tvg-id="2016235" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | CHELSEA HULL (SE) 8K SE: VIAPLAY 44
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016235&extension=ts&play_token=lkENTYWuL5
-#EXTINF:-1 tvg-id="1769967" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MFFPLAY.png",12/09 09:00 PM | CHELSEA HULL (NO) 8K NO: VIAPLAY 51
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1769967&extension=ts&play_token=UkNqmmgRbZ
-#EXTINF:-1 tvg-id="2037326" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | CHELSEA HULL (DK) 8K DK: VIAPLAY 52
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037326&extension=ts&play_token=nV2WD5ROwG
-#EXTINF:-1 tvg-id="2025548" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | Chelsea vs Hull @ :Viaplay NL 23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2025548&extension=ts&play_token=llHyKoPmUr
-#EXTINF:-1 tvg-id="1991514" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",12/09 09:00 PM | Chelsea vs Hull @ :TeliaPlay SE 26
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1991514&extension=ts&play_token=t0yPGdlIKU
-#EXTINF:-1 tvg-id="1990169" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",12/09 09:00 PM | Chelsea vs Hull @ :Viaplay SE 32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990169&extension=ts&play_token=q5yncQstwh
-#EXTINF:-1 tvg-id="1996255" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",12/09 09:00 PM | Chelsea vs Hull @ :Viaplay DK 41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996255&extension=ts&play_token=ANMc87a5U2
-#EXTINF:-1 tvg-id="1996086" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | Chelsea vs Hull @ :Viaplay NO 30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996086&extension=ts&play_token=yfExzovJwQ
-#EXTINF:-1 tvg-id="1992088" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | Chelsea vs Hull @ :Viaplay FI 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992088&extension=ts&play_token=MZmukHifRv
-#EXTINF:-1 tvg-id="1992249" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",12/09 09:00 PM | Chelsea vs Hull @ :Telia FI 19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992249&extension=ts&play_token=pXIqYKAxE0
-#EXTINF:-1 tvg-id="1592477" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",12/09 09:00 PM | BOURNEMOUTH BRENTFORD (NL) 8K NL: VIAPLAY 33
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592477&extension=ts&play_token=yxaZlWcxGb
-#EXTINF:-1 tvg-id="2040676" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 09:00 PM | Bournemouth Brentford | 8K ES: DAZN 55
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040676&extension=ts&play_token=pmHW2Ydcq3
-#EXTINF:-1 tvg-id="2046559" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 09:00 PM | Bournemouth x Brentford | 8K PT: DAZN 46
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046559&extension=ts&play_token=gQdxm56T2M
-#EXTINF:-1 tvg-id="2021223" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",12/09 09:00 PM | BOURNEMOUTH BRENTFORD (SE) 8K SE: PLAY+ 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021223&extension=ts&play_token=po7u4Kbrh3
-#EXTINF:-1 tvg-id="2016227" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | BOURNEMOUTH BRENTFORD (SE) 8K SE: VIAPLAY 52
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016227&extension=ts&play_token=GiAyQfpOUE
-#EXTINF:-1 tvg-id="2037319" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | BOURNEMOUTH BRENTFORD (DK) 8K DK: VIAPLAY 59
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037319&extension=ts&play_token=c6tBFc82PG
-#EXTINF:-1 tvg-id="1735537" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | BOURNEMOUTH BRENTFORD (NO) 8K NO: VIAPLAY 41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735537&extension=ts&play_token=NYBQXz9MhV
-#EXTINF:-1 tvg-id="2025546" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | Bournemouth vs Brentford @ :Viaplay NL 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2025546&extension=ts&play_token=SphlHN8SM6
-#EXTINF:-1 tvg-id="1991517" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",12/09 09:00 PM | Bournemouth vs Brentford @ :TeliaPlay SE 23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1991517&extension=ts&play_token=Q3FqLfP9Ur
-#EXTINF:-1 tvg-id="1990167" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",12/09 09:00 PM | Bournemouth vs Brentford @ :Viaplay SE 34
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990167&extension=ts&play_token=xNz7OnpgzB
-#EXTINF:-1 tvg-id="1996253" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",12/09 09:00 PM | Bournemouth vs Brentford @ :Viaplay DK 43
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996253&extension=ts&play_token=HVNzZ2UY00
-#EXTINF:-1 tvg-id="1996084" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | Bournemouth vs Brentford @ :Viaplay NO 32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996084&extension=ts&play_token=FFmxTILR8Y
-#EXTINF:-1 tvg-id="1992084" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:00 PM | Bournemouth vs Brentford @ :Viaplay FI 33
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992084&extension=ts&play_token=6CRLly8Jlf
-#EXTINF:-1 tvg-id="1592474" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",12/09 09:01 PM | LIVERPOOL FULHAM (NL) 8K NL: VIAPLAY 30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592474&extension=ts&play_token=X9kj3mzdBv
-#EXTINF:-1 tvg-id="2040678" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 09:01 PM | Liverpool Fulham | 8K ES: DAZN 53
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040678&extension=ts&play_token=NN7bafq3FN
-#EXTINF:-1 tvg-id="2046562" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 09:01 PM | Liverpool x Fulham | 8K PT: DAZN 43
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046562&extension=ts&play_token=S82cMSj9lr
-#EXTINF:-1 tvg-id="2021222" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",12/09 09:01 PM | LIVERPOOL FULHAM (SE) 8K SE: PLAY+ 26
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021222&extension=ts&play_token=wqkVIiFZrX
-#EXTINF:-1 tvg-id="2016238" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:01 PM | PL-STUDION: LIVERPOOL FULHAM (SE) 8K SE: VIAPLAY 41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016238&extension=ts&play_token=8bIg7QsSq7
-#EXTINF:-1 tvg-id="2016226" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:01 PM | LIVERPOOL FULHAM (SE) 8K SE: VIAPLAY 53
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016226&extension=ts&play_token=qi0SGryorT
-#EXTINF:-1 tvg-id="2037337" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:01 PM | LIVERPOOL FULHAM (DK) 8K DK: VIAPLAY 41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037337&extension=ts&play_token=pTQ9oxSzid
-#EXTINF:-1 tvg-id="1735545" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:01 PM | LIVERPOOL FULHAM (NO) 8K NO: VIAPLAY 33
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735545&extension=ts&play_token=l2WMjAEcWW
-#EXTINF:-1 tvg-id="2025550" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:01 PM | Liverpool vs Fulham @ :Viaplay NL 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2025550&extension=ts&play_token=T494Bz9HIa
-#EXTINF:-1 tvg-id="1991516" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",12/09 09:01 PM | Liverpool vs Fulham @ :TeliaPlay SE 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1991516&extension=ts&play_token=BC2X9GInZD
-#EXTINF:-1 tvg-id="1990174" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",12/09 09:01 PM | PL studion Liverpool vs Fulham @ :Viaplay SE 27
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990174&extension=ts&play_token=uXWDxJ3qeF
-#EXTINF:-1 tvg-id="1990159" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",12/09 09:01 PM | Liverpool vs Fulham @ :Viaplay SE 42
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990159&extension=ts&play_token=rGW6GcDiTU
-#EXTINF:-1 tvg-id="1996257" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",12/09 09:01 PM | Liverpool vs Fulham @ :Viaplay DK 39
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996257&extension=ts&play_token=Yy6D4bvRL5
-#EXTINF:-1 tvg-id="1996076" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:01 PM | Liverpool vs Fulham @ :Viaplay NO 40
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996076&extension=ts&play_token=ks2KY7cutn
-#EXTINF:-1 tvg-id="2134495" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png",12/09 09:01 PM | Følg og hør Liverpool Fulham på LFCTV @ :VG 05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2134495&extension=ts&play_token=QgI8C2Rpct
-#EXTINF:-1 tvg-id="1992075" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 09:01 PM | Liverpool vs Fulham @ :Viaplay FI 42
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992075&extension=ts&play_token=crh724oXY6
-#EXTINF:-1 tvg-id="1992248" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",12/09 09:01 PM | Liverpool vs Fulham @ :Telia FI 20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992248&extension=ts&play_token=Rv5P8egZ4a
-#EXTINF:-1 tvg-id="2048891" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 11:00 PM | Lazio vs. Milan Lega Serie A | 8K GB: DAZN 38
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2048891&extension=ts&play_token=ShDufB9Tkd
-#EXTINF:-1 tvg-id="2040477" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 11:00 PM | Lazio Milan (italienischer Kommentar) Serie A | 8K DE: DAZN 48
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040477&extension=ts&play_token=2PJyDfP0Ay
-#EXTINF:-1 tvg-id="2040472" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 11:00 PM | Lazio Milan Serie A | 8K DE: DAZN 53
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040472&extension=ts&play_token=kvUUT3rY0V
-#EXTINF:-1 tvg-id="2046760" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 11:00 PM | Lazio Milan (Commentaire italien) Serie A | 8K CH: DAZN 45
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046760&extension=ts&play_token=Vy0bpFGVib
-#EXTINF:-1 tvg-id="2046755" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 11:00 PM | Lazio Milan Serie A | 8K CH: DAZN 50
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046755&extension=ts&play_token=cz5ujSW6WE
-#EXTINF:-1 tvg-id="2040654" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 11:00 PM | Lazio AC Milan Serie A | 8K ES: DAZN 77
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040654&extension=ts&play_token=leD6OCkGFq
-#EXTINF:-1 tvg-id="1963189" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MTV.png",12/09 11:00 PM | LAZIO AC MILAN (FI) 8K FI: MTV 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1963189&extension=ts&play_token=gMXWV8RXHE
-#EXTINF:-1 tvg-id="1634604" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/LIVEY.png",12/09 11:00 PM | LAZIO AC MILAN (IS) 8K IS: LIVEY 20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1634604&extension=ts&play_token=inZfzVQS07
-#EXTINF:-1 tvg-id="2134468" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png",12/09 11:00 PM | Serie A: Lazio-AC Milan @ :00 :Tv2Play DK 08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2134468&extension=ts&play_token=9bzdg04cX8
-#EXTINF:-1 tvg-id="2134492" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png",12/09 11:00 PM | Lazio AC Milan @ :VG 08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2134492&extension=ts&play_token=47wBJin5nd
-#EXTINF:-1 tvg-id="1992159" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MTVKatsomo.png",12/09 11:00 PM | Lazio AC Milan @ :MTV FI 08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992159&extension=ts&play_token=38MIaHmUur
-#EXTINF:-1 tvg-id="1992243" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",12/09 11:00 PM | Lazio vs AC Milan @ :Telia FI 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992243&extension=ts&play_token=60YwhOMSEe
-#EXTINF:-1 tvg-id="1592483" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",12/09 11:31 PM | TOTTENHAM EVERTON (NL) 8K NL: VIAPLAY 39
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592483&extension=ts&play_token=yXvoP9xw6M
-#EXTINF:-1 tvg-id="2058519" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",12/09 11:31 PM | Spurs vs. Everton all | 8K NL: SOCCER 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058519&extension=ts&play_token=lssJruc5Ad
-#EXTINF:-1 tvg-id="2054992" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",12/09 11:31 PM | Spurs vs. Everton all | 8K DE: SOCCER 60
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054992&extension=ts&play_token=RBjPFWPT3S
-#EXTINF:-1 tvg-id="2040650" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 11:31 PM | Tottenham Everton | 8K ES: DAZN 81
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040650&extension=ts&play_token=NtkiTshWvS
-#EXTINF:-1 tvg-id="2046530" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 11:31 PM | Tottenham x Everton | 8K PT: DAZN 75
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046530&extension=ts&play_token=6N3HJttXwm
-#EXTINF:-1 tvg-id="2021202" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",12/09 11:31 PM | TOTTENHAM EVERTON (SE) 8K SE: PLAY+ 46
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021202&extension=ts&play_token=3UeQgi6nlN
-#EXTINF:-1 tvg-id="2016217" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 11:31 PM | PL-STUDION: TOTTENHAM EVERTON (SE) 8K SE: VIAPLAY 62
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016217&extension=ts&play_token=87DskmUydv
-#EXTINF:-1 tvg-id="2037310" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 11:31 PM | TOTTENHAM EVERTON (DK) 8K DK: VIAPLAY 68
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037310&extension=ts&play_token=vNM9w45YzS
-#EXTINF:-1 tvg-id="2025535" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 11:31 PM | Tottenham vs Everton @ :Viaplay NL 36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2025535&extension=ts&play_token=StQf1CjZZh
-#EXTINF:-1 tvg-id="1991494" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",12/09 11:31 PM | Tottenham vs Everton @ :TeliaPlay SE 46
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1991494&extension=ts&play_token=YvwOK2Qg1R
-#EXTINF:-1 tvg-id="1990144" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",12/09 11:31 PM | PL studion Tottenham vs Everton @ :Viaplay SE 57
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990144&extension=ts&play_token=ASSL0xk1BM
-#EXTINF:-1 tvg-id="1996233" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",12/09 11:31 PM | Tottenham vs Everton @ :Viaplay DK 63
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996233&extension=ts&play_token=AOcbnK0Htr
-#EXTINF:-1 tvg-id="1996054" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 11:31 PM | Tottenham vs Everton @ :Viaplay NO 62
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996054&extension=ts&play_token=WsTcaZIgn0
-#EXTINF:-1 tvg-id="1992063" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 11:31 PM | Tottenham vs Everton @ :Viaplay FI 54
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992063&extension=ts&play_token=0OiWOxxHI7
-#EXTINF:-1 tvg-id="1992240" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",12/09 11:31 PM | Tottenham vs Everton @ :Telia FI 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992240&extension=ts&play_token=93ZYCVoaBp
-#EXTINF:-1 tvg-id="2048884" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",13/09 01:45 AM | Atalanta vs. Cagliari Lega Serie A | 8K GB: DAZN 45
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2048884&extension=ts&play_token=bGoZiAsqil
-#EXTINF:-1 tvg-id="2040460" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",13/09 01:45 AM | Atalanta Cagliari (italienischer Kommentar) Serie A | 8K DE: DAZN 65
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040460&extension=ts&play_token=pYh2TuIvxM
-#EXTINF:-1 tvg-id="2040458" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",13/09 01:45 AM | Atalanta Cagliari Serie A | 8K DE: DAZN 67
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040458&extension=ts&play_token=HX3odXP3Vu
-#EXTINF:-1 tvg-id="2046745" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",13/09 01:45 AM | Atalanta Cagliari (Commentaire italien) Serie A | 8K CH: DAZN 60
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046745&extension=ts&play_token=3krNnZoCM3
-#EXTINF:-1 tvg-id="2046743" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",13/09 01:45 AM | Atalanta Cagliari Serie A | 8K CH: DAZN 62
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046743&extension=ts&play_token=4381GVwKQG
-#EXTINF:-1 tvg-id="2040634" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",13/09 01:45 AM | Atalanta Cagliari Serie A | 8K ES: DAZN 97
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040634&extension=ts&play_token=5WpL6q6LZX
-#EXTINF:-1 tvg-id="2134467" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png",13/09 01:45 AM | Serie A: Atalanta-Cagliari @ :00 :Tv2Play DK 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2134467&extension=ts&play_token=sfhOzWzuga
-#EXTINF:-1 tvg-id="1992235" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",13/09 01:45 AM | Serie A: Atalanta vs Cagliari @ :Telia FI 33
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992235&extension=ts&play_token=KywHj9GkzS
-#EXTINF:-1 tvg-id="2040453" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",13/09 02:00 AM | Real Madrid Vallecano | 8K DE: DAZN 72
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040453&extension=ts&play_token=72AVchmzWH
-#EXTINF:-1 tvg-id="2046738" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",13/09 02:00 AM | Real Madrid Vallecano Primera División | 8K CH: DAZN 67
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046738&extension=ts&play_token=Ycy9b4NhaZ
-#EXTINF:-1 tvg-id="2139081" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",13/09 02:00 AM | Real Madrid Rayo Vallecano [und] Spanish - 22 8K FR: DISNEY+ 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2139081&extension=ts&play_token=RoaYA9bx71
-#EXTINF:-1 tvg-id="2072495" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",13/09 02:00 AM | Real Madrid vs. Rayo Vallecano all | 8K ES: SOCCER 58
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072495&extension=ts&play_token=rU2leyFOXb
-#EXTINF:-1 tvg-id="2040639" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",13/09 02:00 AM | Real Madrid Rayo Vallecano | 8K ES: DAZN 92
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040639&extension=ts&play_token=bYYjYklOMC
-#EXTINF:-1 tvg-id="2046521" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",13/09 02:00 AM | Real Madrid x Rayo Vallecano | 8K PT: DAZN 84
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046521&extension=ts&play_token=qMhHeaogge
-#EXTINF:-1 tvg-id="1688626" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",13/09 02:00 AM | REAL MADRID RAYO VALLECANO (SE) 8K SE: DISNEY+ 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1688626&extension=ts&play_token=B4JDx644q9
-#EXTINF:-1 tvg-id="1934522" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",13/09 02:00 AM | R05: REAL MADRID RAYO VALLECANO DK (DK) 8K DK: DISNEY+ 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1934522&extension=ts&play_token=uNCcccpvQ8
-#EXTINF:-1 tvg-id="1605747" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",13/09 02:00 AM | REAL MADRID RAYO VALLECANO (NO) 8K NO: TV2 PLAY 45
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1605747&extension=ts&play_token=2Oqr1GXer8
-#EXTINF:-1 tvg-id="1991484" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",13/09 02:00 AM | Real Madrid vs Rayo Vallecano @ :TeliaPlay SE 56
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1991484&extension=ts&play_token=5oVDIerNlV
-#EXTINF:-1 tvg-id="2026406" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",13/09 02:00 AM | Real Madrid vs Rayo Vallecano @ :Disney+ SE 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2026406&extension=ts&play_token=mlOGEhLFCA
-#EXTINF:-1 tvg-id="1996041" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",13/09 02:00 AM | Real Madrid vs Rayo Vallecano @ :Viaplay NO 75
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996041&extension=ts&play_token=kSPLtxibT8
-#EXTINF:-1 tvg-id="2047085" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png",13/09 02:00 AM | SUNDERLAND ARSENAL 8K : MAX 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2047085&extension=ts&play_token=FSfrHgqZUw
-#EXTINF:-1 tvg-id="2054989" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",13/09 02:00 AM | Sunderland vs. Arsenal all | 8K DE: SOCCER 63
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054989&extension=ts&play_token=yZUfZN26e1
-#EXTINF:-1 tvg-id="1689688" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://103.176.90.92/images/1689688.png",13/09 02:00 AM | AFC SUNDERLAND FC ARSENAL (DE) 8K DE: RTL+ 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1689688&extension=ts&play_token=e8Uu0lyvFK
-#EXTINF:-1 tvg-id="2046522" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",13/09 02:00 AM | Sunderland x Arsenal | 8K PT: DAZN 83
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046522&extension=ts&play_token=bvvJYZcyt6
-#EXTINF:-1 tvg-id="2058317" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",13/09 02:00 AM | Sunderland v Arsenal all | 8K SE: SOCCER 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058317&extension=ts&play_token=xfUdLp5jRG
-#EXTINF:-1 tvg-id="2058436" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",13/09 02:00 AM | Sunderland v Arsenal all | 8K DK: SOCCER 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058436&extension=ts&play_token=LkFPBrXSal
-#EXTINF:-1 tvg-id="1996046" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",13/09 02:00 AM | Sunderland vs Arsenal @ :Viaplay NO 70
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996046&extension=ts&play_token=ATmwr1otVV
-#EXTINF:-1 tvg-id="1992233" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",13/09 02:00 AM | Sunderland vs Arsenal @ :Telia FI 35
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992233&extension=ts&play_token=O8KCgr1FQf
-#EXTINF:-1 tvg-id="725954" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MANCHESTERUNITED.png",13/09 02:00 AM | MANCHESTER UNITED HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=725954&extension=ts&play_token=oHJeZelcL8
-#EXTINF:-1 tvg-id="2048877" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",13/09 02:00 AM | Garden Hotspurs vs. Newtown United - St. Kitts and Nevis | 8K GB: DAZN 52
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2048877&extension=ts&play_token=gPI7F9RLmx
-#EXTINF:-1 tvg-id="2048242" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png",13/09 02:00 AM | UNITED STATES: RACE 8K : APPLE TV F1 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2048242&extension=ts&play_token=Plyps1gMt3
-#EXTINF:-1 tvg-id="1429570" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://103.176.90.95/images/1429570.png",13/09 02:00 AM | FA Player 01 Chelsea vs Manchester United // //
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1429570&extension=ts&play_token=N7tMkaa0V1
-#EXTINF:-1 tvg-id="794966" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/MANCHESTER UNITED.png",13/09 02:00 AM | ┃ ┃ MANCHESTER UNITED F.C (MATCH TIME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F7CB65361D94A8C2374E0132D9F0D9D4
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=794966&extension=ts&play_token=sewmLbJA0U
-#EXTINF:-1 tvg-id="794960" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/NEWCASTLE UNITED.png",13/09 02:00 AM | ┃ ┃ NEWCASTLE UNITED F.C (MATCH TIME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F7CB65361D94A8C2374E0132D9F0D9D4
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=794960&extension=ts&play_token=H0ZTRbIm3b
-#EXTINF:-1 tvg-id="794948" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/WEST HAM UNITED.png",13/09 02:00 AM | ┃ ┃ WEST HAM UNITED F.C (MATCH TIME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F7CB65361D94A8C2374E0132D9F0D9D4
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=794948&extension=ts&play_token=byVRIKXNE0
+#EXTINF:-1 tvg-id="448214" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/UK/setanta.png",12/09 08:30 PM | SETANTA EVENT 05 BORUSSIA DORTMUND @ PADERBORN – – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/448214
+#EXTINF:-1 tvg-id="1100761" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",12/09 08:30 PM | EN BORUSSIA DORTMUND VS PADERBORN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100761
+#EXTINF:-1 tvg-id="1100767" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",12/09 08:30 PM | DE BORUSSIA DORTMUND VS PADERBORN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100767
+#EXTINF:-1 tvg-id="1100763" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",12/09 08:30 PM | FR BORUSSIA DORTMUND VS PADERBORN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100763
+#EXTINF:-1 tvg-id="1100765" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",12/09 08:30 PM | AR BORUSSIA DORTMUND VS PADERBORN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100765
+#EXTINF:-1 tvg-id="448213" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/UK/setanta.png",12/09 08:30 PM | SETANTA EVENT 04 AUGSBURG @ BAYER LEVERKUSEN – – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/448213
+#EXTINF:-1 tvg-id="1100762" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",12/09 08:30 PM | EN AUGSBURG VS BAYER LEVERKUSEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100762
+#EXTINF:-1 tvg-id="1100768" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",12/09 08:30 PM | DE AUGSBURG VS BAYER LEVERKUSEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100768
+#EXTINF:-1 tvg-id="1100764" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",12/09 08:30 PM | FR AUGSBURG VS BAYER LEVERKUSEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100764
+#EXTINF:-1 tvg-id="1100766" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",12/09 08:30 PM | AR AUGSBURG VS BAYER LEVERKUSEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100766
+#EXTINF:-1 tvg-id="1326110" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/AMERICA/PEACOK.png",12/09 09:00 PM | US PEACOCK 04 ASTON VILLA @ NOTTINGHAM FOREST – – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1326110
+#EXTINF:-1 tvg-id="1100811" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 09:00 PM | EN ASTON VILLA VS NOTTINGHAM FOREST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100811
+#EXTINF:-1 tvg-id="1100813" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 09:00 PM | FR ASTON VILLA VS NOTTINGHAM FOREST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100813
+#EXTINF:-1 tvg-id="1100815" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 09:00 PM | AR ASTON VILLA VS NOTTINGHAM FOREST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100815
+#EXTINF:-1 tvg-id="1388024" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 09:00 PM | ALB ASTON VILLA VS NOTTINGHAM FOREST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1388024
+#EXTINF:-1 tvg-id="1326111" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/AMERICA/PEACOK.png",12/09 09:00 PM | US PEACOCK 05 CRYSTAL PALACE @ IPSWICH – – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1326111
+#EXTINF:-1 tvg-id="1015553" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 09:00 PM | EN CRYSTAL PALACE VS IPSWICH TOWN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1015553
+#EXTINF:-1 tvg-id="1015545" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 09:00 PM | FR CRYSTAL PALACE VS IPSWICH TOWN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1015545
+#EXTINF:-1 tvg-id="1015561" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 09:00 PM | AR CRYSTAL PALACE VS IPSWICH TOWN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1015561
+#EXTINF:-1 tvg-id="1182487" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 09:00 PM | ALB CRYSTAL PALACE VS IPSWICH TOWN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1182487
+#EXTINF:-1 tvg-id="1015554" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 09:00 PM | EN CHELSEA VS HULL CITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1015554
+#EXTINF:-1 tvg-id="1015546" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 09:00 PM | FR CHELSEA VS HULL CITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1015546
+#EXTINF:-1 tvg-id="1015562" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 09:00 PM | AR CHELSEA VS HULL CITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1015562
+#EXTINF:-1 tvg-id="1225673" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 09:00 PM | ALB CHELSEA VS HULL CITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1225673
+#EXTINF:-1 tvg-id="1326113" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/AMERICA/PEACOK.png",12/09 09:00 PM | US PEACOCK 07 BOURNEMOUTH @ BRENTFORD – – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1326113
+#EXTINF:-1 tvg-id="1100810" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 09:00 PM | EN AFC BOURNEMOUTH VS BRENTFORD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100810
+#EXTINF:-1 tvg-id="1100812" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 09:00 PM | FR AFC BOURNEMOUTH VS BRENTFORD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100812
+#EXTINF:-1 tvg-id="1100814" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 09:00 PM | AR AFC BOURNEMOUTH VS BRENTFORD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100814
+#EXTINF:-1 tvg-id="1388023" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 09:00 PM | ALB AFC BOURNEMOUTH VS BRENTFORD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1388023
+#EXTINF:-1 tvg-id="1326112" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/AMERICA/PEACOK.png",12/09 09:01 PM | US PEACOCK 06 LIVERPOOL @ FULHAM – – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1326112
+#EXTINF:-1 tvg-id="1015552" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 09:01 PM | EN LIVERPOOL VS FULHAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1015552
+#EXTINF:-1 tvg-id="1015544" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 09:01 PM | FR LIVERPOOL VS FULHAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1015544
+#EXTINF:-1 tvg-id="1015560" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 09:01 PM | AR LIVERPOOL VS FULHAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1015560
+#EXTINF:-1 tvg-id="1039828" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 09:01 PM | ALB LIVERPOOL VS FULHAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1039828
+#EXTINF:-1 tvg-id="1312100" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="https://go4.pw/USA/para.png",12/09 11:00 PM | US PARAMOUNT 10 LAZIO @ MILAN – – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1312100
+#EXTINF:-1 tvg-id="1100792" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="https://go4.pw/55.png",12/09 11:00 PM | EN LAZIO VS MILAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100792
+#EXTINF:-1 tvg-id="1100791" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="https://go4.pw/55.png",12/09 11:00 PM | IT LAZIO VS MILAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100791
+#EXTINF:-1 tvg-id="1421364" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="https://go4.pw/55.png",12/09 11:00 PM | AR LAZIO VS MILAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1421364
+#EXTINF:-1 tvg-id="1326117" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/AMERICA/PEACOK.png",12/09 11:31 PM | US PEACOCK 11 SPURS @ EVERTON – – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1326117
+#EXTINF:-1 tvg-id="1015551" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 11:31 PM | EN TOTTENHAM HOTSPUR VS EVERTON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1015551
+#EXTINF:-1 tvg-id="1015543" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 11:31 PM | FR TOTTENHAM HOTSPUR VS EVERTON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1015543
+#EXTINF:-1 tvg-id="1015559" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 11:31 PM | AR TOTTENHAM HOTSPUR VS EVERTON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1015559
+#EXTINF:-1 tvg-id="1039819" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",12/09 11:31 PM | ALB TOTTENHAM HOTSPUR VS EVERTON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1039819
+#EXTINF:-1 tvg-id="1312105" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="https://go4.pw/USA/para.png",13/09 01:45 AM | US PARAMOUNT 15 ATALANTA @ CAGLIARI – – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1312105
+#EXTINF:-1 tvg-id="1028898" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="https://go4.pw/55.png",13/09 01:45 AM | EN ATALANTA VS CAGLIARI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1028898
+#EXTINF:-1 tvg-id="1100790" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="https://go4.pw/55.png",13/09 01:45 AM | IT ATALANTA VS CAGLIARI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100790
+#EXTINF:-1 tvg-id="1421363" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="https://go4.pw/55.png",13/09 01:45 AM | AR ATALANTA VS CAGLIARI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1421363
+#EXTINF:-1 tvg-id="234399" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/USA/ES+.png",13/09 02:00 AM | US ESPN PLUS 123 SOCCER: REAL MADRID @ RAYO – – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/234399
+#EXTINF:-1 tvg-id="234400" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/USA/ES+.png",13/09 02:00 AM | US ESPN PLUS 124 SOCCER: REAL MADRID @ RAYO (ESP) – – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/234400
+#EXTINF:-1 tvg-id="1100772" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",13/09 02:00 AM | EN REAL MADRID VS RAYO VALLECANO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100772
+#EXTINF:-1 tvg-id="1100775" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",13/09 02:00 AM | FR REAL MADRID VS RAYO VALLECANO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100775
+#EXTINF:-1 tvg-id="1033758" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",13/09 02:00 AM | AR REAL MADRID VS RAYO VALLECANO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1033758
+#EXTINF:-1 tvg-id="1100779" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",13/09 02:00 AM | ES REAL MADRID VS RAYO VALLECANO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100779
+#EXTINF:-1 tvg-id="1015820" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",13/09 02:00 AM | ALB REAL MADRID VS RAYO VALLECANO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1015820
+#EXTINF:-1 tvg-id="1015550" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",13/09 02:00 AM | EN SUNDERLAND VS ARSENAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1015550
+#EXTINF:-1 tvg-id="1015542" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",13/09 02:00 AM | FR SUNDERLAND VS ARSENAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1015542
+#EXTINF:-1 tvg-id="1015558" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",13/09 02:00 AM | AR SUNDERLAND VS ARSENAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1015558
+#EXTINF:-1 tvg-id="1024335" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",13/09 02:00 AM | ALB SUNDERLAND VS ARSENAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1024335
+#EXTINF:-1 tvg-id="1312054" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/EUROPE/uefaa.png",13/09 02:00 AM | UEFA 06 MANCHESTER UNITED @ SABAH – – / –
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1312054
+#EXTINF:-1 tvg-id="1454900" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/EUROPE/PSF.png",13/09 02:00 AM | PSF 03 NEWCASTLE UNITED @ STRASBOURG – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1454900
+#EXTINF:-1 tvg-id="1312094" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/USA/para.png",13/09 02:00 AM | US PARAMOUNT 04 WEST HAM UNITED @ LONDON CITY – – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1312094
+#EXTINF:-1 tvg-id="1306998" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/EUROPE/uefaa.png",13/09 02:00 AM | US UEFA 06 MANCHESTER UNITED @ SABAH – – / –
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1306998
 #EXTINF:-1 tvg-id="794966" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/MANCHESTER UNITED.png",13/09 02:00 AM | ┃ ┃ MANCHESTER UNITED F.C (MATCH TIME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9FA06DA68C6919B31E82C6048E6268B9
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=794966&extension=ts&play_token=3dFWXEuBTl
+#EXTVLCOPT:http-header=Authorization: Bearer DDF35E92C75A4CAEE669820F8F3867BA
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=794966&extension=ts&play_token=kKUOdqWhGx
 #EXTINF:-1 tvg-id="794960" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/NEWCASTLE UNITED.png",13/09 02:00 AM | ┃ ┃ NEWCASTLE UNITED F.C (MATCH TIME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9FA06DA68C6919B31E82C6048E6268B9
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=794960&extension=ts&play_token=szElBUO5hd
+#EXTVLCOPT:http-header=Authorization: Bearer DDF35E92C75A4CAEE669820F8F3867BA
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=794960&extension=ts&play_token=zlBsX9QW3P
 #EXTINF:-1 tvg-id="794948" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/WEST HAM UNITED.png",13/09 02:00 AM | ┃ ┃ WEST HAM UNITED F.C (MATCH TIME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9FA06DA68C6919B31E82C6048E6268B9
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=794948&extension=ts&play_token=hwruD2Dp0Y
-#EXTINF:-1 tvg-id="1363992" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png",13/09 02:00 AM | UEFA 06 Manchester United vs Sabah
+#EXTVLCOPT:http-header=Authorization: Bearer DDF35E92C75A4CAEE669820F8F3867BA
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=794948&extension=ts&play_token=j0ZTlCvgia
+#EXTINF:-1 tvg-id="794966" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/MANCHESTER UNITED.png",13/09 02:00 AM | ┃ ┃ MANCHESTER UNITED F.C (MATCH TIME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1363992&extension=ts&play_token=4nL22MIrwe
-#EXTINF:-1 tvg-id="1363059" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://103.176.90.95/images/1363059.png",13/09 02:00 AM | UEFA 06 Manchester United vs Sabah
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AE4407F8CE815634DCF492C38325A174
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=794966&extension=ts&play_token=k8GuR81ofo
+#EXTINF:-1 tvg-id="794960" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/NEWCASTLE UNITED.png",13/09 02:00 AM | ┃ ┃ NEWCASTLE UNITED F.C (MATCH TIME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1363059&extension=ts&play_token=5CJ3tjDvhU
-#EXTINF:-1 tvg-id="2114329" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",13/09 02:00 AM | PSF03 Newcastle United vs Strasbourg
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AE4407F8CE815634DCF492C38325A174
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=794960&extension=ts&play_token=oxP48FZ3GE
+#EXTINF:-1 tvg-id="794948" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/WEST HAM UNITED.png",13/09 02:00 AM | ┃ ┃ WEST HAM UNITED F.C (MATCH TIME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114329&extension=ts&play_token=J4X9gmDAap
-#EXTINF:-1 tvg-id="2114320" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",13/09 02:00 AM | PSF12 Newcastle United vs Bayer Leverkusen
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AE4407F8CE815634DCF492C38325A174
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=794948&extension=ts&play_token=yUzd4aq5fj
+#EXTINF:-1 tvg-id="794966" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/MANCHESTER UNITED.png",13/09 02:00 AM | ┃ ┃ MANCHESTER UNITED F.C (MATCH TIME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114320&extension=ts&play_token=P9058Jmsmf
-#EXTINF:-1 tvg-id="2114317" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",13/09 02:00 AM | PSF15 Manchester United vs Milan
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 77E642AF5601A30A2F5021C8E76A472B
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=794966&extension=ts&play_token=rtaquE4JU4
+#EXTINF:-1 tvg-id="794960" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/NEWCASTLE UNITED.png",13/09 02:00 AM | ┃ ┃ NEWCASTLE UNITED F.C (MATCH TIME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114317&extension=ts&play_token=gP3HKs4B9a
-#EXTINF:-1 tvg-id="1802341" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",13/09 02:00 AM | PSF03 Newcastle United vs Strasbourg
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 77E642AF5601A30A2F5021C8E76A472B
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=794960&extension=ts&play_token=wKFdZYuYYe
+#EXTINF:-1 tvg-id="794948" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/WEST HAM UNITED.png",13/09 02:00 AM | ┃ ┃ WEST HAM UNITED F.C (MATCH TIME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F7CB65361D94A8C2374E0132D9F0D9D4
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802341&extension=ts&play_token=iY4Snjcesc
-#EXTINF:-1 tvg-id="1802350" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",13/09 02:00 AM | PSF12 Newcastle United vs Bayer Leverkusen
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 77E642AF5601A30A2F5021C8E76A472B
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=794948&extension=ts&play_token=sM90HZbjNN
+#EXTINF:-1 tvg-id="979905" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/UK/led.png",13/09 02:00 AM | LEEDS UNITED FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F7CB65361D94A8C2374E0132D9F0D9D4
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802350&extension=ts&play_token=Cm8BBcviSR
-#EXTINF:-1 tvg-id="1802353" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",13/09 02:00 AM | PSF15 Manchester United vs Milan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F7CB65361D94A8C2374E0132D9F0D9D4
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802353&extension=ts&play_token=7CZbMlGw44
-#EXTINF:-1 tvg-id="830063" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",13/09 02:00 AM | UEFA 06 Manchester United vs Sabah
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F7CB65361D94A8C2374E0132D9F0D9D4
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830063&extension=ts&play_token=p53vDD5vTz
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 34BF142DDD13ADA18EB23576337D02B1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/979905
 #EXTINF:-1 tvg-id="1802341" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",13/09 02:00 AM | PSF03 Newcastle United vs Strasbourg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9FA06DA68C6919B31E82C6048E6268B9
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1802341&extension=ts&play_token=ySlgsKC3kr
+#EXTVLCOPT:http-header=Authorization: Bearer DDF35E92C75A4CAEE669820F8F3867BA
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1802341&extension=ts&play_token=5fD4fMxckY
 #EXTINF:-1 tvg-id="1802350" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",13/09 02:00 AM | PSF12 Newcastle United vs Bayer Leverkusen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9FA06DA68C6919B31E82C6048E6268B9
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1802350&extension=ts&play_token=GpuQRbUeEy
+#EXTVLCOPT:http-header=Authorization: Bearer DDF35E92C75A4CAEE669820F8F3867BA
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1802350&extension=ts&play_token=x5p5GOZdR8
 #EXTINF:-1 tvg-id="1802353" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",13/09 02:00 AM | PSF15 Manchester United vs Milan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9FA06DA68C6919B31E82C6048E6268B9
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1802353&extension=ts&play_token=DhtIVtYCLy
+#EXTVLCOPT:http-header=Authorization: Bearer DDF35E92C75A4CAEE669820F8F3867BA
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1802353&extension=ts&play_token=vzwqlcDru3
 #EXTINF:-1 tvg-id="830063" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",13/09 02:00 AM | UEFA 06 Manchester United vs Sabah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9FA06DA68C6919B31E82C6048E6268B9
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830063&extension=ts&play_token=rZ5kd1h7QK
-#EXTINF:-1 tvg-id="2040591" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",13/09 02:00 AM | Garden Hotspurs vs. Newtown United - St. Kitts and Nevis | 8K BE: DAZN 39
+#EXTVLCOPT:http-header=Authorization: Bearer DDF35E92C75A4CAEE669820F8F3867BA
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830063&extension=ts&play_token=7UrpmfgXLj
+#EXTINF:-1 tvg-id="1802341" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",13/09 02:00 AM | PSF03 Newcastle United vs Strasbourg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040591&extension=ts&play_token=GSPdlZZcFW
-#EXTINF:-1 tvg-id="2046856" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",13/09 02:00 AM | Garden Hotspurs vs. Newtown United - St. Kitts and Nevis | 8K NL: DAZN 49
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AE4407F8CE815634DCF492C38325A174
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1802341&extension=ts&play_token=8DJJjBsKev
+#EXTINF:-1 tvg-id="1802350" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",13/09 02:00 AM | PSF12 Newcastle United vs Bayer Leverkusen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046856&extension=ts&play_token=PH02Ips83p
-#EXTINF:-1 tvg-id="2040445" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",13/09 02:00 AM | Garden Hotspurs vs. Newtown United - St. Kitts and Nevis | 8K DE: DAZN 80
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AE4407F8CE815634DCF492C38325A174
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1802350&extension=ts&play_token=61iZYHPHek
+#EXTINF:-1 tvg-id="1802353" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",13/09 02:00 AM | PSF15 Manchester United vs Milan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040445&extension=ts&play_token=eHrSrloCU5
-#EXTINF:-1 tvg-id="2046729" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",13/09 02:00 AM | Garden Hotspurs vs. Newtown United - St. Kitts and Nevis | 8K CH: DAZN 76
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AE4407F8CE815634DCF492C38325A174
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1802353&extension=ts&play_token=jUr1zBUajZ
+#EXTINF:-1 tvg-id="830063" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",13/09 02:00 AM | UEFA 06 Manchester United vs Sabah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046729&extension=ts&play_token=oClgBz4NbW
-#EXTINF:-1 tvg-id="2046660" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",13/09 02:00 AM | Garden Hotspurs vs. Newtown United - St. Kitts and Nevis | 8K AT: DAZN 45
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AE4407F8CE815634DCF492C38325A174
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=830063&extension=ts&play_token=jxTJmP9zAy
+#EXTINF:-1 tvg-id="1802341" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",13/09 02:00 AM | PSF03 Newcastle United vs Strasbourg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046660&extension=ts&play_token=JWJnUJvFnN
-#EXTINF:-1 tvg-id="2041999" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",13/09 02:00 AM | Garden Hotspurs vs. Newtown United - St. Kitts and Nevis | 8K FR: DAZN 47
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 77E642AF5601A30A2F5021C8E76A472B
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1802341&extension=ts&play_token=dv1jh31agE
+#EXTINF:-1 tvg-id="1802350" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",13/09 02:00 AM | PSF12 Newcastle United vs Bayer Leverkusen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2041999&extension=ts&play_token=FbbpQ0F3DU
-#EXTINF:-1 tvg-id="2046514" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",13/09 02:00 AM | Garden Hotspurs vs. Newtown United - St. Kitts and Nevis | 8K PT: DAZN 91
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 77E642AF5601A30A2F5021C8E76A472B
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1802350&extension=ts&play_token=QBTnjNrZCl
+#EXTINF:-1 tvg-id="1802353" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",13/09 02:00 AM | PSF15 Manchester United vs Milan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046514&extension=ts&play_token=V02iIZDXkD
-#EXTINF:-1 tvg-id="2042086" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",13/09 02:00 AM | Garden Hotspurs vs. Newtown United - St. Kitts and Nevis | 8K IT: DAZN 60
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 77E642AF5601A30A2F5021C8E76A472B
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1802353&extension=ts&play_token=GzirbDNUeG
+#EXTINF:-1 tvg-id="830063" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",13/09 02:00 AM | UEFA 06 Manchester United vs Sabah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2042086&extension=ts&play_token=YZhdIxWYyn
-#EXTINF:-1 tvg-id="2048687" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",13/09 02:00 AM | Garden Hotspurs vs. Newtown United - St. Kitts and Nevis | 8K SE: DAZN 40
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2048687&extension=ts&play_token=vaPhYiAS6r
-#EXTINF:-1 tvg-id="933199" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",13/09 02:00 AM | ┃USA┃ PARAMOUNT+ SPORT 37 UEFA EUROPA LEAGUE MAN UNITED VS PAOK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F7CB65361D94A8C2374E0132D9F0D9D4
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=933199&extension=ts&play_token=gEijyDOeys
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 77E642AF5601A30A2F5021C8E76A472B
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=830063&extension=ts&play_token=pdsKjXaDID
 #EXTINF:-1 tvg-id="933199" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",13/09 02:00 AM | ┃USA┃ PARAMOUNT+ SPORT 37 UEFA EUROPA LEAGUE MAN UNITED VS PAOK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9FA06DA68C6919B31E82C6048E6268B9
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=933199&extension=ts&play_token=rOt2Gg6ojQ
-#EXTINF:-1 tvg-id="2134489" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png",13/09 02:00 AM | Manchester United Chelsea @ :VG 11
+#EXTVLCOPT:http-header=Authorization: Bearer DDF35E92C75A4CAEE669820F8F3867BA
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=933199&extension=ts&play_token=5H3X8BDa6z
+#EXTINF:-1 tvg-id="933199" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",13/09 02:00 AM | ┃USA┃ PARAMOUNT+ SPORT 37 UEFA EUROPA LEAGUE MAN UNITED VS PAOK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9C47FEEFB63FE667645FE9B33A70CB89
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2134489&extension=ts&play_token=lDq4EVX4TC
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AE4407F8CE815634DCF492C38325A174
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=933199&extension=ts&play_token=tZWNqmRDVP
+#EXTINF:-1 tvg-id="933199" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",13/09 02:00 AM | ┃USA┃ PARAMOUNT+ SPORT 37 UEFA EUROPA LEAGUE MAN UNITED VS PAOK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 77E642AF5601A30A2F5021C8E76A472B
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=933199&extension=ts&play_token=6xkcCLAY7F

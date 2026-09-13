@@ -104,6 +104,21 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1802353&
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 2BE20DF26CF71D8FFD7E2DEBAF7B28CA
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=830063&extension=ts&play_token=lLGORRBqWv
+#EXTINF:-1 tvg-id="1314030" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK LA LIGA TEAMS/GETAFE.png",13/09 11:30 PM | ┃ ┃ LA LIGA GETAFE FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 266D92B6CBC616CB34B3BBF3FB679C9E
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1314030&extension=ts&play_token=tn9WNT2kLW
+#EXTINF:-1 tvg-id="1314030" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK LA LIGA TEAMS/GETAFE.png",13/09 11:30 PM | ┃ ┃ LA LIGA GETAFE FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 77607EB1F04AD55CB0F9FC3D0B5B3DA2
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1314030&extension=ts&play_token=xlGyBOMHgk
+#EXTINF:-1 tvg-id="1314030" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK LA LIGA TEAMS/GETAFE.png",13/09 11:30 PM | ┃ ┃ LA LIGA GETAFE FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2BE20DF26CF71D8FFD7E2DEBAF7B28CA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1314030&extension=ts&play_token=0umk5JPQEe
 #EXTINF:-1 tvg-id="1312810" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",14/09 02:00 AM | ┃ ┃ REAL MADRID TV HEVC FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT

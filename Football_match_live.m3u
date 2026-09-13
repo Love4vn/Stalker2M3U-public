@@ -1,116 +1,181 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1409482" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",14/09 01:45 AM | Brest vs. PSG all | 8K FR: SOCCER 22
+#EXTINF:-1 tvg-id="1312810" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",14/09 02:00 AM | ┃ ┃ REAL MADRID TV HEVC FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:69:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A9B4A5B972CAE210F013A383087B4EC9
-http://meilleur-iptv8k.xyz:80/play/live.php?mac=00:1A:79:C1:69:B3&stream=1409482&extension=ts&play_token=Lhn6a0c7zR
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B128277F8931EE6D09A8785614CA28A6
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312810&extension=ts&play_token=ObWw29TPNt
+#EXTINF:-1 tvg-id="1312811" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",14/09 02:00 AM | ┃ ┃ REAL MADRID TV HEVC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B128277F8931EE6D09A8785614CA28A6
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312811&extension=ts&play_token=ZV6xV9X1Fu
+#EXTINF:-1 tvg-id="1312822" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",14/09 02:00 AM | ┃ ┃ REAL MADRID TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B128277F8931EE6D09A8785614CA28A6
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312822&extension=ts&play_token=LHkY95BtIm
+#EXTINF:-1 tvg-id="1312833" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",14/09 02:00 AM | ┃ ┃ REAL MADRID TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B128277F8931EE6D09A8785614CA28A6
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312833&extension=ts&play_token=ZcELqI6yln
+#EXTINF:-1 tvg-id="1314038" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK LA LIGA TEAMS/REAL MADRID.png",14/09 02:00 AM | ┃ ┃ LA LIGA REAL MADRID FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B128277F8931EE6D09A8785614CA28A6
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1314038&extension=ts&play_token=qm23xaLynK
+#EXTINF:-1 tvg-id="1312810" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",14/09 02:00 AM | ┃ ┃ REAL MADRID TV HEVC FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 63D779B61B1A79462FC23473D981F3D8
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312810&extension=ts&play_token=ap9GDjoJAL
+#EXTINF:-1 tvg-id="1312811" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",14/09 02:00 AM | ┃ ┃ REAL MADRID TV HEVC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 63D779B61B1A79462FC23473D981F3D8
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312811&extension=ts&play_token=d6DMfLPQgN
+#EXTINF:-1 tvg-id="1312822" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",14/09 02:00 AM | ┃ ┃ REAL MADRID TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 63D779B61B1A79462FC23473D981F3D8
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312822&extension=ts&play_token=K5WMCxp0N9
+#EXTINF:-1 tvg-id="1312833" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",14/09 02:00 AM | ┃ ┃ REAL MADRID TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 63D779B61B1A79462FC23473D981F3D8
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312833&extension=ts&play_token=F3ZWCBWVBs
+#EXTINF:-1 tvg-id="1314038" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK LA LIGA TEAMS/REAL MADRID.png",14/09 02:00 AM | ┃ ┃ LA LIGA REAL MADRID FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 63D779B61B1A79462FC23473D981F3D8
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1314038&extension=ts&play_token=obUrDFfWnd
 #EXTINF:-1 tvg-id="1312810" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",14/09 02:00 AM | ┃ ┃ REAL MADRID TV HEVC FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5A0BBAFC0D461F14E8C91399BAA94021
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1312810&extension=ts&play_token=be3YUmDewQ
+#EXTVLCOPT:http-header=Authorization: Bearer 4A4D33CCF6E35D4C0A0A06D57F4ACFFC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1312810&extension=ts&play_token=AKIbSkrRZ4
 #EXTINF:-1 tvg-id="1312811" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",14/09 02:00 AM | ┃ ┃ REAL MADRID TV HEVC HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5A0BBAFC0D461F14E8C91399BAA94021
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1312811&extension=ts&play_token=J7ymbH9O1K
+#EXTVLCOPT:http-header=Authorization: Bearer 4A4D33CCF6E35D4C0A0A06D57F4ACFFC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1312811&extension=ts&play_token=uH5U0pcWnX
 #EXTINF:-1 tvg-id="1312822" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",14/09 02:00 AM | ┃ ┃ REAL MADRID TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5A0BBAFC0D461F14E8C91399BAA94021
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1312822&extension=ts&play_token=DVLdyuTpOt
+#EXTVLCOPT:http-header=Authorization: Bearer 4A4D33CCF6E35D4C0A0A06D57F4ACFFC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1312822&extension=ts&play_token=UCuh3TaNLd
 #EXTINF:-1 tvg-id="1312833" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",14/09 02:00 AM | ┃ ┃ REAL MADRID TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5A0BBAFC0D461F14E8C91399BAA94021
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1312833&extension=ts&play_token=nrsTGx2eUj
+#EXTVLCOPT:http-header=Authorization: Bearer 4A4D33CCF6E35D4C0A0A06D57F4ACFFC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1312833&extension=ts&play_token=XpmaUrLBRo
 #EXTINF:-1 tvg-id="1314038" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK LA LIGA TEAMS/REAL MADRID.png",14/09 02:00 AM | ┃ ┃ LA LIGA REAL MADRID FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5A0BBAFC0D461F14E8C91399BAA94021
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1314038&extension=ts&play_token=wrzBrmKMXB
+#EXTVLCOPT:http-header=Authorization: Bearer 4A4D33CCF6E35D4C0A0A06D57F4ACFFC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1314038&extension=ts&play_token=24gyNHyE3c
 #EXTINF:-1 tvg-id="1312810" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",14/09 02:00 AM | ┃ ┃ REAL MADRID TV HEVC FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6D9B3432F2FBE90FF3F0BC39F3867F8D
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1312810&extension=ts&play_token=90D7pUkHpk
+#EXTVLCOPT:http-header=Authorization: Bearer 4709F218014461880157BCB966B49105
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1312810&extension=ts&play_token=FmehlGFRx3
 #EXTINF:-1 tvg-id="1312811" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",14/09 02:00 AM | ┃ ┃ REAL MADRID TV HEVC HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6D9B3432F2FBE90FF3F0BC39F3867F8D
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1312811&extension=ts&play_token=yN17M7x99D
+#EXTVLCOPT:http-header=Authorization: Bearer 4709F218014461880157BCB966B49105
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1312811&extension=ts&play_token=BZUzLlt2Mm
 #EXTINF:-1 tvg-id="1312822" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",14/09 02:00 AM | ┃ ┃ REAL MADRID TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6D9B3432F2FBE90FF3F0BC39F3867F8D
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1312822&extension=ts&play_token=gWcJVdT2md
+#EXTVLCOPT:http-header=Authorization: Bearer 4709F218014461880157BCB966B49105
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1312822&extension=ts&play_token=BYvCDV1ZLP
 #EXTINF:-1 tvg-id="1312833" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png",14/09 02:00 AM | ┃ ┃ REAL MADRID TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6D9B3432F2FBE90FF3F0BC39F3867F8D
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1312833&extension=ts&play_token=LwCG1Rb0aH
+#EXTVLCOPT:http-header=Authorization: Bearer 4709F218014461880157BCB966B49105
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1312833&extension=ts&play_token=8Mzd7GyGGV
 #EXTINF:-1 tvg-id="1314038" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK LA LIGA TEAMS/REAL MADRID.png",14/09 02:00 AM | ┃ ┃ LA LIGA REAL MADRID FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6D9B3432F2FBE90FF3F0BC39F3867F8D
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1314038&extension=ts&play_token=MKbVbH18vH
-#EXTINF:-1 tvg-id="990558" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png",14/09 02:00 AM | D+ Events 95: Football Barcelona _ Real Madrid LigaF
+#EXTVLCOPT:http-header=Authorization: Bearer 4709F218014461880157BCB966B49105
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1314038&extension=ts&play_token=gj89HLmSde
+#EXTINF:-1 tvg-id="1367493" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif",14/09 02:00 AM | USA Soccer08: Europe : Olympiakos Piraeus vs Real Madrid @
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:69:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A9B4A5B972CAE210F013A383087B4EC9
-http://meilleur-iptv8k.xyz:80/play/live.php?mac=00:1A:79:C1:69:B3&stream=990558&extension=ts&play_token=GWPgq3nUDi
-#EXTINF:-1 tvg-id="1323968" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",14/09 02:00 AM | US (ESPN+ 100) Soccer: R. Sociedad vs. Atlético Madrid ( :00)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B128277F8931EE6D09A8785614CA28A6
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1367493&extension=ts&play_token=ki9BKB55Wr
+#EXTINF:-1 tvg-id="1367493" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif",14/09 02:00 AM | USA Soccer08: Europe : Olympiakos Piraeus vs Real Madrid @
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:69:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A9B4A5B972CAE210F013A383087B4EC9
-http://meilleur-iptv8k.xyz:80/play/live.php?mac=00:1A:79:C1:69:B3&stream=1323968&extension=ts&play_token=CUiRZOkbpP
-#EXTINF:-1 tvg-id="1323966" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",14/09 02:00 AM | US (ESPN+ 102) Soccer: R. Sociedad vs. Atlético Madrid (ESP) ( :00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:69:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A9B4A5B972CAE210F013A383087B4EC9
-http://meilleur-iptv8k.xyz:80/play/live.php?mac=00:1A:79:C1:69:B3&stream=1323966&extension=ts&play_token=b9DRoDZhDp
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 63D779B61B1A79462FC23473D981F3D8
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1367493&extension=ts&play_token=h890Ws2wVH
 #EXTINF:-1 tvg-id="1367493" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif",14/09 02:00 AM | USA Soccer08: Europe : Olympiakos Piraeus vs Real Madrid @
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5A0BBAFC0D461F14E8C91399BAA94021
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1367493&extension=ts&play_token=gICAwSry8N
+#EXTVLCOPT:http-header=Authorization: Bearer 4A4D33CCF6E35D4C0A0A06D57F4ACFFC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1367493&extension=ts&play_token=QucYdFcxpZ
 #EXTINF:-1 tvg-id="1367493" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif",14/09 02:00 AM | USA Soccer08: Europe : Olympiakos Piraeus vs Real Madrid @
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6D9B3432F2FBE90FF3F0BC39F3867F8D
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1367493&extension=ts&play_token=xglOyQFzxS
+#EXTVLCOPT:http-header=Authorization: Bearer 4709F218014461880157BCB966B49105
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1367493&extension=ts&play_token=OlAAAHmbIg
+#EXTINF:-1 tvg-id="587511" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",14/09 02:00 AM | ┃ES┃ REAL MADRID TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B128277F8931EE6D09A8785614CA28A6
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=587511&extension=ts&play_token=bsyORu49g3
+#EXTINF:-1 tvg-id="897453" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",14/09 02:00 AM | ┃ES┃ REAL MADRID TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B128277F8931EE6D09A8785614CA28A6
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=897453&extension=ts&play_token=JUqtDkaJ24
+#EXTINF:-1 tvg-id="897454" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",14/09 02:00 AM | ┃ES┃ REAL MADRID TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B128277F8931EE6D09A8785614CA28A6
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=897454&extension=ts&play_token=gRCxdoorQv
+#EXTINF:-1 tvg-id="587511" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",14/09 02:00 AM | ┃ES┃ REAL MADRID TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 63D779B61B1A79462FC23473D981F3D8
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=587511&extension=ts&play_token=10olGEf1iL
+#EXTINF:-1 tvg-id="897453" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",14/09 02:00 AM | ┃ES┃ REAL MADRID TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 63D779B61B1A79462FC23473D981F3D8
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=897453&extension=ts&play_token=mf8M47X8ET
+#EXTINF:-1 tvg-id="897454" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",14/09 02:00 AM | ┃ES┃ REAL MADRID TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 63D779B61B1A79462FC23473D981F3D8
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=897454&extension=ts&play_token=TypBLLMjGh
 #EXTINF:-1 tvg-id="587511" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",14/09 02:00 AM | ┃ES┃ REAL MADRID TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5A0BBAFC0D461F14E8C91399BAA94021
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=587511&extension=ts&play_token=P3WCF5S5wh
+#EXTVLCOPT:http-header=Authorization: Bearer 4A4D33CCF6E35D4C0A0A06D57F4ACFFC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=587511&extension=ts&play_token=qjIJDnnBpR
 #EXTINF:-1 tvg-id="897453" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",14/09 02:00 AM | ┃ES┃ REAL MADRID TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5A0BBAFC0D461F14E8C91399BAA94021
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=897453&extension=ts&play_token=eHMN31bphU
+#EXTVLCOPT:http-header=Authorization: Bearer 4A4D33CCF6E35D4C0A0A06D57F4ACFFC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=897453&extension=ts&play_token=QBQxdHyEsg
 #EXTINF:-1 tvg-id="897454" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",14/09 02:00 AM | ┃ES┃ REAL MADRID TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5A0BBAFC0D461F14E8C91399BAA94021
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=897454&extension=ts&play_token=UhWMDG34ao
+#EXTVLCOPT:http-header=Authorization: Bearer 4A4D33CCF6E35D4C0A0A06D57F4ACFFC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=897454&extension=ts&play_token=Q9oIuulVRb
 #EXTINF:-1 tvg-id="587511" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",14/09 02:00 AM | ┃ES┃ REAL MADRID TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6D9B3432F2FBE90FF3F0BC39F3867F8D
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=587511&extension=ts&play_token=QEjludz0WT
+#EXTVLCOPT:http-header=Authorization: Bearer 4709F218014461880157BCB966B49105
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=587511&extension=ts&play_token=RwBMgKv95X
 #EXTINF:-1 tvg-id="897453" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",14/09 02:00 AM | ┃ES┃ REAL MADRID TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6D9B3432F2FBE90FF3F0BC39F3867F8D
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=897453&extension=ts&play_token=3Xe8y2nubI
+#EXTVLCOPT:http-header=Authorization: Bearer 4709F218014461880157BCB966B49105
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=897453&extension=ts&play_token=R7h4IhOaTb
 #EXTINF:-1 tvg-id="897454" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/REALMADRID.png",14/09 02:00 AM | ┃ES┃ REAL MADRID TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:4A:54:2C; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6D9B3432F2FBE90FF3F0BC39F3867F8D
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=897454&extension=ts&play_token=f2piKRTMR5
-#EXTINF:-1 tvg-id="1207490" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/REALMADRID.png",14/09 02:00 AM | ES REAL MADRID TV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:69:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A9B4A5B972CAE210F013A383087B4EC9
-http://meilleur-iptv8k.xyz:80/play/live.php?mac=00:1A:79:C1:69:B3&stream=1207490&extension=ts&play_token=HbzRww9qef
+#EXTVLCOPT:http-header=Authorization: Bearer 4709F218014461880157BCB966B49105
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=897454&extension=ts&play_token=8o1gxSYgdQ
